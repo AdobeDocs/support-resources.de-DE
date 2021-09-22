@@ -2,10 +2,10 @@
 title: Business Support
 description: Die Business Support-Services von Adobe Experience Cloud bieten vollständigen Zugriff auf die technischen Support-Teams von Adobe und auf einen Account Support-Lead für die Kontoverwaltung.
 exl-id: 2f31e22f-8523-4322-875b-69f0f44a513a
-source-git-commit: 50e19758d2d1bee37e89b3c636d4f052fcdb03a3
+source-git-commit: 101d0a5b6d49211ccffe55ce8c023d6fb281602e
 workflow-type: tm+mt
-source-wordcount: '847'
-ht-degree: 4%
+source-wordcount: '872'
+ht-degree: 3%
 
 ---
 
@@ -246,9 +246,9 @@ Adobe Customer Support offers access to online resources for documentation, enga
 | [Support-Website für Unternehmen](https://helpx.adobe.com/support/programs/enterprise-support-programs/premier-support-business.html) | Adobe Business Support-Website. |
 | [Geschäftsbedingungen](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html) | Geschäftsbedingungen mit detaillierten Informationen zu Support-Services. |
 
-## Regionale Betriebszeiten und Sprachunterstützung
+## Regionaler Umfang der Adobe, lokale Betriebszeiten und Sprachunterstützung
 
-Die Geschäftszeiten der Adobe richten sich nach der Rechnungsregion des Kunden.<sup>1</sup>
+Der regionale Umfang der Adobe Support wird durch die Abstimmung der Rechnungsadresse des Kunden (über den Kundenauftrag oder ein anderes Bestelldokument für Adoben-Support) an eine der folgenden Regionen festgelegt:
 
 <table>
 <thead>
@@ -256,7 +256,7 @@ Die Geschäftszeiten der Adobe richten sich nach der Rechnungsregion des Kunden.
     <th>Nord- und Südamerika</th>
     <th>Europa, Naher Osten und Afrika</th>
     <th>Asien-Pazifik</th>
-    <th>Japan<sup>2</sup></th>
+    <th>Japan<sup>1</sup></th>
   </tr>
 </thead>
 <tbody>
@@ -269,8 +269,8 @@ Die Geschäftszeiten der Adobe richten sich nach der Rechnungsregion des Kunden.
   <tr>
     <td colspan="4">
       <p><sup>1</sup><i>Sprachunterstützung ist nur auf Englisch und Japanisch verfügbar.</i></p>
-      <p><sup>2</sup><i>Adobe Commerce schließt die Sprachunterstützung für Japanisch aus.</i></p>
-      <p><i>(Japan) Die Fälle P2, P3 und P4 sind auf Geschäftszeiten beschränkt.</i></p>
+      <p><i>Adobe Commerce schließt die Sprachunterstützung für Japanisch aus.</i></p>
+      <p><i>P2-, P3- und P4-Fälle sind nur in Japan auf Geschäftszeiten beschränkt.</i></p>
     </td>
   </tr>
 </tbody>
