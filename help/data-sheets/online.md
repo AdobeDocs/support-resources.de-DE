@@ -1,11 +1,11 @@
 ---
-title: Online-Support
-description: Adobe Experience Cloud Online Support Services bieten eingeschränkten Zugriff auf Telefonsupport.
+title: Online Support
+description: Adobe Experience Cloud Online Support Services bieten eingeschränkten Zugriff auf telefonischen Support.
 exl-id: ea7eb128-9d7a-486f-9ce2-7d1330749c9a
 source-git-commit: 101d0a5b6d49211ccffe55ce8c023d6fb281602e
 workflow-type: tm+mt
 source-wordcount: '758'
-ht-degree: 5%
+ht-degree: 92%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 5%
 
 ![icon](assets/OnlineBanner.png)
 
-Adobe Experience Cloud Online Support Services bieten eingeschränkten Zugriff auf Telefonsupport.
+Adobe Experience Cloud Online Support Services bieten eingeschränkten Zugriff auf telefonischen Support.
 
 <table>
 <thead>
@@ -22,8 +22,8 @@ Adobe Experience Cloud Online Support Services bieten eingeschränkten Zugriff a
     <th></th>
     <th>Online-Support</th>
     <th>Business Support</th>
-    <th>Enterprise-Support</th>
-    <th>Elite-Support</th>
+    <th>Enterprise Support</th>
+    <th>Elite Support</th>
   </tr>
 </thead>
 <tbody>
@@ -31,25 +31,25 @@ Adobe Experience Cloud Online Support Services bieten eingeschränkten Zugriff a
     <td></td>
     <td></td>
     <td></td>
-    <td colspan="3">Unterstützungsebenen für Adoben ($)</td>
+    <td colspan="3">Adobe Support-Level (€)</td>
   </tr>
   <tr>
     <td rowspan="3">Zugewiesene Experten<br></td>
     <td>Account Support Lead</td>
     <td></td>
-    <td>ms</td>
+    <td>✔</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Named Support Engineer</td>
+    <td>Spezifischer Support-Mitarbeiter</td>
     <td></td>
     <td></td>
     <td>ms</td>
     <td>ms</td>
   </tr>
   <tr>
-    <td>technischer Kundenbetreuer</td>
+    <td>Technical Account Manager</td>
     <td></td>
     <td></td>
     <td></td>
@@ -64,7 +64,7 @@ Adobe Experience Cloud Online Support Services bieten eingeschränkten Zugriff a
     <td>24x5</td>
   </tr>
   <tr>
-    <td>24x7x365 P1-Problemunterstützung</td>
+    <td>24x7x365 Support für Probleme der Kategorie P1</td>
     <td>ms</td>
     <td>ms</td>
     <td>ms</td>
@@ -78,78 +78,78 @@ Adobe Experience Cloud Online Support Services bieten eingeschränkten Zugriff a
     <td>15</td>
   </tr>
   <tr>
-    <td>Live-Telefonunterstützung</td>
+    <td>Live-Telefon-Support</td>
     <td></td>
     <td>ms</td>
     <td>ms</td>
     <td>ms</td>
   </tr>
   <tr>
-    <td>Eskalationsverwaltung</td>
+    <td>Eskalations-Management</td>
     <td></td>
     <td>ms</td>
     <td>ms</td>
     <td>ms</td>
   </tr>
   <tr>
-    <td>Service Reviews pro Jahr</td>
+    <td>Jährliche Service-Prüfung</td>
     <td></td>
     <td></td>
     <td>2</td>
     <td>4</td>
   </tr>
   <tr>
-    <td>Expertensitzungen pro Jahr</td>
+    <td>Jährliche Experten-Sessions</td>
     <td></td>
     <td></td>
     <td>2</td>
     <td>4</td>
   </tr>
   <tr>
-    <td>Fallüberprüfungen</td>
+    <td>Fallprüfungen</td>
     <td></td>
     <td></td>
     <td>ms</td>
     <td>ms</td>
   </tr>
   <tr>
-    <td>Ereignisverwaltung</td>
+    <td>Ereignis-Management</td>
     <td></td>
     <td></td>
     <td></td>
     <td>ms</td>
   </tr>
   <tr>
-    <td>Umgebungsüberprüfung, Wartung und Überwachung</td>
+    <td>Umgebungsbewertung, -wartung und -überwachung</td>
     <td></td>
     <td></td>
     <td></td>
     <td>ms</td>
   </tr>
   <tr>
-    <td>Versionshinweise, Migration, Aktualisierung und Überprüfung der Produkt-Roadmap</td>
+    <td>Prüfung von Freigabe, Migration, Aktualisierung und Produkt-Roadmap</td>
     <td></td>
     <td></td>
     <td></td>
     <td>ms</td>
   </tr>
   <tr>
-    <td>Cloud-Support-Aktivitäten - Experience Manager as Cloud</td>
+    <td>Cloud-Support-Aktivitäten – Experience Manager as a Cloud Service</td>
     <td></td>
     <td></td>
     <td>ms</td>
     <td>ms</td>
   </tr>
   <tr>
-    <td rowspan="2">Felddienste</td>
-    <td>Experience Platform Launch - Erstes Jahr der neuen Lösung</td>
+    <td rowspan="2">Außendienst</td>
+    <td>Launch Advisory-Services – Erstes Jahr mit der neuen Lösung</td>
     <td></td>
     <td></td>
     <td>ms</td>
     <td>ms</td>
   </tr>
   <tr>
-    <td>Felddienstaktivitäten</td>
+    <td>Außendienstaktivitäten</td>
     <td></td>
     <td></td>
     <td>2</td>
@@ -158,20 +158,20 @@ Adobe Experience Cloud Online Support Services bieten eingeschränkten Zugriff a
 </tbody>
 </table>
 
-## Dienstebenenziele: Anfangsantwort {#service-level-targets}
+## Service-Level-Ziele: Spontane Reaktion {#service-level-targets}
 
 | Priorität | Online-Support | Business Support | Enterprise-Support | Elite-Support |
 |--- |--- |--- |--- |--- |
-| <b>PRIORITÄT 1</b><br>Die Produktionsfunktionen des Kunden sind ausgefallen oder weisen einen erheblichen Datenverlust oder eine Beeinträchtigung des Service auf und es ist eine sofortige Aufmerksamkeit erforderlich, um Funktionalität und Benutzerfreundlichkeit wiederherzustellen. | 24x7/<br>1 Stunde | 24x7/<br>1 Stunde | 24x7/<br>30 Minuten | 24x7/<br>15 Minuten |
-| <b>PRIORITÄT 2</b><br>Die Geschäftsfunktionen des Kunden weisen eine erhebliche Verschlechterung der Dienstleistungen oder einen potenziellen Datenverlust auf oder es gibt Auswirkungen auf eine wichtige Funktion. | Geschäftszeiten/<br>4 Stunden | Geschäftszeiten/<br>2 Stunden | 24x5/<br>1 Stunde | 24x5/<br>30 Minuten |
-| <b>PRIORITÄT 3</b><br>Die Geschäftsfunktionen des Kunden sind geringfügig beeinträchtigt, es gibt jedoch eine Lösung/Problemumgehung, die es ermöglicht, Geschäftsfunktionen normal weiterzuführen. | Geschäftszeiten/<br>6 Stunden | Geschäftszeiten/<br> 4 Stunden | Geschäftszeiten/<br>2 Stunden | 24x5/<br>1 Stunde |
-| <b>PRIORITÄT 4</b><br>Allgemeine Frage zur aktuellen Produktfunktionalität oder zu einer Erweiterungsanforderung. | Geschäftstage/<br>3 Tage | Geschäftstag/<br>1 Tag | Geschäftstag/<br> 1 Tag | Geschäftstag/<br> 1 Tag |
+| <b>PRIORITÄT 1</b><br>Die Produktionsfunktionen im Unternehmen des Kunden sind ausgefallen oder weisen einen erheblichen Datenverlust oder eine Beeinträchtigung des Service auf und ein sofortiges Eingreifen ist nötig, um Funktionalität und Nutzbarkeit wiederherzustellen. | 24x7/<br>1 Stunde | 24x7/<br>1 Stunde | 24x7/<br>30 Minuten | 24x7/<br>15 Minuten |
+| <b>PRIORITÄT 2</b><br>Die Unternehmensfunktionen des Kunden weisen eine erhebliche Beeinträchtigung des Service oder möglichen Datenverlust auf oder eine zentrale Funktion ist betroffen. | Geschäftszeiten/<br>4 Stunden | Geschäftszeiten/<br>2 Stunden | 24x5/<br>1 Stunde | 24x5/<br>30 Minuten |
+| <b>PRIORITÄT 3</b><br>Die Unternehmensfunktionen des Kunden weisen eine geringfügige Beeinträchtigung des Service auf, es gibt jedoch eine Lösung/Problemumgehung, mit der die Unternehmensfunktionen weiterhin normal genutzt werden können. | Geschäftszeiten/<br>6 Stunden | Geschäftszeiten/<br>4 Stunden | Geschäftszeiten/<br>2 Stunden | 24x5/<br>1 Stunde |
+| <b>PRIORITÄT 4</b><br>Allgemeine Frage zur aktuellen Produktfunktionalität oder Anfrage zu einer Erweiterung. | Geschäftstage/<br>3 Tage | Geschäftstag/<br>1 Tag | Geschäftstag/<br>1 Tag | Geschäftstag/<br>1 Tag |
 
 {style=&quot;table-layout:auto&quot;}
 
 ## Online-Support {#online-support-1}
 
-Der Adobe-Kundensupport bietet Zugriff auf Online-Ressourcen für Dokumentation, Interaktion mit anderen Experten und Kunden zu Best Practices sowie Webinarreihen (Office Hours) zur Fehlerbehebung mit Tipps und Tricks. Für Fragen und Fallübermittlungen stehen ebenfalls verschiedene Kanäle zur Verfügung.
+Der Adobe-Support bietet Zugriff auf Online-Ressourcen für Dokumentation, Interaktion mit anderen Experten und Kunden bezüglich Best Practices sowie Webinar-Reihen (Office Hours) mit Tipps und Tricks zur Fehlerbehebung. Für Fragen und Fallübermittlungen stehen ebenfalls verschiedene Kanäle zur Verfügung.
 
 <table style="table-layout:fixed">
 <tr>
@@ -180,15 +180,15 @@ Der Adobe-Kundensupport bietet Zugriff auf Online-Ressourcen für Dokumentation,
     <div>
     <p>Community-Foren</p>
     <p><b>Online-Foren</b></p>
-    <p>Kontinuierlicher Online-Zugriff auf eine wachsende Datenbank technischer Lösungen, Produktdokumentation, FAQs und mehr. Stellen Sie eine Verbindung mit Fachleuten und anderen Kunden in der Adobe Community her, um Best Practices und Erfahrungen auszutauschen.</p>
+    <p>Kontinuierlicher Online-Zugriff auf eine wachsende Datenbank technischer Lösungen, Produktdokumentationen, FAQs und mehr. Tauschen Sie sich mit Fachleuten und anderen Kunden in der Adobe-Community über Best Practices und Erfahrungen aus.</p>
     </div>
   </td>
   <td>
-    <img alt="Geschäftszeiten" src="assets/Webinar.png"/>
+    <img alt="Office Hours" src="assets/Webinar.png"/>
     <div>
     <p>Geschäftszeiten</p>
     <p><b>Webinare</b></p>
-    <p>Die vom Adobe-Support-Team geleiteten Office Hours umfassen Sitzungen, in denen die Teilnehmer informiert und bei der Problembehebung unterstützt werden, sowie Tipps und Tricks für den Erfolg von Adobe-Lösungen.</p>
+    <p>Die vom Adobe Support-Team geleitete Office Hours-Reihe umfasst Sessions mit informativem Inhalt sowie Angebote zur Problembehebung sowie Tipps und Tricks für den Erfolg bei der Nutzung von Adobe-Lösungen.</p>
     </div>
   </td>
 </tr>
@@ -197,35 +197,35 @@ Der Adobe-Kundensupport bietet Zugriff auf Online-Ressourcen für Dokumentation,
     <img alt="Experience League" src="assets/JourneysExperienceLeague.png"/>
     <div>
     <p>Experience League</p>
-    <p><b>Selbstgeführte Journey</b></p>
-    <p>Experience Maker werden mit Experience League hergestellt. Kunden können ihre Customer Experience Management-Fähigkeiten durch personalisiertes Lernen aktivieren, um Fertigkeiten zu entwickeln, mit einer globalen Gemeinschaft von Gleichaltrigen zusammenzuarbeiten und eine bessere Karriereauswertung zu erzielen.</p>
+    <p><b>Journeys für die Selbsthilfe</b></p>
+    <p>Experience Maker entstehen in der Experience League. Kunden können durch personalisiertes Lernen ihre Customer-Experience-Management-Fähigkeiten entwickeln, mit einer globalen Community anderer Anwender interagieren und so ihre eigene Karriere fördern.</p>
     </div>
   </td>
   <td>
     <img alt="Selbsthilfe" src="assets/SelfHelpPortal.png"/>
     <div>
     <p>Selbsthilfe-Portale</p>
-    <p><b>24/7 Support-Portal</b></p>
-    <p>On-Demand-Zugriff auf das Online-Selbsthilfe-Support-Portal, um Support-Anfragen einzureichen, den Fallstatus zu überprüfen und andere Ressourcen zu durchsuchen, z. B. unsere Wissensdatenbank, Neuigkeiten und Warnhinweise, spezielle Tipps und mehr.</p>
+    <p><b>24/7-Support-Portal</b></p>
+    <p>On-Demand-Zugriff auf das Online-Selbsthilfe-Support-Portal, um Support-Anfragen einzureichen, den Fallstatus zu überprüfen und andere Ressourcen zu durchsuchen, z. B. unsere Wissensdatenbank, Neuigkeiten und Hinweise, spezielle Tipps und mehr.</p>
     </div>
   </td>
 </tr>
 <tr>
   <td>
-    <img alt="Live-Chat-Unterstützung" src="assets/LiveChat.png"/>
+    <img alt="Live-Chat-Support" src="assets/LiveChat.png"/>
     <div>
-    <p>Live-Chat-Unterstützung *</p>
-    <p><b>Chat-Unterstützung</b></p>
-    <p>Starten Sie eine Chat-Sitzung, um Antworten und Hilfe bei der Fallübermittlung zu erhalten.</p>
-    <p>* <i>Nicht alle Produkte haben Live-Chat-Unterstützung.</i></p>
+    <p>Live-Chat-Support *</p>
+    <p><b>Chat-Support</b></p>
+    <p>Starten Sie eine Chat-Session, um Antworten und Hilfe bei der Fallübermittlung zu erhalten.</p>
+    <p>* <i>Nicht alle Produkte verfügen über Live-Chat-Support.</i></p>
     </div>
   </td>
   <td>
-    <img alt="Telefonunterstützung" src="assets/PhoneSupport.png"/>
+    <img alt="Telefonischer Support" src="assets/PhoneSupport.png"/>
     <div>
     <p>24x7x365 P1</p>
-    <p><b>Telefonunterstützung</b></p>
-    <p>Autorisierte Benutzer oder Named Support-Kontakte können Probleme über alle verfügbaren Kanäle (einschließlich Telefon für P1) einreichen und im Namen Ihres Unternehmens mit unserem technischen Support-Team interagieren.</p>
+    <p><b>Telefonischer Support</b></p>
+    <p>Autorisierte Anwender oder spezifische Support-Kontakte können Probleme über alle verfügbaren Kanäle (einschließlich Telefon für P1) einreichen und im Namen Ihres Unternehmens mit unserem technischen Support-Team interagieren.</p>
     </div>
   </td>
 </tr>
@@ -235,10 +235,10 @@ Der Adobe-Kundensupport bietet Zugriff auf Online-Ressourcen für Dokumentation,
 
 | Ressource | Beschreibung |
 |--- |--- |
-| [Experience League](https://experienceleague.adobe.com/?lang=de) | Experience League ist die Art und Weise, wie Adobe Unternehmen dabei hilft, den von ihren Adoben erwarteten Nutzen zu erzielen. Es ist der einheitliche Ort, an dem Kunden auf einem personalisierten Weg zum Erfolg lernen, eine Verbindung herstellen und sich weiterentwickeln können. Dazu gehören Selbsthilfe-Tutorials, Produktdokumentation, von Schulungsleitern geleitete Schulungen, Community und technischer Support. |
-| [Training](https://training.adobe.com/training/) | Adobe Digital Learning Services Kurse sind von Experience League aus zugänglich. In den Lernkursen werden sowohl On-Demand- als auch Lehrstunden unter Führung von Lehrern angeboten. Hier können Sie Kompetenzen erwerben, die sich als Marktwert erwiesen haben, und sie so positionieren, dass sie den Erfolg in Ihrem Unternehmen fördern. |
-| [Produktionsprobleme und Systemausfälle](https://status.adobe.com/) | Status.adobe.com übermittelt die Statusinformationen aller Adobe-Produkte und -Dienste, die in Umgebungen mit mehreren Mandanten bereitgestellt werden. Kunden können ihre Abonnementvoreinstellungen auswählen, um E-Mail-Benachrichtigungen zu erhalten, wenn Adobe ein Produktereignis erstellt, aktualisiert oder löst. Dazu können geplante Wartungs- oder Serviceprobleme mit unterschiedlichem Schweregrad gehören. |
-| [Geschäftsbedingungen](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html) | Geschäftsbedingungen mit detaillierten Informationen zu Support-Services. |
+| [Experience League](https://experienceleague.adobe.com/?lang=de) | Mit der Experience League unterstützt Adobe Unternehmen dabei, mit ihren Investitionen in Adobe optimale Ergebnisse zu erzielen. An diesem zentralen Ort können Kunden auf einem personalisierten Weg zum Erfolg lernen, Kontakte knüpfen und sich weiterentwickeln. Dafür nutzen sie Selbsthilfe-Tutorials, Produktdokumentation, von Kursleitern geführte Schulungen, Community und technischen Support. |
+| [Training](https://training.adobe.com/training/) | Adobe Digital Learning Services-Kurse sind über die Experience League verfügbar. Das Angebot umfasst sowohl On-Demand- als auch von Kursleiter geführte Schulungen. Hier können Sie Kompetenzen erwerben, die auf dem Markt anerkannt sind und den Erfolg im Unternehmen vorantreiben. |
+| [Produktionsprobleme und Systemausfälle](https://status.adobe.com/) | Status.adobe.com übermittelt die Statusinformationen sämtlicher Adobe-Produkte und -Services, die in Umgebungen mit mehreren Mandanten implementiert sind. Kunden können Voreinstellungen für ihr Abonnement auswählen und E-Mail-Benachrichtigungen erhalten, wenn Adobe ein Produktereignis erstellt, aktualisiert oder löst. Dies kann geplante Wartungen oder Service-Probleme unterschiedlichen Schweregrads umfassen. |
+| [Geschäftsbedingungen](https://helpx.adobe.com/de/support/programs/support-policies-terms-conditions.html) | Allgemeine Geschäftsbedingungen mit detaillierten Informationen zu den angebotenen Support-Services. |
 
 ## Regionaler Umfang der Adobe, lokale Betriebszeiten und Sprachunterstützung
 
@@ -255,15 +255,15 @@ Der regionale Umfang der Adobe Support wird durch die Abstimmung der Rechnungsad
 </thead>
 <tbody>
   <tr>
-    <td>6:00 - 5:30 Uhr</td>
-    <td>9:00 - 17:00</td>
-    <td>9:00 - 17:00</td>
-    <td>9:00 - 17:30 Uhr</td>
+    <td>6:00–17:30 Uhr</td>
+    <td>9:00–17:00 Uhr</td>
+    <td>9:00–17:00 Uhr</td>
+    <td>9:00–17:30 Uhr</td>
   </tr>
   <tr>
     <td colspan="4">
       <p><sup>1</sup><i>Sprachunterstützung ist nur auf Englisch und Japanisch verfügbar.</i></p>
-      <p><i>Adobe Commerce schließt die Sprachunterstützung für Japanisch aus.</i></p>
+      <p><i>Adobe Commerce bietet keine Sprachunterstützung für Japanisch.</i></p>
       <p><i>P2-, P3- und P4-Fälle sind nur in Japan auf Geschäftszeiten beschränkt.</i></p>
     </td>
   </tr>

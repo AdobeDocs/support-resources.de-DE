@@ -1,11 +1,11 @@
 ---
-title: Elite-Support
-description: Adobe Experience Cloud Elite Support Services bieten erstklassige Service Level Targets (SLTs), proaktive Unterstützung und Partnerschaft mit einem technischen Kundenbetreuer und einem benannten Support-Mitarbeiter.
+title: Elite Support
+description: Adobe Experience Cloud Elite Support Services bieten erstklassige Service Level Targets (SLTs), proaktive Unterstützung und Partnerschaft mit einem Technical Account Manager und einem spezifischen Support-Mitarbeiter.
 exl-id: 46a0f6bb-dccb-4554-a811-de1384db2747
 source-git-commit: eab88ea8d66a5ae104369655137c389822671e0f
 workflow-type: tm+mt
 source-wordcount: '1362'
-ht-degree: 3%
+ht-degree: 96%
 
 ---
 
@@ -13,14 +13,14 @@ ht-degree: 3%
 
 ![icon](assets/Elitebanner.png)
 
-Adobe Experience Cloud Elite Support Services bieten erstklassige Service Level Targets (SLTs), proaktive Unterstützung und Partnerschaft mit einem technischen Kundenbetreuer und einem benannten Support-Mitarbeiter.
+Adobe Experience Cloud Elite Support Services bieten erstklassige Service Level Targets (SLTs), proaktive Unterstützung und Partnerschaft mit einem Technical Account Manager und einem spezifischen Support-Mitarbeiter.
 
 <table>
 <thead>
   <tr>
     <th></th>
     <th></th>
-    <th>Online-Support</th>
+    <th>Online Support</th>
     <th>Elite-Support</th>
   </tr>
 </thead>
@@ -29,7 +29,7 @@ Adobe Experience Cloud Elite Support Services bieten erstklassige Service Level 
     <td></td>
     <td></td>
     <td></td>
-    <td>Gebührenpflichtige Unterstützung ($)</td>
+    <td>Kostenpflichtiger Support (€)</td>
   </tr>
   <tr>
     <td rowspan="3">Zugewiesene Experten<br></td>
@@ -38,12 +38,12 @@ Adobe Experience Cloud Elite Support Services bieten erstklassige Service Level 
     <td></td>
   </tr>
   <tr>
-    <td>Named Support Engineer</td>
+    <td>Spezifischer Support-Mitarbeiter</td>
     <td></td>
-    <td>ms</td>
+    <td>✔</td>
   </tr>
   <tr>
-    <td>technischer Kundenbetreuer</td>
+    <td>Technical Account Manager</td>
     <td></td>
     <td>ms</td>
   </tr>
@@ -54,7 +54,7 @@ Adobe Experience Cloud Elite Support Services bieten erstklassige Service Level 
     <td>24x5</td>
   </tr>
   <tr>
-    <td>24x7x365 P1-Problemunterstützung</td>
+    <td>24x7x365 Support für Probleme der Kategorie P1</td>
     <td>ms</td>
     <td>ms</td>
   </tr>
@@ -64,76 +64,76 @@ Adobe Experience Cloud Elite Support Services bieten erstklassige Service Level 
     <td>15</td>
   </tr>
   <tr>
-    <td>Live-Telefonunterstützung</td>
+    <td>Live-Telefon-Support</td>
     <td></td>
     <td>ms</td>
   </tr>
   <tr>
-    <td>Eskalationsverwaltung</td>
+    <td>Eskalations-Management</td>
     <td></td>
     <td>ms</td>
   </tr>
   <tr>
-    <td>Service Reviews pro Jahr</td>
+    <td>Jährliche Service-Prüfung</td>
     <td></td>
     <td>4</td>
   </tr>
   <tr>
-    <td>Expertensitzungen pro Jahr</td>
+    <td>Jährliche Experten-Sessions</td>
     <td></td>
     <td>4</td>
   </tr>
   <tr>
-    <td>Fallüberprüfungen</td>
+    <td>Fallprüfungen</td>
     <td></td>
     <td>ms</td>
   </tr>
   <tr>
-    <td>Ereignisverwaltung</td>
+    <td>Ereignis-Management</td>
     <td></td>
     <td>ms</td>
   </tr>
   <tr>
-    <td>Umgebungsüberprüfung, Wartung und Überwachung</td>
+    <td>Umgebungsbewertung, -wartung und -überwachung</td>
     <td></td>
     <td>ms</td>
   </tr>
   <tr>
-    <td>Versionshinweise, Migration, Aktualisierung und Überprüfung der Produkt-Roadmap</td>
+    <td>Prüfung von Freigabe, Migration, Aktualisierung und Produkt-Roadmap</td>
     <td></td>
     <td>ms</td>
   </tr>
   <tr>
-    <td>Cloud-Support-Aktivitäten - Experience Manager as Cloud</td>
+    <td>Cloud-Support-Aktivitäten – Experience Manager as a Cloud Service</td>
     <td></td>
     <td>ms</td>
   </tr>
   <tr>
-    <td rowspan="2">Felddienste</td>
-    <td>Experience Platform Launch - Erstes Jahr der neuen Lösung</td>
+    <td rowspan="2">Außendienst</td>
+    <td>Launch Advisory-Services – Erstes Jahr mit der neuen Lösung</td>
     <td></td>
     <td>ms</td>
   </tr>
   <tr>
-    <td>Felddienstaktivitäten</td>
+    <td>Außendienstaktivitäten</td>
     <td></td>
     <td>4</td>
   </tr>
 </tbody>
 </table>
 
-## Dienstebenenziele: Anfangsantwort
+## Service-Level-Ziele: Spontane Reaktion
 
 | Priorität | Online-Support | Elite-Support |
 |--- |--- |--- |
-| <b>PRIORITÄT 1</b><br>Die Produktionsfunktionen des Kunden sind ausgefallen oder weisen einen erheblichen Datenverlust oder eine Beeinträchtigung des Service auf und es ist eine sofortige Aufmerksamkeit erforderlich, um Funktionalität und Benutzerfreundlichkeit wiederherzustellen. | 24x7/<br>1 Stunde | 24x7/<br>15 Minuten |
-| <b>PRIORITÄT 2</b><br>Die Geschäftsfunktionen des Kunden weisen eine erhebliche Verschlechterung der Dienstleistungen oder einen potenziellen Datenverlust auf oder es gibt Auswirkungen auf eine wichtige Funktion. | Geschäftszeiten/<br>4 Stunden | 24x5/<br>30 Minuten |
-| <b>PRIORITÄT 3</b><br>Die Geschäftsfunktionen des Kunden haben nur eine geringfügige oder gar keine Beeinträchtigung des Service, es gibt jedoch eine Lösung/Problemumgehung, die es ermöglicht, Geschäftsfunktionen normal weiterzuführen. | Geschäftszeiten/<br>6 Stunden | 24x5/<br> 1 Stunde |
-| <b>PRIORITÄT 4</b><br>Allgemeine Frage zur aktuellen Produktfunktionalität oder zu einer Erweiterungsanforderung. | Geschäftstage/<br>3 Tage | Geschäftstag/<br>1 Tag |
+| <b>PRIORITÄT 1</b><br>Die Produktionsfunktionen im Unternehmen des Kunden sind ausgefallen oder weisen einen erheblichen Datenverlust oder eine Beeinträchtigung des Service auf und ein sofortiges Eingreifen ist nötig, um Funktionalität und Nutzbarkeit wiederherzustellen. | 24x7/<br>1 Stunde | 24x7/<br>15 Minuten |
+| <b>PRIORITÄT 2</b><br>Die Unternehmensfunktionen des Kunden weisen eine erhebliche Beeinträchtigung des Service oder möglichen Datenverlust auf oder eine zentrale Funktion ist betroffen. | Geschäftszeiten/<br>4 Stunden | 24x5/<br>30 Minuten |
+| <b>PRIORITÄT 3</b><br>Die Unternehmensfunktionen des Kunden weisen eine geringfügige oder gar keine Beeinträchtigung des Service auf, es gibt jedoch eine Lösung/Problemumgehung, mit der die Unternehmensfunktionen weiterhin normal genutzt werden können. | Geschäftszeiten/<br>6 Stunden | 24x5/<br>1 Stunde |
+| <b>PRIORITÄT 4</b><br>Allgemeine Frage zur aktuellen Produktfunktionalität oder Anfrage zu einer Erweiterung. | Geschäftstage/<br>3 Tage | Geschäftstag/<br>1 Tag |
 
 {style=&quot;table-layout:auto&quot;}
 
-## Support-Funktionen für Elite
+## Umfang von Elite Support
 
 <table style="table-layout:fixed">
 <tr>
@@ -141,44 +141,44 @@ Adobe Experience Cloud Elite Support Services bieten erstklassige Service Level 
     <img alt="technischer Kundenbetreuer" src="assets/namedsupportengineer.png"/>
     <div>
     <p><b>technischer Kundenbetreuer</b></p>
-    <p>Ein technischer Kundenbetreuer, der Ihr Elite-Erlebnis überwacht, die Support- und Außendienstinteraktionen koordiniert und proaktive Dienste bereitstellt, um Ihren Geschäftswert zu maximieren.</p>
+    <p>Ein spezifischer Technical Account Manager, der Ihr Elite-Erlebnis überwacht, die Support- und Außendienstinteraktionen koordiniert und proaktiv Services bereitstellt, um Ihren Unternehmenswert zu maximieren.</p>
     </div>
   </td>
   <td>
-    <img alt="Named Support Engineer" src="assets/namedsupportengineer.png"/>
+    <img alt="Spezifischer Support-Mitarbeiter" src="assets/namedsupportengineer.png"/>
     <div>
-    <p><b>Named Support Engineer</b></p>
-    <p>Ein ausgewiesener Support-Mitarbeiter, der sich mit Ihrer Lösungsumgebung und Ihren Geschäftszielen vertraut macht. Der NSE ist ein erfahrener Support-Mitarbeiter, der Ihnen bei der Koordination Ihrer Elite Support-Erfahrung hilft.</p>
+    <p><b>Spezifischer Support-Mitarbeiter</b></p>
+    <p>Ein spezifischer Support-Mitarbeiter, der sich mit Ihrer Lösungsumgebung und Ihren Unternehmenszielen vertraut macht. Der spezifische Support-Mitarbeiter ist ein erfahrener Support-Engineer, der Sie bei der Koordination Ihres Elite Support-Erlebnisses unterstützt.</p>
     </div>
   </td>
   <td>
-    <img alt="Fallüberprüfungen" src="assets/casereviews.png"/>
+    <img alt="Fallprüfungen" src="assets/casereviews.png"/>
     <div>
-    <p><b>Fallüberprüfungen</b></p>
-    <p>Regelmäßige geplante Überprüfung offener Supportanfragen, um sicherzustellen, dass sich Kunden auf die Fallbeschreibung, die geschäftlichen Auswirkungen, den Status, die Priorität und die Vereinbarung über die nächsten Schritte einigen, die zur Gewährleistung einer angemessenen Lösung erforderlich sind.</p>
+    <p><b>Fallprüfungen</b></p>
+    <p>Fortlaufende planmäßige Prüfung offener Support-Anfragen, um sicherzustellen, dass Kunden über Fallbeschreibung, geschäftliche Auswirkungen, Status, Priorität und die nächsten Schritte für eine zweckdienliche Lösung auf dem Laufenden sind.</p>
     </div>
   </td>
 </tr>
 <tr>
   <td>
-    <img alt="Eskalationsverwaltung" src="assets/EscalationManagement.png"/>
+    <img alt="Eskalations-Management" src="assets/EscalationManagement.png"/>
     <div>
-    <p><b>Eskalationsverwaltung</b></p>
-    <p>Ein spezieller Ansprechpartner innerhalb der Adobe, der Eskalationsunterstützung und regelmäßige Aktualisierungen bereitstellen und sicherstellen kann, dass Ihre wichtigsten offenen Supportanfragen Priorität erhalten.</p>
+    <p><b>Eskalations-Management</b></p>
+    <p>Ein spezifischer Ansprechpartner innerhalb von Adobe, der Unterstützung bei Eskalation und regelmäßigen Updates bietet und sicherstellt, dass die wichtigsten offenen Support-Anfragen priorisiert werden.</p>
     </div>
   </td>
   <td>
-    <img alt="Dienstüberprüfungen" src="assets/ServiceReviews.png"/>
+    <img alt="Service-Prüfungen" src="assets/ServiceReviews.png"/>
     <div>
-    <p><b>Dienstüberprüfungen</b></p>
-    <p>Regelmäßige Übersicht über Elite-Programmdienste, Supportmetriken und Lieferziele, einschließlich eines zukunftsorientierten Versandplans.</p>
+    <p><b>Service-Prüfungen</b></p>
+    <p>Fortlaufende Prüfung der Services, Support-Metriken und Bereitstellungen des Elite-Programms, einschließlich eines zukunftsorientierten Bereitstellungsplans.</p>
     </div>
   </td>
   <td>
-    <img alt="Expertensitzungen" src="assets/expertsessions.png"/>
+    <img alt="Experten-Sessions" src="assets/expertsessions.png"/>
     <div>
-    <p><b>Expertensitzungen</b></p>
-    <p>Eine 60-minütige Sitzung, die sich auf eine bestimmte Produktfunktion konzentriert und wie diese zur Lösung häufiger Geschäftsprobleme verwendet werden kann.</p>
+    <p><b>Experten-Sessions</b></p>
+    <p>Eine 60-minütige Session mit Konzentration auf eine bestimmte Produktfunktion und deren Nutzung zum Lösen gängiger Unternehmensprobleme.</p>
     </div>
   </td>
 </tr>
@@ -187,50 +187,50 @@ Adobe Experience Cloud Elite Support Services bieten erstklassige Service Level 
     <img alt="Umgebungsprüfung" src="assets/EnvironmentReview.png"/>
     <div>
     <p><b>Umgebungsprüfung</b></p>
-    <p>Proaktive Übersicht über Ihre Lösungsbereitstellung, -konfiguration und -architektur, einschließlich Integrationen.</p>
+    <p>Proaktive Prüfung Ihrer Lösungsimplementierung, -konfiguration und -architektur, einschließlich Integrationen.</p>
     </div>
   </td>
   <td>
-    <img alt="Lösungs-Roadmap-Überprüfung" src="assets/SolutionRoadmapReview.png"/>
+    <img alt="Prüfung der Lösungs-Roadmap" src="assets/SolutionRoadmapReview.png"/>
     <div>
-    <p><b>Lösungs-Roadmap-Überprüfung</b></p>
-    <p>Vergleichen und richten Sie die Lösungs-Roadmap für Adoben mit Ihrem Projektfahrplan aus, um Risiken zu minimieren und sich auf die Zukunft vorzubereiten.</p>
+    <p><b>Prüfung der Lösungs-Roadmap</b></p>
+    <p>Vergleich der Adobe-Lösungs-Roadmap mit Ihrer Projekt-Roadmap und entsprechende Ausrichtung, um Risiken zu minimieren und sich auf die Zukunft vorzubereiten.</p>
     </div>
   </td>
   <td>
     <img alt="Wartung und Überwachung" src="assets/MaintenanceMonitoring.png"/>
     <div>
     <p><b>Wartung und Überwachung</b></p>
-    <p>Erhalten Sie Best Practices für die Wartung und aktuelle Fehlerbehebungen (SPs, MR, Patches, FPs), um bei allen Wartungsprüfungen auf dem neuesten Stand zu bleiben.</p>
+    <p>Sie erhalten Best Practices für die Wartung und aktuelle Fehlerbehebungen (SPs, MR, Patches, FPs), damit Sie bei allen Wartungsprüfungen auf dem neuesten Stand sind.</p>
     </div>
   </td>
 </tr>
 <tr>
   <td>
-    <img alt="Vorbereitung und Prüfung von Versionen" src="assets/releasepreview.png"/>
+    <img alt="Vorbereitung und Prüfung für neue Versionen" src="assets/releasepreview.png"/>
     <div>
-    <p><b>Vorbereitung und Prüfung von Versionen</b></p>
-    <p>Erhalten Sie personalisierte Anleitungen zu neuen Produktfunktionen, um die neuesten Innovationen nutzen zu können, und lassen Sie Adobe-Experten die Veröffentlichung und den Upgrade-Plan überprüfen.</p>
+    <p><b>Vorbereitung und Prüfung für neue Versionen</b></p>
+    <p>Sie erhalten personalisierte Anleitungen zu neuen Produktfunktionen, um die neuesten Innovationen nutzen zu können, und eine Prüfung des Veröffentlichungs- und Aktualisierungsplans durch Adobe-Experten.</p>
     </div>
   </td>
   <td>
     <img alt="Wissenstransfer" src="assets/KnowledgeTransfer.png"/>
     <div>
     <p><b>Wissenstransfer</b></p>
-    <p>Laufender Wissenstransfer vom Adobe Support-Team, um Best Practices zur Lösungsverwendung bereitzustellen.</p>
+    <p>Laufender Wissenstransfer vom Adobe Support-Team, um Best Practices zur Lösungsnutzung bereitzustellen.</p>
     </div>
   </td>
   <td>
-    <img alt="Ereignisverwaltung" src="assets/EventManagement1.png"/>
+    <img alt="Ereignis-Management" src="assets/EventManagement1.png"/>
     <div>
-    <p><b>Ereignisverwaltung</b></p>
-    <p>Verwalten Sie wichtige Ereignisse, um sicherzustellen, dass Sie während dieser wichtigen Unternehmens- und Projektmeilensteine über den richtigen Support-, Deckungs- und Abhilfeplan verfügen.</p>
+    <p><b>Ereignis-Management</b></p>
+    <p>Verwalten Sie wichtige Ereignisse, um sicherzustellen, dass Sie während dieser zentralen Unternehmens- und Projekt-Milestones über angemessenen Support, entsprechende Abdeckung und einen Plan mit Sicherheitsmechanismen verfügen.</p>
     </div>
   </td>
 </tr>
 </table>
 
-## Online-Support-Funktionen
+## Umfang von Online Support
 
 <!--
 Adobe Customer Support offers access to online resources for documentation, engagement with other experts and customers for best practices, and webinar series (Office Hours) for troubleshooting tips and tricks. Several channels are also available for questions and case submissions.
@@ -243,134 +243,134 @@ Adobe Customer Support offers access to online resources for documentation, enga
     <div>
     <p>Community-Foren</p>
     <p><b>Online-Foren</b></p>
-    <p>Kontinuierlicher Online-Zugriff auf eine wachsende Datenbank technischer Lösungen, Produktdokumentation, FAQs und mehr. Stellen Sie eine Verbindung mit Fachleuten und anderen Kunden in der Adobe Community her, um Best Practices und Erfahrungen auszutauschen.</p>
+    <p>Kontinuierlicher Online-Zugriff auf eine wachsende Datenbank technischer Lösungen, Produktdokumentationen, FAQs und mehr. Tauschen Sie sich mit Fachleuten und anderen Kunden in der Adobe-Community über Best Practices und Erfahrungen aus.</p>
     </div>
   </td>
   <td>
-    <img alt="Telefonunterstützung" src="assets/PhoneSupport.png"/>
+    <img alt="Telefonischer Support" src="assets/PhoneSupport.png"/>
     <div>
     <p>24x7x365 P1</p>
-    <p><b>Telefonunterstützung</b></p>
-    <p>Autorisierte Benutzer oder Named Support-Kontakte können Probleme über alle verfügbaren Kanäle (einschließlich Telefon für P1) einreichen und im Namen Ihres Unternehmens mit unserem technischen Support-Team interagieren.</p>
+    <p><b>Telefonischer Support</b></p>
+    <p>Autorisierte Anwender oder spezifische Support-Kontakte können Probleme über alle verfügbaren Kanäle (einschließlich Telefon für P1) einreichen und im Namen Ihres Unternehmens mit unserem technischen Support-Team interagieren.</p>
     </div>
   </td>
   <td>
     <img alt="Experience League" src="assets/JourneysExperienceLeague.png"/>
     <div>
     <p>Experience League</p>
-    <p><b>Selbstgeführte Journey</b></p>
-    <p>Experience Maker werden mit Experience League hergestellt. Kunden können ihre Customer Experience Management-Fähigkeiten durch personalisiertes Lernen aktivieren, um Fertigkeiten zu entwickeln, mit einer globalen Gemeinschaft von Gleichaltrigen zusammenzuarbeiten und eine bessere Karriereauswertung zu erzielen.</p>
+    <p><b>Journeys für die Selbsthilfe</b></p>
+    <p>Experience Maker entstehen in der Experience League. Kunden können durch personalisiertes Lernen ihre Customer-Experience-Management-Fähigkeiten entwickeln, mit einer globalen Community anderer Anwender interagieren und so ihre eigene Karriere fördern.</p>
     </div>
   </td>
 </tr>
 <tr>
   <td>
-    <img alt="Geschäftszeiten" src="assets/Webinar.png"/>
+    <img alt="Office Hours" src="assets/Webinar.png"/>
     <div>
     <p>Geschäftszeiten</p>
     <p><b>Webinare</b></p>
-    <p>Office Hours ist eine Initiative, die vom Adobe-Support-Team geleitet wird. Diese Sitzungen sollen die Teilnehmer informieren und dabei unterstützen, Probleme zu beheben, und Tipps und Tricks für eine erfolgreiche Arbeit mit Adobe Experience Cloud geben.</p>
+    <p>„Office Hours“ ist eine Initiative des Adobe Support-Teams. In diesen Sessions erhalten Teilnehmer Informationen, Hilfestellungen bei Problemen sowie Tipps und Tricks zur erfolgreichen Verwendung von Adobe Experience Cloud.</p>
     </div>
   </td>
   <td>
-    <img alt="Live-Chat-Unterstützung" src="assets/LiveChat.png"/>
+    <img alt="Live-Chat-Support" src="assets/LiveChat.png"/>
     <div>
-    <p>Live-Chat-Unterstützung *</p>
-    <p><b>Chat-Unterstützung</b></p>
-    <p>Starten Sie eine Chat-Sitzung, um Antworten und Hilfe bei der Fallübermittlung zu erhalten.</p>
-    <p>* <i>Nicht alle Produkte haben Live-Chat-Unterstützung.</i></p>
+    <p>Live-Chat-Support *</p>
+    <p><b>Chat-Support</b></p>
+    <p>Starten Sie eine Chat-Session, um Antworten und Hilfe bei der Fallübermittlung zu erhalten.</p>
+    <p>* <i>Nicht alle Produkte verfügen über Live-Chat-Support.</i></p>
     </div>
   </td>
   <td>
     <img alt="Selbsthilfe" src="assets/SelfHelpPortal.png"/>
     <div>
     <p>Selbsthilfe-Portale</p>
-    <p><b>24/7 Support-Portal</b></p>
-    <p>On-Demand-Zugriff auf das Online-Selbsthilfe-Support-Portal, um Support-Anfragen einzureichen, den Fallstatus zu überprüfen und andere Ressourcen zu durchsuchen, z. B. unsere Wissensdatenbank, Neuigkeiten und Warnhinweise, spezielle Tipps und mehr.</p>
+    <p><b>24/7-Support-Portal</b></p>
+    <p>On-Demand-Zugriff auf das Online-Selbsthilfe-Support-Portal, um Support-Anfragen einzureichen, den Fallstatus zu überprüfen und andere Ressourcen zu durchsuchen, z. B. unsere Wissensdatenbank, Neuigkeiten und Hinweise, spezielle Tipps und mehr.</p>
     </div>
   </td>
 </tr>
 </table>
 
-## Cloud-Support-Aktivitäten - AEM
+## Cloud-Support-Aktivitäten – AEM
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <div>
-    <p><b>Governance für AEM als Cloud Service</b></p>
-    <p>Technisches und betriebliches Regieren, um AEM als Cloud Service bei der Einhaltung von Branchenstandards und Best Practices für AEM als Cloud Service zu unterstützen.</p>
+    <p><b>Governance für AEM as a Cloud Service</b></p>
+    <p>Technische und betriebliche Governance für die Unterstützung von AEM as a Cloud Service-Kunden bei der Einhaltung von Branchenstandards und Best Practices für AEM as a Cloud Service.</p>
     </div>
   </td>
   <td>
     <div>
-    <p><b>Mehrwert-Services für AEM as a Cloud Service</b></p>
-    <p>Ermitteln, überprüfen und geben Sie Empfehlungen zu benutzerdefinierten Lösungsaktionsbereichen, die Optimierungsmöglichkeiten bieten.</p>
+    <p><b>Zusatz-Services für AEM as a Cloud Service</b></p>
+    <p>Identifizieren, Prüfen und Bereitstellen von Empfehlungen zu individuellen Lösungsübernahmebereichen mit Optimierungsmöglichkeiten.</p>
     </div>
   </td>
   <td>
     <div>
-    <p><b>Best Practices zur Anpassung von AEM as a Cloud Service</b></p>
-    <p>Förderung der Übernahme von Best Practices für die Anpassung und Kernkomponenten in AEM als Cloud Service.</p>
+    <p><b>Best Practices für die Anpassung von AEM as a Cloud Service</b></p>
+    <p>Förderung der Übernahme von Best Practices für die Anpassung und Kernkomponenten in AEM as a Cloud Service.</p>
     </div>
   </td>
 </tr>
 </table>
 
-## Launch-Beratung
+## Launch Advisory
 
-Für Kunden, die eine **neue Adobe Experience Cloud-Lösung** implementieren, ist Launch Advisory ein *Kernsatz von Beratungsdiensten* und Empfehlungen, die nachweislich erfolgreiche Bereitstellungen unterstützen und die Time-to-Value beschleunigen.
+Für Kunden, die eine **neue Adobe Experience Cloud-Lösung** implementieren, ist Launch Advisory eine *zentrale Palette von Beratungs-Services* und Empfehlungen, die nachweislich erfolgreiche Implementierungen unterstützen und die Time-to-Value beschleunigen.
 
 <!--
 ![Support implementation and operation](assets/support-implementation.png)
 -->
 
-Experten für Adobe-Lösungen helfen bei der Validierung von Anforderungen, Architektur, Entwicklungsprozess und der Einleitung von Reviews zur Bereitschaft mit Best Practice-basierten Anleitungen für Kunden und Implementierungspartner.
+Experten für Adobe-Lösungen helfen bei der Prüfng von Anforderungen, Architektur, Entwicklungsprozess und Launch-Bereitschaft mit Best Practice-basierten Anleitungen für Kunden und Implementierungspartner.
 
-Die Experience Platform Launch-Beratung richtet sich anhand gängiger Meilensteine (Start, Definition, Design, Live-Schaltung und Post-Launch) an Ihren Projektplan, um Empfehlungen zu lenken, zu validieren, zu bewerten und zu unterbreiten. Zu den wichtigsten Lieferzielen gehören:
+Launch Advisory orientiert sich anhand gängiger Milestones (Kickoff, Definition, Design, Go-Live und Post-Launch) an Ihren Projektplan und umfasst Anleitung, Prüfung, Bewertung und Empfehlungen. Zu den wichtigsten Angeboten gehören:
 
-* Startdeck (einschließlich Projekt-Kooperationsplan)
-* Beurteilungs- und Empfehlungsdokumente
+* Kickoff-Deck (einschließlich Projekt-Kooperationsplan)
+* Dokumente für Bewertung und Empfehlung
 * Interaktionszusammenfassung
 
 <!--
 ![Launch Advisory Chart](assets/launch-advisory.png)
 -->
 
-## Felddienstaktivitäten
+## Außendienstaktivitäten
 
-Field Services werden für **schnelle Auflösung**, fokussierten Kundenerfolg und beschleunigte **Time-to-Value** verwendet. Wenn die Launch-Beratung aktiv ist, gibt es **keine Felddienste im Jahr 1** für Lösungsprodukte, die unter einen Adobe Support-Vertrag fallen.
+Der Außendienst sorgt für **schnelle Problemlösung**, fokussierten Kundenerfolg und beschleunigte **Time-to-Value**. Wenn Launch Advisory aktiv ist, gibt es **im ersten Jahr keinen Außendienst** für Lösungsprodukte, die unter einen Adobe Support-Vertrag fallen.
 
-Als Elite-Kunde können Sie **4 Aktivitäten pro Jahr** aus den folgenden beiden Tracks nutzen: **Technical** und/oder **Strategic**.
+Als Elite-Kunde können Sie **vier Aktivitäten pro Jahr** aus dem **technischen Track** und/oder dem **strategischen Track** nutzen.
 
-**Durch technische** Tracking-Aktivitäten stellen Sie sicher, dass Kunden technisch solide sind und ihre Tools optimal nutzen. Diese Aktivitätstypen umfassen insbesondere Unterstützung und Empfehlungen für Plattformkonfigurationen, Integrationen und die Fehlerbehebung.
+**Aktivitäten des technischen Tracks** stellen sicher, dass Kunden technisch versiert sind und ihre Tools optimal nutzen. Diese Aktivitätstypen umfassen insbesondere Support und Empfehlungen für Plattformkonfigurationen, Integrationen und die Fehlerbehebung.
 
-Verfügbare technische Tätigkeiten:
+Verfügbare technische Aktivitäten:
 
-* Gesundheitsprüfung
+* Statusprüfung
 * Plattformprüfung
 * Aktivierung von Funktionssätzen
 * Grundlegende Integrationen und Konfigurationen
 * Fehlerbehebung bei der Kundenlösung
-* Cloud Service-Unterstützung
+* Cloud-Service-Support
 
-**Strategische** Aktivitätslokalisierung bietet Möglichkeiten, um sicherzustellen, dass aus den Adobe-Lösungen eines Kunden Nutzen gezogen wird. Sie enthalten Support-Empfehlungen zu Strategie, Messung und Reife, um die Wertrealisierung über eine oder mehrere Adoben hinweg zu fördern.
+**Aktivitäten des strategischen Tracks** ermitteln Möglichkeiten, mit den vom Kunden genutzten Adobe-Lösungen optimale Ergebnisse zu erzielen. Sie enthalten Support-Empfehlungen zu Strategie, Messung und Reifegrad, mit denen eine oder mehrere Adobe-Lösungen optimal genutzt werden können.
 
 Verfügbare strategische Aktivitäten:
 
-* Laufzeitplan
-* Anwendungsfallentwicklung/Messung
-* Berichterstellung und Analyse
-* Aktivierung der Best Practices
+* Reifegrad-Roadmap
+* Use-Case-Entwicklung/-Messung
+* Reporting und Analyse
+* Aktivierung von Best Practices
 
 ## Ressourcen
 
 | Ressource | Beschreibung |
 |--- |--- |
-| [Experience League](https://experienceleague.adobe.com/?lang=de) | Experience League ist die Art und Weise, wie Adobe Unternehmen dabei hilft, den von ihren Adoben erwarteten Nutzen zu erzielen. Es ist der einheitliche Ort, an dem Kunden auf einem personalisierten Weg zum Erfolg lernen, eine Verbindung herstellen und sich weiterentwickeln können. Dazu gehören Selbsthilfe-Tutorials, Produktdokumentation, von Schulungsleitern geleitete Schulungen, Community und technischer Support. |
-| [Training](https://training.adobe.com/training/) | Adobe Digital Learning Services Kurse sind von Experience League aus zugänglich. In den Lernkursen werden sowohl On-Demand- als auch Lehrstunden unter Führung von Lehrern angeboten. Hier können Sie Kompetenzen erwerben, die sich als Marktwert erwiesen haben, und sie so positionieren, dass sie den Erfolg in Ihrem Unternehmen fördern. |
-| [Produktionsprobleme und Systemausfälle](https://status.adobe.com/) | Status.adobe.com übermittelt die Statusinformationen aller Adobe-Produkte und -Dienste, die in Umgebungen mit mehreren Mandanten bereitgestellt werden. Kunden können ihre Abonnementvoreinstellungen auswählen, um E-Mail-Benachrichtigungen zu erhalten, wenn Adobe ein Produktereignis erstellt, aktualisiert oder löst. Dazu können geplante Wartungs- oder Serviceprobleme mit unterschiedlichem Schweregrad gehören. |
-| [Geschäftsbedingungen](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html) | Geschäftsbedingungen mit detaillierten Informationen zu Support-Services. |
+| [Experience League](https://experienceleague.adobe.com/?lang=de) | Mit der Experience League unterstützt Adobe Unternehmen dabei, mit ihren Investitionen in Adobe optimale Ergebnisse zu erzielen. An diesem zentralen Ort können Kunden auf einem personalisierten Weg zum Erfolg lernen, Kontakte knüpfen und sich weiterentwickeln. Dafür nutzen sie Selbsthilfe-Tutorials, Produktdokumentation, von Kursleitern geführte Schulungen, Community und technischen Support. |
+| [Training](https://training.adobe.com/training/) | Adobe Digital Learning Services-Kurse sind über die Experience League verfügbar. Das Angebot umfasst sowohl On-Demand- als auch von Kursleiter geführte Schulungen. Hier können Sie Kompetenzen erwerben, die auf dem Markt anerkannt sind und den Erfolg im Unternehmen vorantreiben. |
+| [Produktionsprobleme und Systemausfälle](https://status.adobe.com/) | Status.adobe.com übermittelt die Statusinformationen sämtlicher Adobe-Produkte und -Services, die in Umgebungen mit mehreren Mandanten implementiert sind. Kunden können Voreinstellungen für ihr Abonnement auswählen und E-Mail-Benachrichtigungen erhalten, wenn Adobe ein Produktereignis erstellt, aktualisiert oder löst. Dies kann geplante Wartungen oder Service-Probleme unterschiedlichen Schweregrads umfassen. |
+| [Geschäftsbedingungen](https://helpx.adobe.com/de/support/programs/support-policies-terms-conditions.html) | Allgemeine Geschäftsbedingungen mit detaillierten Informationen zu den angebotenen Support-Services. |
 
 ## Regionaler Umfang der Adobe, lokale Betriebszeiten und Sprachunterstützung
 
@@ -387,10 +387,10 @@ Der regionale Umfang der Adobe Support wird durch die Abstimmung der Rechnungsad
 </thead>
 <tbody>
   <tr>
-    <td>6:00 - 5:30 Uhr</td>
-    <td>9:00 - 17:00</td>
-    <td>9:00 - 17:00</td>
-    <td>9:00 - 17:30 Uhr</td>
+    <td>6:00–17:30 Uhr</td>
+    <td>9:00–17:00 Uhr</td>
+    <td>9:00–17:00 Uhr</td>
+    <td>9:00–17:30 Uhr</td>
   </tr>
   <tr>
     <td colspan="4">

@@ -4,7 +4,7 @@ user-guide-description: Support-Ressourcen für Adobe Experience Cloud und Adobe
 source-git-commit: 423424dc139e162d1abd71b91e3c579fc14ea1d4
 workflow-type: tm+mt
 source-wordcount: '32'
-ht-degree: 9%
+ht-degree: 100%
 
 ---
 
@@ -12,12 +12,12 @@ ht-degree: 9%
 # Support-Ressourcen {#data-sheets}
 
 + [Übersicht](overview.md)
-+ Support Services {#data-sheets}
++ Support-Services {#data-sheets}
    + [Online](online.md)
-   + [Unternehmen](business.md)
-   + [Großunternehmen](enterprise.md)
+   + [Business](business.md)
+   + [Enterprise](enterprise.md)
    + [Elite](elite.md)
-+ [Seite &quot;Allgemeine Geschäftsbedingungen&quot;](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html){target=&quot;_blank&quot;}
++ [Seite mit allgemeinen Geschäftsbedingungen](https://helpx.adobe.com/de/support/programs/support-policies-terms-conditions.html){target=&quot;_blank&quot;}
 
 <!--
 
