@@ -3,9 +3,9 @@ title: Business Support
 description: Adobe Experience Cloud Business Support Services bieten vollständigen Zugriff auf die technischen Support-Teams von Adobe und auf einen Account Support Lead für das Account-Management.
 exl-id: 2f31e22f-8523-4322-875b-69f0f44a513a
 source-git-commit: 101d0a5b6d49211ccffe55ce8c023d6fb281602e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '872'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -49,14 +49,14 @@ Adobe Experience Cloud Business Support Services bieten vollständigen Zugriff a
   </tr>
   <tr>
     <td rowspan="12">Support-Services</td>
-    <td>Online-Support</td>
+    <td>Online Support</td>
     <td>Geschäftszeiten</td>
     <td>Geschäftszeiten</td>
   </tr>
   <tr>
     <td>24x7x365 Support für Probleme der Kategorie P1</td>
-    <td>ms</td>
-    <td>ms</td>
+    <td>✔</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Spezifische Support-Kontakte (pro Produkt)</td>
@@ -66,12 +66,12 @@ Adobe Experience Cloud Business Support Services bieten vollständigen Zugriff a
   <tr>
     <td>Live-Telefon-Support</td>
     <td></td>
-    <td>ms</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Eskalations-Management</td>
     <td></td>
-    <td>ms</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Jährliche Service-Prüfung</td>
@@ -124,7 +124,7 @@ Adobe Experience Cloud Business Support Services bieten vollständigen Zugriff a
 
 ## Service-Level-Ziele: Spontane Reaktion
 
-| Priorität | Online-Support | Business Support |
+| Priorität | Online Support | Business Support |
 |--- |--- |--- |
 | <b>PRIORITÄT 1</b><br>Die Produktionsfunktionen im Unternehmen des Kunden sind ausgefallen oder weisen einen erheblichen Datenverlust oder eine Beeinträchtigung des Service auf und ein sofortiges Eingreifen ist nötig, um Funktionalität und Nutzbarkeit wiederherzustellen. | 24x7/<br>1 Stunde | 24x7/<br>1 Stunde |
 | <b>PRIORITÄT 2</b><br>Die Unternehmensfunktionen des Kunden weisen eine erhebliche Beeinträchtigung des Service oder möglichen Datenverlust auf oder eine zentrale Funktion ist betroffen. | Geschäftszeiten/<br>4 Stunden | Geschäftszeiten/<br>2 Stunden |
@@ -211,7 +211,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
   <td>
     <img alt="Office Hours" src="assets/Webinar.png"/>
     <div>
-    <p>Geschäftszeiten</p>
+    <p>Office Hours</p>
     <p><b>Webinare</b></p>
     <p>„Office Hours“ ist eine Initiative des Adobe Support-Teams. In diesen Sessions erhalten Teilnehmer Informationen, Hilfestellungen bei Problemen sowie Tipps und Tricks zur erfolgreichen Verwendung von Adobe Experience Cloud.</p>
     </div>
@@ -246,9 +246,9 @@ Adobe Customer Support offers access to online resources for documentation, enga
 | [Website für Business Support](https://helpx.adobe.com/de/support/programs/enterprise-support-programs/premier-support-business.html) | Website für Adobe Business Support. |
 | [Geschäftsbedingungen](https://helpx.adobe.com/de/support/programs/support-policies-terms-conditions.html) | Allgemeine Geschäftsbedingungen mit detaillierten Informationen zu den angebotenen Support-Services. |
 
-## Regionaler Umfang der Adobe, lokale Betriebszeiten und Sprachunterstützung
+## Regionales Support-Angebot von Adobe, örtliche Geschäftszeiten und unterstützte Sprachen
 
-Der regionale Umfang der Adobe Support wird durch die Abstimmung der Rechnungsadresse des Kunden (über den Kundenauftrag oder ein anderes Bestelldokument für Adoben-Support) an eine der folgenden Regionen festgelegt:
+Das regionale Support-Angebot von Adobe wird durch Abgleich der Rechnungsadresse des Kunden (entsprechend dem Kundenauftrag oder einer anderen Kaufbestätigung für Adobe-Support) mit einer der folgenden Regionen ermittelt:
 
 <table>
 <thead>
@@ -270,7 +270,7 @@ Der regionale Umfang der Adobe Support wird durch die Abstimmung der Rechnungsad
     <td colspan="4">
       <p><sup>1</sup><i>Sprachunterstützung ist nur auf Englisch und Japanisch verfügbar.</i></p>
       <p><i>Adobe Commerce bietet keine Sprachunterstützung für Japanisch.</i></p>
-      <p><i>P2-, P3- und P4-Fälle sind nur in Japan auf Geschäftszeiten beschränkt.</i></p>
+      <p><i>Fälle der Kategorien P2, P3 und P4 sind in Japan auf Geschäftszeiten beschränkt.</i></p>
     </td>
   </tr>
 </tbody>
