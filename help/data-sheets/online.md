@@ -3,13 +3,13 @@ title: Online Support
 description: Adobe Experience Cloud Online Support Services bieten eingeschränkten Zugriff auf telefonischen Support.
 exl-id: ea7eb128-9d7a-486f-9ce2-7d1330749c9a
 source-git-commit: 101d0a5b6d49211ccffe55ce8c023d6fb281602e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '758'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
-# Online-Support
+# Online Support
 
 ![icon](assets/OnlineBanner.png)
 
@@ -20,7 +20,7 @@ Adobe Experience Cloud Online Support Services bieten eingeschränkten Zugriff a
   <tr>
     <th></th>
     <th></th>
-    <th>Online-Support</th>
+    <th>Online Support</th>
     <th>Business Support</th>
     <th>Enterprise Support</th>
     <th>Elite Support</th>
@@ -45,19 +45,19 @@ Adobe Experience Cloud Online Support Services bieten eingeschränkten Zugriff a
     <td>Spezifischer Support-Mitarbeiter</td>
     <td></td>
     <td></td>
-    <td>ms</td>
-    <td>ms</td>
+    <td>✔</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Technical Account Manager</td>
     <td></td>
     <td></td>
     <td></td>
-    <td>ms</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td rowspan="12">Support-Services</td>
-    <td>Online-Support</td>
+    <td>Online Support</td>
     <td>Geschäftszeiten</td>
     <td>Geschäftszeiten</td>
     <td>24x5</td>
@@ -65,10 +65,10 @@ Adobe Experience Cloud Online Support Services bieten eingeschränkten Zugriff a
   </tr>
   <tr>
     <td>24x7x365 Support für Probleme der Kategorie P1</td>
-    <td>ms</td>
-    <td>ms</td>
-    <td>ms</td>
-    <td>ms</td>
+    <td>✔</td>
+    <td>✔</td>
+    <td>✔</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Spezifische Support-Kontakte (pro Produkt)</td>
@@ -80,16 +80,16 @@ Adobe Experience Cloud Online Support Services bieten eingeschränkten Zugriff a
   <tr>
     <td>Live-Telefon-Support</td>
     <td></td>
-    <td>ms</td>
-    <td>ms</td>
-    <td>ms</td>
+    <td>✔</td>
+    <td>✔</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Eskalations-Management</td>
     <td></td>
-    <td>ms</td>
-    <td>ms</td>
-    <td>ms</td>
+    <td>✔</td>
+    <td>✔</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Jährliche Service-Prüfung</td>
@@ -109,44 +109,44 @@ Adobe Experience Cloud Online Support Services bieten eingeschränkten Zugriff a
     <td>Fallprüfungen</td>
     <td></td>
     <td></td>
-    <td>ms</td>
-    <td>ms</td>
+    <td>✔</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Ereignis-Management</td>
     <td></td>
     <td></td>
     <td></td>
-    <td>ms</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Umgebungsbewertung, -wartung und -überwachung</td>
     <td></td>
     <td></td>
     <td></td>
-    <td>ms</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Prüfung von Freigabe, Migration, Aktualisierung und Produkt-Roadmap</td>
     <td></td>
     <td></td>
     <td></td>
-    <td>ms</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Cloud-Support-Aktivitäten – Experience Manager as a Cloud Service</td>
     <td></td>
     <td></td>
-    <td>ms</td>
-    <td>ms</td>
+    <td>✔</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td rowspan="2">Außendienst</td>
     <td>Launch Advisory-Services – Erstes Jahr mit der neuen Lösung</td>
     <td></td>
     <td></td>
-    <td>ms</td>
-    <td>ms</td>
+    <td>✔</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Außendienstaktivitäten</td>
@@ -160,7 +160,7 @@ Adobe Experience Cloud Online Support Services bieten eingeschränkten Zugriff a
 
 ## Service-Level-Ziele: Spontane Reaktion {#service-level-targets}
 
-| Priorität | Online-Support | Business Support | Enterprise-Support | Elite-Support |
+| Priorität | Online Support | Business Support | Enterprise Support | Elite Support |
 |--- |--- |--- |--- |--- |
 | <b>PRIORITÄT 1</b><br>Die Produktionsfunktionen im Unternehmen des Kunden sind ausgefallen oder weisen einen erheblichen Datenverlust oder eine Beeinträchtigung des Service auf und ein sofortiges Eingreifen ist nötig, um Funktionalität und Nutzbarkeit wiederherzustellen. | 24x7/<br>1 Stunde | 24x7/<br>1 Stunde | 24x7/<br>30 Minuten | 24x7/<br>15 Minuten |
 | <b>PRIORITÄT 2</b><br>Die Unternehmensfunktionen des Kunden weisen eine erhebliche Beeinträchtigung des Service oder möglichen Datenverlust auf oder eine zentrale Funktion ist betroffen. | Geschäftszeiten/<br>4 Stunden | Geschäftszeiten/<br>2 Stunden | 24x5/<br>1 Stunde | 24x5/<br>30 Minuten |
@@ -169,7 +169,7 @@ Adobe Experience Cloud Online Support Services bieten eingeschränkten Zugriff a
 
 {style=&quot;table-layout:auto&quot;}
 
-## Online-Support {#online-support-1}
+## Online Support {#online-support-1}
 
 Der Adobe-Support bietet Zugriff auf Online-Ressourcen für Dokumentation, Interaktion mit anderen Experten und Kunden bezüglich Best Practices sowie Webinar-Reihen (Office Hours) mit Tipps und Tricks zur Fehlerbehebung. Für Fragen und Fallübermittlungen stehen ebenfalls verschiedene Kanäle zur Verfügung.
 
@@ -186,7 +186,7 @@ Der Adobe-Support bietet Zugriff auf Online-Ressourcen für Dokumentation, Inter
   <td>
     <img alt="Office Hours" src="assets/Webinar.png"/>
     <div>
-    <p>Geschäftszeiten</p>
+    <p>Office Hours</p>
     <p><b>Webinare</b></p>
     <p>Die vom Adobe Support-Team geleitete Office Hours-Reihe umfasst Sessions mit informativem Inhalt sowie Angebote zur Problembehebung sowie Tipps und Tricks für den Erfolg bei der Nutzung von Adobe-Lösungen.</p>
     </div>
@@ -240,9 +240,9 @@ Der Adobe-Support bietet Zugriff auf Online-Ressourcen für Dokumentation, Inter
 | [Produktionsprobleme und Systemausfälle](https://status.adobe.com/) | Status.adobe.com übermittelt die Statusinformationen sämtlicher Adobe-Produkte und -Services, die in Umgebungen mit mehreren Mandanten implementiert sind. Kunden können Voreinstellungen für ihr Abonnement auswählen und E-Mail-Benachrichtigungen erhalten, wenn Adobe ein Produktereignis erstellt, aktualisiert oder löst. Dies kann geplante Wartungen oder Service-Probleme unterschiedlichen Schweregrads umfassen. |
 | [Geschäftsbedingungen](https://helpx.adobe.com/de/support/programs/support-policies-terms-conditions.html) | Allgemeine Geschäftsbedingungen mit detaillierten Informationen zu den angebotenen Support-Services. |
 
-## Regionaler Umfang der Adobe, lokale Betriebszeiten und Sprachunterstützung
+## Regionales Support-Angebot von Adobe, örtliche Geschäftszeiten und unterstützte Sprachen
 
-Der regionale Umfang der Adobe Support wird durch die Abstimmung der Rechnungsadresse des Kunden (über den Kundenauftrag oder ein anderes Bestelldokument für Adoben-Support) an eine der folgenden Regionen festgelegt:
+Das regionale Support-Angebot von Adobe wird durch Abgleich der Rechnungsadresse des Kunden (entsprechend dem Kundenauftrag oder einer anderen Kaufbestätigung für Adobe-Support) mit einer der folgenden Regionen ermittelt:
 
 <table>
 <thead>
@@ -264,7 +264,7 @@ Der regionale Umfang der Adobe Support wird durch die Abstimmung der Rechnungsad
     <td colspan="4">
       <p><sup>1</sup><i>Sprachunterstützung ist nur auf Englisch und Japanisch verfügbar.</i></p>
       <p><i>Adobe Commerce bietet keine Sprachunterstützung für Japanisch.</i></p>
-      <p><i>P2-, P3- und P4-Fälle sind nur in Japan auf Geschäftszeiten beschränkt.</i></p>
+      <p><i>Fälle der Kategorien P2, P3 und P4 sind in Japan auf Geschäftszeiten beschränkt.</i></p>
     </td>
   </tr>
 </tbody>
