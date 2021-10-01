@@ -3,13 +3,13 @@ title: Enterprise Support
 description: Adobe Experience Cloud Enterprise Support Services bieten erweiterte Support-Service-Level-Targets (SLTs), die Vorteile von technischem Know-how sowie eine Kontaktperson in Form eines spezifischen Support-Mitarbeiters.
 exl-id: f3dfbc40-df11-4ad9-9693-568d9e35ec04
 source-git-commit: eab88ea8d66a5ae104369655137c389822671e0f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1199'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
-# Enterprise-Support
+# Enterprise Support
 
 ![icon](assets/EnterpriseBanner.png)
 
@@ -21,7 +21,7 @@ Adobe Experience Cloud Enterprise Support Services bieten erweiterte Support-Ser
     <th></th>
     <th></th>
     <th>Online Support</th>
-    <th>Enterprise-Support</th>
+    <th>Enterprise Support</th>
   </tr>
 </thead>
 <tbody>
@@ -49,14 +49,14 @@ Adobe Experience Cloud Enterprise Support Services bieten erweiterte Support-Ser
   </tr>
   <tr>
     <td rowspan="12">Support-Services</td>
-    <td>Online-Support</td>
+    <td>Online Support</td>
     <td>Geschäftszeiten</td>
     <td>24x5</td>
   </tr>
   <tr>
     <td>24x7x365 Support für Probleme der Kategorie P1</td>
-    <td>ms</td>
-    <td>ms</td>
+    <td>✔</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Spezifische Support-Kontakte (pro Produkt)</td>
@@ -66,12 +66,12 @@ Adobe Experience Cloud Enterprise Support Services bieten erweiterte Support-Ser
   <tr>
     <td>Live-Telefon-Support</td>
     <td></td>
-    <td>ms</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Eskalations-Management</td>
     <td></td>
-    <td>ms</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Jährliche Service-Prüfung</td>
@@ -86,7 +86,7 @@ Adobe Experience Cloud Enterprise Support Services bieten erweiterte Support-Ser
   <tr>
     <td>Fallprüfungen</td>
     <td></td>
-    <td>ms</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Ereignis-Management</td>
@@ -106,25 +106,25 @@ Adobe Experience Cloud Enterprise Support Services bieten erweiterte Support-Ser
   <tr>
     <td>Cloud-Support-Aktivitäten – Experience Manager as a Cloud Service</td>
     <td></td>
-    <td>ms</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td rowspan="2">Außendienst</td>
     <td>Launch Advisory-Services – Erstes Jahr mit der neuen Lösung</td>
     <td></td>
-    <td>ms</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Außendienstaktivitäten</td>
     <td></td>
-    <td>ms</td>
+    <td>✔</td>
   </tr>
 </tbody>
 </table>
 
 ## Service-Level-Ziele: Spontane Reaktion
 
-| Priorität | Online-Support | Enterprise-Support |
+| Priorität | Online Support | Enterprise Support |
 |--- |--- |--- |
 | <b>PRIORITÄT 1</b><br>Die Produktionsfunktionen im Unternehmen des Kunden sind ausgefallen oder weisen einen erheblichen Datenverlust oder eine Beeinträchtigung des Service auf und ein sofortiges Eingreifen ist nötig, um Funktionalität und Nutzbarkeit wiederherzustellen. | 24x7/<br>1 Stunde | 24x7/<br>30 Minuten |
 | <b>PRIORITÄT 2</b><br>Die Unternehmensfunktionen des Kunden weisen eine erhebliche Beeinträchtigung des Service, möglichen Datenverlust oder Nichtverfügbarkeit von Services auf oder eine zentrale Funktion ist betroffen. | Geschäftszeiten/<br>4 Stunden | 24x5/<br>1 Stunde |
@@ -241,7 +241,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
   <td>
     <img alt="Office Hours" src="assets/Webinar.png"/>
     <div>
-    <p>Geschäftszeiten</p>
+    <p>Office Hours</p>
     <p><b>Webinare</b></p>
     <p>„Office Hours“ ist eine Initiative des Adobe Support-Teams. In diesen Sessions erhalten Teilnehmer Informationen, Hilfestellungen bei Problemen sowie Tipps und Tricks zur erfolgreichen Verwendung von Adobe Experience Cloud.</p>
     </div>
@@ -274,7 +274,7 @@ Für Kunden, die eine **neue Adobe Experience Cloud-Lösung** implementieren, is
 ![Support implementation and operation](assets/support-implementation.png)
 -->
 
-Experten für Adobe-Lösungen helfen bei der Prüfng von Anforderungen, Architektur, Entwicklungsprozess und Launch-Bereitschaft mit Best Practice-basierten Anleitungen für Kunden und Implementierungspartner.
+Experten für Adobe-Lösungen helfen bei der Prüfung von Anforderungen, Architektur, Entwicklungsprozess und Launch-Bereitschaft mit Best Practice-basierten Anleitungen für Kunden und Implementierungspartner.
 
 Launch Advisory orientiert sich anhand gängiger Milestones (Kickoff, Definition, Design, Go-Live und Post-Launch) an Ihren Projektplan und umfasst Anleitung, Prüfung, Bewertung und Empfehlungen. Zu den wichtigsten Angeboten gehören:
 
@@ -290,7 +290,7 @@ Launch Advisory orientiert sich anhand gängiger Milestones (Kickoff, Definition
 
 Der Außendienst sorgt für **schnelle Problemlösung**, fokussierten Kundenerfolg und beschleunigte **Time-to-Value**. Wenn Launch Advisory aktiv ist, gibt es **im ersten Jahr keinen Außendienst** für Lösungsprodukte, die unter einen Adobe Support-Vertrag fallen.
 
-Als Enterprise-Kunde können Sie **vier Aktivitäten pro Jahr** aus dem **technischen Track** und/oder dem **strategischen Track** nutzen.
+Als Enterprise-Kunde können Sie **zwei Aktivitäten pro Jahr** aus dem **technischen Track** und/oder dem **strategischen Track** nutzen.
 
 **Aktivitäten des technischen Tracks** stellen sicher, dass Kunden technisch versiert sind und ihre Tools optimal nutzen. Diese Aktivitätstypen umfassen insbesondere Support und Empfehlungen für Plattformkonfigurationen, Integrationen und die Fehlerbehebung.
 
@@ -321,9 +321,9 @@ Verfügbare strategische Aktivitäten:
 | [Produktionsprobleme und Systemausfälle](https://status.adobe.com/) | Status.adobe.com übermittelt die Statusinformationen sämtlicher Adobe-Produkte und -Services, die in Umgebungen mit mehreren Mandanten implementiert sind. Kunden können Voreinstellungen für ihr Abonnement auswählen und E-Mail-Benachrichtigungen erhalten, wenn Adobe ein Produktereignis erstellt, aktualisiert oder löst. Dies kann geplante Wartungen oder Service-Probleme unterschiedlichen Schweregrads umfassen. |
 | [Geschäftsbedingungen](https://helpx.adobe.com/de/support/programs/support-policies-terms-conditions.html) | Allgemeine Geschäftsbedingungen mit detaillierten Informationen zu den angebotenen Support-Services. |
 
-## Regionaler Umfang der Adobe, lokale Betriebszeiten und Sprachunterstützung
+## Regionales Support-Angebot von Adobe, örtliche Geschäftszeiten und unterstützte Sprachen
 
-Der regionale Umfang der Adobe Support wird durch die Abstimmung der Rechnungsadresse des Kunden (über den Kundenauftrag oder ein anderes Bestelldokument für Adoben-Support) an eine der folgenden Regionen festgelegt:
+Das regionale Support-Angebot von Adobe wird durch Abgleich der Rechnungsadresse des Kunden (entsprechend dem Kundenauftrag oder einer anderen Kaufbestätigung für Adobe-Support) mit einer der folgenden Regionen ermittelt:
 
 <table>
 <thead>
@@ -344,7 +344,7 @@ Der regionale Umfang der Adobe Support wird durch die Abstimmung der Rechnungsad
   <tr>
     <td colspan="4">
       <p><sup>1</sup><i>Sprachunterstützung ist nur auf Englisch und Japanisch verfügbar.</i></p>
-      <p><i>P2-, P3- und P4-Fälle sind nur in Japan auf Geschäftszeiten beschränkt.</i></p>
+      <p><i>Fälle der Kategorien P2, P3 und P4 sind in Japan auf Geschäftszeiten beschränkt.</i></p>
     </td>
   </tr>
 </tbody>
