@@ -3,13 +3,13 @@ title: Elite Support
 description: Adobe Experience Cloud Elite Support Services bieten erstklassige Service Level Targets (SLTs), proaktive Unterstützung und Partnerschaft mit einem Technical Account Manager und einem spezifischen Support-Mitarbeiter.
 exl-id: 46a0f6bb-dccb-4554-a811-de1384db2747
 source-git-commit: eab88ea8d66a5ae104369655137c389822671e0f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1362'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
-# Elite-Support
+# Elite Support
 
 ![icon](assets/Elitebanner.png)
 
@@ -21,7 +21,7 @@ Adobe Experience Cloud Elite Support Services bieten erstklassige Service Level 
     <th></th>
     <th></th>
     <th>Online Support</th>
-    <th>Elite-Support</th>
+    <th>Elite Support</th>
   </tr>
 </thead>
 <tbody>
@@ -45,18 +45,18 @@ Adobe Experience Cloud Elite Support Services bieten erstklassige Service Level 
   <tr>
     <td>Technical Account Manager</td>
     <td></td>
-    <td>ms</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td rowspan="12">Support-Services</td>
-    <td>Online-Support</td>
+    <td>Online Support</td>
     <td>Geschäftszeiten</td>
     <td>24x5</td>
   </tr>
   <tr>
     <td>24x7x365 Support für Probleme der Kategorie P1</td>
-    <td>ms</td>
-    <td>ms</td>
+    <td>✔</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Spezifische Support-Kontakte (pro Produkt)</td>
@@ -66,12 +66,12 @@ Adobe Experience Cloud Elite Support Services bieten erstklassige Service Level 
   <tr>
     <td>Live-Telefon-Support</td>
     <td></td>
-    <td>ms</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Eskalations-Management</td>
     <td></td>
-    <td>ms</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Jährliche Service-Prüfung</td>
@@ -86,33 +86,33 @@ Adobe Experience Cloud Elite Support Services bieten erstklassige Service Level 
   <tr>
     <td>Fallprüfungen</td>
     <td></td>
-    <td>ms</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Ereignis-Management</td>
     <td></td>
-    <td>ms</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Umgebungsbewertung, -wartung und -überwachung</td>
     <td></td>
-    <td>ms</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Prüfung von Freigabe, Migration, Aktualisierung und Produkt-Roadmap</td>
     <td></td>
-    <td>ms</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Cloud-Support-Aktivitäten – Experience Manager as a Cloud Service</td>
     <td></td>
-    <td>ms</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td rowspan="2">Außendienst</td>
     <td>Launch Advisory-Services – Erstes Jahr mit der neuen Lösung</td>
     <td></td>
-    <td>ms</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Außendienstaktivitäten</td>
@@ -124,7 +124,7 @@ Adobe Experience Cloud Elite Support Services bieten erstklassige Service Level 
 
 ## Service-Level-Ziele: Spontane Reaktion
 
-| Priorität | Online-Support | Elite-Support |
+| Priorität | Online Support | Elite Support |
 |--- |--- |--- |
 | <b>PRIORITÄT 1</b><br>Die Produktionsfunktionen im Unternehmen des Kunden sind ausgefallen oder weisen einen erheblichen Datenverlust oder eine Beeinträchtigung des Service auf und ein sofortiges Eingreifen ist nötig, um Funktionalität und Nutzbarkeit wiederherzustellen. | 24x7/<br>1 Stunde | 24x7/<br>15 Minuten |
 | <b>PRIORITÄT 2</b><br>Die Unternehmensfunktionen des Kunden weisen eine erhebliche Beeinträchtigung des Service oder möglichen Datenverlust auf oder eine zentrale Funktion ist betroffen. | Geschäftszeiten/<br>4 Stunden | 24x5/<br>30 Minuten |
@@ -138,9 +138,9 @@ Adobe Experience Cloud Elite Support Services bieten erstklassige Service Level 
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <img alt="technischer Kundenbetreuer" src="assets/namedsupportengineer.png"/>
+    <img alt="Technical Account Manager" src="assets/namedsupportengineer.png"/>
     <div>
-    <p><b>technischer Kundenbetreuer</b></p>
+    <p><b>Technical Account Manager</b></p>
     <p>Ein spezifischer Technical Account Manager, der Ihr Elite-Erlebnis überwacht, die Support- und Außendienstinteraktionen koordiniert und proaktiv Services bereitstellt, um Ihren Unternehmenswert zu maximieren.</p>
     </div>
   </td>
@@ -267,7 +267,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
   <td>
     <img alt="Office Hours" src="assets/Webinar.png"/>
     <div>
-    <p>Geschäftszeiten</p>
+    <p>Office Hours</p>
     <p><b>Webinare</b></p>
     <p>„Office Hours“ ist eine Initiative des Adobe Support-Teams. In diesen Sessions erhalten Teilnehmer Informationen, Hilfestellungen bei Problemen sowie Tipps und Tricks zur erfolgreichen Verwendung von Adobe Experience Cloud.</p>
     </div>
@@ -325,7 +325,7 @@ Für Kunden, die eine **neue Adobe Experience Cloud-Lösung** implementieren, is
 ![Support implementation and operation](assets/support-implementation.png)
 -->
 
-Experten für Adobe-Lösungen helfen bei der Prüfng von Anforderungen, Architektur, Entwicklungsprozess und Launch-Bereitschaft mit Best Practice-basierten Anleitungen für Kunden und Implementierungspartner.
+Experten für Adobe-Lösungen helfen bei der Prüfung von Anforderungen, Architektur, Entwicklungsprozess und Launch-Bereitschaft mit Best Practice-basierten Anleitungen für Kunden und Implementierungspartner.
 
 Launch Advisory orientiert sich anhand gängiger Milestones (Kickoff, Definition, Design, Go-Live und Post-Launch) an Ihren Projektplan und umfasst Anleitung, Prüfung, Bewertung und Empfehlungen. Zu den wichtigsten Angeboten gehören:
 
@@ -372,9 +372,9 @@ Verfügbare strategische Aktivitäten:
 | [Produktionsprobleme und Systemausfälle](https://status.adobe.com/) | Status.adobe.com übermittelt die Statusinformationen sämtlicher Adobe-Produkte und -Services, die in Umgebungen mit mehreren Mandanten implementiert sind. Kunden können Voreinstellungen für ihr Abonnement auswählen und E-Mail-Benachrichtigungen erhalten, wenn Adobe ein Produktereignis erstellt, aktualisiert oder löst. Dies kann geplante Wartungen oder Service-Probleme unterschiedlichen Schweregrads umfassen. |
 | [Geschäftsbedingungen](https://helpx.adobe.com/de/support/programs/support-policies-terms-conditions.html) | Allgemeine Geschäftsbedingungen mit detaillierten Informationen zu den angebotenen Support-Services. |
 
-## Regionaler Umfang der Adobe, lokale Betriebszeiten und Sprachunterstützung
+## Regionales Support-Angebot von Adobe, örtliche Geschäftszeiten und unterstützte Sprachen
 
-Der regionale Umfang der Adobe Support wird durch die Abstimmung der Rechnungsadresse des Kunden (über den Kundenauftrag oder ein anderes Bestelldokument für Adoben-Support) an eine der folgenden Regionen festgelegt:
+Das regionale Support-Angebot von Adobe wird durch Abgleich der Rechnungsadresse des Kunden (entsprechend dem Kundenauftrag oder einer anderen Kaufbestätigung für Adobe-Support) mit einer der folgenden Regionen ermittelt:
 
 <table>
 <thead>
@@ -395,7 +395,7 @@ Der regionale Umfang der Adobe Support wird durch die Abstimmung der Rechnungsad
   <tr>
     <td colspan="4">
       <p><sup>1</sup><i>Sprachunterstützung ist nur auf Englisch und Japanisch verfügbar.</i></p>
-      <p><i>P2-, P3- und P4-Fälle sind nur in Japan auf Geschäftszeiten beschränkt.</i></p>
+      <p><i>Fälle der Kategorien P2, P3 und P4 sind in Japan auf Geschäftszeiten beschränkt.</i></p>
     </td>
   </tr>
 </tbody>
