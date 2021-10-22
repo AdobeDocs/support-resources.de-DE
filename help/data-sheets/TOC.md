@@ -2,9 +2,9 @@
 user-guide-title: Support-Ressourcen
 user-guide-description: Support-Ressourcen für Adobe Experience Cloud und Adobe Experience Platform.
 source-git-commit: a61b2a003aba811899ff7d28da91f0f955384e30
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '34'
+ht-degree: 100%
 
 ---
 
