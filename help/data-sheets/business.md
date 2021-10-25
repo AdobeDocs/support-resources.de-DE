@@ -2,14 +2,14 @@
 title: Business Support
 description: Adobe Experience Cloud Business Support Services bieten vollständigen Zugriff auf die technischen Support-Teams von Adobe und auf einen Account Support Lead für das Account-Management.
 exl-id: 2f31e22f-8523-4322-875b-69f0f44a513a
-source-git-commit: 101d0a5b6d49211ccffe55ce8c023d6fb281602e
-workflow-type: ht
+source-git-commit: 2e5fce70cdce85bfa694152919b333b0e60c519b
+workflow-type: tm+mt
 source-wordcount: '872'
 ht-degree: 100%
 
 ---
 
-# Business Support
+# Unternehmensunterstützung
 
 ![icon](assets/Businessbanner.png)
 
@@ -21,7 +21,7 @@ Adobe Experience Cloud Business Support Services bieten vollständigen Zugriff a
     <th></th>
     <th></th>
     <th>Online Support</th>
-    <th>Business Support</th>
+    <th>Unternehmensunterstützung</th>
   </tr>
 </thead>
 <tbody>
@@ -29,7 +29,7 @@ Adobe Experience Cloud Business Support Services bieten vollständigen Zugriff a
     <td></td>
     <td></td>
     <td></td>
-    <td>Adobe Support (€)</td>
+    <td>Kostenpflichtiger Support (€)</td>
   </tr>
   <tr>
     <td rowspan="3">Zugewiesene Experten<br></td>
@@ -49,7 +49,7 @@ Adobe Experience Cloud Business Support Services bieten vollständigen Zugriff a
   </tr>
   <tr>
     <td rowspan="12">Support-Services</td>
-    <td>Online Support</td>
+    <td>Online-Support</td>
     <td>Geschäftszeiten</td>
     <td>Geschäftszeiten</td>
   </tr>
@@ -124,7 +124,7 @@ Adobe Experience Cloud Business Support Services bieten vollständigen Zugriff a
 
 ## Service-Level-Ziele: Spontane Reaktion
 
-| Priorität | Online Support | Business Support |
+| Priorität | Online-Support | Unternehmensunterstützung |
 |--- |--- |--- |
 | <b>PRIORITÄT 1</b><br>Die Produktionsfunktionen im Unternehmen des Kunden sind ausgefallen oder weisen einen erheblichen Datenverlust oder eine Beeinträchtigung des Service auf und ein sofortiges Eingreifen ist nötig, um Funktionalität und Nutzbarkeit wiederherzustellen. | 24x7/<br>1 Stunde | 24x7/<br>1 Stunde |
 | <b>PRIORITÄT 2</b><br>Die Unternehmensfunktionen des Kunden weisen eine erhebliche Beeinträchtigung des Service oder möglichen Datenverlust auf oder eine zentrale Funktion ist betroffen. | Geschäftszeiten/<br>4 Stunden | Geschäftszeiten/<br>2 Stunden |
@@ -138,9 +138,9 @@ Adobe Experience Cloud Business Support Services bieten vollständigen Zugriff a
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <img alt="Account Support Lead" src="assets/Accountsupportlead.png"/>
+    <img alt="Lead des Konto-Supports" src="assets/Accountsupportlead.png"/>
     <div>
-    <p><b>Account Support Lead</b></p>
+    <p><b>Lead des Konto-Supports</b></p>
     <p>Ein spezialisierter Account Support Lead überwacht proaktiv Fälle, fördert die Team-übergreifende Zusammenarbeit, stellt Onboarding-Webinare bereit, führt Service-Berichte aus, bietet Unterstützung bei nicht-technischem Support und fungiert als Eskalationsstelle und interne Kontaktperson zum Adobe Support.</p>
     </div>
   </td>
@@ -163,7 +163,7 @@ Adobe Experience Cloud Business Support Services bieten vollständigen Zugriff a
   <td>
     <img alt="Business Services" src="assets/BusinessServices.png"/>
     <div>
-    <p><b>Business Services</b></p>
+    <p><b>Unternehmensdienstleistungen</b></p>
     <p>Ein Account Support Lead führt Webinare durch, die einen Überblick über die im Business Support enthaltenen Services bieten.</p>
     </div>
   </td>
@@ -211,7 +211,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
   <td>
     <img alt="Office Hours" src="assets/Webinar.png"/>
     <div>
-    <p>Office Hours</p>
+    <p>Bürozeiten</p>
     <p><b>Webinare</b></p>
     <p>„Office Hours“ ist eine Initiative des Adobe Support-Teams. In diesen Sessions erhalten Teilnehmer Informationen, Hilfestellungen bei Problemen sowie Tipps und Tricks zur erfolgreichen Verwendung von Adobe Experience Cloud.</p>
     </div>
@@ -276,4 +276,4 @@ Das regionale Support-Angebot von Adobe wird durch Abgleich der Rechnungsadresse
 </tbody>
 </table>
 
-![icon](assets/bottom-banner.png)
+![Symbol](assets/bottom-banner.png)
