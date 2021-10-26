@@ -3,13 +3,13 @@ title: Online Support
 description: Adobe Experience Cloud Online Support Services bieten eingeschränkten Zugriff auf telefonischen Support.
 exl-id: ea7eb128-9d7a-486f-9ce2-7d1330749c9a
 source-git-commit: 2e5fce70cdce85bfa694152919b333b0e60c519b
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '757'
+ht-degree: 100%
 
 ---
 
-# Online-Support
+# Online Support
 
 ![icon](assets/OnlineBanner.png)
 
@@ -20,7 +20,7 @@ Adobe Experience Cloud Online Support Services bieten eingeschränkten Zugriff a
   <tr>
     <th></th>
     <th></th>
-    <th>Online-Support</th>
+    <th>Online Support</th>
     <th>Business Support</th>
     <th>Enterprise Support</th>
     <th>Elite Support</th>
@@ -57,11 +57,11 @@ Adobe Experience Cloud Online Support Services bieten eingeschränkten Zugriff a
   </tr>
   <tr>
     <td rowspan="12">Support-Services</td>
-    <td>Online-Support</td>
+    <td>Online Support</td>
     <td>Geschäftszeiten</td>
     <td>Geschäftszeiten</td>
     <td>24x5</td>
-    <td>24 x 5</td>
+    <td>24x5</td>
   </tr>
   <tr>
     <td>24x7x365 Support für Probleme der Kategorie P1</td>
@@ -160,7 +160,7 @@ Adobe Experience Cloud Online Support Services bieten eingeschränkten Zugriff a
 
 ## Service-Level-Ziele: Spontane Reaktion {#service-level-targets}
 
-| Priorität | Online-Support | Unternehmensunterstützung | Enterprise Support | Elite-Support |
+| Priorität | Online Support | Business Support | Enterprise Support | Elite Support |
 |--- |--- |--- |--- |--- |
 | <b>PRIORITÄT 1</b><br>Die Produktionsfunktionen im Unternehmen des Kunden sind ausgefallen oder weisen einen erheblichen Datenverlust oder eine Beeinträchtigung des Service auf und ein sofortiges Eingreifen ist nötig, um Funktionalität und Nutzbarkeit wiederherzustellen. | 24x7/<br>1 Stunde | 24x7/<br>1 Stunde | 24x7/<br>30 Minuten | 24x7/<br>15 Minuten |
 | <b>PRIORITÄT 2</b><br>Die Unternehmensfunktionen des Kunden weisen eine erhebliche Beeinträchtigung des Service oder möglichen Datenverlust auf oder eine zentrale Funktion ist betroffen. | Geschäftszeiten/<br>4 Stunden | Geschäftszeiten/<br>2 Stunden | 24x5/<br>1 Stunde | 24x5/<br>30 Minuten |
@@ -169,7 +169,7 @@ Adobe Experience Cloud Online Support Services bieten eingeschränkten Zugriff a
 
 {style=&quot;table-layout:auto&quot;}
 
-## Online-Support {#online-support-1}
+## Online Support {#online-support-1}
 
 Der Adobe-Support bietet Zugriff auf Online-Ressourcen für Dokumentation, Interaktion mit anderen Experten und Kunden bezüglich Best Practices sowie Webinar-Reihen (Office Hours) mit Tipps und Tricks zur Fehlerbehebung. Für Fragen und Fallübermittlungen stehen ebenfalls verschiedene Kanäle zur Verfügung.
 
@@ -186,7 +186,7 @@ Der Adobe-Support bietet Zugriff auf Online-Ressourcen für Dokumentation, Inter
   <td>
     <img alt="Office Hours" src="assets/Webinar.png"/>
     <div>
-    <p>Bürozeiten</p>
+    <p>Office Hours</p>
     <p><b>Webinare</b></p>
     <p>Die vom Adobe Support-Team geleitete Office Hours-Reihe umfasst Sessions mit informativem Inhalt sowie Angebote zur Problembehebung sowie Tipps und Tricks für den Erfolg bei der Nutzung von Adobe-Lösungen.</p>
     </div>
@@ -270,4 +270,4 @@ Das regionale Support-Angebot von Adobe wird durch Abgleich der Rechnungsadresse
 </tbody>
 </table>
 
-![Symbol](assets/bottom-banner.png)
+![icon](assets/bottom-banner.png)
