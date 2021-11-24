@@ -2,14 +2,14 @@
 title: Enterprise Support
 description: Adobe Experience Cloud Enterprise Support Services bieten erweiterte Support-Service-Level-Targets (SLTs), die Vorteile von technischem Know-how sowie eine Kontaktperson in Form eines spezifischen Support-Mitarbeiters.
 exl-id: f3dfbc40-df11-4ad9-9693-568d9e35ec04
-source-git-commit: eab88ea8d66a5ae104369655137c389822671e0f
-workflow-type: ht
-source-wordcount: '1199'
-ht-degree: 100%
+source-git-commit: 07d858c8d34e3e1cb5fdfd56fb6753b5338c0692
+workflow-type: tm+mt
+source-wordcount: '1192'
+ht-degree: 97%
 
 ---
 
-# Enterprise Support
+# Enterprise-Support
 
 ![icon](assets/EnterpriseBanner.png)
 
@@ -21,7 +21,7 @@ Adobe Experience Cloud Enterprise Support Services bieten erweiterte Support-Ser
     <th></th>
     <th></th>
     <th>Online Support</th>
-    <th>Enterprise Support</th>
+    <th>Enterprise-Support</th>
   </tr>
 </thead>
 <tbody>
@@ -49,14 +49,14 @@ Adobe Experience Cloud Enterprise Support Services bieten erweiterte Support-Ser
   </tr>
   <tr>
     <td rowspan="12">Support-Services</td>
-    <td>Online Support</td>
+    <td>Online-Support</td>
     <td>Geschäftszeiten</td>
     <td>24x5</td>
   </tr>
   <tr>
     <td>24x7x365 Support für Probleme der Kategorie P1</td>
-    <td>✔</td>
-    <td>✔</td>
+    <td>ms</td>
+    <td>ms</td>
   </tr>
   <tr>
     <td>Spezifische Support-Kontakte (pro Produkt)</td>
@@ -66,12 +66,12 @@ Adobe Experience Cloud Enterprise Support Services bieten erweiterte Support-Ser
   <tr>
     <td>Live-Telefon-Support</td>
     <td></td>
-    <td>✔</td>
+    <td>ms</td>
   </tr>
   <tr>
     <td>Eskalations-Management</td>
     <td></td>
-    <td>✔</td>
+    <td>ms</td>
   </tr>
   <tr>
     <td>Jährliche Service-Prüfung</td>
@@ -86,7 +86,7 @@ Adobe Experience Cloud Enterprise Support Services bieten erweiterte Support-Ser
   <tr>
     <td>Fallprüfungen</td>
     <td></td>
-    <td>✔</td>
+    <td>ms</td>
   </tr>
   <tr>
     <td>Ereignis-Management</td>
@@ -106,29 +106,29 @@ Adobe Experience Cloud Enterprise Support Services bieten erweiterte Support-Ser
   <tr>
     <td>Cloud-Support-Aktivitäten – Experience Manager as a Cloud Service</td>
     <td></td>
-    <td>✔</td>
+    <td>ms</td>
   </tr>
   <tr>
     <td rowspan="2">Außendienst</td>
     <td>Launch Advisory-Services – Erstes Jahr mit der neuen Lösung</td>
     <td></td>
-    <td>✔</td>
+    <td>ms</td>
   </tr>
   <tr>
     <td>Außendienstaktivitäten</td>
     <td></td>
-    <td>✔</td>
+    <td>ms</td>
   </tr>
 </tbody>
 </table>
 
 ## Service-Level-Ziele: Spontane Reaktion
 
-| Priorität | Online Support | Enterprise Support |
+| Priorität | Online-Support | Enterprise-Support |
 |--- |--- |--- |
-| <b>PRIORITÄT 1</b><br>Die Produktionsfunktionen im Unternehmen des Kunden sind ausgefallen oder weisen einen erheblichen Datenverlust oder eine Beeinträchtigung des Service auf und ein sofortiges Eingreifen ist nötig, um Funktionalität und Nutzbarkeit wiederherzustellen. | 24x7/<br>1 Stunde | 24x7/<br>30 Minuten |
-| <b>PRIORITÄT 2</b><br>Die Unternehmensfunktionen des Kunden weisen eine erhebliche Beeinträchtigung des Service, möglichen Datenverlust oder Nichtverfügbarkeit von Services auf oder eine zentrale Funktion ist betroffen. | Geschäftszeiten/<br>4 Stunden | 24x5/<br>1 Stunde |
-| <b>PRIORITÄT 3</b><br>Die Unternehmensfunktionen des Kunden weisen eine geringfügige oder gar keine Beeinträchtigung der Services auf, es gibt jedoch eine Lösung/Problemumgehung, mit der die Unternehmensfunktionen weiterhin genutzt werden können. | Geschäftszeiten/<br>6 Stunden | Geschäftszeiten/<br>2 Stunden |
+| <b>PRIORITÄT 1</b><br>Die Produktionsfunktionen des Kunden sind ausgefallen oder weisen erhebliche Datenverluste oder Beeinträchtigungen des Service auf und es ist eine sofortige Aufmerksamkeit erforderlich, um die Funktionalität und Benutzerfreundlichkeit wiederherzustellen. | 24x7/<br>1 Stunde | 24x7/<br>30 Minuten |
+| <b>PRIORITÄT 2</b><br>Die Unternehmensfunktionen des Kunden weisen eine erhebliche Beeinträchtigung des Service oder möglichen Datenverlust auf oder eine zentrale Funktion ist betroffen. | Geschäftszeiten/<br>4 Stunden | 24x5/<br>1 Stunde |
+| <b>PRIORITÄT 3</b><br>Die Unternehmensfunktionen des Kunden weisen eine geringfügige Beeinträchtigung des Service auf, es gibt jedoch eine Lösung/Problemumgehung, mit der die Unternehmensfunktionen weiterhin normal genutzt werden können. | Geschäftszeiten/<br>6 Stunden | Geschäftszeiten/<br>2 Stunden |
 | <b>PRIORITÄT 4</b><br>Allgemeine Frage zur aktuellen Produktfunktionalität oder Anfrage zu einer Erweiterung. | Geschäftstage/<br>3 Tage | Geschäftstag/<br>1 Tag |
 
 {style=&quot;table-layout:auto&quot;}
@@ -241,7 +241,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
   <td>
     <img alt="Office Hours" src="assets/Webinar.png"/>
     <div>
-    <p>Office Hours</p>
+    <p>Geschäftszeiten</p>
     <p><b>Webinare</b></p>
     <p>„Office Hours“ ist eine Initiative des Adobe Support-Teams. In diesen Sessions erhalten Teilnehmer Informationen, Hilfestellungen bei Problemen sowie Tipps und Tricks zur erfolgreichen Verwendung von Adobe Experience Cloud.</p>
     </div>
