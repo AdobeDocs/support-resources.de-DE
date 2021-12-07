@@ -2,14 +2,14 @@
 title: Enterprise Support
 description: Adobe Experience Cloud Enterprise Support Services bieten erweiterte Support-Service-Level-Targets (SLTs), die Vorteile von technischem Know-how sowie eine Kontaktperson in Form eines spezifischen Support-Mitarbeiters.
 exl-id: f3dfbc40-df11-4ad9-9693-568d9e35ec04
-source-git-commit: 07d858c8d34e3e1cb5fdfd56fb6753b5338c0692
-workflow-type: ht
+source-git-commit: 1fd2098e2065def561147cd99dbed18c3d94cde8
+workflow-type: tm+mt
 source-wordcount: '1192'
 ht-degree: 100%
 
 ---
 
-# Enterprise Support
+# Enterprise-Support
 
 ![icon](assets/EnterpriseBanner.png)
 
@@ -21,7 +21,7 @@ Adobe Experience Cloud Enterprise Support Services bieten erweiterte Support-Ser
     <th></th>
     <th></th>
     <th>Online Support</th>
-    <th>Enterprise Support</th>
+    <th>Enterprise-Support</th>
   </tr>
 </thead>
 <tbody>
@@ -49,14 +49,14 @@ Adobe Experience Cloud Enterprise Support Services bieten erweiterte Support-Ser
   </tr>
   <tr>
     <td rowspan="12">Support-Services</td>
-    <td>Online Support</td>
+    <td>Online-Support</td>
     <td>Geschäftszeiten</td>
     <td>24x5</td>
   </tr>
   <tr>
     <td>24x7x365 Support für Probleme der Kategorie P1</td>
-    <td>✔</td>
-    <td>✔</td>
+    <td>ms</td>
+    <td>ms</td>
   </tr>
   <tr>
     <td>Spezifische Support-Kontakte (pro Produkt)</td>
@@ -66,12 +66,12 @@ Adobe Experience Cloud Enterprise Support Services bieten erweiterte Support-Ser
   <tr>
     <td>Live-Telefon-Support</td>
     <td></td>
-    <td>✔</td>
+    <td>ms</td>
   </tr>
   <tr>
     <td>Eskalations-Management</td>
     <td></td>
-    <td>✔</td>
+    <td>ms</td>
   </tr>
   <tr>
     <td>Jährliche Service-Prüfung</td>
@@ -86,7 +86,7 @@ Adobe Experience Cloud Enterprise Support Services bieten erweiterte Support-Ser
   <tr>
     <td>Fallprüfungen</td>
     <td></td>
-    <td>✔</td>
+    <td>ms</td>
   </tr>
   <tr>
     <td>Ereignis-Management</td>
@@ -106,25 +106,25 @@ Adobe Experience Cloud Enterprise Support Services bieten erweiterte Support-Ser
   <tr>
     <td>Cloud-Support-Aktivitäten – Experience Manager as a Cloud Service</td>
     <td></td>
-    <td>✔</td>
+    <td>ms</td>
   </tr>
   <tr>
     <td rowspan="2">Außendienst</td>
     <td>Launch Advisory-Services – Erstes Jahr mit der neuen Lösung</td>
     <td></td>
-    <td>✔</td>
+    <td>ms</td>
   </tr>
   <tr>
     <td>Außendienstaktivitäten</td>
     <td></td>
-    <td>✔</td>
+    <td>ms</td>
   </tr>
 </tbody>
 </table>
 
 ## Service-Level-Ziele: Spontane Reaktion
 
-| Priorität | Online Support | Enterprise Support |
+| Priorität | Online-Support | Enterprise-Support |
 |--- |--- |--- |
 | <b>PRIORITÄT 1</b><br>Die Produktionsfunktionen im Unternehmen des Kunden sind ausgefallen oder weisen einen erheblichen Datenverlust oder eine Beeinträchtigung des Services auf, und ein sofortiges Eingreifen ist nötig, um Funktionalität und Nutzbarkeit wiederherzustellen. | 24x7/<br>1 Stunde | 24x7/<br>30 Minuten |
 | <b>PRIORITÄT 2</b><br>Die Unternehmensfunktionen des Kunden weisen eine erhebliche Beeinträchtigung des Service oder möglichen Datenverlust auf oder eine zentrale Funktion ist betroffen. | Geschäftszeiten/<br>4 Stunden | 24x5/<br>1 Stunde |
@@ -207,7 +207,7 @@ Adobe Experience Cloud Enterprise Support Services bieten erweiterte Support-Ser
 ## Umfang von Online Support
 
 <!--
-Adobe Customer Support offers access to online resources for documentation, engagement with other experts and customers for best practices, and webinar series (Office Hours) for troubleshooting tips and tricks. Several channels are also available for questions and case submissions.
+Adobe Customer Support offers access to online resources for documentation, engagement with other experts and customers for best practices, and webinar series (Office Hours) for troubleshooting tips and tricks. Several channels are also available for questions and case submissions. 
 -->
 
 <table style="table-layout:fixed">
@@ -241,7 +241,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
   <td>
     <img alt="Office Hours" src="assets/Webinar.png"/>
     <div>
-    <p>Office Hours</p>
+    <p>Geschäftszeiten</p>
     <p><b>Webinare</b></p>
     <p>„Office Hours“ ist eine Initiative des Adobe Support-Teams. In diesen Sessions erhalten Teilnehmer Informationen, Hilfestellungen bei Problemen sowie Tipps und Tricks zur erfolgreichen Verwendung von Adobe Experience Cloud.</p>
     </div>
