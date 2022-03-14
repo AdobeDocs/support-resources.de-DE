@@ -1,25 +1,25 @@
 ---
-title: Online Support
+title: Standardunterstützung
 description: Adobe Experience Cloud Online Support Services bieten eingeschränkten Zugriff auf telefonischen Support.
-source-git-commit: 60ccbe6d7fd483eaa640647c43f583c9ac5b6920
+source-git-commit: 98f2b1e3bbfa2ad2f1177f5ddd5131ef907407b2
 workflow-type: tm+mt
-source-wordcount: '757'
-ht-degree: 100%
+source-wordcount: '846'
+ht-degree: 86%
 
 ---
 
-# Online-Support
+# Standardunterstützung
 
 ![icon](assets/OnlineBanner.png)
 
-Adobe Experience Cloud Online Support Services bieten eingeschränkten Zugriff auf telefonischen Support.
+Adobe bietet eine umfassende Palette technischer Ressourcen, mit denen Sie Ihr Unternehmen im Rahmen Ihrer Adobe Enterprise-Anmeldung unterstützen können. Der Standardsupport umfasst rund um die Uhr Zugriff auf unsere Selbsthilfe-Support-Ressourcen, einschließlich Hilfeartikeln zu HelpX und der Interaktion mit anderen Kunden in der Adobe Community. Sie können unsere detaillierte und ausführliche technische Produktdokumentation und die aktuellen Versionshinweise nutzen, die auf http://www.adobe.com veröffentlicht sind. Unser Standard-Support beinhaltet auch rund um die Uhr Zugriff für autorisierte Benutzer (Admins) auf unsere technischen Support-Teams per Chat oder Telefon sowie die Möglichkeit, Hilfeanfragen über unser Support-Webportal zu protokollieren.
 
 <table>
 <thead>
   <tr>
     <th></th>
     <th></th>
-    <th>Online-Support</th>
+    <th>Standardunterstützung</th>
     <th>Business Support</th>
     <th>Enterprise Support</th>
     <th>Elite Support</th>
@@ -30,7 +30,7 @@ Adobe Experience Cloud Online Support Services bieten eingeschränkten Zugriff a
     <td></td>
     <td></td>
     <td></td>
-    <td colspan="3">Kostenpflichtiger Support (€)</td>
+    <td colspan="3">Höhe der bezahlten Unterstützung ($)</td>
   </tr>
   <tr>
     <td rowspan="3">Zugewiesene Experten<br></td>
@@ -56,7 +56,7 @@ Adobe Experience Cloud Online Support Services bieten eingeschränkten Zugriff a
   </tr>
   <tr>
     <td rowspan="12">Support-Services</td>
-    <td>Online-Support</td>
+    <td>Standardunterstützung</td>
     <td>Geschäftszeiten</td>
     <td>Geschäftszeiten</td>
     <td>24x5</td>
@@ -159,7 +159,7 @@ Adobe Experience Cloud Online Support Services bieten eingeschränkten Zugriff a
 
 ## Service-Level-Ziele: Spontane Reaktion {#service-level-targets}
 
-| Priorität | Online-Support | Business Support | Enterprise-Support | Elite-Support |
+| Priorität | Online Support | Business Support | Enterprise-Support | Elite-Support |
 |--- |--- |--- |--- |--- |
 | <b>PRIORITÄT 1</b><br>Die Produktionsfunktionen im Unternehmen des Kunden sind ausgefallen oder weisen einen erheblichen Datenverlust oder eine Beeinträchtigung des Service auf und ein sofortiges Eingreifen ist nötig, um Funktionalität und Nutzbarkeit wiederherzustellen. | 24x7/<br>1 Stunde | 24x7/<br>1 Stunde | 24x7/<br>30 Minuten | 24x7/<br>15 Minuten |
 | <b>PRIORITÄT 2</b><br>Die Unternehmensfunktionen des Kunden weisen eine erhebliche Beeinträchtigung des Service oder möglichen Datenverlust auf oder eine zentrale Funktion ist betroffen. | Geschäftszeiten/<br>4 Stunden | Geschäftszeiten/<br>2 Stunden | 24x5/<br>1 Stunde | 24x5/<br>30 Minuten |
