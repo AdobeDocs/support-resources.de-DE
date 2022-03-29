@@ -1,15 +1,15 @@
 ---
-title: Übersicht über die Experience Cloud Support-Dienste
+title: Übersicht der Support-Dienste für Experience Cloud
 description: Dieser Artikel enthält eine Zusammenfassung der Support-Optionen für Adobe Experience Cloud. Zu diesen Optionen gehören Online, Business, Enterprise und Elite.
 exl-id: ac22d8ac-a214-4ee2-8828-b28a4cccce43
 source-git-commit: 98e65227b9a988b32bdfb32a8c371f2474ea4ac5
 workflow-type: tm+mt
 source-wordcount: '200'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
-# Übersicht über die Experience Cloud Support-Dienste
+# Übersicht der Support-Dienste für Experience Cloud
 
 Der Support für Adobe Experience Cloud tut alles, um Sie auf Ihrem Weg zum Erfolg zu unterstützen. Alle Abonnements beinhalten einen Support-Level, mit dem Sie einfachen Zugriff auf technische Unterstützung durch unsere hoch qualifizierten technischen Ressourcen haben.
 
@@ -22,7 +22,7 @@ Für umfassendere Bedürfnisse bieten wir Adobe Support-Services an, die Zugriff
     <img alt="Online" src="assets/OnlineSupportThumbnail.png"/>
     </a>
     <div>
-    <a href="online.md"><strong>Online Support</strong></a> (<a href="assets/OnlineSupportDatasheet.pdf" target="_blank">PDF</a> anzeigen)
+    <a href="online.md"><strong>Online-Support</strong></a> (<a href="assets/OnlineSupportDatasheet.pdf" target="_blank">PDF</a> anzeigen)
     </div>
     <p>Eingeschränkter Zugriff auf telefonischen Support</p>
     <br>
@@ -32,7 +32,7 @@ Für umfassendere Bedürfnisse bieten wir Adobe Support-Services an, die Zugriff
       <img alt="Business" src="assets/BusinessSupportThumbnail.png">
     </a>
     <div>
-    <a href="business.md"><strong>Business Support</strong></a> (<a href="assets/BusinessSupportDatasheet.pdf" target="_blank">PDF</a> anzeigen)
+    <a href="business.md"><strong>Business-Support</strong></a> (<a href="assets/BusinessSupportDatasheet.pdf" target="_blank">PDF</a> anzeigen)
     </div>
     <p>Vollständiger Zugriff auf die technischen Support-Teams von Adobe und auf einen Account Support Lead für das Account-Management.</p>
     <br>
@@ -44,7 +44,7 @@ Für umfassendere Bedürfnisse bieten wir Adobe Support-Services an, die Zugriff
     <img alt="Enterprise" src="assets/EnterpriseSupportThumbnail.png"/>
     </a>
     <div>
-    <a href="enterprise.md"><strong>Enterprise Support</strong></a> (<a href="assets/EnterpriseSupportDatasheet.pdf" target="_blank">PDF</a> anzeigen)
+    <a href="enterprise.md"><strong>Enterprise-Support</strong></a> (<a href="assets/EnterpriseSupportDatasheet.pdf" target="_blank">PDF</a> anzeigen)
     </div>
     <p>Erweiterte Support-Service-Level-Targets (SLTs), die Vorteile von technischem Know-how sowie eine Kontaktperson in Form eines spezifischen Support-Mitarbeiters.</p>
     <br>
@@ -54,7 +54,7 @@ Für umfassendere Bedürfnisse bieten wir Adobe Support-Services an, die Zugriff
       <img alt="Elite" src="assets/EliteSupportThumbnail.png">
     </a>
     <div>
-    <a href="elite.md"><strong>Elite Support</strong></a> (<a href="assets/EliteSupportDatasheet.pdf" target="_blank">PDF</a> anzeigen)
+    <a href="elite.md"><strong>Elite-Support</strong></a> (<a href="assets/EliteSupportDatasheet.pdf" target="_blank">PDF</a> anzeigen)
     </div>
     <p>Erstklassige Service Level Targets (SLTs), proaktive Unterstützung und Partnerschaft mit einem Technical Account Manager und einem spezifischen Support-Mitarbeiter.</p>
     <br>
