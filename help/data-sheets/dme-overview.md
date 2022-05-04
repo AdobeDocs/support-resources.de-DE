@@ -3,9 +3,9 @@ title: Übersicht der Support-Services für Creative Enterprise und Document Clo
 description: Dieser Artikel enthält eine Zusammenfassung der Optionen zum Kunden-Support für Adobe Creative Cloud und Document Cloud. Zu diesen Optionen gehören Standard, Business, Enterprise und Elite.
 exl-id: e3c762b9-d4b3-4248-b1c1-8212a763b4c5
 source-git-commit: 6e3accaab1360993295e9ee4ab88d55d3e7b744e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '285'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -22,9 +22,9 @@ Für umfangreichere Anforderungen bieten wir Adobe-Support-Pläne an, die den Zu
     <img alt="Standard" src="assets/STANDARDSupportThumbnailCC.png"/>
     </a>
     <div>
-    <a href="dme-standard.md"><strong>Standard-Support</strong></a> (Ansicht <a href="assets/DMeStandardSupportDatasheet_2022.pdf" target="_blank">PDF</a>)
+    <a href="dme-standard.md"><strong>Standard-Support</strong></a>  (<a href="assets/DMeStandardSupportDatasheet_2022.pdf" target="_blank">PDF</a> anzeigen)
     </div>
-    <p>Zugang rund um die Uhr für autorisierte Benutzer (Administratoren) zu unseren technischen Supportteams per Chat oder Telefon sowie die Möglichkeit, Hilfeanfragen über unser Support-Web-Portal zu protokollieren. </p>
+    <p>Zugang rund um die Uhr für autorisierte Benutzer (Administratoren) zu unseren technischen Supportteams per Chat oder Telefon sowie die Möglichkeit, Hilfeanfragen über unser Support-Web-Portal zu stellen. </p>
     <br>
   </td>
   <td>
@@ -56,7 +56,7 @@ Für umfangreichere Anforderungen bieten wir Adobe-Support-Pläne an, die den Zu
     <div>
     <a href="dme-elite.md"><strong>Elite-Support</strong></a> (<a href="assets/DMeEliteSupportDatasheet_2022.pdf" target="_blank">PDF</a> anzeigen)
     </div>
-    <p>Der technische Ansprechpartner im Supportteam von Adobe und ein technischer Kundenbetreuer, der mit Ihnen zusammenarbeitet, bieten Ihnen erstklassige proaktive Unterstützung, um sicherzustellen, dass Sie Ihre Investition maximieren und Probleme vermeiden können, bevor sie auftreten.</p>
+    <p>Ein technischer Ansprechpartner im Supportteam von Adobe und ein technischer Kundenbetreuer, der mit Ihnen zusammenarbeitet, bieten Ihnen erstklassige proaktive Unterstützung, um sicherzustellen, dass Sie Ihre Investition optimal nutzen und Probleme vermeiden können.</p>
     <br>
   </td>
 </tr>
