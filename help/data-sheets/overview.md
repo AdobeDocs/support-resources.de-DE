@@ -1,22 +1,22 @@
 ---
-title: Übersicht über Support-Abos für Adoben
+title: Adobe-Support-Pläne – Übersicht
 description: Dieser Artikel enthält eine Zusammenfassung der Support-Optionen für Adobe Experience Cloud, Adobe Document Cloud und Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
 source-git-commit: 9ca2588c66115a7bfb0a7749dac1782dfc767100
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1990'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
-# Übersicht über Support-Abos für Adoben
+# Adobe-Support-Pläne – Übersicht
 
-Adobe Support-Pläne gehen über die reaktive Problemlösung hinaus, um Ihnen ein neues personalisiertes Erlebnis zu bieten, das Ihre Geschäftsschritte bei allen Problemen voraus hält. Durch die Einbindung unseres fundierten technischen Know-hows und innovativen Support-Modells wird Ihre Technologieleistung verbessert und Sie können das Potenzial Ihrer Adobe-Lösungen nutzen.
+Adobe-Support-Pläne gehen über die reaktive Problemlösung hinaus, um Ihnen ein neues personalisiertes Erlebnis zu bieten, sodass Ihr Unternehmen bei allen Problemen einen Vorsprung hat. Durch die Einbindung unserer fundierten technischen Kompetenzen und des innovativen Support-Modells wird die Performance Ihrer Technologie verbessert und Sie können das Potenzial Ihrer Adobe-Lösungen nutzen.
 
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <p><strong>Expertenunterstützung</strong></p>
+    <p><strong>Expert Support</strong></p>
   </td>
   <td>
     <p><strong>Ultimate Support</strong></p>
@@ -24,23 +24,23 @@ Adobe Support-Pläne gehen über die reaktive Problemlösung hinaus, um Ihnen ei
 </tr>
 <tr>
   <td>
-    <p>Mit dem Expertenunterstützungsplan können Sie rund um die Uhr auf die Expertenunterstützung zugreifen, um technische Fehlerbehebungen und Anleitungen zu wichtigen Geschäftsproblemen zu erhalten. Oder Sie finden schnelle Lösungen, indem Sie unsere selbstgeführten Ressourcen, exklusive Best Practices und eine Online-Community mit Experten und Kollegen für Adoben nutzen.</p><br>
+    <p>Mit dem Plan „Expert Support“ können Sie rund um die Uhr auf kompetenten Support zugreifen, um technische Fehlerbehebungen und Anleitungen zu wichtigen Geschäftsproblemen zu erhalten. Oder Sie finden schnelle Lösungen, indem Sie unsere Selbsthilferessourcen (außer Best Practices) und eine Online-Community mit Adobe-Experten und Kollegen nutzen.</p><br>
     <p><em>In allen Adobe Experience Cloud-Lizenzen enthalten.</em></p>
   </td>
   <td>
-    <p>Mit dem Ultimate Support Plan erhalten Sie eine hochqualitative Unterstützung durch personalisierte, proaktive Betreuung und Beratung durch Experten. Ihre Adobe Apps werden sicher und konsequent von einem Expertenteam überwacht, das mit Ihrer Umgebung vertraut ist und sich auf Ihre Geschäftsziele und die Gesundheit Ihrer Lösungen konzentriert.</p>
+    <p>Mit dem Plan „Ultimate Support“ erhalten Sie hochwertigen Support durch personalisierte, proaktive Betreuung und Beratung durch Experten. Ihre Adobe-Anwendungen werden sicher und konsequent von einem Experten-Team überwacht, das mit Ihrer Umgebung vertraut ist und sich auf Ihre Geschäftsziele und den Zustand Ihrer Lösungen konzentriert.</p>
   </td>
 </tr>
 </table>
 
-## Gezielte anfängliche Reaktionszeiten für die Unterstützung
+## Angestrebte anfängliche Reaktionszeiten für den Support
 
-| Priorität | Definition | Gezielte Reaktionszeit - Expertenunterstützung | Gezielte Reaktionszeit - Endgültige Unterstützung | Kundenbindung |
+| Priorität | Definition | Angestrebte Reaktionszeit – Expert Support | Angestrebte Reaktionszeit – Ultimate Support | Kundeninteraktion |
 |---|---|---|---|---|
-| P1 | **Kritische geschäftliche Auswirkungen:** <br>Die Produktionsfunktionen des Kunden sind ausgefallen oder weisen erhebliche Datenverluste oder Beeinträchtigungen des Service auf und es ist eine sofortige Aufmerksamkeit erforderlich, um die Funktionalität und Nutzbarkeit wiederherzustellen. | 1 Stunde | 15 Minuten | Der Kunde verpflichtet sich zur kontinuierlichen, rund um die Uhr stattfindenden Interaktion mit dem Adobe-Kundensupport bis zur Schadensbegrenzung. Wenn der Adobe-Kundensupport keine kritischen Informationen zur Verwaltung der Support-Antwort von benannten Support-Kontakten erhalten kann, kann die Adobe eine P1-Serviceanfrage auf eine niedrigere Prioritätsstufe reduzieren. |
-| P2 | **Große geschäftliche Auswirkungen:** <br>Die Geschäftsfunktionen des Kunden weisen eine erhebliche Verschlechterung der Dienstleistungen oder einen potenziellen Datenverlust auf oder eine wichtige Funktion ist betroffen. | 2 Stunden während der normalen Geschäftszeiten der Adobe | 30 Minuten während der regionalen Geschäftszeiten der Adobe | Der Support der Adobe kontaktiert nur während der Geschäftszeiten der Adobe die benannten Support-Mitarbeiter. Wenn der Adobe-Kundensupport keine kritischen Informationen zur Verwaltung einer Support-Antwort von benannten Support-Kontakten erhalten kann, kann die Adobe eine P2-Serviceanfrage auf eine niedrigere Prioritätsstufe reduzieren. |
-| P3 | **Minimale geschäftliche Auswirkungen:** <br>Die Geschäftsfunktionen des Kunden verschlechtern sich geringfügig, es gibt jedoch eine Lösung/Problemumgehung, die es ermöglicht, Geschäftsfunktionen normal weiterzuführen. | 4 Stunden während der normalen Geschäftszeiten der Adobe | 1 Stunde während der regionalen Geschäftszeiten der Adobe | Der Adobe-Support kontaktiert nur während der Geschäftszeiten der Adobe die benannten Support-Mitarbeiter. |
-| P4 | **Keine geschäftlichen Auswirkungen:** <br>Allgemeine Frage zur aktuellen Produktfunktionalität oder zu einer Erweiterungsanfrage. | 1 Werktag | 1 Werktag | Der Adobe-Support kontaktiert nur während der Geschäftszeiten der Adobe die benannten Support-Mitarbeiter. |
+| P1 | **Kritische Geschäftsauswirkungen:** <br>Die Produktionsfunktionen im Unternehmen des Kunden sind ausgefallen oder weisen einen erheblichen Datenverlust oder eine Beeinträchtigung des Service auf und ein sofortiges Eingreifen ist nötig, um Funktionalität und Nutzbarkeit wiederherzustellen. | 1 Stunde | 15 Minuten | Der Kunde verpflichtet sich zur kontinuierlichen, rund um die Uhr stattfindenden Interaktion mit dem Adobe-Kunden-Support bis zur Lösung. Wenn der Adobe-Kunden-Support keine kritischen Informationen zur Verwaltung der Support-Antwort von benannten Support-Kontakten erhalten kann, kann Adobe eine P1-Service-Anfrage auf eine niedrigere Prioritätsstufe herabstufen. |
+| P2 | **Erhebliche Geschäftsauswirkungen:** <br>Die Unternehmensfunktionen des Kunden weisen eine erhebliche Beeinträchtigung des Service oder möglichen Datenverlust auf oder eine zentrale Funktion ist betroffen. | 2 Stunden während der normalen Geschäftszeiten von Adobe | 30 Minuten während der regionalen Geschäftszeiten von Adobe | Der Adobe-Support kontaktiert nur während der Geschäftszeiten von Adobe die benannten Support-Kontakte. Wenn der Adobe-Kunden-Support keine kritischen Informationen zur Verwaltung einer Support-Antwort von benannten Support-Kontakten erhalten kann, kann Adobe eine P2-Service-Anfrage auf eine niedrigere Prioritätsstufe herabstufen. |
+| P3 | **Minimale Geschäftsauswirkungen:** <br>Die Unternehmensfunktionen des Kunden weisen eine geringfügige Beeinträchtigung des Service auf, es gibt jedoch eine Lösung/Problemumgehung, mit der die Unternehmensfunktionen weiterhin normal genutzt werden können. | 4 Stunden während der normalen Geschäftszeiten von Adobe | 1 Stunde während der regionalen Geschäftszeiten von Adobe | Der Adobe-Kunden-Support kontaktiert nur während der Geschäftszeiten von Adobe die benannten Support-Kontakte. |
+| P4 | **Keine Geschäftsauswirkungen:** <br>Allgemeine Frage zur aktuellen Produktfunktionalität oder Anfrage zu einer Erweiterung. | 1 Werktag | 1 Werktag | Der Adobe-Kunden-Support kontaktiert nur während der Geschäftszeiten von Adobe die benannten Support-Kontakte. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -49,7 +49,7 @@ Adobe Support-Pläne gehen über die reaktive Problemlösung hinaus, um Ihnen ei
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <p><strong>Expertenunterstützung</strong></p>
+    <p><strong>Expert Support</strong></p>
   </td>
   <td>
     <p><strong>Ultimate Support</strong></p>
@@ -58,24 +58,24 @@ Adobe Support-Pläne gehen über die reaktive Problemlösung hinaus, um Ihnen ei
 <tr>
   <td>
     <ul>
-      <li><strong>Sofortiger Online-Support</strong> - (24x7) über Chat oder Webportal </li>
-      <li><strong>Telefonunterstützung</strong> - 24x7-Unterstützung für P1-Notfälle, Unterstützung der Geschäftszeiten für P2/P3/P4 </li>
-      <li><strong>Geführte Lernressourcen</strong> - Informieren Sie sich über unser Knotenpunkt für Wissen, Experience League und erweitern Sie Ihr Wissen mit Produktdokumentation, potenziellen Lösungen für Fälle, Videos zur Fehlerbehebung und Best Practices. </li>
-      <li><strong>Gepoolte erfahrene Mannschaft und Schwarm-Methodik</strong> - Globale Teams sind in Pods strukturiert, wobei Experten aus verschiedenen Hintergründen zusammengeführt werden, um eine schnellste Lösung für ein bestimmtes Problem zu finden. </li>
-      <li><strong>Unbegrenzte Supportanfragen</strong> - Wenden Sie sich an Experten, um eine unbegrenzte Anzahl von Problemen zu erhalten, Ausfälle mit proaktiven Warnhinweisen zu bewältigen und durch priorisiertes Eskalationsmanagement für Fälle eine schnellere Lösung zu erhalten.</li>
-      <li><strong>Ereignisplanung (optionales Add-on)</strong> - Experten prüfen und berichten über Ihre Umgebung und bieten Anleitungen und Unterstützung bei der Vorbereitung auf kritische Ereignisse mit hohem Traffic-Aufkommen</li>
+      <li><strong>Sofortiger Online-Support</strong> – (rund um die Uhr die ganze Woche lang) über Chat oder Web-Portal </li>
+      <li><strong>Telefonischer Support</strong> – Rund-um-die-Uhr-Support für P1-Notfälle, Support während der Geschäftszeiten für P2/P3/P4 </li>
+      <li><strong>Geführte Lernressourcen</strong> – Informieren Sie sich über unseren Wissens-Hub, Experience League, und erweitern Sie Ihr Wissen mit Produktdokumentationen, potenziellen Lösungen für Anwendungsfälle, Videos zur Fehlerbehebung und Best Practices. </li>
+      <li><strong>Erfahrene Teams und Schwarmmethodik</strong> – Globale Teams sind in „Pods“ strukturiert, wobei Experten mit verschiedenen Hintergründen zusammengebracht werden, um die schnellste Lösung für ein bestimmtes Problem zu finden. </li>
+      <li><strong>Unbegrenzte Support-Anfragen</strong> – Wenden Sie sich bei einer unbegrenzten Anzahl von Problemen an Experten, bewältigen Sie Ausfälle mit proaktiven Warnhinweisen und erreichen Sie durch priorisiertes Eskalations-Management für Anwendungsfälle eine schnellere Lösung.</li>
+      <li><strong>Ereignisplanung (optionales Add-on)</strong> – Experten prüfen Ihre Umgebung, erstellen Berichte darüber und bieten Anleitungen und Support bei der Vorbereitung auf kritische Ereignisse mit hohem Traffic-Aufkommen.</li>
     </ul>
   </td>
   <td>
     <ul>
-      <li><strong>Designierter technischer Kundenbetreuer und Support Service Manager</strong> - Zugewiesene Experten organisieren lösungsübergreifend ein ganzheitliches personalisiertes Supporterlebnis, sorgen für Feedback und Probleme, koordinieren regelmäßige Serviceprüfungen und bieten personalisierte Einblicke in kritische Serviceausfälle. </li>
-      <li><strong>Proaktive technische und operative Dienstleistungen </strong> - Sie erhalten proaktive Anleitungen wie Planung der Bereitstellung von Diensten, Konsistenzprüfung, Wartung und Best Practices, Upgrade-/Migrationsplanung und Empfehlungen für Anwendungsfälle. </li>
-      <li><strong>Launch-Beratung</strong> - Hilfe bei der Übernahme und Einführung Ihres Lösungsdesigns mit Best Practice-Launches und unterstützenden Diensten für neue Implementierungen. </li>
-      <li><strong>Vorbereitung und Überprüfung von Versionen</strong> - Überprüfen Sie neue Funktionen und ermitteln Sie die erforderlichen Wartungs- und Fehlerbehebungsaktivitäten, um sich auf die neuesten Versionen und Plattformen vorzubereiten. </li>
-      <li><strong>Wissenstransfer </strong> - Technische Kundenbetreuer geben Anleitungen und Best Practices zu bestimmten Funktionen in allen Lösungen frei. </li>
-      <li><strong>Maximieren Sie die Betriebszeit mit priorisiertem technischen Support.</strong> - Schnelle Unterstützung mit aggressiveren Reaktionszeiten für eine unbegrenzte Anzahl von Problemen, der Analyse der Ursachen für P1- und P2-Probleme und der personalisierten Eskalationsverwaltung </li>
-      <li><strong>Roadmap-Überprüfungen</strong> - Überprüfen Sie die künftigen Fahrpläne für die Lösungen der Adobe, vergleichen Sie Ihre Roadmap und richten Sie sie an unsere aus, um Risiken zu mindern und größere Veränderungen zu planen. </li>
-      <li><strong>Ereignisplanung (Add-on)</strong> - Experten prüfen und berichten über Ihre Umgebung und bieten Anleitungen und Unterstützung bei der Vorbereitung auf kritische Ereignisse mit hohem Traffic-Aufkommen</li>
+      <li><strong>Designierter Technical Account Manager und Support Service Manager</strong> – Zugewiesene Experten organisieren lösungsübergreifend ein ganzheitliches personalisiertes Support-Erlebnis, setzen sich für Feedback und Probleme ein, koordinieren regelmäßige Service-Prüfungen und bieten personalisierte Einblicke in kritische Service-Ausfälle. </li>
+      <li><strong>Proaktive technische und operative Services</strong> – Erhalten Sie proaktive Anleitungen wie Planung der Service-Bereitstellung, Zustandsprüfung, Wartung und Best Practices, Upgrade-/Migrationsplanung und Empfehlungen für Anwendungsfälle. </li>
+      <li><strong>Launch advisory</strong> – Erhalten Sie Hilfe bei der Einführung und dem Rollout Ihres Lösungs-Designs mit Best Practice-Launch und unterstützenden Services für neue Implementierungen. </li>
+      <li><strong>Vorbereitung und Überprüfung von Versionen</strong> – Überprüfen Sie neue Funktionen und ermitteln Sie die erforderlichen Wartungs- und Fehlerbehebungsaktivitäten, um sich auf die neuesten Versionen und Plattformen vorzubereiten. </li>
+      <li><strong>Wissens-Transfer</strong> – Technical Account Manager geben Anleitungen und Best Practices zu bestimmten Funktionen in allen Lösungen weiter. </li>
+      <li><strong>Maximieren Sie die Betriebszeit mit priorisiertem technischem Support</strong> – Erhalten Sie schnellen Support mit schnelleren Reaktionszeiten für eine unbegrenzte Anzahl von Problemen, Ursachenanalysen für P1- und P2-Probleme und personalisierte Eskalationsverwaltung. </li>
+      <li><strong>Roadmap-Überprüfungen</strong> – Überprüfen Sie die künftigen Roadmaps von Adobe-Lösungen, vergleichen Sie Ihre Roadmap mit unserer und stimmen Sie sie ab, um Risiken zu mindern und größere Veränderungen zu planen. </li>
+      <li><strong>Ereignisplanung (Add-on)</strong> – Experten prüfen Ihre Umgebung, erstellen Berichte darüber und bieten Anleitungen und Support bei der Vorbereitung auf kritische Ereignisse mit hohem Traffic-Aufkommen.</li>
     </ul>
   </td>
 </tr>
@@ -83,30 +83,30 @@ Adobe Support-Pläne gehen über die reaktive Problemlösung hinaus, um Ihnen ei
 
 ## Support-Add-ons
 
-| Ereignis-Management | Technical Account Director (nur Ultimate) | Erweiterte Cloud-Unterstützung |
+| Ereignis-Management | Technical Account Director (nur Ultimate) | Erweiterter Cloud-Support |
 |---|---|---|
-| **Veranstaltungsplanung** - Planung, Vorbereitung, Anleitung, Kommunikation <br>**Ereignisausführung** - Konfigurieren, implementieren, testen, überprüfen, prüfen <br>**Ereignisüberwachung** - Live-Überwachung, Systemüberwachung, Bereitstellungsraum | **Übersichten** Interaktion und Ausführung, um ein Höchstmaß an Leistung zu gewährleisten. <br>**Verwalten von Geschäftsbeziehungen** durch Berichterstattung, Überprüfungen und künftige Planungsdiskussionen. <br>**Führt zu einer technischen Umgebung** Bewertungen, Risikominderung und prädiktive Einblicke zur Verbesserung des technischen Quotienten. <br>**Alignments und Fürsprecher** mit technischen Teams zur Beschleunigung der Aufgabenausführung und Problembehebung. <br>**Eigeninitiative und unterstützende Planung** um einen reibungslosen Versand zu gewährleisten und den Wert zu maximieren. <br>**Kommunikation und Reisebusse** interne und externe Akteure zu Wertsteigerungen und Interaktionsstrategie | Top-Level-Pflege und Wertsicherung für Kunden von Adobe Experience Manager as a Cloud Service.  <br>Beschleunigen Sie den Übergang zur Cloud, indem Sie durch die proaktive Optimierung, erzwungene Best Practices und die Sicherstellung eines überlegenen Live-Erlebnisses in komplexen Cloud-Technologieszenarien navigieren. <br> **Implementierung:** Vorab-, monatliche und Pre-go-Check-in-Aufrufe zur Migration <br>**Interaktion:** Einführung, Onboarding, Best Practices für Tests <br>**GoLive:** Ereignisunterstützung, Domänenüberwachung, Produktionsübergabe <br>**Ausführen und Ausführen:** Proaktive Optimierung und Lösungseinblicke/Berichterstellung <br> |
-| **Beispielereignisverwaltungsszenarien:** <ul><li>Black Friday + Cyber Monday </li><li>Große Sportereignisse (d.h. Superbowl, Olympische Spiele, FIFA-Weltmeisterschaft) </li><li>Spezielle Einkaufsereignisse oder größere jährliche Promotions </li></ul> | **Ein technisches Konto Director kann einen großen Mehrwert bieten, wenn eine oder mehrere der folgenden Situationen zutreffen.** <ul><li>Sie besitzen mehrere Adobe Experience Cloud-Anwendungen. </li><li>Sie benötigen Unterstützung für mehrere Regionen, Marken oder Geschäftsbereiche. </li><li>Sie haben komplexe Anwendungsfälle mit Adobe-Technologie und benötigen strategische Führung.</li></ul> | **Wann benötigen Sie den erweiterten Cloud-Support?** <ul><li>Wenn Sie Adobe Experience Manager as a Cloud Service besitzen. </li><li>Wenn Sie eine Migration zu Experience Manager as a Cloud Service durchführen. </li><li>Wenn Sie enge Termine oder komplexe Anwendungsfälle mit Experience Manager as a Cloud Service haben. </li></ul> |
+| **Ereignisplanung** – <br>**Ereignisausführung** planen, vorbereiten, anleiten, kommunizieren – <br>**Ereignisüberwachung** konfigurieren, implementieren, testen, überprüfen, prüfen – Live-Überwachung, Systemüberwachung, Lagezentrum | **Überwacht** die Interaktion und Ausführung, um ein Höchstmaß an Leistung zu gewährleisten. <br>**Verwalten von Geschäftsbeziehungen** durch Berichterstattung, Überprüfungen und Planungsbesprechungen. <br>**Führt Überprüfungen der technischen Umgebung**, Risikominderung und prädiktive Erkenntnisse zur Verbesserung des technischen Quotienten an. <br>**Abstimmung und Fürsprache** mit technischen Teams zur Beschleunigung der Aufgabenausführung und Problembehebung. <br>**Eigeninitiative und unterstützende Planung**, um für eine reibungslose Lieferung zu sorgen und den Wert zu maximieren. <br>**Kommunikation und Coaching** für interne und externe Stakeholder zu Werttreibern und Interaktionsstrategie | Erstklassige Betreuung und Wertsicherung für Kunden von Adobe Experience Manager as a Cloud Service.  <br>Beschleunigen Sie den Übergang zur Cloud, indem Sie durch die proaktive Optimierung, erzwungene Best Practices und die Sicherstellung eines überlegenen Live-Erlebnisses in komplexen Cloud-Technologieszenarien navigieren. <br> **Implementierung:** Monatliche Check-in-Anrufe sowie Check-in-Anrufe zur Migrationsvorbereitung und vor der Live-Schaltung <br>**Interaktion:** Best Practices für Start, Onboarding und Tests <br>**Live-Schaltung:** Ereignisunterstützung, Domain-Überwachung, Produktionsübergabe <br>**Ausführung und Betrieb:** Proaktive Kontaktaufnahme zur Optimierung und Lösungserkenntnisse/Berichterstellung <br> |
+| **Beispiele für Ereignis-Management-Szenarien:** <ul><li>Black Friday + Cyber Monday </li><li>Großes Sportereignis (z. B Superbowl, Olympische Spiele, FIFA-Fußballweltmeisterschaft) </li><li>Spezielle Einkaufsereignisse oder große jährliche Werbeaktionen </li></ul> | **Ein Technical Account Director kann einen großen Mehrwert bieten, wenn eine oder mehrere der folgenden Situationen vorliegen.** <ul><li>Sie besitzen mehrere Adobe Experience Cloud-Anwendungen. </li><li>Sie benötigen Unterstützung für mehrere Regionen, Marken oder Geschäftsbereiche. </li><li>Sie haben komplexe Anwendungsfälle mit Adobe-Technologie und benötigen strategische Führung.</li></ul> | **Wann benötigen Sie den erweiterten Cloud-Support?** <ul><li>Wenn Sie Adobe Experience Manager as a Cloud Service besitzen. </li><li>Wenn Sie eine Migration zu Experience Manager as a Cloud Service durchführen. </li><li>Wenn Sie knappe Fristen oder komplexe Anwendungsfälle mit Experience Manager as a Cloud Service haben. </li></ul> |
 
 ## Adobe Digital Learning Services
 
-***Verbessern der Unterstützung für Ultimate mit einem Schulungsabonnement***
+***Stärkung des Ultimate-Supports mit einem Schulungsabonnement***
 
-**Adobe von qualifizierten Arbeitskräften erstellen** mit personalisierten Journey für Einzelpersonen und Teams
+**Aufbau einer Belegschaft mit Adobe-Qualifikationen** mit personalisierten Lern-Journeys für Einzelpersonen und Teams
 
 **Maximieren der Leistung und Investitionen** durch schnelle Kompetenzentwicklung und kontinuierliche Produkt- und Lösungskompetenz
 
-**Geschäftliche Ziele mit einer durchgängigen Lernstrategie realisieren** mit dem Sie die digitale Reife von der Akzeptanz zur Optimierung steigern können
+**Geschäftliche Ziele mit einer durchgängigen Lernstrategie realisieren**, mit der Sie die digitale Reife von der Einführung bis zur Optimierung steigern können
 
-## Unterstützungsdienste - Regionen, Stunden und Sprachen
+## Support-Dienstleistungen – Regionen, Stunden und Sprachen
 
 <table style="table-layout:auto">
 <tr>
   <td>
-    <p><strong>Live-Telefon und technischer Online-Support</strong></p>
+    <p><strong>Technischer Support per Live-Telefonat und online</strong></p>
   </td>
   <td>
-    <ul><li>Vorfälle der Priorität 1: 24x7x365 per Telefon oder Online-Support</li><li>Vorfälle im Rahmen der Prioritätsachse 2-4: Support während der regionalen Geschäftszeiten per Chat oder Online-Support.</li></ul>
+    <ul><li>Vorfälle der Priorität 1: Rund um die Uhr, 365 Tage im Jahr, per Telefon oder Online-Support-Fall</li><li>Vorfälle der Priorität 2-4: Support während der regionalen Geschäftszeiten per Chat oder Online-Support-Fall verfügbar.</li></ul>
   </td>
 </tr>
 <tr>
@@ -114,7 +114,7 @@ Adobe Support-Pläne gehen über die reaktive Problemlösung hinaus, um Ihnen ei
     <p><strong>Regionale Geschäftszeiten</strong></p>
   </td>
   <td>
-    <ul><li>Die anwendbaren regionalen Geschäftszeiten basieren auf der Rechnungsadresse im Verkaufsauftrag oder in den Kaufunterlagen.</li><li>Wird die Adobe von einer anderen Person als den benannten Support-Kontakten unterstützt, kann die Adobe beantragen, dass der Support-Fall von einem benannten Support-Mitarbeiter erneut eingereicht wird.</li></ul>
+    <ul><li>Die geltenden regionalen Geschäftszeiten basieren auf der Rechnungsadresse im Verkaufsauftrag oder in den Kaufunterlagen.</li><li>Wenn Adobe von einer anderen Person als den benannten Support-Kontakten bezüglich Unterstützung kontaktiert wird, kann Adobe anfordern, dass der Support-Fall von einem benannten Support-Kontakt erneut eingereicht wird.</li></ul>
   </td>
 </tr>
 <tr>
@@ -122,7 +122,7 @@ Adobe Support-Pläne gehen über die reaktive Problemlösung hinaus, um Ihnen ei
     <p><strong>Sprachen</strong></p>
   </td>
   <td>
-    <ul><li>Die japanische Sprachunterstützung ist während der japanischen Geschäftszeiten verfügbar, mit Ausnahme von Feiertagen oder Adoben. Für Adobe Commerce ist kein japanischer Support verfügbar.</li><li>Mit der obigen Ausnahme wird der gesamte Support nur in englischer Sprache angeboten.</li></ul>
+    <ul><li>Die japanische Sprachunterstützung ist während der japanischen Geschäftszeiten verfügbar, mit Ausnahme von Feiertagen und geschäftsfreien Tagen von Adobe. Für Adobe Commerce ist kein japanischer Support verfügbar.</li><li>Mit der obigen Ausnahme wird der gesamte Support nur in englischer Sprache angeboten.</li></ul>
   </td>
 </tr>
 <tr>
@@ -130,7 +130,7 @@ Adobe Support-Pläne gehen über die reaktive Problemlösung hinaus, um Ihnen ei
     <p><strong>Support-Zugriff</strong></p>
   </td>
   <td>
-    <ul><li>Der Kunde gewährt dem Adobe Support Zugriff auf die entsprechenden Kundensysteme über Remote-Support-Tools, die von der Adobe zur Fehlerbehebung und zu Supportdiensten gesteuert werden.</li></ul>
+    <ul><li>Der Kunde gewährt dem Adobe-Support Zugriff auf die entsprechenden Kundensysteme über Remote-Support-Tools, die von Adobe zur Fehlerbehebung und für Support-Dienstleistungen kontrolliert werden.</li></ul>
   </td>
 </tr>
 </table>
@@ -141,64 +141,64 @@ Adobe Support-Pläne gehen über die reaktive Problemlösung hinaus, um Ihnen ei
 |---|---|---|---|
 | 6:00–17:30 Uhr | 9:00–17:00 Uhr | 9:00–17:00 Uhr | 9:00–17:00 Uhr |
 
-## Zusätzliche Begriffe für Adobe Commerce auf Managed Services (früher Magento Commerce Pro: Managed Services
+## Zusätzliche Bedingungen für Adobe Commerce on Managed Services (früher: Magento Commerce Pro: Managed Services)
 
-Standardunterstützung für Adobe Commerce: Managed Services-Produkte, die vom Kunden am oder nach dem 20. September 2021 lizenziert oder erneuert wurden, unterliegen den in der unten stehenden Tabelle angegebenen Zielgruppen-Reaktionszeiten, die die in der obigen Tabelle angegebenen Zielgruppen-Reaktionszeiten ersetzen. Außer wie in der folgenden Tabelle angegeben, gelten alle anderen weiteren Support-Bedingungen für Adobe Commerce: Managed Services bleibt unverändert. Die folgenden zielgerichteten Reaktionszeiten gelten nur für Dienstanforderungen im Zusammenhang mit Adobe Commerce: Managed Services und keine anderen AEC-Produkte.
+Standard-Support für Produkte von Adobe Commerce: Managed Services, die vom Kunden am oder nach dem 20. September 2021 lizenziert oder erneuert wurden, unterliegen den in der unten stehenden Tabelle angegebenen erwarteten Antwortzeiten, die die in der obigen Tabelle angegebenen erwarteten Antwortzeiten ersetzen. Außer wie in der folgenden Tabelle angegeben, bleiben alle anderen weiteren Support-Bedingungen für Adobe Commerce: Managed Services unverändert. Die folgenden erwarteten Antwortzeiten gelten nur für Service-Anfragen im Zusammenhang mit Adobe Commerce: Managed Services und keine anderen AEC-Produkte.
 
-| Priorität | Definition | Gezielte anfängliche Reaktionszeit | Kundenbindung |
+| Priorität | Definition | Angestrebte anfängliche Antwortzeit | Kundeninteraktion |
 |---|---|---|---|
-| P1 | **Kritische geschäftliche Auswirkungen:** <br>Die Produktionsfunktionen des Kunden sind ausgefallen oder weisen erhebliche Datenverluste oder Beeinträchtigungen des Service auf und es ist eine sofortige Aufmerksamkeit erforderlich, um die Funktionalität und Nutzbarkeit wiederherzustellen. | 30 Minuten | Der Kunde verpflichtet sich zur kontinuierlichen, rund um die Uhr stattfindenden Interaktion mit dem Adobe-Kundensupport bis zur Schadensbegrenzung. Wenn der Adobe-Kundensupport keine kritischen Informationen zur Verwaltung der Support-Antwort von benannten Support-Kontakten erhalten kann, kann die Adobe eine P1-Serviceanfrage auf eine niedrigere Prioritätsstufe reduzieren. |
-| P2 | **Große geschäftliche Auswirkungen:** <br>Die Geschäftsfunktionen des Kunden weisen eine erhebliche Verschlechterung der Dienstleistungen oder einen potenziellen Datenverlust auf oder eine wichtige Funktion ist betroffen. | 1 Stunde während der normalen Geschäftszeiten der Adobe | Der Support der Adobe kontaktiert nur während der Geschäftszeiten der Adobe die benannten Support-Mitarbeiter. Wenn der Adobe-Kundensupport keine kritischen Informationen zur Verwaltung einer Support-Antwort von benannten Support-Kontakten erhalten kann, kann die Adobe eine P2-Serviceanfrage auf eine niedrigere Prioritätsstufe reduzieren. |
-| P3 | **Minimale geschäftliche Auswirkungen:** <br>Die Geschäftsfunktionen des Kunden verschlechtern sich geringfügig, es gibt jedoch eine Lösung/Problemumgehung, die es ermöglicht, Geschäftsfunktionen normal weiterzuführen. | 2 Stunden während der normalen Geschäftszeiten der Adobe | Der Adobe-Support kontaktiert nur während der Geschäftszeiten der Adobe die benannten Support-Mitarbeiter. |
-| P4 | **Keine geschäftlichen Auswirkungen:** <br>Allgemeine Frage zur aktuellen Produktfunktionalität oder zu einer Erweiterungsanfrage. | 1 Werktag | Der Adobe-Support kontaktiert nur während der Geschäftszeiten der Adobe die benannten Support-Mitarbeiter. |
+| P1 | **Kritische Geschäftsauswirkungen:** <br>Die Produktionsfunktionen im Unternehmen des Kunden sind ausgefallen oder weisen einen erheblichen Datenverlust oder eine Beeinträchtigung des Services auf und ein sofortiges Eingreifen ist nötig, um Funktionalität und Nutzbarkeit wiederherzustellen. | 30 Minuten | Der Kunde verpflichtet sich zur kontinuierlichen, rund um die Uhr stattfindenden Interaktion mit dem Adobe-Kunden-Support bis zur Lösung. Wenn der Adobe-Kunden-Support keine kritischen Informationen zur Verwaltung der Support-Antwort von benannten Support-Kontakten erhalten kann, kann Adobe eine P1-Service-Anfrage auf eine niedrigere Prioritätsstufe herabstufen. |
+| P2 | **Erhebliche Geschäftsauswirkungen:** <br>Die Unternehmensfunktionen des Kunden weisen eine erhebliche Beeinträchtigung des Services oder möglichen Datenverlust auf oder eine zentrale Funktion ist betroffen. | 1 Stunde während der normalen Geschäftszeiten von Adobe | Der Adobe-Support kontaktiert nur während der Geschäftszeiten von Adobe die benannten Support-Kontakte. Wenn der Adobe-Kunden-Support keine kritischen Informationen zur Verwaltung einer Support-Antwort von benannten Support-Kontakten erhalten kann, kann Adobe eine P2-Service-Anfrage auf eine niedrigere Prioritätsstufe herabstufen. |
+| P3 | **Minimale Geschäftsauswirkungen:** <br>Die Unternehmensfunktionen des Kunden weisen eine geringfügige Beeinträchtigung des Services auf, es gibt jedoch eine Lösung/Problemumgehung, mit der die Unternehmensfunktionen weiterhin normal genutzt werden können. | 2 Stunden während der normalen Geschäftszeiten von Adobe | Der Adobe-Kunden-Support kontaktiert nur während der Geschäftszeiten von Adobe die benannten Support-Kontakte. |
+| P4 | **Keine Geschäftsauswirkungen:** <br>Allgemeine Frage zur aktuellen Produktfunktionalität oder Anfrage zu einer Erweiterung. | 1 Werktag | Der Adobe-Kunden-Support kontaktiert nur während der Geschäftszeiten von Adobe die benannten Support-Kontakte. |
 
 {style=&quot;table-layout:auto&quot;}
 
-## Launch-Beratungsdienste - Schrittweise proaktive Aktivitäten
+## Launch Advisory Services – Schrittweise proaktive Aktivitäten
 
 <table>
 <tbody>
   <tr>
-    <td>Kick-Off </td>
-    <td>Projektstart, Abstimmung auf Ziele und Zeitpläne, Projekt-Kooperationsplan, Ermittlung von Ressourcen, Interessengruppen und Einrichtung der Projektkadenz </td>
-    <td>Kick-off-Deck einschließlich Projektmitarbeiterplan </td>
+    <td>Start </td>
+    <td>Projektstart, Abstimmung der Ziele und Timelines, Plan für die Projektzusammenarbeit, Ermittlung von Ressourcen, Beteiligten und Einrichtung der Projektkadenz </td>
+    <td>Start-Deck einschließlich des Plans für die Projektzusammenarbeit </td>
   </tr>
   <tr>
     <td>Definieren </td>
-    <td>Geschäftsanforderungen, KPIs, Anwendungsfälle - lösungsspezifisch oder lösungsspezifisch (falls zutreffend), Kundenbereitschaftsstrategie, Bewertung und Empfehlungen. Einrichten einer soliden Grundlage für eine erfolgreiche neue Implementierung  </td>
-    <td>Bewertung und Recommendations-Dokument </td>
+    <td>Geschäftsanforderungen, KPIs, Anwendungsfälle (lösungsspezifisch oder ggf. für mehrere Lösungen), Kundenbereitschaftsstrategie, Bewertung und Empfehlungen. Festlegen einer soliden Grundlage für eine erfolgreiche neue Implementierung  </td>
+    <td>Dokument zu Assessment &amp; Recommendations </td>
   </tr>
   <tr>
     <td>Design </td>
-    <td>Best Practices-Beratung, technische Spezifikation und Architekturüberprüfung des Lösungsdesigns und ggf. Überprüfung mehrerer Lösungen. Überprüfen, ob die Implementierung bestmöglich funktioniert </td>
+    <td>Best Practices-Beratung, technische Spezifikation und Architekturüberprüfung des Lösungs-Designs und ggf. Überprüfung mehrerer Lösungen. Überprüfen, ob die Implementierung optimal funktioniert </td>
     <td></td>
   </tr>
   <tr>
     <td>Live-Schaltung </td>
-    <td>Best Practices-Beratung, Validierung der Implementierung von Lösungen, Funktionen und Integrationen für "passend zur Verwendung"und Genauigkeit für den Status der Vorbereitung auf den Launch. Kann je nach Lösung Leistungs-/Belastungstests umfassen </td>
+    <td>Best Practices-Beratung, Validierung der Lösungsimplementierung, Funktionen, für die Verwendung geeignete Integrationen und Genauigkeit für den Launch-Bereitschaftsstatus. Kann je nach Lösung Leistungs-/Belastungstests umfassen. </td>
     <td></td>
   </tr>
   <tr>
-    <td>Post-Launch </td>
-    <td>Aktivierung, Beratung zu Nutzungsszenarios mit Laufzeiten, Interaktionszusammenfassung und Übergabe an Support und/oder Felddienste </td>
+    <td>Nach dem Launch </td>
+    <td>Aktivierung, Beratung zu Laufzeit-Anwendungsfällen, Interaktionszusammenfassung und Übergabe an Support und/oder Vor-Ort-Services </td>
     <td>Interaktionszusammenfassung </td>
   </tr>
 </tbody>
 </table>
 
-## Felddienst-Aktivitäten: Menü
+## Aktivitäten von Vor-Ort-Services: Menü
 
 | Aktivitätstypen | Lösungen | Beschreibung |
 |---|---|---|
-| Gesundheitsbewertung | Analytics, Audience Manager, Target, Campaign, Experience Manager, Commerce, Marketo Engage | Gezielte Bewertung des Konsistenzniveaus einer bestimmten Anwendung |
-| Funktionsimplementierung und Integrationsunterstützung | Analytics, Audience Manager, Target, Campaign, Experience Manager | Grundlegende Unterstützung für die Einrichtung und Konfiguration einer einzelnen einfachen Implementierung oder Integration einer Lösung |
-| Problembehebung für Lösungen (benutzerdefiniert) | Analytics, Audience Manager, Target, Campaign, Experience Manager, Commerce | Technische Fehlerbehebung und Problembehebung für einen Teil von benutzerdefiniertem Code oder nicht standardmäßigen Konfigurationen, bei denen bestätigt wird, dass das Problem kein Kernproduktfehler oder Konfigurationsproblem ist |
-| as a Cloud Service Adoptionshinweise AEM | Experience Manager | Leitlinien und Empfehlungen für die Durchführbarkeit, Architektur und Modernisierung von Upgrade/Migration |
-| Grundlegende Anwendungsfallentwicklung und -unterstützung | Analytics, Audience Manager, Target, Campaign, Experience Manager, Commerce, Marketo Engage | Entwicklung von Einzelanwendungsfällen und begrenzte Ausführungsunterstützung für eine bestimmte kleine/einfache Kampagne, einen Test, eine Personalisierung oder eine andere Lösungsaktivität |
-| Lösungsberichte und -analyse | Analytics, Audience Manager, Target | Bewertung neuer Berichts- und Analysemöglichkeiten und Bereitstellung einer grundlegenden Einrichtung oder Konfiguration eines oder mehrerer Berichte und/oder Dashboards |
-| Reifegrad-Roadmap | Analytics, Audience Manager, Target, Campaign, Experience Manager, Commerce, Marketo Engage | Entwicklung des Anwendungsfallplans für die weitere Reife und das Wachstum |
-| PC-Coaching | Analytics, Audience Manager, Target, Campaign, Experience Manager, Commerce | Aktivierung bestimmter Funktionen oder Best Practices für eine oder mehrere Lösungen |
+| Zustandsbewertung | Analytics, Audience Manager, Target, Campaign, Experience Manager, Commerce, Marketo Engage | Gezielte Bewertung des Implementierungszustands einer bestimmten Anwendung |
+| Funktionsimplementierung und Integrations-Support | Analytics, Audience Manager, Target, Campaign, Experience Manager | Grundlegender Support für die Einrichtung und Konfiguration einer einzelnen einfachen Implementierung oder Integration einer Lösung |
+| Fehlerbehebung bei Lösungen (benutzerdefiniert) | Analytics, Audience Manager, Target, Campaign, Experience Manager, Commerce | Technische Fehler- und Problembehebung für einen Teil des benutzerdefinierten Codes oder nicht standardmäßige Konfigurationen, wenn bestätigt ist, dass das Problem kein Fehler des Kernprodukts und kein Konfigurationsproblem ist |
+| AEM as a Cloud Service – Einführungsberatung | Experience Manager | Anleitungen und Empfehlungen für die Durchführbarkeit, Architektur und Modernisierung von Upgrade/Migration |
+| Grundlegende Anwendungsfallentwicklung und entsprechender Support | Analytics, Audience Manager, Target, Campaign, Experience Manager, Commerce, Marketo Engage | Entwicklung von einzelnen Anwendungsfällen und begrenzter Ausführungs-Support für eine bestimmte kleine/einfache Kampagnen-, Test-, Personalisierungs- oder sonstige Lösungsaktivität |
+| Solution Reporting &amp; Analysis | Analytics, Audience Manager, Target | Bewertung neuer Berichts- und Analysefunktionen und Bereitstellung einer grundlegenden Einrichtung oder Konfiguration eines oder mehrerer Berichte und/oder Dashboards |
+| Reifegrad-Roadmap | Analytics, Audience Manager, Target, Campaign, Experience Manager, Commerce, Marketo Engage | Entwicklung der Anwendungsfall-Roadmap für die weitere Reife und das Wachstum |
+| Vor-Ort-Coaching | Analytics, Audience Manager, Target, Campaign, Experience Manager, Commerce | Aktivierung bestimmter Funktionen oder Best Practices für eine oder mehrere Lösungen |
 
 >[!NOTE]
 >
->Die Felddienste sind nicht dazu gedacht, Adobe Consulting-Interaktionen zu ersetzen. Field Services unterstützen die Implementierung von Kunden nach LAS und ergänzen alle umfangreicheren Beratungsaktivitäten.
+>Die Vor-Ort-Services sollen Adobe Consulting-Interaktionen nicht ersetzen. Vor-Ort-Services unterstützen die Post-LAS-Implementierung auf Kundenseite und ergänzen umfangreichere Beratungsaktivitäten.
