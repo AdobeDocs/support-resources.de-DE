@@ -1,18 +1,18 @@
 ---
-title: Übersicht über Support-Abos für frühere Adoben
+title: Übersicht über frühere Adobe-Support-Pläne
 description: Dieser Artikel enthält eine Zusammenfassung der Support-Optionen für Adobe Experience Cloud, Adobe Document Cloud und Adobe Creative Cloud.
 source-git-commit: fb54ebe58a8311686378b1c0be7ab717d8f5db64
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '163'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
-# Übersicht über Support-Abos für frühere Adoben
+# Übersicht über frühere Adobe-Support-Pläne
 
 >[!NOTE]
 >
->Diese Pläne beziehen sich auf Förderpläne für Adoben, die vor dem 16. Juni 2022 erstellt wurden. Aktuelle Supportpläne finden Sie unter [Adobe Support - Angebote - Überblick](overview.md).
+>Diese Pläne beziehen sich auf Adobe-Support-Pläne, die vor dem 16. Juni 2022 erstellt wurden. Aktuelle Support-Pläne finden Sie unter [Adobe-Support-Angebote – Übersicht](overview.md).
 
 Die Adobe Support-Organisation engagiert sich für Ihren Erfolg. Alle Abonnements beinhalten einen Support-Level, mit dem Sie einfachen Zugriff auf technische Unterstützung durch unsere hoch qualifizierten technischen Ressourcen haben.
 
