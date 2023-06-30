@@ -2,10 +2,10 @@
 title: Adobe-Support-Pläne – Übersicht
 description: Dieser Artikel enthält eine Zusammenfassung der Support-Optionen für Adobe Experience Cloud, Adobe Document Cloud und Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: fa2fa132b7285eff3368b173897a2dee02133d42
+source-git-commit: 9c3568e5adff6c3deb9581a907a0eef4a0381dbf
 workflow-type: tm+mt
-source-wordcount: '1748'
-ht-degree: 97%
+source-wordcount: '1727'
+ht-degree: 98%
 
 ---
 
@@ -47,8 +47,6 @@ Adobe-Support-Pläne gehen über die reaktive Problemlösung hinaus, um Ihnen ei
 | P4 | **Keine Geschäftsauswirkungen:** <br>Allgemeine Frage zur aktuellen Produktfunktionalität oder Anfrage zu einer Erweiterung. | 1 Werktag | 1 Werktag | Der Adobe-Kunden-Support kontaktiert nur während der Geschäftszeiten von Adobe die benannten Support-Kontakte. |
 
 ## Ultimate-Support: benannte Support-Kontakte
-
-Entschuldigung, nochmal. Jetzt denke ich, dass wir die folgende Beschreibung in https://experienceleague.adobe.com/docs/support-resources/data-sheets/overview.html?lang=en korrigieren müssen:
 
 Der Kunde hat unter Ultimate Support Anspruch auf eine erweiterte Kapazität von bis zu fünfzehn (15) benannten Support-Kontakten pro AEC-Produkt (erhöht von vier (4) pro AEC-Produkt für Expertensupport).
 
