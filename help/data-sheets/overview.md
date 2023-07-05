@@ -3,9 +3,9 @@ title: Adobe-Support-Pläne – Übersicht
 description: Dieser Artikel enthält eine Zusammenfassung der Support-Optionen für Adobe Experience Cloud, Adobe Document Cloud und Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
 source-git-commit: 9c3568e5adff6c3deb9581a907a0eef4a0381dbf
-workflow-type: tm+mt
-source-wordcount: '1727'
-ht-degree: 98%
+workflow-type: ht
+source-wordcount: '0'
+ht-degree: 100%
 
 ---
 
@@ -48,7 +48,7 @@ Adobe-Support-Pläne gehen über die reaktive Problemlösung hinaus, um Ihnen ei
 
 ## Ultimate-Support: benannte Support-Kontakte
 
-Der Kunde hat unter Ultimate Support Anspruch auf eine erweiterte Kapazität von bis zu fünfzehn (15) benannten Support-Kontakten pro AEC-Produkt (erhöht von vier (4) pro AEC-Produkt für Expertensupport).
+Im Rahmen des Ultimate Supports hat die Kundin, bzw. der Kunde Anspruch auf eine erweiterte Kapazität von bis zu fünfzehn (15) namentlich genannten Support-Kontakten pro AEC-Produkt (erhöht von vier (4) pro AEC-Produkt für den Experten-Support).
 
 Benannte Support-Kontakte können Probleme über alle verfügbaren Kanäle einreichen und bei Bedarf mit dem technischen Support-Team von Adobe im Namen der Kundin bzw. des Kunden interagieren. Ein (1) solcher benannter Kontakt kann auch als Konto-Admin der Kundin bzw. des Kunden designiert werden, sodass über das von Adobe bereitgestellte Support-Portal die Liste benannter Support-Kontakte sowie eingeschränkte Berechtigungseinstellungen per Self-Service aktualisiert werden können.
 
