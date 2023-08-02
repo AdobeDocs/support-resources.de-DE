@@ -2,10 +2,10 @@
 title: Adobe-Support-Pläne – Übersicht
 description: Dieser Artikel enthält eine Zusammenfassung der Support-Optionen für Adobe Experience Cloud, Adobe Document Cloud und Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: 9c3568e5adff6c3deb9581a907a0eef4a0381dbf
+source-git-commit: 15bcbf785a3e72955014fd0c4f0241069cbf9d22
 workflow-type: tm+mt
-source-wordcount: '1727'
-ht-degree: 100%
+source-wordcount: '1756'
+ht-degree: 98%
 
 ---
 
@@ -30,10 +30,11 @@ Adobe-Support-Pläne gehen über die reaktive Problemlösung hinaus, um Ihnen ei
 | Add-ons | Support-Plan „Expert“ | Support-Plan „Ultimate“ |
 |--- |--- |--- |
 | **Add-on „Ereignis-Management“**<br> Durchgängige Führung und Unterstützung, die für das Management des gesamten Lebenszyklus wichtiger Ereignisse erforderlich sind | ![Symbol „Verfügbar“](assets/Plus_blue.svg){width="20"} Verfügbar | ![Symbol „Verfügbar“](assets/Plus_blue.svg){width="20"} Verfügbar |
-| **Add-on „Technical Account Director“**<br> Die führende technische Ressource, die die leitende Aufsicht übernimmt, für die Interaktion mit Führungskräften verantwortlich ist und Governance sicherstellt, um Geschäftsergebnisse zu maximieren. | ![Symbol „Nicht enthalten“](assets/Cross_red_circle.svg){width="20"} Nicht enthalten | ![Symbol „Verfügbar“](assets/Plus_blue.svg){width="20"} Verfügbar |
+| **Add-on „Technical Account Director“**<br> Die führende technische Ressource, die die leitende Aufsicht übernimmt, für die Interaktion mit Führungskräften verantwortlich ist und Governance sicherstellt, um Geschäftsergebnisse zu maximieren. | ![Symbol nicht verfügbar](assets/Cross_red_circle.svg){width="20"} Nicht verfügbar | ![Symbol „Verfügbar“](assets/Plus_blue.svg){width="20"} Verfügbar |
 | **Add-on „Erweiterter Cloud-Support“**<br> Erstklassige Betreuung und Wertversicherung für Kundinnen und Kunden von Adobe Experience Manager as a Cloud Service | ![Symbol „Verfügbar“](assets/Plus_blue.svg){width="20"} Verfügbar | ![Symbol „Verfügbar“](assets/Plus_blue.svg){width="20"} Verfügbar |
 | **Add-on „Mentor Sessions“**<br> Bietet kompetentes Lernen mit einer Just-in-time-Schulungsmethode | ![Symbol „Verfügbar“](assets/Plus_blue.svg){width="20"} Verfügbar | ![Symbol „Verfügbar“](assets/green_checkmark.svg){width="20"} Enthalten |
 | **Add-on „Developer Boost“**<br> Ermöglicht Zugang zu technischen Expertinnen bzw. Experten im Außendienst, die bei Reparaturanfragen helfen können. | ![Symbol „Verfügbar“](assets/Plus_blue.svg){width="20"} Verfügbar | ![Symbol „Enthalten“](assets/green_checkmark.svg){width="20"} Enthalten |
+| **Priority Queue Bundle-Add-on**<br>&#x200B;Überspringen Sie die Zeile, damit Ihre Tickets zuerst bearbeitet werden können, mit zusätzlichem Zugriff auf Mentor-Sitzungen und Developer Boost | ![Symbol „Verfügbar“](assets/Plus_blue.svg){width="20"} Verfügbar | ![Symbol „Enthalten“](assets/green_checkmark.svg){width="20"} Enthalten |
 
 {style="table-layout:fixed"}
 
