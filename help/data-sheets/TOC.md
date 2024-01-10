@@ -1,19 +1,19 @@
 ---
 user-guide-title: Ressourcen für Erfolgspläne
-user-guide-description: Erfolgspläne und Support-Ressourcen für Adobe Experience Cloud und Adobe Experience Platform.
+user-guide-description: Erfolgsplan- und Support-Ressourcen für Adobe Experience Cloud und Adobe Experience Platform.
 feature-set: Experience Cloud
 feature: Success Plans
 source-git-commit: 2fb925f91f8de98444cb1f3e7301e31a970721bf
 workflow-type: tm+mt
 source-wordcount: '69'
-ht-degree: 55%
+ht-degree: 95%
 
 ---
 
 
 # Ressourcen für Erfolgspläne {#data-sheets}
 
-+ [Übersicht über Adobe-Erfolgspläne](overview.md)
++ [Adobe-Erfolgspläne – Übersicht](overview.md)
 + Adobe-Support-Pläne vor dem 16. Juni 2022{#prior-plans}
    + [Übersicht über frühere Adobe-Support-Pläne](overview-prior-plans.md)
    + Experience Cloud-Services {#data-sheets}
@@ -23,7 +23,7 @@ ht-degree: 55%
       + [Enterprise](enterprise.md)
       + [Elite](elite.md)
       + [Support-Handbuch](support-guide.md)
-   + Creative Cloud- und Document Cloud-Services {#dme-data-sheets}
+   + Creative Cloud- und Document Cloud-Dienste {#dme-data-sheets}
       + [Creative Cloud- und Document Cloud-Dienste](dme-overview.md)
       + [Standard](dme-standard.md)
       + [Business](dme-business.md)
