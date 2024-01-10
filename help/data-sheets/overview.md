@@ -1,34 +1,34 @@
 ---
-title: Übersicht über Adobe-Erfolgspläne
+title: Adobe-Erfolgspläne – Übersicht
 description: Dieser Artikel enthält eine Zusammenfassung der Support-Optionen für Adobe Experience Cloud, Adobe Document Cloud und Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
 source-git-commit: b7e3a7fc0ead1ad40d72c1d5d8e9d7851384b2e0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1830'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
-# Übersicht über Adobe-Erfolgspläne
+# Adobe-Erfolgspläne – Übersicht
 
-Adobe-Erfolgspläne gehen über reaktive Problemlösung hinaus und bringen Ihnen eine neue Art personalisierter Erfahrung, die Ihre Geschäftsschritte bei allen Problemen voraus hält. Ihr Adobe-Team setzt fundiertes technisches Fachwissen, vielfältige Fähigkeiten und eine fortschrittliche Methodik ein, um Ihnen den richtigen Grad an Support, Fachwissen und technischer und strategischer Beratung zu bieten.
+Adobe-Erfolgspläne gehen über die reaktive Problemlösung hinaus, um Ihnen ein neues personalisiertes Erlebnis zu bieten, sodass Ihr Unternehmen bei allen Problemen einen Schritt voraus ist. Ihr Adobe-Team setzt fundiertes technisches Fachwissen, vielfältige Fähigkeiten und eine fortschrittliche Methodik ein, um Ihnen das richtige Maß an Support, Fachwissen und technischer und strategischer Beratung zu bieten.
 
-## Vergleich von Erfolgsplänen für Experten und Ultimate
+## Vergleich der Erfolgspläne „Expert“ und „Ultimate“
 
-|  | Erfolgsplan für Experten | Endgültiger Erfolgsplan |
+|  | Erfolgsplan „Expert“ | Erfolgsplan „Ultimate“ |
 |--- |--- |--- |
-|  | Im Rahmen des Expertenerfolgs-Plans können Sie auf **24x7 Expertenunterstützung** für technische Fehlerbehebung und Anleitungen zu kritischen Geschäftsproblemen. Oder Sie finden schnelle Lösungen, indem Sie unsere Selbsthilferessourcen (außer Best Practices) und eine Online-Community mit Adobe-Experten und Kollegen nutzen. <p> *In allen Adobe Experience Cloud-Lizenzen enthalten.* | Mit dem ultimativen Erfolgsplan werden Sie **strategische Beratung und proaktive technische Gesundheit zur Bereitstellung leistungsstarker digitaler Erlebnisse**. Ihre Adobe-Umgebung wird von einem Expertenteam unterstützt, das mit Ihrem Unternehmen vertraut ist und sich auf die Durchführung eines Fahrplans konzentriert, der auf Ihre Ziele und Prioritäten für die Auswirkungen auf Unternehmen abgestimmt ist. |
-| **Erfolgsteam** | Geplantes Team von Support-Ingenieuren | Umfasst: <ul><li> Designierter technischer Kundenbetreuer </li><li> Designierter Customer Success Manager </li><li> Designierter Support Services Manager</li><li> Pool von Technikern und strategischen Experten für die Bereitstellung von Success Accelerators </li><li> Geplantes Team von Support-Ingenieuren </li></ul> |
-| **Proaktive technische und operative Unterstützung** | ![Symbol „Nicht enthalten“](assets/Cross_red_circle.svg){width="20"} Nicht enthalten | Umfasst: <ul><li>Upgrade- und Migrationsprüfungen, Versionsvorbereitung </li><li>Produkt-Roadmap-Bewertungen</li><li> Angepasste technische und strategische Fahrpläne</li><li>Wichtige Vorbereitung und Planung von Ereignissen</li><li>Planung für relevante und rechtzeitige Aktivierung</li><li>Technische Best Practices und Branchenleitfäden</li><li>Befürwortung/Abstimmung mit Produktteams</li><li>Einheitlicher Plan zur Erreichung der wichtigsten Unternehmensziele - Gegenseitiger Aktionsplan (MAP)</li></ul> |
-| **Technischer Support** | Umfasst: <ul><li>**P1**: Problemunterstützung rund um die Uhr</li><li>**P2, P3, P4**: Support für Geschäftszeiten</li><li>Standardmäßiges Ausfall-Management</li><li>Gepooltes Eskalations-Management</li></ul> | Umfasst: <ul><li>**P1**: Problemunterstützung rund um die Uhr</li><li>**P2/P3**: 24x5-Problemunterstützung</li><li>**P4**: Support für Geschäftszeiten</li><li>Priorisiertes Ausfall-Management</li><li>Designiertes fachkundiges Eskalations-Management</li></ul> |
-| **Success Accelerators** | ![Symbol „Nicht enthalten“](assets/Cross_red_circle.svg){width="20"} Nicht enthalten | Erfolgsbeschleuniger, die regelmäßig vom TAM &amp; CSM geplant werden<p>*(Weitere Informationen finden Sie unter &quot;Success Accelerator Catalog&quot;)* |
-| **Support-Kanäle** | Online, Telefon, Experience League, Foren | Personalisiertes Online-Portal, priorisiertes Telefon, Experience League, Foren |
+|  | Mit dem Erfolgsplan „Expert“ können Sie **rund um die Uhr auf kompetenten Support zugreifen**, um technische Fehlerbehebungen und Anleitungen zu wichtigen Geschäftsproblemen zu erhalten. Sie können auch schnell Lösungen finden, indem Sie auf unsere Selbsthilferessourcen (außer Best Practices) und eine Online-Community mit Adobe-Fachleuten und Gleichgesinnten zurückgreifen. <p> *In allen Adobe Experience Cloud-Lizenzen enthalten.* | Mit dem Erfolgsplan „Ultimate“ erhalten Sie **strategische Beratung und proaktive technische Gesundheit zur Bereitstellung leistungsstarker digitaler Erlebnisse**. Ihre Adobe-Umgebung wird von einem Experten-Team unterstützt, das mit Ihrem Unternehmen vertraut ist und sich auf die Durchführung eines Aktionsplans konzentriert, der auf Ihre Ziele und Prioritäten für den geschäftlichen Erfolg ausgerichtet ist. |
+| **Erfolgs-Team** | Gepooltes Team aus Support-Fachleuten | Umfasst: <ul><li> designierten Technical Account Manager </li><li> designierten Customer Success Manager </li><li> designierten Support Services Manager</li><li> Pool von Technikerinnen und Technikern sowie strategischen Fachleuten für die Bereitstellung von Erfolgsbeschleunigern </li><li> Gepooltes Team aus Support-Fachleuten </li></ul> |
+| **Proaktive technische und operative Unterstützung** | ![Symbol „Nicht enthalten“](assets/Cross_red_circle.svg){width="20"} Nicht enthalten | Umfasst: <ul><li>Upgrade- und Migrationsprüfungen, Vorbereitung für neue Versionen </li><li>Bewertungen von Produkt-Aktionsplänen</li><li> aufeinander abgestimmte technische und strategische Aktionspläne</li><li>Vorbereitung und Planung von wichtigen Ereignissen</li><li>Planung für relevante und rechtzeitige Aktivierung</li><li>Technische Best Practices und Branchenleitfäden</li><li>Fürsprache/Abstimmung mit Produkt-Teams</li><li>einheitlicher Plan zur Erreichung der wichtigsten Unternehmensziele – Mutual Action Plan (MAP)</li></ul> |
+| **Technischer Support** | Umfasst: <ul><li>**P1**: Support rund um die Uhr</li><li>**P2, P3, P4**: Support während der Geschäftszeiten</li><li>Standardmäßiges Ausfall-Management</li><li>Gepooltes Eskalations-Management</li></ul> | Umfasst: <ul><li>**P1**: Support rund um die Uhr</li><li>**P2/P3**: Support rund um die Uhr während der Woche</li><li>**P4**: Support während der Geschäftszeiten</li><li>Priorisiertes Ausfall-Management</li><li>Designiertes fachkundiges Eskalations-Management</li></ul> |
+| **Erfolgsbeschleuniger** | ![Symbol „Nicht enthalten“](assets/Cross_red_circle.svg){width="20"} Nicht enthalten | Erfolgsbeschleuniger, die regelmäßig vom TAM und CSM geplant werden<p>*(Weitere Informationen finden Sie im Erfolgsbeschleuniger-Katalog)* |
+| **Support-Kanäle** | Online, Telefon, Experience League, Foren | Personalisiertes Online-Portal, priorisierter Telefon-Support, Experience League, Foren |
 
 {style="table-layout:fixed"}
 
 ## Support-Add-ons
 
-| Add-ons | Erfolgsplan für Experten | Endgültiger Erfolgsplan |
+| Add-ons | Erfolgsplan „Expert“ | Erfolgsplan „Ultimate“ |
 |--- |--- |--- |
 | **Add-on „Ereignis-Management“**<br> Durchgängige Führung und Unterstützung, die für das Management des gesamten Lebenszyklus wichtiger Ereignisse erforderlich sind | ![Symbol „Verfügbar“](assets/Plus_blue.svg){width="20"} Verfügbar | ![Symbol „Verfügbar“](assets/Plus_blue.svg){width="20"} Verfügbar |
 | **Add-on „Technical Account Director“**<br> Die führende technische Ressource, die die leitende Aufsicht übernimmt, für die Interaktion mit Führungskräften verantwortlich ist und Governance sicherstellt, um Geschäftsergebnisse zu maximieren. | ![Symbol „Nicht verfügbar“](assets/Cross_red_circle.svg){width="20"} Nicht verfügbar | ![Symbol „Verfügbar“](assets/Plus_blue.svg){width="20"} Verfügbar |
@@ -107,7 +107,7 @@ Benannte Support-Kontakte können Probleme über alle verfügbaren Kanäle einre
 |---|---|---|---|
 | 6:00–17:30 Uhr | 9:00–17:00 Uhr | 9:00–17:00 Uhr | 9:00–17:00 Uhr |
 
-## Zusätzliche für Adobe Commerce auf Managed Services geltende Begriffe (früher Magento Commerce Pro: Managed Services)
+## Zusätzliche Bedingungen für Adobe Commerce on Managed Services (früher: Magento Commerce Pro: Managed Services)
 
 Standard-Support für Produkte von Adobe Commerce: Managed Services, die vom Kunden am oder nach dem 20. September 2021 lizenziert oder erneuert wurden, unterliegen den in der unten stehenden Tabelle angegebenen erwarteten Antwortzeiten, die die in der obigen Tabelle angegebenen erwarteten Antwortzeiten ersetzen. Außer wie in der folgenden Tabelle angegeben, bleiben alle anderen weiteren Support-Bedingungen für Adobe Commerce: Managed Services unverändert. Die folgenden erwarteten Antwortzeiten gelten nur für Service-Anfragen im Zusammenhang mit Adobe Commerce: Managed Services und keine anderen AEC-Produkte.
 
