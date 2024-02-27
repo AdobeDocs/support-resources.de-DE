@@ -4,9 +4,9 @@ description: Eine grundlegende Einführung in den Markdown-Stil
 mini-toc-levels: 1
 hide: true
 hidefromtoc: true
-source-git-commit: e2513757c4d126e0ab954b05002392aaa4ed46c8
+source-git-commit: 77a5127250ffbc9d490579188e8469d4c3dac4c3
 workflow-type: tm+mt
-source-wordcount: '4237'
+source-wordcount: '4238'
 ht-degree: 13%
 
 ---
@@ -14,6 +14,8 @@ ht-degree: 13%
 # Stilhandbuch zur Markdown-Syntax
 
 Auf dieser Seite wird die Markdown-Komponente für das Authoring der technischen Dokumentation für digitale Erlebnisse mit dem Markdown-Format (.md) erläutert. Diese Seite enthält Details für Adobe-Mitarbeiter.
+
+EDS
 
 Siehe hier: [Adobe.com](https://www.adobe.com){rel=nofollow}
 
