@@ -5,34 +5,44 @@ hide: true
 hidefromtoc: true
 badgePremium: label="Premium" type="Positive" url="https://www.premium-product.com" tooltip="Premium herunterladen"
 badgeExam: label="Prüfung ADO-E903" type="neutral"
-source-git-commit: 75bb972a5ada66343dfb8a406b1cf63a1071df31
+source-git-commit: 0e4881c62b518866bd39d5c3f8eef0dc6063441b
 workflow-type: tm+mt
-source-wordcount: '804'
-ht-degree: 3%
+source-wordcount: '830'
+ht-degree: 94%
 
 ---
 
 # Ausgeblendete Testseite
 
-Aktivieren? Um 15:10 Uhr wieder einschicken. Wird es um 15:30 Uhr live gehen?
+Aktivieren? Prüfen Sie die Übermittlung um 15:10 Uhr erneut. Erfolgt die Live-Schaltung um 15:30 Uhr?
 
-## Vorschaufunktion
+## Schaltflächen       
 
-Der folgende Absatz wird in der VSC-Vorschau nicht ordnungsgemäß dargestellt. Ich bin mir nicht sicher, warum.
+[Schaltflächenstandard](https://www.adobe.com/)
 
-Wenn Ihr Kennwort von [!DNL Adobe], können Sie [Passwort in Ihrem Adobe-Konto ändern](https://helpx.adobe.com/manage-account/using/change-or-reset-password.html){target="_blank"}.
+**[Schaltfläche Primär](https://www.adobe.com/)**
 
-## Arten von Hinweisen
+_[Schaltfläche Sekundär](https://www.adobe.com/)_
+
+**_[Schaltfläche Tertiär](https://www.adobe.com/)_**
+
+## Vorschauproblem
+
+Der folgende Absatz wird in der VSC-Vorschau nicht ordnungsgemäß dargestellt. Ich weiß nicht, warum.
+
+Wenn Ihr Kennwort von [!DNL Adobe] verwaltet wird, können Sie das [Kennwort in Ihrem Adobe-Konto ändern](https://helpx.adobe.com/de/manage-account/using/change-or-reset-password.html){target="_blank"}.
+
+## Hinweistypen
 
 Alle unterstützten Hinweistypen.
 
 >[!NOTE]
 >
->This is a standard NOTE block.
+>Dies ist ein standardmäßiger HINWEIS-Block.
 
 >[!TIP]
 >
->This is a standard tip.
+>Dies ist ein Standardtipp.
 
 >[!IMPORTANT]
 >
@@ -40,15 +50,15 @@ Alle unterstützten Hinweistypen.
 
 >[!WARNING]
 >
->Das ist eine Warnung.
+>Dies ist eine Warnung. 
 
 >[!CAUTION]
 >
->Das ist eine Vorsicht.
+>Dies ist ein Vorsichtshinweis.
 
 >[!ADMIN]
 >
->Dies ist eine Administratornote, die als ADMINISTRATION gerendert wird. Nur EXL.
+>Dies ist ein Administratorhinweis, der als ADMINISTRATION gerendert wird. Nur EXL.
 
 >[!AVAILABILITY]
 >
@@ -60,37 +70,37 @@ Alle unterstützten Hinweistypen.
 
 >[!INFO]
 >
->Dies ist eine Info-Anmerkung. Nur EXL.
+>Dies ist ein Informationshinweis. Nur EXL.
 
 >[!ERROR]
 >
->Dies ist eine Fehlermeldung. Nur EXL.
+>Dies ist ein Fehlerhinweis. Nur EXL.
 
 >[!SUCCESS]
 >
->Dies ist eine Erfolgsmeldung. Nur EXL.
+>Dies ist ein Erfolgshinweis. Nur EXL.
 
 >[!MORELIKETHIS]
 >
 >* Seite 1
 >* Seite 2
 
-## Abzeichen
+## Badges
 
-Ein Badge ist eine farbige Bezeichnung, die als Inhaltsanzeige verwendet wird. Sie können beispielsweise ein Zeichen hinzufügen, um einen Artikel als _Beta_ oder einen Abschnitt als _Premium_. Sie können die Farbe eines Badges ändern und eine URL und eine QuickInfo verknüpfen.
+Ein Badge ist eine farbige Beschriftung, die als Inhaltskennzeichnung verwendet wird. Sie können beispielsweise ein Badge hinzufügen, um einen Artikel als _Beta_ oder einen Abschnitt als _Premium_ zu markieren. Sie können die Farbe eines Badges ändern und eine URL und eine QuickInfo verknüpfen.
 
 [!BADGE Badge-Beispiel]
 
-Es gibt zwei Typen of Abzeichen mit unterschiedlicher Syntax:
+Es gibt zwei Typen of Badges mit unterschiedlicher Syntax:
 
-* **Metadaten** - Zeigt den Badge oben auf einer Seite an
-* **Inline** - Zeigt den Badge an, unter dem sich die Syntax befindet
+* **Metadaten**: Zeigt das Badge oben auf einer Seite an
+* **Inline**: Zeigt das Badge an, in dem sich die Syntax befindet
 
-### Metadatenzeichen
+### Metadaten-Badges
 
 Durch Hinzufügen der Badge-Syntax in Metadaten wird ein Badge über dem Seitentitel (H1) im Artikel platziert.
 
-Sie können Badges beispielsweise mit _badge1_ oder _badge2_. Oder Sie können kreativer sein (solange der Name mit _badge_).
+Sie können Badges beispielsweise _badge1_ oder _badge2_ nennen. Oder Sie können kreativer sein (solange der Name mit _badge_ beginnt).
 
 Metadatenbeispiele:
 
@@ -99,29 +109,29 @@ badgePremium: label="Premium" type="Positive" url="https://www.premium-product.c
 badgeExam: label="Exam ADO-E903" type="neutral"
 ```
 
-* **badgePremium:** In diesem Beispiel wird ein Premium-Zeichen mit einer URL und einer QuickInfo angezeigt.
+* **badgePremium:** In diesem Beispiel wird ein Premium-Badge mit einer URL und einer QuickInfo angezeigt.
 
-* **badgeExam:** In diesem Beispiel wird ein dunkler Badge mit einer Prüfungs-ID-Nummer angezeigt.
+* **badgeExam:** In diesem Beispiel wird ein dunkles Badge mit einer Prüfungs-ID-Nummer angezeigt.
 
-#### Inline-Abzeichen
+#### Inline-Badges
 
 Geben Sie die Badge-Informationen in einer eigenen Zeile oder in einer Überschrift, Tabelle oder einem anderen Seitenelement an.
 
-Hier finden Sie die Syntax für ein Inline-Badge mit einer Beta-Beschriftung, blauen Farbe, URL und QuickInfo:
+Hier finden Sie die Syntax für ein Inline-Badge mit einer Beta-Beschriftung, in blauer Farbe, mit URL und QuickInfo:
 
 `[!BADGE Beta]{type=Informative url="https://www.example.com" tooltip="Go to example.com"}`
 
 ### Verfügbare Badge-Farben
 
-Abzeichen verwenden Farben, die in Adobe Spectrum definiert sind:
+Badges verwenden Farben, die in Adobe Spectrum definiert sind:
 
 | Typ | Badge |
 |---|---|
-| Informativ (Standard) | [!BADGE Beta]{type=Informative url="https://www.example.com"} |
-| Positiv | [!BADGE Neue Funktion]{type=Positive url="https://www.example.com" tooltip="Gehen Sie zu example.com"} |
-| Negativ | [!BADGE Eingestellt]{type=negative tooltip="Diese Funktion wurde jetzt eingestellt"} |
-| Neutral | [!BADGE Vielleicht]{type=Neutral tooltip="Ein Reiter fiel vom Pferd..."} |
-| Vorsicht | [!BADGE Achtung]{type=Caution tooltip="Gelber Status"} |
+| Informativ (Standard) | [!BADGE Beta]{type=Informative url="https://www.beispiel.com"} |
+| Positiv | [!BADGE Neue Funktion]{type=Positive url=&quot;https://www.example.com&quot; tooltip=&quot;Go to example.com&quot;} |
+| Negativ | [!BADGE Abbruch]{type=negative tooltip=&quot;Diese Funktion ist jetzt beendet&quot;} |
+| Neutral | [!BADGE Vielleicht]{type=Neutral tooltip=&quot;Ein Fahrer fiel vom Pferd...&quot;} |
+| Vorsicht | [!BADGE Achtung]{type=Caution tooltip=&quot;Gelber Status&quot;} |
 
 Syntaxbeispiele
 
@@ -135,16 +145,16 @@ Syntaxbeispiele
 |Caution|[!BADGE Attention]{type=Caution tooltip="Yellow status"}|
 ```
 
-### Voraussetzungen für Badges
+### Anforderungen für Badges
 
-* In Metadaten sind nur zwei Abzeichen zulässig. Diese Regel ist konfigurierbar. Teilen Sie uns also mit, ob Sie eine Ausnahme benötigen.
-* Nur die Badge-Bezeichnung ist erforderlich. Die `type`, `url`, und `tooltip` -Parameter sind optional. Die `type` bestimmt die Farbe. Die `url` -Parameter können Benutzer auf das Zeichen klicken, um einen Artikel oder eine Seite zu öffnen. Die `tooltip` zeigt den QuickInfo-Text beim Bewegen der Maus an.
-* Hinzufügen eines Abzeichens zum `TOC.md` -Datei zeigt den Badge in jedem Artikel des Handbuchs an. Wenn Sie eine URL für das Badge angeben, um zu einem Artikel zu springen, stellen Sie sicher, dass Sie einen Stammlink verwenden (z. B. `/help/guide/article.md`) keinen relativen Link (z. B. `article.md`), um Artikel in verschiedenen Ordnern zu berücksichtigen.
-* Badge hinzufügen zu `metadata-new.md` zeigt den Badge auf jedem Artikel in einem Repo an.
-* Stellen Sie bei Metadaten-Badges sicher, dass alle Werte in Anführungszeichen gesetzt sind. Stellen Sie bei Inline-Abzeichen sicher, dass `url` und `tooltip` in Anführungszeichen gesetzt werden.
-* Gültige Typwerte umfassen *Informativ* (Standard, blau), *Positiv* (grün) *Negativ* (rot) *Neutral* (dunkelgrau) und *Vorsicht* (gelb).
-* Badge-Beschriftungen werden lokalisiert.
-* Wenn mehrere Metadaten-Abzeichen angegeben sind, werden Abzeichen basierend auf dem Badge-Namen in alphabetischer Reihenfolge angezeigt, z. B. `badge1:` oder `badgeWeb`.
+* In Metadaten sind nur zwei Badges zulässig. Diese Regel ist konfigurierbar. Teilen Sie uns also mit, ob Sie eine Ausnahme benötigen.
+* Nur die Badge-Bezeichnung ist erforderlich. Die Parameter `type`, `url` und `tooltip` sind optional. Der Parameter `type` bestimmt die Farbe. Durch den Parameter `url` können Benutzende auf das Badge klicken, um einen Artikel oder eine Seite zu öffnen. Der Parameter `tooltip` zeigt den QuickInfo-Text beim Bewegen der Maus an.
+* Dsa Hinzufügen eines Badges zur Datei `TOC.md` zeigt das Badge in jedem Artikel des Handbuchs an. Wenn Sie eine URL für das Badge angeben, um zu einem Artikel zu springen, stellen Sie sicher, dass Sie einen Stamm-Link verwenden (z. B. `/help/guide/article.md`), keinen relativen Link (z. B. `article.md`), um Artikel in verschiedenen Ordnern zu berücksichtigen.
+* Das Hinzufügen eines Badges zu `metadata-new.md` zeigt das Badge in jedem Artikel in einem Repository an.
+* Stellen Sie bei Metadaten-Badges sicher, dass alle Werte in Anführungszeichen gesetzt sind. Stellen Sie bei Inline-Badges sicher, dass `url` und `tooltip` in Anführungszeichen gesetzt sind.
+* Gültige Typwerte umfassen *Informativ* (Standard, blau), *Positiv* (grün), *Negativ* (rot), *Neutral* (dunkelgrau) und *Vorsicht* (gelb).
+* Badge-Beschriftungen sind lokalisiert.
+* Wenn mehrere Metadaten-Badges angegeben sind, werden Badges basierend auf dem Badge-Namen in alphabetischer Reihenfolge angezeigt, z. B. `badge1:` oder `badgeWeb`.
 * Wenn die URL in einer neuen Registerkarte geöffnet werden soll, verwenden Sie diese Syntax:
 
   ```
@@ -153,13 +163,13 @@ Syntaxbeispiele
 
   Gerendert:
 
-  [!BADGE In neuer Registerkarte öffnen]{type=Negative url="https://www.adobe.com newtab=true" tooltip="Öffnen Sie adobe.com in neuer Registerkarte"}
+  [!BADGE In neuer Registerkarte öffnen]{type=Negative url="https://www.adobe.com newtab=true" tooltip="Öffnen von „adobe.com“ in neuer Registerkarte"}
 
 ## Texthervorhebung
 
-Das Workfront-Team bat darum, gelbe Hervorhebung verwenden zu können, um die Vorschau der künftigen Funktionen anzuzeigen. So funktioniert es.
+Das Workfront-Team hat darum gebeten, eine gelbe Hervorhebung verwenden zu können, um die Vorschau der künftigen Funktionen anzuzeigen. So funktioniert es:
 
-Beispiel 1:
+Beispiel 1:
 
 ```
 This entire paragraph should NOT be highlighted. <span class="preview"> This word is **bold** inside a highlighted sentence.</span> And this is just the last sentence.
@@ -167,7 +177,7 @@ This entire paragraph should NOT be highlighted. <span class="preview"> This wor
 
 Gerendert:
 
-Dieser gesamte Absatz sollte NICHT hervorgehoben werden. <span class="preview"> Dieses Wort ist **fett** innerhalb eines markierten Satzes.</span> Und das ist nur der letzte Satz.
+Dieser gesamte Absatz soll NICHT hervorgehoben werden. <span class="preview"> Dieses Wort ist innerhalb eines markierten Satzes **fett** dargestellt.</span> Und das ist nur der letzte Satz.
 
 Beispiel 2:
 
@@ -191,11 +201,11 @@ Not highlighted
 
 Gerendert:
 
-Die Hervorhebung sollte nach diesem Absatz beginnen.
+Die Hervorhebung soll nach diesem Absatz beginnen.
 
 <div class="preview">
 
-Beginn des DIV.
+Beginn von DIV.
 
 Dies ist ein neuer Absatz, dann ein Bild
 
@@ -207,13 +217,13 @@ Zuletzt hervorgehobenes Element.
 
 Nicht hervorgehoben
 
-## Syntaxhervorhebung für Codeblöcke
+## Syntaxhervorhebung für Code-Blöcke
 
-Experience League unterstützt die Syntaxhervorhebung für Codeblöcke. Stellen Sie sicher, dass Sie eine Sprache wie `java` nach der ersten Reihe von Backticks, um sicherzustellen, dass die Syntax richtig hervorgehoben wird. Eine Liste der gültigen Sprachen finden Sie unter [https://prismjs.com](https://prismjs.com/#supported-languages). Wenn Sprachen fehlen, protokollieren Sie bitte ein Jira-Ticket.
+Experience League unterstützt die Syntaxhervorhebung für Code-Blöcke. Achten Sie darauf, eine Sprache wie `java` nach der öffnenden Reihe von Backticks anzugeben, um sicherzustellen, dass die Syntax richtig hervorgehoben wird. Eine Liste der gültigen Sprachen finden Sie unter [https://prismjs.com](https://prismjs.com/#supported-languages). Wenn Sprachen fehlen, senden Sie bitte ein Jira-Ticket.
 
-### Zeilennummerierung in Codeblöcken
+### Zeilennummerierung in Code-Blöcken
 
-Hinzufügen `{line-numbers="true"}` nach der Sprache, um die Zeilennummerierung zu aktivieren.
+Fügen Sie `{line-numbers="true"}` nach der Sprache hinzu, um die Zeilennummerierung zu aktivieren.
 
 Beispiel mit Zeilennummern (&grave;&grave;&grave;`html {line-numbers="true"}`):
 
@@ -229,11 +239,11 @@ Beispiel mit Zeilennummern (&grave;&grave;&grave;`html {line-numbers="true"}`):
 </html>
 ```
 
-**Nummerierung in Zeile _ beginnen**
+**Beginnen der Nummerierung in Zeile _**
 
-Hinzufügen `start-number="n"` nach der Zeilennummersyntax , um die Nummerierung auf einer anderen Zahl als 1 zu beginnen.
+Fügen Sie `start-number="n"` nach der Zeilennummernsyntax hinzu, um die Nummerierung mit einer anderen Zahl als 1 zu beginnen.
 
-Beispiel mit neuer Startlinie (&grave;&grave;&grave;&grave;`html {line-numbers="true" start-line="7"}`):
+Beispiel mit neuer Startzeile (&grave;&grave;&grave;`html {line-numbers="true" start-line="7"}`):
 
 ```html {line-numbers="true" start-line="7"}
 <!DOCTYPE html>
@@ -248,11 +258,11 @@ Beispiel mit neuer Startlinie (&grave;&grave;&grave;&grave;`html {line-numbers="
 </html>
 ```
 
-### Zeilenhervorhebung in Codeblöcken
+### Zeilenhervorhebung in Code-Blöcken
 
-Hinzufügen `highlight="n"` nach der Zeilennummersyntax verwenden, um Zeilen in einem Codeblock hervorzuheben. Festlegen `11-13, 16` markiert die Linien 11 bis 13 und 16.
+Fügen Sie `highlight="n"` nach der Zeilennummernsyntax hinzu, um Zeilen in einem Code-Block hervorzuheben. Die Angabe von `11-13, 16` markiert die Zeilen 11 bis 13 und 16.
 
-Beispiel mit Zeilenhervorhebung (&grave;&grave;&grave;&grave;`html {line-numbers="true" start-line="7" highlight="11-13, 16"}`):
+Beispiel mit Zeilenhervorhebung (&grave;&grave;&grave;`html {line-numbers="true" start-line="7" highlight="11-13, 16"}`):
 
 ```html {line-numbers="true" start-line="7" highlight="11-13, 16"}
 <!DOCTYPE html>
