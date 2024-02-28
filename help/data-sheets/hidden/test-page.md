@@ -3,16 +3,26 @@ title: Testseite (ausgeblendet)
 description: Testseite für interne Testzwecke
 hide: true
 hidefromtoc: true
-source-git-commit: 0612850ae6eba4e72f23840f60a8868b5cdb1558
+source-git-commit: fe970dd4e97668695a8e55f6156cb6edb1f44510
 workflow-type: tm+mt
-source-wordcount: '1015'
-ht-degree: 11%
+source-wordcount: '1028'
+ht-degree: 12%
 
 ---
 
 # Testseite (ausgeblendet)
 
 Ausgeblendete Testseite
+
+## Schaltflächen       
+
+[Schaltflächenstandard](https://www.adobe.com/)
+
+**[Schaltfläche Primär](https://www.adobe.com/)**
+
+_[Schaltfläche Sekundär](https://www.adobe.com/)_
+
+**_[Schaltfläche Tertiär](https://www.adobe.com/)_**
 
 ## Bilder (EXLM-412)
 
