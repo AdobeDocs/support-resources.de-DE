@@ -128,10 +128,10 @@ Badges verwenden Farben, die in Adobe Spectrum definiert sind:
 | Typ | Badge |
 |---|---|
 | Informativ (Standard) | [!BADGE Beta]{type=Informative url="https://www.beispiel.com"} |
-| Positiv | [!BADGE Neue Funktion]{type=Positive url=&quot;https://www.example.com&quot; tooltip=&quot;Go to example.com&quot;} |
-| Negativ | [!BADGE Abbruch]{type=negative tooltip=&quot;Diese Funktion ist jetzt beendet&quot;} |
-| Neutral | [!BADGE Vielleicht]{type=Neutral tooltip=&quot;Ein Fahrer fiel vom Pferd...&quot;} |
-| Vorsicht | [!BADGE Achtung]{type=Caution tooltip=&quot;Gelber Status&quot;} |
+| Positiv | [!BADGE Neue Funktion]{type=Positive url="https://www.example.com" tooltip=&quot;Go to example.com"} |
+| Negativ | [!BADGE Abbruch]{type=negative tooltip="Diese Funktion ist jetzt beendet"} |
+| Neutral | [!BADGE Vielleicht]{type=Neutral tooltip="Ein Fahrer fiel vom Pferd..."} |
+| Vorsicht | [!BADGE Achtung]{type=Caution tooltip="Gelber Status"} |
 
 Syntaxbeispiele
 
