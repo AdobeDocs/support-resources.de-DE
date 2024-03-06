@@ -314,7 +314,7 @@ Vermeiden Sie das Hinzufügen von Kommentaren innerhalb von Blockkomponenten wie
 >
 Kommentieren Sie in der Datei TOC.md keine Zeilen in der Mitte der TOC-Liste aus. Dies kann die Liste der Inhaltsverzeichnisse zerbrechen und Überprüfungsfehler verursachen. Verschieben Sie stattdessen Kommentare im Inhaltsverzeichnis an das Ende der Datei.
 
-## CONTEXTUALHELP
+## KONTEXTBEZOGENE HILFE
 
 Autoren können mit Produktteams zusammenarbeiten, um in der Experience Cloud- oder Experience Platform-Produktoberfläche Hilfeaufrufe hinzuzufügen. Beispiel:
 
