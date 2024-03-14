@@ -3,10 +3,10 @@ title: Testseite (ausgeblendet)
 description: Testseite für interne Testzwecke
 hide: true
 hidefromtoc: true
-source-git-commit: 60c81e7956a92e9a9c8e651c2c3c48a5baf0e4f3
+source-git-commit: 1441a6586f61917b286e74ac76427084859c418b
 workflow-type: tm+mt
-source-wordcount: '1044'
-ht-degree: 11%
+source-wordcount: '1026'
+ht-degree: 12%
 
 ---
 
@@ -17,14 +17,6 @@ Ausgeblendete Testseite
 ## Willkommen bei AEM EDS!
 
 Veröffentlichungstest
-
-**Emoji**
-
-Sieht so aus, als würde dies ignoriert.
-
-Das ist so lustig! :joy:
-
-:smiley:
 
 ## Schaltflächen       
 
@@ -41,12 +33,6 @@ _[Schaltfläche Sekundär](https://www.adobe.com/)_
 ### Bild mit Hover-Text
 
 ![Alternativtext - package.png](assets/package.png "Hover text - Dies ist package.png")
-
-### Text zentrieren
-
-<p align="center">Ich bin zentriert</p>
-
-<center>Ich bin zentriert</center>
 
 ### Zoombare Bilder
 
@@ -131,7 +117,7 @@ Siehe Fettdruck oben.
 
 Das Symbol ist rechts ausgerichtet, das Tauchbild wird um 200 Pixel zentriert, das Flip-Bild um 50 % rechts.
 
-| <center>Linksbündig | Mittel | Rechtsbündig</center> |
+| Linksbündig | Mittel | Rechtsbündig |
 |---|---|---|
 | ![Alternativtext](assets/package.png "align=right"){align=right} | ![Alternativtext](assets/maui-dive.jpg "align=center width=200"){align="center" width="200"} | ![Alternativtext](assets/maui-flip.jpg "align=right width=50%"){align="right" width="50%"} |
 
