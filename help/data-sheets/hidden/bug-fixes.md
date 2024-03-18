@@ -3,9 +3,9 @@ title: Fehlerbehebungen (ausgeblendet)
 description: Testseite für interne Testzwecke
 hide: true
 hidefromtoc: true
-source-git-commit: cf5843a15cc036e6d87f969830b81118258da090
+source-git-commit: 3c5839d71d68232c631fb9ff5bebfa5ea864d250
 workflow-type: tm+mt
-source-wordcount: '1346'
+source-wordcount: '1358'
 ht-degree: 4%
 
 ---
@@ -13,6 +13,8 @@ ht-degree: 4%
 # Fehlerkorrekturen
 
 ## Inline-Abzeichen funktionieren nicht
+
+Diese Abzeichen sollten sich auf derselben Zeile wie die Aufzählungselemente befinden.
 
 * [[!DNL Mixpanel]](note-test.md) [!BADGE Hinweise]{type=Informative}
 * [[!DNL Pendo]](tables.md) [!BADGE Tabellen]{type=Positive}
