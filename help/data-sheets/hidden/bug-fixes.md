@@ -3,16 +3,16 @@ title: Fehlerbehebungen (ausgeblendet)
 description: Testseite für interne Testzwecke
 hide: true
 hidefromtoc: true
-source-git-commit: 3c5839d71d68232c631fb9ff5bebfa5ea864d250
+source-git-commit: 59f471542bb715bb2aa4abe9f30e7a1450a350a5
 workflow-type: tm+mt
-source-wordcount: '1358'
+source-wordcount: '1360'
 ht-degree: 4%
 
 ---
 
 # Fehlerkorrekturen
 
-## Inline-Abzeichen funktionieren nicht
+## UGP-10584 Inline-Badges funktionieren nicht
 
 Diese Abzeichen sollten sich auf derselben Zeile wie die Aufzählungselemente befinden.
 
