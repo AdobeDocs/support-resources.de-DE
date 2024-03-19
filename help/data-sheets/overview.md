@@ -2,10 +2,10 @@
 title: Adobe-Erfolgspläne – Übersicht
 description: Dieser Artikel enthält eine Zusammenfassung der Support-Optionen für Adobe Experience Cloud, Adobe Document Cloud und Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: b7e3a7fc0ead1ad40d72c1d5d8e9d7851384b2e0
-workflow-type: ht
-source-wordcount: '1830'
-ht-degree: 100%
+source-git-commit: 68f0ede27cb2c3b8ce45fdc524101f59b68d01fc
+workflow-type: tm+mt
+source-wordcount: '1801'
+ht-degree: 99%
 
 ---
 
@@ -19,23 +19,39 @@ Adobe-Erfolgspläne gehen über die reaktive Problemlösung hinaus, um Ihnen ein
 |--- |--- |--- |
 |  | Mit dem Erfolgsplan „Expert“ können Sie **rund um die Uhr auf kompetenten Support zugreifen**, um technische Fehlerbehebungen und Anleitungen zu wichtigen Geschäftsproblemen zu erhalten. Sie können auch schnell Lösungen finden, indem Sie auf unsere Selbsthilferessourcen (außer Best Practices) und eine Online-Community mit Adobe-Fachleuten und Gleichgesinnten zurückgreifen. <p> *In allen Adobe Experience Cloud-Lizenzen enthalten.* | Mit dem Erfolgsplan „Ultimate“ erhalten Sie **strategische Beratung und proaktive technische Gesundheit zur Bereitstellung leistungsstarker digitaler Erlebnisse**. Ihre Adobe-Umgebung wird von einem Experten-Team unterstützt, das mit Ihrem Unternehmen vertraut ist und sich auf die Durchführung eines Aktionsplans konzentriert, der auf Ihre Ziele und Prioritäten für den geschäftlichen Erfolg ausgerichtet ist. |
 | **Erfolgs-Team** | Gepooltes Team aus Support-Fachleuten | Umfasst: <ul><li> designierten Technical Account Manager </li><li> designierten Customer Success Manager </li><li> designierten Support Services Manager</li><li> Pool von Technikerinnen und Technikern sowie strategischen Fachleuten für die Bereitstellung von Erfolgsbeschleunigern </li><li> Gepooltes Team aus Support-Fachleuten </li></ul> |
-| **Proaktive technische und operative Unterstützung** | ![Symbol „Nicht enthalten“](assets/Cross_red_circle.svg){width="20"} Nicht enthalten | Umfasst: <ul><li>Upgrade- und Migrationsprüfungen, Vorbereitung für neue Versionen </li><li>Bewertungen von Produkt-Aktionsplänen</li><li> aufeinander abgestimmte technische und strategische Aktionspläne</li><li>Vorbereitung und Planung von wichtigen Ereignissen</li><li>Planung für relevante und rechtzeitige Aktivierung</li><li>Technische Best Practices und Branchenleitfäden</li><li>Fürsprache/Abstimmung mit Produkt-Teams</li><li>einheitlicher Plan zur Erreichung der wichtigsten Unternehmensziele – Mutual Action Plan (MAP)</li></ul> |
+| **Proaktive technische und operative Unterstützung** | Nicht eingeschlossen | Umfasst: <ul><li>Upgrade- und Migrationsprüfungen, Vorbereitung für neue Versionen </li><li>Bewertungen von Produkt-Aktionsplänen</li><li> aufeinander abgestimmte technische und strategische Aktionspläne</li><li>Vorbereitung und Planung von wichtigen Ereignissen</li><li>Planung für relevante und rechtzeitige Aktivierung</li><li>Technische Best Practices und Branchenleitfäden</li><li>Fürsprache/Abstimmung mit Produkt-Teams</li><li>einheitlicher Plan zur Erreichung der wichtigsten Unternehmensziele – Mutual Action Plan (MAP)</li></ul> |
 | **Technischer Support** | Umfasst: <ul><li>**P1**: Support rund um die Uhr</li><li>**P2, P3, P4**: Support während der Geschäftszeiten</li><li>Standardmäßiges Ausfall-Management</li><li>Gepooltes Eskalations-Management</li></ul> | Umfasst: <ul><li>**P1**: Support rund um die Uhr</li><li>**P2/P3**: Support rund um die Uhr während der Woche</li><li>**P4**: Support während der Geschäftszeiten</li><li>Priorisiertes Ausfall-Management</li><li>Designiertes fachkundiges Eskalations-Management</li></ul> |
-| **Erfolgsbeschleuniger** | ![Symbol „Nicht enthalten“](assets/Cross_red_circle.svg){width="20"} Nicht enthalten | Erfolgsbeschleuniger, die regelmäßig vom TAM und CSM geplant werden<p>*(Weitere Informationen finden Sie im Erfolgsbeschleuniger-Katalog)* |
+| **Erfolgsbeschleuniger** | Nicht eingeschlossen | Erfolgsbeschleuniger, die regelmäßig vom TAM und CSM geplant werden<p>*(Weitere Informationen finden Sie im Erfolgsbeschleuniger-Katalog)* |
 | **Support-Kanäle** | Online, Telefon, Experience League, Foren | Personalisiertes Online-Portal, priorisierter Telefon-Support, Experience League, Foren |
 
 {style="table-layout:fixed"}
+
+<!--
+![not included icon](assets/Cross_red_circle.svg){width="20"}
+![not included icon](assets/Cross_red_circle.svg){width="20"}
+![available icon](assets/Plus_blue.svg){width="20"}
+![available icon](assets/Plus_blue.svg){width="20"} 
+![available icon](assets/Plus_blue.svg){width="20"}
+![included icon](assets/green_checkmark.svg){width="20"}
+![available icon](assets/Plus_blue.svg){width="20"}
+![available icon](assets/green_checkmark.svg){width="20"} 
+![available icon](assets/Plus_blue.svg){width="20"}
+![included icon](assets/green_checkmark.svg){width="20"}
+![not available icon](assets/Cross_red_circle.svg){width="20"}
+![available icon](assets/Plus_blue.svg){width="20"}
+![available icon](assets/Plus_blue.svg){width="20"}
+-->
 
 ## Support-Add-ons
 
 | Add-ons | Erfolgsplan „Expert“ | Erfolgsplan „Ultimate“ |
 |--- |--- |--- |
-| **Add-on „Ereignis-Management“**<br> Durchgängige Führung und Unterstützung, die für das Management des gesamten Lebenszyklus wichtiger Ereignisse erforderlich sind | ![Symbol „Verfügbar“](assets/Plus_blue.svg){width="20"} Verfügbar | ![Symbol „Verfügbar“](assets/Plus_blue.svg){width="20"} Verfügbar |
-| **Add-on „Technical Account Director“**<br> Die führende technische Ressource, die die leitende Aufsicht übernimmt, für die Interaktion mit Führungskräften verantwortlich ist und Governance sicherstellt, um Geschäftsergebnisse zu maximieren. | ![Symbol „Nicht verfügbar“](assets/Cross_red_circle.svg){width="20"} Nicht verfügbar | ![Symbol „Verfügbar“](assets/Plus_blue.svg){width="20"} Verfügbar |
-| **Add-on „Erweiterter Cloud-Support“**<br> Erstklassige Betreuung und Wertversicherung für Kundinnen und Kunden von Adobe Experience Manager as a Cloud Service | ![Symbol „Verfügbar“](assets/Plus_blue.svg){width="20"} Verfügbar | ![Symbol „Verfügbar“](assets/Plus_blue.svg){width="20"} Verfügbar |
-| **Add-on „Mentor Sessions“**<br> Bietet kompetentes Lernen mit einer Just-in-time-Schulungsmethode | ![Symbol „Verfügbar“](assets/Plus_blue.svg){width="20"} Verfügbar | ![Symbol „Verfügbar“](assets/green_checkmark.svg){width="20"} Enthalten |
-| **Add-on „Developer Boost“**<br> Ermöglicht Zugang zu technischen Expertinnen bzw. Experten im Außendienst, die bei Reparaturanfragen helfen können. | ![Symbol „Verfügbar“](assets/Plus_blue.svg){width="20"} Verfügbar | ![Symbol „Enthalten“](assets/green_checkmark.svg){width="20"} Enthalten |
-| **Add-on „Priority Queue Bundle“**<br>&#x200B;Überspringen Sie die Warteschlange, sodass Ihre Tickets zuerst bearbeitet werden können, mit zusätzlichem Zugriff auf Mentorsitzungen und Developer Boost | ![Symbol „Verfügbar“](assets/Plus_blue.svg){width="20"} Verfügbar | ![Symbol „Enthalten“](assets/green_checkmark.svg){width="20"} Enthalten |
+| **Add-on „Ereignis-Management“**<br> Durchgängige Führung und Unterstützung, die für das Management des gesamten Lebenszyklus wichtiger Ereignisse erforderlich sind | ![Symbol „Verfügbar“](assets/Plus_blue.svg){width="20"} Verfügbar | Verfügbar |
+| **Add-on „Technical Account Director“**<br> Die führende technische Ressource, die die leitende Aufsicht übernimmt, für die Interaktion mit Führungskräften verantwortlich ist und Governance sicherstellt, um Geschäftsergebnisse zu maximieren. | Nicht verfügbar | Verfügbar |
+| **Add-on „Erweiterter Cloud-Support“**<br> Erstklassige Betreuung und Wertversicherung für Kundinnen und Kunden von Adobe Experience Manager as a Cloud Service | Verfügbar | Verfügbar |
+| **Add-on „Mentor Sessions“**<br> Bietet kompetentes Lernen mit einer Just-in-time-Schulungsmethode | Verfügbar | Einschließlich |
+| **Add-on „Developer Boost“**<br> Ermöglicht Zugang zu technischen Expertinnen bzw. Experten im Außendienst, die bei Reparaturanfragen helfen können. | Verfügbar | Einschließlich |
+| **Add-on „Priority Queue Bundle“**<br>&#x200B;Überspringen Sie die Warteschlange, sodass Ihre Tickets zuerst bearbeitet werden können, mit zusätzlichem Zugriff auf Mentorsitzungen und Developer Boost | Verfügbar | Einschließlich |
 
 {style="table-layout:fixed"}
 
@@ -60,7 +76,7 @@ Benannte Support-Kontakte können Probleme über alle verfügbaren Kanäle einre
 
 **Aufbau einer Belegschaft mit Adobe-Qualifikationen** mit personalisierten Lern-Journeys für Einzelpersonen und Teams
 
-**Maximieren der Leistung und Investitionen** durch schnelle Kompetenzentwicklung und kontinuierliche Produkt- und Lösungskompetenz
+**Maximieren der Performance und Investitionen** durch schnelle Kompetenzentwicklung und kontinuierliche Produkt- und Lösungskompetenz
 
 **Geschäftliche Ziele mit einer durchgängigen Lernstrategie realisieren**, mit der Sie die digitale Reife von der Einführung bis zur Optimierung steigern können
 
@@ -141,7 +157,7 @@ Standard-Support für Produkte von Adobe Commerce: Managed Services, die vom Kun
   </tr>
   <tr>
     <td>Live-Schaltung </td>
-    <td>Best Practices-Beratung, Validierung der Lösungsimplementierung, Funktionen, für die Verwendung geeignete Integrationen und Genauigkeit für den Launch-Bereitschaftsstatus. Kann je nach Lösung Leistungs-/Belastungstests umfassen. </td>
+    <td>Best Practices-Beratung, Validierung der Lösungsimplementierung, Funktionen, für die Verwendung geeignete Integrationen und Genauigkeit für den Launch-Bereitschaftsstatus. Kann je nach Lösung Performance-/Belastungstests umfassen. </td>
     <td></td>
   </tr>
   <tr>

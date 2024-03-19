@@ -5,16 +5,46 @@ hide: true
 hidefromtoc: true
 badgePremium: label="Premium" type="Positive" url="https://www.premium-product.com" tooltip="Premium herunterladen"
 badgeExam: label="Prüfung ADO-E903" type="neutral"
-source-git-commit: 0e4881c62b518866bd39d5c3f8eef0dc6063441b
+source-git-commit: e2ff0701c82f3e34f81b0653af2ce564c5c62f3a
 workflow-type: tm+mt
-source-wordcount: '830'
-ht-degree: 94%
+source-wordcount: '1276'
+ht-degree: 96%
 
 ---
 
 # Ausgeblendete Testseite
 
 Aktivieren? Prüfen Sie die Übermittlung um 15:10 Uhr erneut. Erfolgt die Live-Schaltung um 15:30 Uhr?
+
+## Problematische Tabellen mit Bildern
+
+
+## Vergleich der Erfolgspläne „Expert“ und „Ultimate“
+
+|  | Erfolgsplan „Expert“ | Erfolgsplan „Ultimate“ |
+|--- |--- |--- |
+|  | Mit dem Erfolgsplan „Expert“ können Sie **rund um die Uhr auf kompetenten Support zugreifen**, um technische Fehlerbehebungen und Anleitungen zu wichtigen Geschäftsproblemen zu erhalten. Sie können auch schnell Lösungen finden, indem Sie auf unsere Selbsthilferessourcen (außer Best Practices) und eine Online-Community mit Adobe-Fachleuten und Gleichgesinnten zurückgreifen. <p> *In allen Adobe Experience Cloud-Lizenzen enthalten.* | Mit dem Erfolgsplan „Ultimate“ erhalten Sie **strategische Beratung und proaktive technische Gesundheit zur Bereitstellung leistungsstarker digitaler Erlebnisse**. Ihre Adobe-Umgebung wird von einem Experten-Team unterstützt, das mit Ihrem Unternehmen vertraut ist und sich auf die Durchführung eines Aktionsplans konzentriert, der auf Ihre Ziele und Prioritäten für den geschäftlichen Erfolg ausgerichtet ist. |
+| **Erfolgs-Team** | Gepooltes Team aus Support-Fachleuten | Umfasst: <ul><li> designierten Technical Account Manager </li><li> designierten Customer Success Manager </li><li> designierten Support Services Manager</li><li> Pool von Technikerinnen und Technikern sowie strategischen Fachleuten für die Bereitstellung von Erfolgsbeschleunigern </li><li> Gepooltes Team aus Support-Fachleuten </li></ul> |
+| **Proaktive technische und operative Unterstützung** | ![Symbol „Nicht enthalten“](assets/Cross_red_circle.svg){width="20"} Nicht enthalten | Umfasst: <ul><li>Upgrade- und Migrationsprüfungen, Vorbereitung für neue Versionen </li><li>Bewertungen von Produkt-Aktionsplänen</li><li> aufeinander abgestimmte technische und strategische Aktionspläne</li><li>Vorbereitung und Planung von wichtigen Ereignissen</li><li>Planung für relevante und rechtzeitige Aktivierung</li><li>Technische Best Practices und Branchenleitfäden</li><li>Fürsprache/Abstimmung mit Produkt-Teams</li><li>einheitlicher Plan zur Erreichung der wichtigsten Unternehmensziele – Mutual Action Plan (MAP)</li></ul> |
+| **Technischer Support** | Umfasst: <ul><li>**P1**: Support rund um die Uhr</li><li>**P2, P3, P4**: Support während der Geschäftszeiten</li><li>Standardmäßiges Ausfall-Management</li><li>Gepooltes Eskalations-Management</li></ul> | Umfasst: <ul><li>**P1**: Support rund um die Uhr</li><li>**P2/P3**: Support rund um die Uhr während der Woche</li><li>**P4**: Support während der Geschäftszeiten</li><li>Priorisiertes Ausfall-Management</li><li>Designiertes fachkundiges Eskalations-Management</li></ul> |
+| **Erfolgsbeschleuniger** | ![Symbol „Nicht enthalten“](assets/Cross_red_circle.svg){width="20"} Nicht enthalten | Erfolgsbeschleuniger, die regelmäßig vom TAM und CSM geplant werden<p>*(Weitere Informationen finden Sie im Erfolgsbeschleuniger-Katalog)* |
+| **Support-Kanäle** | Online, Telefon, Experience League, Foren | Personalisiertes Online-Portal, priorisierter Telefon-Support, Experience League, Foren |
+
+{style="table-layout:fixed"}
+
+## Support-Add-ons
+
+| Add-ons | Erfolgsplan „Expert“ | Erfolgsplan „Ultimate“ |
+|--- |--- |--- |
+| **Add-on „Ereignis-Management“**<br> Durchgängige Führung und Unterstützung, die für das Management des gesamten Lebenszyklus wichtiger Ereignisse erforderlich sind | ![Symbol „Verfügbar“](assets/Plus_blue.svg){width="20"} Verfügbar | ![Symbol „Verfügbar“](assets/Plus_blue.svg){width="20"} Verfügbar |
+| **Add-on „Technical Account Director“**<br> Die führende technische Ressource, die die leitende Aufsicht übernimmt, für die Interaktion mit Führungskräften verantwortlich ist und Governance sicherstellt, um Geschäftsergebnisse zu maximieren. | ![Symbol „Nicht verfügbar“](assets/Cross_red_circle.svg){width="20"} Nicht verfügbar | ![Symbol „Verfügbar“](assets/Plus_blue.svg){width="20"} Verfügbar |
+| **Add-on „Erweiterter Cloud-Support“**<br> Erstklassige Betreuung und Wertversicherung für Kundinnen und Kunden von Adobe Experience Manager as a Cloud Service | ![Symbol „Verfügbar“](assets/Plus_blue.svg){width="20"} Verfügbar | ![Symbol „Verfügbar“](assets/Plus_blue.svg){width="20"} Verfügbar |
+| **Add-on „Mentor Sessions“**<br> Bietet kompetentes Lernen mit einer Just-in-time-Schulungsmethode | ![Symbol „Verfügbar“](assets/Plus_blue.svg){width="20"} Verfügbar | ![Symbol „Verfügbar“](assets/green_checkmark.svg){width="20"} Enthalten |
+| **Add-on „Developer Boost“**<br> Ermöglicht Zugang zu technischen Expertinnen bzw. Experten im Außendienst, die bei Reparaturanfragen helfen können. | ![Symbol „Verfügbar“](assets/Plus_blue.svg){width="20"} Verfügbar | ![Symbol „Enthalten“](assets/green_checkmark.svg){width="20"} Enthalten |
+| **Add-on „Priority Queue Bundle“**<br>&#x200B;Überspringen Sie die Warteschlange, sodass Ihre Tickets zuerst bearbeitet werden können, mit zusätzlichem Zugriff auf Mentorsitzungen und Developer Boost | ![Symbol „Verfügbar“](assets/Plus_blue.svg){width="20"} Verfügbar | ![Symbol „Enthalten“](assets/green_checkmark.svg){width="20"} Enthalten |
+
+{style="table-layout:fixed"}
+
 
 ## Schaltflächen       
 
@@ -128,10 +158,10 @@ Badges verwenden Farben, die in Adobe Spectrum definiert sind:
 | Typ | Badge |
 |---|---|
 | Informativ (Standard) | [!BADGE Beta]{type=Informative url="https://www.beispiel.com"} |
-| Positiv | [!BADGE Neue Funktion]{type=Positive url="https://www.example.com" tooltip="Go to example.com"} |
-| Negativ | [!BADGE Abbruch]{type=negative tooltip="Diese Funktion ist jetzt beendet"} |
-| Neutral | [!BADGE Vielleicht]{type=Neutral tooltip="Ein Fahrer fiel vom Pferd..."} |
-| Vorsicht | [!BADGE Achtung]{type=Caution tooltip="Gelber Status"} |
+| Positiv | [!BADGE Neue Funktion]{type=Positive url=&quot;https://www.example.com&quot; tooltip=&quot;Go to example.com&quot;} |
+| Negativ | [!BADGE Abbruch]{type=negative tooltip=&quot;Diese Funktion ist jetzt beendet&quot;} |
+| Neutral | [!BADGE Vielleicht]{type=Neutral tooltip=&quot;Ein Fahrer fiel vom Pferd...&quot;} |
+| Vorsicht | [!BADGE Achtung]{type=Caution tooltip=&quot;Gelber Status&quot;} |
 
 Syntaxbeispiele
 
