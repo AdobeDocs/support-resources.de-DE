@@ -2,9 +2,9 @@
 title: Adobe-Erfolgspläne – Übersicht
 description: Dieser Artikel enthält eine Zusammenfassung der Support-Optionen für Adobe Experience Cloud, Adobe Document Cloud und Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: 68f0ede27cb2c3b8ce45fdc524101f59b68d01fc
+source-git-commit: b99d72ff9fc1628021c3b7ada056136000326f4d
 workflow-type: tm+mt
-source-wordcount: '1801'
+source-wordcount: '1799'
 ht-degree: 99%
 
 ---
@@ -33,6 +33,7 @@ Adobe-Erfolgspläne gehen über die reaktive Problemlösung hinaus, um Ihnen ein
 ![available icon](assets/Plus_blue.svg){width="20"} 
 ![available icon](assets/Plus_blue.svg){width="20"}
 ![included icon](assets/green_checkmark.svg){width="20"}
+![available icon](assets/Plus_blue.svg){width="20"} 
 ![available icon](assets/Plus_blue.svg){width="20"}
 ![available icon](assets/green_checkmark.svg){width="20"} 
 ![available icon](assets/Plus_blue.svg){width="20"}
@@ -46,7 +47,7 @@ Adobe-Erfolgspläne gehen über die reaktive Problemlösung hinaus, um Ihnen ein
 
 | Add-ons | Erfolgsplan „Expert“ | Erfolgsplan „Ultimate“ |
 |--- |--- |--- |
-| **Add-on „Ereignis-Management“**<br> Durchgängige Führung und Unterstützung, die für das Management des gesamten Lebenszyklus wichtiger Ereignisse erforderlich sind | ![Symbol „Verfügbar“](assets/Plus_blue.svg){width="20"} Verfügbar | Verfügbar |
+| **Add-on „Ereignis-Management“**<br> Durchgängige Führung und Unterstützung, die für das Management des gesamten Lebenszyklus wichtiger Ereignisse erforderlich sind | Verfügbar | Verfügbar |
 | **Add-on „Technical Account Director“**<br> Die führende technische Ressource, die die leitende Aufsicht übernimmt, für die Interaktion mit Führungskräften verantwortlich ist und Governance sicherstellt, um Geschäftsergebnisse zu maximieren. | Nicht verfügbar | Verfügbar |
 | **Add-on „Erweiterter Cloud-Support“**<br> Erstklassige Betreuung und Wertversicherung für Kundinnen und Kunden von Adobe Experience Manager as a Cloud Service | Verfügbar | Verfügbar |
 | **Add-on „Mentor Sessions“**<br> Bietet kompetentes Lernen mit einer Just-in-time-Schulungsmethode | Verfügbar | Einschließlich |
