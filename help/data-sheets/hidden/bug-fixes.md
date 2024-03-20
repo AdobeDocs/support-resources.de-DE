@@ -3,10 +3,10 @@ title: Fehlerbehebungen (ausgeblendet)
 description: Testseite für interne Testzwecke
 hide: true
 hidefromtoc: true
-source-git-commit: 59f471542bb715bb2aa4abe9f30e7a1450a350a5
+source-git-commit: 57c0a39d3b2dcb50259ee285b1a61f8ad4db12ea
 workflow-type: tm+mt
-source-wordcount: '1360'
-ht-degree: 4%
+source-wordcount: '1817'
+ht-degree: 27%
 
 ---
 
@@ -285,3 +285,34 @@ Informationen darüber, welche Funktionen im neuen Kommentierungserlebnis verfü
 1. Klicks **Einsenden** , um die Antwort zu speichern.
 
 1. (Optional) Klicken Sie auf die **Mehr** in der oberen rechten Ecke des Kommentars, auf den Sie antworten möchten, finden Sie weitere Optionen zur Verwaltung der Antwort. Weitere Informationen finden Sie unter [Update der Arbeit](note-test.md).
+
+
+## UGP-10614 - Problemtabellen mit Bildern
+
+Ich denke, dass die `{width="20"}` verursacht Probleme in Tabellen.
+
+## Vergleich der Erfolgspläne „Expert“ und „Ultimate“
+
+|  | Erfolgsplan „Expert“ | Erfolgsplan „Ultimate“ |
+|--- |--- |--- |
+|  | Mit dem Erfolgsplan „Expert“ können Sie **rund um die Uhr auf kompetenten Support zugreifen**, um technische Fehlerbehebungen und Anleitungen zu wichtigen Geschäftsproblemen zu erhalten. Sie können auch schnell Lösungen finden, indem Sie auf unsere Selbsthilferessourcen (außer Best Practices) und eine Online-Community mit Adobe-Fachleuten und Gleichgesinnten zurückgreifen. <p> *In allen Adobe Experience Cloud-Lizenzen enthalten.* | Mit dem Erfolgsplan „Ultimate“ erhalten Sie **strategische Beratung und proaktive technische Gesundheit zur Bereitstellung leistungsstarker digitaler Erlebnisse**. Ihre Adobe-Umgebung wird von einem Experten-Team unterstützt, das mit Ihrem Unternehmen vertraut ist und sich auf die Durchführung eines Aktionsplans konzentriert, der auf Ihre Ziele und Prioritäten für den geschäftlichen Erfolg ausgerichtet ist. |
+| **Erfolgs-Team** | Gepooltes Team aus Support-Fachleuten | Umfasst: <ul><li> designierten Technical Account Manager </li><li> designierten Customer Success Manager </li><li> designierten Support Services Manager</li><li> Pool von Technikerinnen und Technikern sowie strategischen Fachleuten für die Bereitstellung von Erfolgsbeschleunigern </li><li> Gepooltes Team aus Support-Fachleuten </li></ul> |
+| **Proaktive technische und operative Unterstützung** | ![Symbol „Nicht enthalten“](../assets/Cross_red_circle.svg){width="20"} Nicht enthalten | Umfasst: <ul><li>Upgrade- und Migrationsprüfungen, Vorbereitung für neue Versionen </li><li>Bewertungen von Produkt-Aktionsplänen</li><li> aufeinander abgestimmte technische und strategische Aktionspläne</li><li>Vorbereitung und Planung von wichtigen Ereignissen</li><li>Planung für relevante und rechtzeitige Aktivierung</li><li>Technische Best Practices und Branchenleitfäden</li><li>Fürsprache/Abstimmung mit Produkt-Teams</li><li>einheitlicher Plan zur Erreichung der wichtigsten Unternehmensziele – Mutual Action Plan (MAP)</li></ul> |
+| **Technischer Support** | Umfasst: <ul><li>**P1**: Support rund um die Uhr</li><li>**P2, P3, P4**: Support während der Geschäftszeiten</li><li>Standardmäßiges Ausfall-Management</li><li>Gepooltes Eskalations-Management</li></ul> | Umfasst: <ul><li>**P1**: Support rund um die Uhr</li><li>**P2/P3**: Support rund um die Uhr während der Woche</li><li>**P4**: Support während der Geschäftszeiten</li><li>Priorisiertes Ausfall-Management</li><li>Designiertes fachkundiges Eskalations-Management</li></ul> |
+| **Erfolgsbeschleuniger** | ![Symbol „Nicht enthalten“](../assets/Cross_red_circle.svg){width="20"} Nicht enthalten | Erfolgsbeschleuniger, die regelmäßig vom TAM und CSM geplant werden<p>*(Weitere Informationen finden Sie im Erfolgsbeschleuniger-Katalog)* |
+| **Support-Kanäle** | Online, Telefon, Experience League, Foren | Personalisiertes Online-Portal, priorisierter Telefon-Support, Experience League, Foren |
+
+{style="table-layout:fixed"}
+
+## Support-Add-ons
+
+| Add-ons | Erfolgsplan „Expert“ | Erfolgsplan „Ultimate“ |
+|--- |--- |--- |
+| **Add-on „Ereignis-Management“**<br> Durchgängige Führung und Unterstützung, die für das Management des gesamten Lebenszyklus wichtiger Ereignisse erforderlich sind | ![Symbol „Verfügbar“](../assets/Plus_blue.svg){width="20"} Verfügbar | ![Symbol „Verfügbar“](../assets/Plus_blue.svg){width="20"} Verfügbar |
+| **Add-on „Technical Account Director“**<br> Die führende technische Ressource, die die leitende Aufsicht übernimmt, für die Interaktion mit Führungskräften verantwortlich ist und Governance sicherstellt, um Geschäftsergebnisse zu maximieren. | ![Symbol „Nicht verfügbar“](../assets/Cross_red_circle.svg){width="20"} Nicht verfügbar | ![Symbol „Verfügbar“](../assets/Plus_blue.svg){width="20"} Verfügbar |
+| **Add-on „Erweiterter Cloud-Support“**<br> Erstklassige Betreuung und Wertversicherung für Kundinnen und Kunden von Adobe Experience Manager as a Cloud Service | ![Symbol „Verfügbar“](../assets/Plus_blue.svg){width="20"} Verfügbar | ![Symbol „Verfügbar“](../assets/Plus_blue.svg){width="20"} Verfügbar |
+| **Add-on „Mentor Sessions“**<br> Bietet kompetentes Lernen mit einer Just-in-time-Schulungsmethode | ![Symbol „Verfügbar“](../assets/Plus_blue.svg){width="20"} Verfügbar | ![Symbol „Verfügbar“](../assets/green_checkmark.svg){width="20"} Enthalten |
+| **Add-on „Developer Boost“**<br> Ermöglicht Zugang zu technischen Expertinnen bzw. Experten im Außendienst, die bei Reparaturanfragen helfen können. | ![Symbol „Verfügbar“](../assets/Plus_blue.svg){width="20"} Verfügbar | ![Symbol „Enthalten“](../assets/green_checkmark.svg){width="20"} Enthalten |
+| **Add-on „Priority Queue Bundle“**<br>&#x200B;Überspringen Sie die Warteschlange, sodass Ihre Tickets zuerst bearbeitet werden können, mit zusätzlichem Zugriff auf Mentorsitzungen und Developer Boost | ![Symbol „Verfügbar“](../assets/Plus_blue.svg){width="20"} Verfügbar | ![Symbol „Enthalten“](../assets/green_checkmark.svg){width="20"} Enthalten |
+
+{style="table-layout:fixed"}
