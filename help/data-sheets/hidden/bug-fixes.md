@@ -3,9 +3,9 @@ title: Fehlerbehebungen (ausgeblendet)
 description: Testseite für interne Testzwecke
 hide: true
 hidefromtoc: true
-source-git-commit: 57c0a39d3b2dcb50259ee285b1a61f8ad4db12ea
+source-git-commit: c31246781e212041bf0555cd2db71c4d0c555410
 workflow-type: tm+mt
-source-wordcount: '1817'
+source-wordcount: '1827'
 ht-degree: 27%
 
 ---
@@ -176,6 +176,14 @@ _9. August 2022_
 * Produktarten, die B2B-kundenspezifische Preise verwenden.
 
 +++
+
+## [!BADGE Veraltet]{type=negative}
+
+Siehe obige Überschrift. Und der nächste.
+
+### [!BADGE Beta]{type=Informative}
+
+Bob
 
 ## UGP-10565 - Texthervorhebung
 
