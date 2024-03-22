@@ -8,7 +8,7 @@ badgeExam: label="Prüfung ADO-E903" type="neutral"
 source-git-commit: e2ff0701c82f3e34f81b0653af2ce564c5c62f3a
 workflow-type: tm+mt
 source-wordcount: '1276'
-ht-degree: 96%
+ht-degree: 99%
 
 ---
 
@@ -48,13 +48,13 @@ Aktivieren? Prüfen Sie die Übermittlung um 15:10 Uhr erneut. Erfolgt die Live-
 
 ## Schaltflächen       
 
-[Schaltflächenstandard](https://www.adobe.com/)
+[Standard-Schaltfläche](https://www.adobe.com/)
 
-**[Schaltfläche Primär](https://www.adobe.com/)**
+**[Primäre Schaltfläche](https://www.adobe.com/)**
 
-_[Schaltfläche Sekundär](https://www.adobe.com/)_
+_[Sekundäre Schaltfläche](https://www.adobe.com/)_
 
-**_[Schaltfläche Tertiär](https://www.adobe.com/)_**
+**_[Tertiäre Schaltfläche](https://www.adobe.com/)_**
 
 ## Vorschauproblem
 
@@ -158,10 +158,10 @@ Badges verwenden Farben, die in Adobe Spectrum definiert sind:
 | Typ | Badge |
 |---|---|
 | Informativ (Standard) | [!BADGE Beta]{type=Informative url="https://www.beispiel.com"} |
-| Positiv | [!BADGE Neue Funktion]{type=Positive url="https://www.example.com" tooltip="Go to example.com"} |
-| Negativ | [!BADGE Abbruch]{type=negative tooltip="Diese Funktion ist jetzt beendet"} |
-| Neutral | [!BADGE Vielleicht]{type=Neutral tooltip="Ein Fahrer fiel vom Pferd..."} |
-| Vorsicht | [!BADGE Achtung]{type=Caution tooltip="Gelber Status"} |
+| Positiv | [!BADGE Neue Funktion]{type=Positive url=&quot;https://www.example.com&quot; tooltip=&quot;Zu example.com gehen&quot;} |
+| Negativ | [!BADGE Eingestellt]{type=negative tooltip=&quot;Diese Funktion wurde eingestellt&quot;} |
+| Neutral | [!BADGE Vielleicht]{type=Neutral tooltip=&quot;Ein Reiter fiel vom Pferd...&quot;} |
+| Achtung | [!BADGE Achtung]{type=Caution tooltip=&quot;Gelber Status&quot;} |
 
 Syntaxbeispiele
 
