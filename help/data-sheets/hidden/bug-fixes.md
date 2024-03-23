@@ -3,9 +3,9 @@ title: Fehlerbehebungen (ausgeblendet)
 description: Testseite für interne Testzwecke
 hide: true
 hidefromtoc: true
-source-git-commit: c31246781e212041bf0555cd2db71c4d0c555410
+source-git-commit: d6b478e07ca1c0525cda103f3b65bec459911508
 workflow-type: tm+mt
-source-wordcount: '1827'
+source-wordcount: '1841'
 ht-degree: 27%
 
 ---
@@ -180,6 +180,10 @@ _9. August 2022_
 ## [!BADGE Veraltet]{type=negative}
 
 Siehe obige Überschrift. Und der nächste.
+
+## Automatische Aktivierung testen
+
+Ich habe dies am Freitagnachmittag hinzugefügt, aber nicht auf Jetzt veröffentlichen geklickt.
 
 ### [!BADGE Beta]{type=Informative}
 
