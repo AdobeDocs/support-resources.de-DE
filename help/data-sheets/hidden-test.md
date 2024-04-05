@@ -5,8 +5,9 @@ hide: true
 hidefromtoc: true
 badgePremium: label="Premium" type="Positive" url="https://www.premium-product.com" tooltip="Premium herunterladen"
 badgeExam: label="Prüfung ADO-E903" type="neutral"
-source-git-commit: e2ff0701c82f3e34f81b0653af2ce564c5c62f3a
-workflow-type: ht
+exl-id: 45f70aca-5885-4da0-90d7-50fbf44de9dc
+source-git-commit: cc4ccfeda4a83694d34723b1b9d8844fc14b79a0
+workflow-type: tm+mt
 source-wordcount: '1276'
 ht-degree: 100%
 
@@ -17,7 +18,6 @@ ht-degree: 100%
 Aktivieren? Prüfen Sie die Übermittlung um 15:10 Uhr erneut. Erfolgt die Live-Schaltung um 15:30 Uhr?
 
 ## Problematische Tabellen mit Bildern
-
 
 ## Vergleich der Erfolgspläne „Expert“ und „Ultimate“
 
@@ -158,10 +158,10 @@ Badges verwenden Farben, die in Adobe Spectrum definiert sind:
 | Typ | Badge |
 |---|---|
 | Informativ (Standard) | [!BADGE Beta]{type=Informative url="https://www.beispiel.com"} |
-| Positiv | [!BADGE Neue Funktion]{type=Positive url="https://www.example.com" tooltip="Zu example.com gehen"} |
-| Negativ | [!BADGE Eingestellt]{type=negative tooltip="Diese Funktion wurde eingestellt"} |
-| Neutral | [!BADGE Vielleicht]{type=Neutral tooltip="Ein Reiter fiel vom Pferd..."} |
-| Achtung | [!BADGE Achtung]{type=Caution tooltip="Gelber Status"} |
+| Positiv | [!BADGE Neue Funktion]{type=Positive url=&quot;https://www.example.com&quot; tooltip=&quot;Zu example.com gehen&quot;} |
+| Negativ | [!BADGE Eingestellt]{type=negative tooltip=&quot;Diese Funktion wurde eingestellt&quot;} |
+| Neutral | [!BADGE Vielleicht]{type=Neutral tooltip=&quot;Ein Reiter fiel vom Pferd...&quot;} |
+| Achtung | [!BADGE Achtung]{type=Caution tooltip=&quot;Gelber Status&quot;} |
 
 Syntaxbeispiele
 
