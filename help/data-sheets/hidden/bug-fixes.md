@@ -4,9 +4,9 @@ description: Testseite für interne Testzwecke
 hide: true
 hidefromtoc: true
 exl-id: e6270f95-3550-4e35-ad4c-760584bb9b5d
-source-git-commit: c937df9669153698a82842510337df73dfa28bd8
+source-git-commit: 45d7df912c336c9275545612e625869c005eb448
 workflow-type: tm+mt
-source-wordcount: '1852'
+source-wordcount: '1849'
 ht-degree: 27%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 27%
 
 ## Autoaktivierungstest
 
-Ich habe das am Samstagmorgen eingereicht. Jetzt nicht veröffentlichen.
+Diese Fehler sollten alle behoben werden.
 
 ## UGP-10584 Inline-Badges funktionieren nicht
 
