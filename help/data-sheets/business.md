@@ -2,9 +2,9 @@
 title: Business Support
 description: Adobe Experience Cloud Business Support Services bieten vollständigen Zugriff auf die technischen Support-Teams von Adobe und auf einen Account Support Lead für das Account-Management.
 exl-id: 2f31e22f-8523-4322-875b-69f0f44a513a
-source-git-commit: 2e5fce70cdce85bfa694152919b333b0e60c519b
-workflow-type: ht
-source-wordcount: '872'
+source-git-commit: 20940c0e1db18355219d7d968c1262bc998e41d6
+workflow-type: tm+mt
+source-wordcount: '882'
 ht-degree: 100%
 
 ---
@@ -129,9 +129,9 @@ Adobe Experience Cloud Business Support Services bieten vollständigen Zugriff a
 | <b>PRIORITÄT 1</b><br>Die Produktionsfunktionen im Unternehmen des Kunden sind ausgefallen oder weisen einen erheblichen Datenverlust oder eine Beeinträchtigung des Service auf und ein sofortiges Eingreifen ist nötig, um Funktionalität und Nutzbarkeit wiederherzustellen. | 24x7/<br>1 Stunde | 24x7/<br>1 Stunde |
 | <b>PRIORITÄT 2</b><br>Die Unternehmensfunktionen des Kunden weisen eine erhebliche Beeinträchtigung des Service oder möglichen Datenverlust auf oder eine zentrale Funktion ist betroffen. | Geschäftszeiten/<br>4 Stunden | Geschäftszeiten/<br>2 Stunden |
 | <b>PRIORITÄT 3</b><br>Die Unternehmensfunktionen des Kunden weisen eine geringfügige Beeinträchtigung des Service auf, es gibt jedoch eine Lösung/Problemumgehung, mit der die Unternehmensfunktionen weiterhin genutzt werden können. | Geschäftszeiten/<br>6 Stunden | Geschäftszeiten/<br>4 Stunden |
-| <b>PRIORITÄT 4</b><br>Allgemeine Frage zur aktuellen Produktfunktionalität oder Anfrage zu einer Erweiterung. | Geschäftstage/<br>3 Tage | Geschäftstag/<br>1 Tag |
+| <b>PRIORITÄT 4</b><br>Allgemeine Frage zur aktuellen Produktfunktionalität oder Anfrage zu einer Erweiterung. | Geschäftstage/<br>3 Tage | Werktag/<br>1 Tag |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Umfang von Business Support
 
@@ -242,7 +242,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
 |--- |--- |
 | [Experience League](https://experienceleague.adobe.com/?lang=de) | Mit der Experience League unterstützt Adobe Unternehmen dabei, mit ihren Investitionen in Adobe optimale Ergebnisse zu erzielen. An diesem zentralen Ort können Kunden auf einem personalisierten Weg zum Erfolg lernen, Kontakte knüpfen und sich weiterentwickeln. Dafür nutzen sie Selbsthilfe-Tutorials, Produktdokumentation, von Kursleitern geführte Schulungen, Community und technischen Support. |
 | [Training](https://training.adobe.com/training/) | Adobe Digital Learning Services-Kurse sind über die Experience League verfügbar. Das Angebot umfasst sowohl On-Demand- als auch von Kursleiter geführte Schulungen. Hier können Sie Kompetenzen erwerben, die auf dem Markt anerkannt sind und den Erfolg im Unternehmen vorantreiben. |
-| [Produktionsprobleme und Systemausfälle](https://status.adobe.com/) | Status.adobe.com übermittelt die Statusinformationen sämtlicher Adobe-Produkte und -Services, die in Umgebungen mit mehreren Mandanten implementiert sind. Kunden können Voreinstellungen für ihr Abonnement auswählen und E-Mail-Benachrichtigungen erhalten, wenn Adobe ein Produktereignis erstellt, aktualisiert oder löst. Dies kann geplante Wartungen oder Service-Probleme unterschiedlichen Schweregrads umfassen. |
+| [Produktionsprobleme und Systemausfälle](https://status.adobe.com/) | Status.adobe.com übermittelt die Statusinformationen sämtlicher Adobe-Produkte und -Services, die in Umgebungen mit mehreren Mandanten bereitgestellt sind. Kunden können Voreinstellungen für ihr Abonnement auswählen und E-Mail-Benachrichtigungen erhalten, wenn Adobe ein Produktereignis erstellt, aktualisiert oder löst. Dies kann geplante Wartungen oder Service-Probleme unterschiedlichen Schweregrads umfassen. |
 | [Website für Business Support](https://helpx.adobe.com/de/support/programs/enterprise-support-programs/premier-support-business.html) | Website für Adobe Business Support. |
 | [Geschäftsbedingungen](https://helpx.adobe.com/de/support/programs/support-policies-terms-conditions.html) | Allgemeine Geschäftsbedingungen mit detaillierten Informationen zu den angebotenen Support-Services. |
 
