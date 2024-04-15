@@ -4,9 +4,9 @@ user-guide-description: Erfolgsplan- und Support-Ressourcen für Adobe Experienc
 feature-set: Experience Cloud
 feature: Success Plans
 source-git-commit: 73c5614e3eea119358550892a3d6cc9a9c2f9b02
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 95%
 + [Ausgeblendeter Tabellentest](hidden/tables.md)
 + [Ausgeblendete Tabellenumbrüche](hidden/table-breaks.md)
 + [Test für ausgeblendete Hinweise](hidden/note-test.md)
-+ [Ausgeblendete neue automatische Aktivierung](hidden/autoactivate.md)
++ [Nur neue automatische Aktivierungen ausgeblendet](hidden/autoactivate.md)
 
 <!--
 + [Hidden table breaks](hidden/table-breaks.md)
