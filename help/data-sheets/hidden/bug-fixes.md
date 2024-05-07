@@ -4,10 +4,10 @@ description: Testseite für interne Testzwecke
 hide: true
 hidefromtoc: true
 exl-id: e6270f95-3550-4e35-ad4c-760584bb9b5d
-source-git-commit: 45d7df912c336c9275545612e625869c005eb448
+source-git-commit: 0cefcf5bb4a021593a6bbe44eed0ad83e8bd259f
 workflow-type: tm+mt
-source-wordcount: '1849'
-ht-degree: 27%
+source-wordcount: '1926'
+ht-degree: 28%
 
 ---
 
@@ -16,6 +16,31 @@ ht-degree: 27%
 ## Autoaktivierungstest
 
 Diese Fehler sollten alle behoben werden.
+
+## UGP-10866 Links nicht fett in Schattierungen
+
+>[!BEGINSHADEBOX]
+
+**Inhaltsverzeichnis**
+
+* [Erste Schritte mit dem KI-Assistenten](note-test.md)
+* **[Generierung von E-Mails mit dem KI-Assistenten](syntax-style-guide.md)**
+* [Generierung von SMS mit dem KI-Assistenten](test-page.md)
+* [Push-Generierung mit dem AI-Assistenten](tables.md)
+* [Inhaltsexperiment mit dem KI-Assistenten](test-redirection.md)
+
+>[!ENDSHADEBOX]
+
+Keine Schattierbox
+
+**Inhaltsverzeichnis**
+
+* [Erste Schritte mit dem KI-Assistenten](note-test.md)
+* **[Generierung von E-Mails mit dem KI-Assistenten](syntax-style-guide.md)**
+* [Generierung von SMS mit dem KI-Assistenten](test-page.md)
+* [Push-Generierung mit dem AI-Assistenten](tables.md)
+* [Inhaltsexperiment mit dem KI-Assistenten](test-redirection.md)
+
 
 ## UGP-10584 Inline-Badges funktionieren nicht
 
