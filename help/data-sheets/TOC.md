@@ -6,7 +6,7 @@ feature: Success Plans
 source-git-commit: 38c7f7403d5eac2cd1bbbccb8cf8d275b66133b5
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 95%
+ht-degree: 97%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 95%
    + [Folge 1 – Billy Georgaros](episode1.md)
      [Folge 2 – Karrie Benjamin](episode2.md)
      [Folge 3 – George Kotsinis](episode3.md)
-     [SP.4 - Jessica Ouellette](episode4.md)
+     [Folge.4 – Jessica Ouellette](episode4.md)
      [SP.5 - Corey Blackburn](episode5.md)
 + Adobe-Support-Pläne vor dem 16. Juni 2022{#prior-plans}
    + [Übersicht über frühere Adobe-Support-Pläne](overview-prior-plans.md)
