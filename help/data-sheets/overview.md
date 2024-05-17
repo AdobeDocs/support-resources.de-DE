@@ -2,10 +2,10 @@
 title: Adobe-Erfolgspläne – Übersicht
 description: Dieser Artikel enthält eine Zusammenfassung der Support-Optionen für Adobe Experience Cloud, Adobe Document Cloud und Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: 8ed1a2a189ad715277aa48b578468ad90f8c18cf
-workflow-type: ht
-source-wordcount: '1830'
-ht-degree: 100%
+source-git-commit: 2823ae203ecf04f69135b2af9af817ef19a55ee3
+workflow-type: tm+mt
+source-wordcount: '2201'
+ht-degree: 83%
 
 ---
 
@@ -107,6 +107,41 @@ Benannte Support-Kontakte können Probleme über alle verfügbaren Kanäle einre
 | Nord- und Südamerika | Europa, Naher Osten und Afrika | Asien-Pazifik | Japan |
 |---|---|---|---|
 | 6:00–17:30 Uhr | 9:00–17:00 Uhr | 9:00–17:00 Uhr | 9:00–17:00 Uhr |
+
+## Lebenszyklus von Supportfällen - in Kürze verfügbar
+
+In dieser Dokumentation werden Verbesserungen am Adobe DX Support-Lebenszyklus beschrieben, um die Kommunikation zu verbessern und Kunden schnellstmöglich Lösungen zur Verfügung zu stellen, um den Kundenerfolg zu sichern. Im Folgenden finden Sie die Zeitpläne und Benachrichtigungen für verschiedene Szenarien, die während des Support-Prozesses aufgetreten sind:
+
+**Erinnerungen für Fallnachverfolgung**
+
+| Benachrichtigung | Fallstatus | Benachrichtigungszeit | Tage bis zum Ende der Groß-/Kleinschreibung |
+|--- |--- |--- |--- |
+| **1.** | Ausstehende Antwort oder Auflösung bereitgestellt | 24 Stunden/1 Tag | 5 Tage |
+| **2.** | Ausstehende Antwort oder Auflösung bereitgestellt | 72 Stunden / 3 Tage | 3 Tage |
+| **3.** | Ausstehende Antwort oder Auflösung bereitgestellt | 120 Stunden / 5 Tage | 1 Tag |
+| **4.** | Ausstehende Antwort oder Auflösung geändert in &quot;Automatisch geschlossen&quot; | 144 Stunden / 6 Tage | geschlossen |
+
+**Szenarien im Detail**
+
+**Zusätzliche Informationen von einem Kunden erforderlich**
+
+In diesem Szenario werden die folgenden Schritte ausgeführt, wenn von einem Kunden zusätzliche Informationen benötigt werden:
+
+* Der Techniker sendet eine Aktualisierung, die Informationen anfordert, und der Fallstatus ist auf &quot;Ausstehende Antwort&quot;eingestellt.
+* Am 1., 3. und 5. Tag nach der Statuseinstellung &quot;Ausstehende Antwort&quot;werden dem Kunden Folgebenachrichtigungen gesendet, die ihn um die zusätzlichen Informationen bitten.
+* Wenn der Kunde 6 Tage lang keine Antwort erhält, nachdem der Status auf &quot;Ausstehende Antwort&quot;festgelegt wurde, wird der Fall geschlossen und eine Schließbenachrichtigung gesendet.
+
+Kunden können einen geschlossenen Fall innerhalb von 14 Tagen erneut öffnen, um die Kommunikation fortzusetzen. Nach 14 Tagen kann ein neuer Support-Fall eröffnet werden, um die Kommunikation im Zusammenhang mit einem zuvor geschlossenen Fall fortzusetzen.
+
+**Ingenieur bietet eine Lösung**
+
+In diesem Szenario werden die folgenden Schritte ausgeführt, wenn ein Ingenieur eine Lösung anbietet:
+
+* Der Ingenieur sendet eine Aktualisierung mit einer vorgeschlagenen Lösung und der Fallstatus ist auf &quot;Lösung bereitgestellt&quot;eingestellt.
+* Am 1., 3. und 5. Tag nach der Festlegung des Status auf &quot;Lösung bereitgestellt&quot;werden dem Kunden Folgebenachrichtigungen gesendet, um eine Bestätigung der bereitgestellten Lösung anzufordern.
+* Wenn der Kunde 6 Tage lang keine Antwort erhält, nachdem der Status auf &quot;Lösung bereitgestellt&quot;festgelegt wurde, wird der Fall geschlossen und eine Schließbenachrichtigung gesendet.
+
+Kunden können einen geschlossenen Fall innerhalb von 14 Tagen erneut öffnen, um die Kommunikation fortzusetzen. Nach 14 Tagen kann ein neuer Support-Fall eröffnet werden, um die Kommunikation im Zusammenhang mit einem zuvor geschlossenen Fall fortzusetzen.
 
 ## Zusätzliche Bedingungen für Adobe Commerce on Managed Services (früher: Magento Commerce Pro: Managed Services)
 
