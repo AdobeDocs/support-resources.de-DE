@@ -4,10 +4,10 @@ description: Diese Seite wird aus der Suche und dem Inhaltsverzeichnis ausgeblen
 hide: true
 hidefromtoc: true
 exl-id: 822b2044-195c-4721-9b81-345d88f8aa2d
-source-git-commit: d5ddfcf52ee5259f6a2e6da155611cc8fe794d26
+source-git-commit: 43bc074148c66e460d999a73914be560921a8233
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 35%
+source-wordcount: '63'
+ht-degree: 39%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 35%
 
 + [Fehlerkorrekturen](hidden/bug-fixes.md)
 + [Ausgeblendeter neuer Test](hidden-new-test.md)
-+ [Ausgeblendeter neuer Test 2](hidden-new-test-2.md)
++ [Ausgeblendeter neuer Test 2](hidden-new-test-2.md)
 + [Handbuch zur ausgeblendeten Syntax](hidden/syntax-style-guide.md)
 + [Bildtestkachel](hidden/test-page.md)
 + [Tabellen-Test](hidden/tables.md)
@@ -28,3 +28,5 @@ ht-degree: 35%
 ## Neuer Abschnitt
 
 Ich klicke nicht auf Jetzt veröffentlichen . Wenn Sie dies sehen, funktionierte die automatische Aktivierung.
+
+22. Mai 2024, 2:14 PM PT
