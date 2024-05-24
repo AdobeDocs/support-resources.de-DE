@@ -3,10 +3,10 @@ user-guide-title: Ressourcen für Erfolgspläne
 user-guide-description: Erfolgsplan- und Support-Ressourcen für Adobe Experience Cloud und Adobe Experience Platform.
 feature-set: Experience Cloud
 feature: Success Plans
-source-git-commit: 830de28adb358ae69ae4bb51dd41c507433bd5c0
+source-git-commit: ff8a6583b2607f431e65b60dcb1ecf89511c583d
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 95%
+source-wordcount: '131'
+ht-degree: 93%
 
 ---
 
@@ -22,6 +22,7 @@ ht-degree: 95%
      [Folge.5 – Corey Blackburn](episode5.md)
      [EP.6 - Kelly Oja](episode6.md)
      [EP.7 - Chris Diaz](episode7.md)
+     [SP.8 - Vincent Lee](episode8.md)
 + Adobe-Support-Pläne vor dem 16. Juni 2022{#prior-plans}
    + [Übersicht über frühere Adobe-Support-Pläne](overview-prior-plans.md)
    + Experience Cloud-Services {#data-sheets}
