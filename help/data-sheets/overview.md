@@ -3,9 +3,9 @@ title: Adobe-Erfolgspläne – Übersicht
 description: Dieser Artikel enthält eine Zusammenfassung der Support-Optionen für Adobe Experience Cloud, Adobe Document Cloud und Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
 source-git-commit: 2823ae203ecf04f69135b2af9af817ef19a55ee3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2201'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -108,40 +108,40 @@ Benannte Support-Kontakte können Probleme über alle verfügbaren Kanäle einre
 |---|---|---|---|
 | 6:00–17:30 Uhr | 9:00–17:00 Uhr | 9:00–17:00 Uhr | 9:00–17:00 Uhr |
 
-## Lebenszyklus von Supportfällen - in Kürze verfügbar
+## Lebenszyklus von Support-Fällen – in Kürze verfügbar
 
-In dieser Dokumentation werden Verbesserungen am Adobe DX Support-Lebenszyklus beschrieben, um die Kommunikation zu verbessern und Kunden schnellstmöglich Lösungen zur Verfügung zu stellen, um den Kundenerfolg zu sichern. Im Folgenden finden Sie die Zeitpläne und Benachrichtigungen für verschiedene Szenarien, die während des Support-Prozesses aufgetreten sind:
+In dieser Dokumentation werden Verbesserungen am Lebenszyklus von Adobe DX-Support-Fällen beschrieben. Ziel ist es, die Kommunikation zu verstärken und der Kundschaft schnellstmöglich Lösungen bereitzustellen, um den Customer Success sicherzustellen. Im Folgenden finden Sie die Zeitschienen und Benachrichtigungen für verschiedene Szenarien, die während des Support-Vorgangs auftreten können:
 
-**Erinnerungen für Fallnachverfolgung**
+**Erinnerungen zum Nachverfolgen eines Falles**
 
-| Benachrichtigung | Fallstatus | Benachrichtigungszeit | Tage bis zum Ende der Groß-/Kleinschreibung |
+| Benachrichtigung | Fallstatus | Benachrichtigungsintervall | Tage bis zur Schließung des Falles |
 |--- |--- |--- |--- |
-| **1.** | Ausstehende Antwort oder Auflösung bereitgestellt | 24 Stunden/1 Tag | 5 Tage |
-| **2.** | Ausstehende Antwort oder Auflösung bereitgestellt | 72 Stunden / 3 Tage | 3 Tage |
-| **3.** | Ausstehende Antwort oder Auflösung bereitgestellt | 120 Stunden / 5 Tage | 1 Tag |
-| **4.** | Ausstehende Antwort oder Auflösung geändert in &quot;Automatisch geschlossen&quot; | 144 Stunden / 6 Tage | geschlossen |
+| **1.** | „Antwort steht aus“ oder „Lösung bereitgestellt“ | 24 Stunden/1 Tag | 5 Tage |
+| **2.** | „Antwort steht aus“ oder „Lösung bereitgestellt“ | 72 Stunden/3 Tage | 3 Tage |
+| **3.** | „Antwort steht aus“ oder „Lösung bereitgestellt“ | 120 Stunden/5 Tage | 1 Tag |
+| **4.** | „Antwort steht aus“ oder „Lösung bereitgestellt“ in „Automatisch geschlossen“ geändert | 144 Stunden/6 Stunden | Geschlossen |
 
 **Szenarien im Detail**
 
-**Zusätzliche Informationen von einem Kunden erforderlich**
+**Zusätzliche Informationen von Kundenseite erforderlich**
 
-In diesem Szenario werden die folgenden Schritte ausgeführt, wenn von einem Kunden zusätzliche Informationen benötigt werden:
+In diesem Szenario werden die folgenden Schritte unternommen, wenn von einer Kundin bzw. einem Kunden zusätzliche Informationen benötigt werden:
 
-* Der Techniker sendet eine Aktualisierung, die Informationen anfordert, und der Fallstatus ist auf &quot;Ausstehende Antwort&quot;eingestellt.
-* Am 1., 3. und 5. Tag nach der Statuseinstellung &quot;Ausstehende Antwort&quot;werden dem Kunden Folgebenachrichtigungen gesendet, die ihn um die zusätzlichen Informationen bitten.
-* Wenn der Kunde 6 Tage lang keine Antwort erhält, nachdem der Status auf &quot;Ausstehende Antwort&quot;festgelegt wurde, wird der Fall geschlossen und eine Schließbenachrichtigung gesendet.
+* Die technische Fachkraft sendet eine Aktualisierung, um Informationen anzufordern, und der Fallstatus wird in „Antwort steht aus“ geändert.
+* Am 1., 3. und 5. Tag nach der Statusänderung in „Antwort steht aus“ werden Nachverfolgungsbenachrichtigungen an die Kundin bzw. den Kunden gesendet mit der Bitte, die zusätzlichen Informationen bereitzustellen.
+* Wenn die Kundin bzw. der Kunde 6 Tage lang nicht reagiert, nachdem der Status in „Antwort steht aus“ geändert wurde, wird der Fall geschlossen und es wird eine Benachrichtigung bezüglich der Schließung gesendet.
 
-Kunden können einen geschlossenen Fall innerhalb von 14 Tagen erneut öffnen, um die Kommunikation fortzusetzen. Nach 14 Tagen kann ein neuer Support-Fall eröffnet werden, um die Kommunikation im Zusammenhang mit einem zuvor geschlossenen Fall fortzusetzen.
+Kundinnen und Kunden können einen geschlossenen Fall innerhalb von 14 Tagen erneut öffnen, um die Kommunikation fortzusetzen. Nach Ablauf von 14 Tagen kann ein neuer Support-Fall geöffnet werden, um die Kommunikation im Zusammenhang mit einem zuvor geschlossenen Fall fortzusetzen.
 
-**Ingenieur bietet eine Lösung**
+**Technische Fachkraft stellt eine Lösung bereit**
 
-In diesem Szenario werden die folgenden Schritte ausgeführt, wenn ein Ingenieur eine Lösung anbietet:
+In diesem Szenario werden die folgenden Schritte unternommen, wenn eine technische Fachkraft eine Lösung anbietet:
 
-* Der Ingenieur sendet eine Aktualisierung mit einer vorgeschlagenen Lösung und der Fallstatus ist auf &quot;Lösung bereitgestellt&quot;eingestellt.
-* Am 1., 3. und 5. Tag nach der Festlegung des Status auf &quot;Lösung bereitgestellt&quot;werden dem Kunden Folgebenachrichtigungen gesendet, um eine Bestätigung der bereitgestellten Lösung anzufordern.
-* Wenn der Kunde 6 Tage lang keine Antwort erhält, nachdem der Status auf &quot;Lösung bereitgestellt&quot;festgelegt wurde, wird der Fall geschlossen und eine Schließbenachrichtigung gesendet.
+* Die technische Fachkraft sendet eine Aktualisierung mit einem Lösungsvorschlag und der Fallstatus wird in „Lösung bereitgestellt“ geändert.
+* Am 1., 3. und 5. Tag nach der Statusänderung in „Lösung bereitgestellt“ werden Nachverfolgungsbenachrichtigungen an die Kundin bzw. den Kunden gesendet mit der Bitte, die bereitgestellte Lösung zu bestätigen.
+* Wenn die Kundin bzw. der Kunde 6 Tage lang nicht reagiert, nachdem der Status in „Lösung bereitgestellt“ geändert wurde, wird der Fall geschlossen und es wird eine Benachrichtigung bezüglich der Schließung gesendet.
 
-Kunden können einen geschlossenen Fall innerhalb von 14 Tagen erneut öffnen, um die Kommunikation fortzusetzen. Nach 14 Tagen kann ein neuer Support-Fall eröffnet werden, um die Kommunikation im Zusammenhang mit einem zuvor geschlossenen Fall fortzusetzen.
+Kundinnen und Kunden können einen geschlossenen Fall innerhalb von 14 Tagen erneut öffnen, um die Kommunikation fortzusetzen. Nach Ablauf von 14 Tagen kann ein neuer Support-Fall geöffnet werden, um die Kommunikation im Zusammenhang mit einem zuvor geschlossenen Fall fortzusetzen.
 
 ## Zusätzliche Bedingungen für Adobe Commerce on Managed Services (früher: Magento Commerce Pro: Managed Services)
 
