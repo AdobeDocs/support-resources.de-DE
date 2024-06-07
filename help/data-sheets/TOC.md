@@ -4,9 +4,9 @@ user-guide-description: Erfolgsplan- und Support-Ressourcen für Adobe Experienc
 feature-set: Experience Cloud
 feature: Success Plans
 source-git-commit: ff8a6583b2607f431e65b60dcb1ecf89511c583d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '131'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -20,9 +20,9 @@ ht-degree: 93%
      [Folge 3 – George Kotsinis](episode3.md)
      [Folge.4 – Jessica Ouellette](episode4.md)
      [Folge.5 – Corey Blackburn](episode5.md)
-     [EP.6 - Kelly Oja](episode6.md)
-     [EP.7 - Chris Diaz](episode7.md)
-     [SP.8 - Vincent Lee](episode8.md)
+     [Folge 6 – Kelly Oja](episode6.md)
+     [Folge 7 – Chris Diaz](episode7.md)
+     [Folge 8 – Vincent Lee](episode8.md)
 + Adobe-Support-Pläne vor dem 16. Juni 2022{#prior-plans}
    + [Übersicht über frühere Adobe-Support-Pläne](overview-prior-plans.md)
    + Experience Cloud-Services {#data-sheets}
