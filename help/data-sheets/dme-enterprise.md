@@ -3,8 +3,8 @@ title: Enterprise Support für Creative Cloud und Adobe Document Cloud
 description: Adobe bietet eine umfassende Palette technischer Ressourcen, die Sie im Rahmen Ihres Adobe Enterprise-Abonnements zur Unterstützung Ihres Unternehmens nutzen können. Diese Unterstützung wird durch den ENTERPRISE-Support-Plan optimiert.
 exl-id: 38467d5a-02b8-496f-ac2b-4d54ac3c5ffc
 source-git-commit: 3b6cd95d8ec96fd28c62fd4aa40b45e3214af471
-workflow-type: ht
-source-wordcount: '933'
+workflow-type: tm+mt
+source-wordcount: '952'
 ht-degree: 100%
 
 ---
@@ -287,10 +287,10 @@ Ihr Support-Team kann auch bei der Koordinierung und Organisation der zusätzlic
 |--- |--- |
 | [Enterprise: Lernen und Support](https://helpx.adobe.com/de/enterprise.html) | Im Enterprise-Abschnitt „Lernen und Support“ finden Adobe-Kunden Selbsthilfe-Tutorials, die Produktdokumentation, von Schulungsleitern geführte Schulungen, eine Community-Seite sowie Support für ausgewählte Adobe Creative Cloud- und Document-Produkte. |
 | [Adobe Support Community](https://community.adobe.com/?profile.language=de) | In der Adobe Support Community können Sie Fragen stellen, Antworten finden, von Experten lernen und Ihr Wissen austauschen. |
-| [Produktionsprobleme und Systemausfälle](https://status.adobe.com/) | Status.adobe.com übermittelt die Statusinformationen sämtlicher Adobe-Produkte und -Services, die in Umgebungen mit mehreren Mandanten implementiert sind. Kunden können Voreinstellungen für ihr Abonnement auswählen und E-Mail-Benachrichtigungen erhalten, wenn Adobe ein Produktereignis erstellt, aktualisiert oder löst. Dies kann geplante Wartungen oder Service-Probleme unterschiedlichen Schweregrads umfassen. |
+| [Produktionsprobleme und Systemausfälle](https://status.adobe.com/) | Status.adobe.com übermittelt die Statusinformationen sämtlicher Adobe-Produkte und -Services, die in Umgebungen mit mehreren Mandanten bereitgestellt sind. Kunden können Voreinstellungen für ihr Abonnement auswählen und E-Mail-Benachrichtigungen erhalten, wenn Adobe ein Produktereignis erstellt, aktualisiert oder löst. Dies kann geplante Wartungen oder Service-Probleme unterschiedlichen Schweregrads umfassen. |
 | [Geschäftsbedingungen](https://helpx.adobe.com/de/support/programs/support-policies-terms-conditions.html) | Allgemeine Geschäftsbedingungen mit detaillierten Informationen zu den angebotenen Support-Services. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Regionales Support-Angebot von Adobe, örtliche Geschäftszeiten und unterstützte Sprachen
 

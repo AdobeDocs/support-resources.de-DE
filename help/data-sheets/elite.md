@@ -3,8 +3,8 @@ title: Elite Support
 description: Adobe Experience Cloud Elite Support Services bieten erstklassige Service Level Targets (SLTs), proaktive Unterstützung und Partnerschaft mit einem Technical Account Manager und einem spezifischen Support-Mitarbeiter.
 exl-id: 46a0f6bb-dccb-4554-a811-de1384db2747
 source-git-commit: eab88ea8d66a5ae104369655137c389822671e0f
-workflow-type: ht
-source-wordcount: '1362'
+workflow-type: tm+mt
+source-wordcount: '1386'
 ht-degree: 100%
 
 ---
@@ -131,7 +131,7 @@ Adobe Experience Cloud Elite Support Services bieten erstklassige Service Level 
 | <b>PRIORITÄT 3</b><br>Die Unternehmensfunktionen des Kunden weisen eine geringfügige oder gar keine Beeinträchtigung des Service auf, es gibt jedoch eine Lösung/Problemumgehung, mit der die Unternehmensfunktionen weiterhin normal genutzt werden können. | Geschäftszeiten/<br>6 Stunden | 24x5/<br>1 Stunde |
 | <b>PRIORITÄT 4</b><br>Allgemeine Frage zur aktuellen Produktfunktionalität oder Anfrage zu einer Erweiterung. | Geschäftstage/<br>3 Tage | Geschäftstag/<br>1 Tag |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Umfang von Elite Support
 
@@ -187,7 +187,7 @@ Adobe Experience Cloud Elite Support Services bieten erstklassige Service Level 
     <img alt="Umgebungsprüfung" src="assets/EnvironmentReview.png"/>
     <div>
     <p><b>Umgebungsprüfung</b></p>
-    <p>Proaktive Prüfung Ihrer Lösungsimplementierung, -konfiguration und -architektur, einschließlich Integrationen.</p>
+    <p>Proaktive Prüfung Ihrer Lösungsbereitstellung, -konfiguration und -architektur, einschließlich Integrationen.</p>
     </div>
   </td>
   <td>
@@ -319,7 +319,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
 
 ## Launch Advisory
 
-Für Kunden, die eine **neue Adobe Experience Cloud-Lösung** implementieren, ist Launch Advisory eine *zentrale Palette von Beratungs-Services* und Empfehlungen, die nachweislich erfolgreiche Implementierungen unterstützen und die Time-to-Value beschleunigen.
+Für Kunden, die eine **neue Adobe Experience Cloud-Lösung** bereitstellen, ist Launch Advisory eine *zentrale Palette von Beratungs-Services* und Empfehlungen, die nachweislich erfolgreiche Bereitstellungen unterstützen und die Time-to-Value beschleunigen.
 
 <!--
 ![Support implementation and operation](assets/support-implementation.png)
@@ -369,7 +369,7 @@ Verfügbare strategische Aktivitäten:
 |--- |--- |
 | [Experience League](https://experienceleague.adobe.com/?lang=de) | Mit der Experience League unterstützt Adobe Unternehmen dabei, mit ihren Investitionen in Adobe optimale Ergebnisse zu erzielen. An diesem zentralen Ort können Kunden auf einem personalisierten Weg zum Erfolg lernen, Kontakte knüpfen und sich weiterentwickeln. Dafür nutzen sie Selbsthilfe-Tutorials, Produktdokumentation, von Kursleitern geführte Schulungen, Community und technischen Support. |
 | [Training](https://training.adobe.com/training/) | Adobe Digital Learning Services-Kurse sind über die Experience League verfügbar. Das Angebot umfasst sowohl On-Demand- als auch von Kursleiter geführte Schulungen. Hier können Sie Kompetenzen erwerben, die auf dem Markt anerkannt sind und den Erfolg im Unternehmen vorantreiben. |
-| [Produktionsprobleme und Systemausfälle](https://status.adobe.com/) | Status.adobe.com übermittelt die Statusinformationen sämtlicher Adobe-Produkte und -Services, die in Umgebungen mit mehreren Mandanten implementiert sind. Kunden können Voreinstellungen für ihr Abonnement auswählen und E-Mail-Benachrichtigungen erhalten, wenn Adobe ein Produktereignis erstellt, aktualisiert oder löst. Dies kann geplante Wartungen oder Service-Probleme unterschiedlichen Schweregrads umfassen. |
+| [Produktionsprobleme und Systemausfälle](https://status.adobe.com/) | Status.adobe.com übermittelt die Statusinformationen sämtlicher Adobe-Produkte und -Services, die in Umgebungen mit mehreren Mandanten bereitgestellt sind. Kunden können Voreinstellungen für ihr Abonnement auswählen und E-Mail-Benachrichtigungen erhalten, wenn Adobe ein Produktereignis erstellt, aktualisiert oder löst. Dies kann geplante Wartungen oder Service-Probleme unterschiedlichen Schweregrads umfassen. |
 | [Geschäftsbedingungen](https://helpx.adobe.com/de/support/programs/support-policies-terms-conditions.html) | Allgemeine Geschäftsbedingungen mit detaillierten Informationen zu den angebotenen Support-Services. |
 
 ## Regionales Support-Angebot von Adobe, örtliche Geschäftszeiten und unterstützte Sprachen

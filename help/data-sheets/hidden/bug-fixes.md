@@ -25,8 +25,8 @@ Diese Fehler sollten alle behoben werden.
 
 * [Erste Schritte mit dem KI-Assistenten](note-test.md)
 * **[Generierung von E-Mails mit dem KI-Assistenten](syntax-style-guide.md)**
-* [Generierung von SMS mit dem KI-Assistenten](test-page.md)
-* [Push-Generierung mit dem AI-Assistenten](tables.md)
+* [SMS-Generierung mit dem KI-Assistenten](test-page.md)
+* [Generierung von Push-Benachrichtigungen mit dem KI-Assistenten](tables.md)
 * [Inhaltsexperiment mit dem KI-Assistenten](test-redirection.md)
 
 >[!ENDSHADEBOX]
@@ -37,8 +37,8 @@ Keine Schattierbox
 
 * [Erste Schritte mit dem KI-Assistenten](note-test.md)
 * **[Generierung von E-Mails mit dem KI-Assistenten](syntax-style-guide.md)**
-* [Generierung von SMS mit dem KI-Assistenten](test-page.md)
-* [Push-Generierung mit dem AI-Assistenten](tables.md)
+* [SMS-Generierung mit dem KI-Assistenten](test-page.md)
+* [Generierung von Push-Benachrichtigungen mit dem KI-Assistenten](tables.md)
 * [Inhaltsexperiment mit dem KI-Assistenten](test-redirection.md)
 
 
@@ -46,9 +46,9 @@ Keine Schattierbox
 
 Diese Abzeichen sollten sich auf derselben Zeile wie die Aufzählungselemente befinden.
 
-* [[!DNL Mixpanel]](note-test.md) [!BADGE Hinweise]{type=Informative}
+* [[!DNL Mixpanel]](note-test.md) [!BADGE Notizen]{type=Informative}
 * [[!DNL Pendo]](tables.md) [!BADGE Tabellen]{type=Positive}
-* [[!DNL RainFocus]](syntax-style-guide.md) [!BADGE Syntaxstilhandbuch]{type=Positive}
+* [[!DNL RainFocus]](syntax-style-guide.md) [!BADGE Syntax Style Guide]{type=Positive}
 
 ## UGP-10560 - Abzeichen in ausblendbaren Abschnitten
 
@@ -61,8 +61,8 @@ _13. Februar 2023_
 [!BADGE Unterstützt]{type=Informative tooltip="Unterstützt"}
 
 ![Neu](assets/package.png) Produktvideos werden jetzt von der Catalog Service-API unterstützt.
-![Fehlerbehebung](assets/package.png) Bundle-Produkte mit festen Preisen werden jetzt unterstützt.
-![Fehlerbehebung](assets/package.png) Nicht vorrätige Optionen werden jetzt im PDP-Widget angezeigt.
+![Korrektur](assets/package.png) Bundle-Produkte mit festen Preisen werden jetzt unterstützt.
+![Korrektur](assets/package.png) Nicht vorrätige Optionen werden jetzt im PDP-Widget angezeigt.
 
 #### Bekannte Einschränkungen
 
@@ -75,7 +75,7 @@ Diese Funktionen werden noch nicht unterstützt:
 Die folgenden Einschränkungen können mithilfe des API-Gitters und der GraphQL-Core-API behoben werden:
 
 * Mindestpreis für Werbung
-* [Kategoriekosten](https://www.adobe.com)
+* [Tier price](https://www.adobe.com)
 
 ### Version 1.13
 
@@ -83,7 +83,7 @@ _Freitag, 12. Oktober 2023_
 
 [!BADGE Unterstützt]{type=Informative tooltip="Unterstützt"}
 
-![Neu](assets/package.png) Catalog Service unterstützt die `inStock` Markierung für Produktvarianten.
+![Neu](assets/package.png) Der Katalogdienst unterstützt die Markierung `inStock` für Produktvarianten.
 ![Neu](assets/package.png) `urlKey` und `externalId` wurden zum GraphQL-Schema hinzugefügt.
 ![Neu](assets/package.png) Herunterladbare Produkte und Geschenkkarten werden jetzt unterstützt.
 
@@ -102,7 +102,7 @@ _Mittwoch, 18. Juli 2023_
 
 [!BADGE Unterstützt]{type=Informative tooltip="Unterstützt"}
 
-![Neu](assets/package.png) Catalog Service unterstützt jetzt die [`recommendations`](https://developer.adobe.com/commerce/services/graphql/recommendations/recommendations/) GraphQL-Abfrage für Product Recommendations.
+![Neu](assets/package.png) Der Katalogdienst unterstützt jetzt die GraphQL-Abfrage [`recommendations`](https://developer.adobe.com/commerce/services/graphql/recommendations/recommendations/) für Product Recommendations.
 
 ### Version 1.10
 
@@ -110,7 +110,7 @@ _Mittwoch, 27. Juni 2023_
 
 [!BADGE Unterstützt]{type=Informative tooltip="Unterstützt"}
 
-![Neu](assets/package.png) Die Catalog Service API unterstützt jetzt &quot;verwandte Produkte&quot;.
+![Neu](assets/package.png) Die Catalog Service-API unterstützt jetzt &quot;verwandte Produkte&quot;.
 
 ### Version 1.7
 
@@ -118,8 +118,8 @@ _Donnerstag, 12. April 2023_
 
 [!BADGE Unterstützt]{type=Informative tooltip="Unterstützt"}
 
-![Neu](assets/package.png) Catalog Service bereinigt jetzt gelöschte Produktvarianten.
-![Fehlerbehebung](assets/package.png) Skalierbarkeit der Infrastruktur und Leistungsverbesserungen.
+![Neu](assets/package.png) Der Katalogdienst bereinigt jetzt gelöschte Produktvarianten.
+![Korrektur](assets/package.png) Verbesserungen der Skalierbarkeit und Leistung der Infrastruktur.
 
 ### Version 1.6
 
@@ -127,7 +127,7 @@ _Mittwoch, 28. März 2023_
 
 [!BADGE Unterstützt]{type=Informative tooltip="Unterstützt"}
 
-![Neu](assets/package.png) Muster wurden zum [`products`](https://developer.adobe.com/commerce/services/graphql/catalog-service/products/) Abfrage.
+![Neu](assets/package.png) Zur [`products`](https://developer.adobe.com/commerce/services/graphql/catalog-service/products/) -Abfrage wurden Muster hinzugefügt.
 ![Neu](https://www.adobe.com).
 
 ### Version 1.5
@@ -136,8 +136,8 @@ _Dienstag, 6. März 2023_
 
 [!BADGE Unterstützt]{type=Informative tooltip="Unterstützt"}
 
-![Neu](assets/package.png) hinzugefügt [`categories`](https://developer.adobe.com/commerce/services/graphql/schema/catalog-service/categories/) GraphQL-Funktionen.
-![Fehlerbehebung](assets/package.png) Verbesserte Leistung und API-Skalierbarkeit.
+![Neu](assets/package.png) Die GraphQL-Funktion [`categories`](https://developer.adobe.com/commerce/services/graphql/schema/catalog-service/categories/) wurde hinzugefügt.
+![Korrektur](assets/package.png) Verbesserte Leistung und API-Skalierbarkeit.
 
 ### Version 1.4
 
@@ -145,8 +145,8 @@ _Mittwoch, 7. Februar 2023_
 
 [!BADGE Unterstützt]{type=Informative tooltip="Unterstützt"}
 
-![Neu](assets/package.png) Das Katalog-Service-Metapaket wurde veröffentlicht, um die Installationsschritte zu vereinfachen.
-![Fehlerbehebung](assets/package.png) API-Skalierbarkeit und Leistungsverbesserungen.
+![Neu](assets/package.png) Das veröffentlichte Katalog-Service-Metapaket vereinfacht die Installationsschritte.
+![Korrektur](assets/package.png) API-Skalierbarkeit und Leistungsverbesserungen.
 
 ### Version 1.3
 
@@ -154,10 +154,10 @@ _Mittwoch, 17. Januar 2023_
 
 [!BADGE Unterstützt]{type=Informative tooltip="Unterstützt"}
 
-![Neu](assets/package.png) Das Onboarding wurde vereinfacht und verbessert.
-![Neu](assets/package.png) Neue Kunden-Sandbox-Endpunkte stehen für Vorproduktionstests zur Verfügung.
+![Neu](assets/package.png) Die Onboarding-Erfahrung wurde vereinfacht und verbessert.
+![Neu](assets/package.png) Neue Kunden-Sandbox-Endpunkte sind für Vorproduktionstests verfügbar.
 ![Neu](assets/package.png) Unterstützung für virtuelle Produkte hinzugefügt.
-![Fehlerbehebung](assets/package.png) API-Skalierbarkeit und Leistungsverbesserungen.
+![Korrektur](assets/package.png) API-Skalierbarkeit und Leistungsverbesserungen.
 
 ### Version 1.1
 
@@ -165,8 +165,8 @@ _Samstag, 18. November 2022_
 
 [!BADGE Unterstützt]{type=Informative tooltip="Unterstützt"}
 
-![Neu](assets/package.png) Catalog Service unterstützt jetzt Adobe [API-Mesh](https://developer.adobe.com/graphql-mesh-gateway/).
-![Fehlerbehebung](assets/package.png) Verbesserte API-Skalierbarkeit und Gesamtleistung.
+![Neuer Katalogdienst](assets/package.png) unterstützt jetzt Adobe [API-Mesh](https://developer.adobe.com/graphql-mesh-gateway/).
+![Korrektur](assets/package.png) Verbesserte API-Skalierbarkeit und Gesamtleistung.
 
 ### Version 1.0
 
@@ -175,7 +175,7 @@ _Mittwoch, 4. Oktober 2022_
 [!BADGE Unterstützt]{type=Informative tooltip="Unterstützt"}
 
 ![Neu](assets/package.png) Unterstützt jetzt gebündelte und gruppierte Produkte.
-![Neu](assets/package.png) Es wurden Sichtbarkeitsüberschreibungen für B2B hinzugefügt. Produkte sind nun durchsuchbar und können für bestimmte Kundengruppen zum Warenkorb hinzugefügt werden.
+![Neu](assets/package.png) Es wurden Überschreibungen der B2B-Sichtbarkeit hinzugefügt. Produkte sind nun durchsuchbar und können für bestimmte Kundengruppen zum Warenkorb hinzugefügt werden.
 ![Fehlerbehebung](assets/package.png) Der Dienst ist jetzt stabiler und hat eine verbesserte Leistung.
 
 ### Version 0.3 - Beta+
@@ -185,17 +185,17 @@ _Dienstag, 12. September 2022_
 [!BADGE Unterstützt]{type=Informative tooltip="Unterstützt"}
 
 ![Neu](assets/package.png) Bilder für Variantenunterstützung: Produktbilder werden basierend auf den ausgewählten Optionen zurückgegeben
-![Neu](assets/package.png) Preisstützung durch Rollen: Ermöglicht es nur Mitgliedern bestimmter Kundengruppen, den Preis von Produkten zu sehen
-![Fehlerbehebung](assets/package.png) Verbesserte Stabilität und Leistung des Dienstes
+![Neu](assets/package.png) Rollen für Preisunterstützung: Nur Mitglieder bestimmter Kundengruppen können den Preis für Produkte sehen
+![Korrektur](assets/package.png) Verbesserte Stabilität und Leistung des Dienstes
 ![Neu](assets/package.png) Aktualisierungen werden empfangen, wenn Produkte aus dem Katalog gelöscht werden
 
 ### Beta-Version
 
-_9. August 2022_
+_Mittwoch, 9. August 2022_
 
 [!BADGE Unterstützt]{type=Informative tooltip="Unterstützt"}
 
-![Neu](assets/package.png) Die `products` und `refineProduct` -Abfragen geben die folgenden Daten zurück:
+![Neu](assets/package.png) Die Abfragen `products` und `refineProduct` geben die folgenden Daten zurück:
 
 * Vordefinierte (System-)Produktattribute
 * Dynamische Produktattribute und deren Filterung nach Rolle (Produktanzeigen-Seite/Produktlistenseite).
@@ -213,7 +213,7 @@ Siehe obige Überschrift. Und der nächste.
 
 ## Automatische Aktivierung testen
 
-Ich habe dies am Freitagnachmittag hinzugefügt, aber nicht auf Jetzt veröffentlichen geklickt.
+Ich habe dies am Freitagnachmittag hinzugefügt, aber nicht auf Publish Now geklickt.
 
 ### [!BADGE Beta]{type=Informative}
 
@@ -264,7 +264,7 @@ Sie können Ihren benutzerdefinierten Formularen native Workfront-Felder hinzuf�
     </tbody> 
    </table>
 
-1. Klicken Sie zum Speichern der Änderungen auf **Anwenden** und fahren Sie mit einem anderen Abschnitt fort, um mit der Erstellung des Formulars fortzufahren.
+1. Um Ihre Änderungen zu speichern, klicken Sie auf **Anwenden** und fahren Sie mit einem anderen Abschnitt fort, um mit dem Erstellen Ihres Formulars fortzufahren.
 
    oder
 
@@ -287,10 +287,10 @@ Siehe auch UGP-9780
 </tr>
 <tr> 
     <td role="rowheader">Kennzeichnung</td> 
-    <td> <p>(Erforderlich) Geben Sie eine beschreibende Bezeichnung ein, die über dem benutzerdefinierten Feld angezeigt werden soll. Sie können den Titel jederzeit ändern. Weitere Informationen finden Sie unter <a href="https://www.adobe.com" class="MCXref xref">Benutzerdefiniertes Feld zu einem benutzerdefinierten Formular hinzufügen</a> in diesem Artikel.</p> <p><b>WICHTIG</b>: Vermeiden Sie die Verwendung von Sonderzeichen in dieser Bezeichnung. Sie werden in Berichten nicht korrekt angezeigt.</p> </td> 
+    <td> <p>(Erforderlich) Geben Sie eine beschreibende Bezeichnung ein, die über dem benutzerdefinierten Feld angezeigt werden soll. Sie können den Titel jederzeit ändern. Weitere Informationen finden Sie unter <a href="https://www.adobe.com" class="MCXref xref">Hinzufügen eines benutzerdefinierten Felds zu einem benutzerdefinierten Formular</a> in diesem Artikel.</p> <p><b>WICHTIG</b>: Vermeiden Sie die Verwendung von Sonderzeichen in dieser Bezeichnung. Sie werden in Berichten nicht korrekt angezeigt.</p> </td> 
     <td>
     <ul>
-    <li>Optionsfelder. Weitere Informationen finden Sie unter <a href="https://www.adobe.com">Benutzerdefiniertes Feld zu einem benutzerdefinierten Formular hinzufügen</a> in diesem Artikel. (Keine Klasse)</li>
+    <li>Optionsfelder. Weitere Informationen finden Sie unter <a href="https://www.adobe.com">Hinzufügen eines benutzerdefinierten Felds zu einem benutzerdefinierten Formular</a> in diesem Artikel. (Keine Klasse)</li>
     <li>Kontrollkästchengruppe</li>
     <li>Dropdown</li>
     </ul></td>
@@ -305,33 +305,33 @@ Das Tag &quot;span&quot;funktioniert in einem HINWEIS (und einer Liste) nicht be
 Informationen darüber, welche Funktionen im neuen Kommentierungserlebnis verfügbar sind und welche Objekte verwendet werden, finden Sie unter [Neues Kommentierungserlebnis](note-test.md).
 
 1. Markieren Sie das Objekt, dem Sie eine Antwort hinzufügen möchten.
-1. Klicks **Updates** und klicken Sie dann auf **Kommentare** Registerkarte für das Objekt und suchen Sie den Kommentar oder die Antwort, auf den/die Sie antworten möchten
+1. Klicken Sie auf **Aktualisierungen**, klicken Sie dann auf die Registerkarte **Kommentare** für das Objekt und suchen Sie den Kommentar oder die Antwort, auf den/die Sie antworten möchten
 
    Oder
 
-   <span class="preview">Klicken Sie auf **Alle** Registerkarte und klicken Sie dann auf **In Kommentaren antworten** , um den Kommentar auf der Registerkarte Kommentare zu öffnen und darauf zu antworten. Sie können auf der Registerkarte &quot;Alle&quot;nicht antworten.</span>
+   <span class="preview">Klicken Sie auf die Registerkarte **Alle** und dann auf **In Kommentaren antworten** , um den Kommentar auf der Registerkarte &quot;Kommentare&quot;zu öffnen und darauf zu antworten. Sie können auf der Registerkarte &quot;Alle&quot;nicht antworten.</span>
 
-1. (Optional) Wenn Sie Text aus einer vorherigen Aktualisierung in Ihre Antwort aufnehmen möchten, klicken Sie auf die **Mehr** in der oberen rechten Ecke des Kommentars, auf den Sie antworten möchten, klicken Sie auf **Anführungsantwort**. Text aus der vorherigen Aktualisierung wird im Eingabefeld mit einer vertikalen grauen Linie markiert.
-1. Klicks **Antwort**.
+1. (Optional) Um Text aus einer vorherigen Aktualisierung in Ihre Antwort aufzunehmen, klicken Sie auf das Menü **Mehr** in der oberen rechten Ecke des Kommentars, auf den Sie antworten möchten, und klicken Sie dann auf **Antwort anfügen**. Text aus der vorherigen Aktualisierung wird im Eingabefeld mit einer vertikalen grauen Linie markiert.
+1. Klicken Sie auf **Antworten**.
 
    ![](assets/package.png)
 
-   Sie können die Benutzer sehen, die aktiv an der Unterhaltung beteiligt sind am unteren Rand der **Antwort hinzufügen...** und Sie können weitere hinzufügen oder die nicht mehr relevanten entfernen. Diese Benutzer erhalten zusammen mit allen Benutzern, die das Objekt abonniert haben, eine Benachrichtigung, sobald ein Objekt aktualisiert oder beantwortet wird. Sie können auch weitere Benutzer taggen, um sie in Ihre Antwort einzubeziehen.  Weitere Informationen zum Tagging von Benutzern finden Sie unter [Tagging anderer Benutzer auf Updates](note-test.md).
+   Sie können die Benutzer sehen, die aktiv an der Konversation beteiligt sind, am unteren Rand des Felds **Antwort hinzufügen..** und Sie können weitere hinzufügen oder diejenigen entfernen, die nicht mehr relevant sind. Diese Benutzer erhalten zusammen mit allen Benutzern, die das Objekt abonniert haben, eine Benachrichtigung, sobald ein Objekt aktualisiert oder beantwortet wird. Sie können auch weitere Benutzer taggen, um sie in Ihre Antwort einzubeziehen.  Informationen zum Taggen weiterer Benutzer finden Sie unter [Tagging anderer Benutzer auf Updates](note-test.md).
 
    >[!TIP]
    >
-   >   Um zusätzliche Antworten auf eine vorhandene Antwort hinzuzufügen, können Sie die Variable **Antwort hinzufügen ...** oder klicken Sie **Antwort** zum ursprünglichen Kommentar. Ihre Antwort wird am Ende des Threads hinzugefügt.
+   >   Um zusätzliche Antworten auf eine vorhandene Antwort hinzuzufügen, können Sie mit der Eingabe in das Feld **Antwort hinzufügen ...** beginnen oder auf **Antwort** im ursprünglichen Kommentar klicken. Ihre Antwort wird am Ende des Threads hinzugefügt.
 
-1. Beginnen Sie mit der Eingabe Ihrer Antwort und verwenden Sie zusätzliche Optionen aus der Rich-Text-Symbolleiste. Informationen zur Verwendung von Rich Text oder anderen Aktualisierungsfunktionen finden Sie unter [Update der Arbeit](note-test.md).
+1. Beginnen Sie mit der Eingabe Ihrer Antwort und verwenden Sie zusätzliche Optionen aus der Rich-Text-Symbolleiste. Informationen zur Verwendung von Rich Text oder anderen Aktualisierungsfunktionen finden Sie unter [Arbeit aktualisieren](note-test.md).
 
-1. Klicks **Einsenden** , um die Antwort zu speichern.
+1. Klicken Sie auf **Senden** , um die Antwort zu speichern.
 
-1. (Optional) Klicken Sie auf die **Mehr** in der oberen rechten Ecke des Kommentars, auf den Sie antworten möchten, finden Sie weitere Optionen zur Verwaltung der Antwort. Weitere Informationen finden Sie unter [Update der Arbeit](note-test.md).
+1. (Optional) Klicken Sie in der oberen rechten Ecke des Kommentars, auf den Sie antworten möchten, auf das Menü **Mehr** , um weitere Optionen zum Verwalten der Antwort zu erhalten. Weitere Informationen finden Sie unter [Funktionsweise aktualisieren](note-test.md).
 
 
 ## UGP-10614 - Problemtabellen mit Bildern
 
-Ich denke, dass die `{width="20"}` verursacht Probleme in Tabellen.
+Ich glaube, der Parameter `{width="20"}` verursacht Probleme in Tabellen.
 
 ## Vergleich der Erfolgspläne „Expert“ und „Ultimate“
 

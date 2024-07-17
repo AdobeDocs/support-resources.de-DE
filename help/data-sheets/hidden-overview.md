@@ -27,6 +27,6 @@ ht-degree: 39%
 
 ## Neuer Abschnitt
 
-Ich klicke nicht auf Jetzt veröffentlichen . Wenn Sie dies sehen, funktionierte die automatische Aktivierung.
+Ich klicke nicht auf Publish Now. Wenn Sie dies sehen, hat die automatische Aktivierung funktioniert.
 
 6. Juni, 19:12 PT

@@ -1,7 +1,8 @@
 ---
 title: Adobe Crux Podcasts
 description: Folge 6 in der CRUX Podcast-Serie
-source-git-commit: 830de28adb358ae69ae4bb51dd41c507433bd5c0
+exl-id: 1cae3576-c82c-446a-8a67-bf359807ca16
+source-git-commit: 4c1a12cc8114f14e09856d5552e1afdde6f85465
 workflow-type: tm+mt
 source-wordcount: '15'
 ht-degree: 0%

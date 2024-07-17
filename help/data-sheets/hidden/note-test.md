@@ -3,7 +3,8 @@ description: Herstellen einer Verbindung zur Widget-Data Warehouse - Produktdoku
 title: Herstellen einer Verbindung zum Widget-Data Warehouse
 hide: true
 hidefromtoc: true
-source-git-commit: fcf5fb8f9728dd27a81de21241a71ce49dd015f8
+exl-id: d6a7cff5-08f9-4c93-8765-46e692feaa0d
+source-git-commit: 972704990172c966a27744b49b9f7af5626e9f3e
 workflow-type: tm+mt
 source-wordcount: '911'
 ht-degree: 0%
@@ -14,9 +15,9 @@ ht-degree: 0%
 
 ## Neuer Test
 
-<ol><li>Verwenden Sie den "{{name}}".</li></ol>
+<ol><li>Verwenden Sie die Variable {{name}}.</li></ol>
 
-<ol><li>Verwenden Sie &amp;lbrace;&amp;lbrace;<code>name</code>&amp;rbrace;&amp;rbrace; Variable.</li></ol>
+<ol><li>Verwenden Sie die Variable "&amp;lbrace;&amp;lbrace;<code>name</code>&amp;rbrace;&amp;rbrace;".</li></ol>
 
 ## Verschachtelter Test
 
@@ -61,11 +62,11 @@ Um auf Ihr Widget-Data Warehouse zuzugreifen, müssen Sie zur spezifischen URL f
    >
    >Dies ist ein schreibgeschütztes Konto, das für Ihr Unternehmen und nicht nur für einzelne Benutzer verfügbar ist. Jeder Benutzer in Ihrem Unternehmen, der Zugriff auf Marketo Measure hat, kann sich mit diesem Konto beim Widget Data Warehouse Reader-Konto anmelden.
 
-1. Klicken Sie auf den in der Widget-URL angegebenen Link. Dadurch gelangen Sie zur Widget-Anmeldeseite, auf der Sie Ihren Benutzernamen und Ihr Passwort eingeben. _Wenn Sie Ihr Kennwort nicht haben, lesen Sie die folgenden Schritte, um es zurückzusetzen._.
+1. Klicken Sie auf den in der Widget-URL angegebenen Link. Dadurch gelangen Sie zur Widget-Anmeldeseite, auf der Sie Ihren Benutzernamen und Ihr Passwort eingeben. _Wenn Sie Ihr Kennwort nicht haben, lesen Sie die folgenden Schritte, um es zurückzusetzen_.
 
    ![](assets/adobe-logo-old.png)
 
-1. Klicken Sie nach der Anmeldung auf **Arbeitsblätter** oben auf der Seite.
+1. Klicken Sie nach der Anmeldung oben auf der Seite auf **Arbeitsblätter** .
 
    ![](assets/adobe-logo-old.png)
 
@@ -98,11 +99,11 @@ Sie müssen einige Informationen eingeben, um Ihr Widget Data Warehouse mit eine
    * Dies ist der Domänenname des Widget-Kontos.  Sie ist in einem Teil des Widget-Anmelde-Links enthalten.
 * **Benutzername** (immer erforderlich)
    * Der Benutzername wird auf der Data Warehouse-Informationsseite in Marketo Measure aufgeführt.
-* **Passwort** (immer erforderlich)
+* **Kennwort** (immer erforderlich)
    * Dies ist das Kennwort, das Sie beim ersten Anmelden in Ihrem Widget-Konto festgelegt haben.  Informationen zum Zurücksetzen Ihres Kennworts finden Sie in den oben beschriebenen Schritten.
 * **Datenbankname** (nicht immer erforderlich)
    * Die Datenbank speichert die Daten in Widget. Dies ist die Speicherressource. Der Datenbankname wird auf der Data Warehouse-Informationsseite in Marketo Measure aufgeführt.
-* **Warehouse Name** (nicht immer erforderlich)
+* **Warehouse-Name** (nicht immer erforderlich)
    * Das Warehouse führt Abfragen in Widget aus. Dies ist die Rechenressource.  Der Warehouse-Name wird auf der Data Warehouse-Informationsseite in Marketo Measure aufgeführt.
 
   ![](assets/adobe-logo-old.png)
@@ -119,11 +120,11 @@ Damit Marketo Measure eine direkte Freigabe für Data Warehouse einrichten kann,
 
 **Einschränkungen**
 
-Damit Marketo Measure eine direkte Freigabe einrichten kann, muss sich das Konto, das Zugriff anfordert, in Azure East US 2 befinden. Wir wissen, dass Widget eine Datenreplikationslösung zwischen Regionen anbietet, aber wir unterstützen diese nicht von unserem Ende aus, da wir nur Daten in der Azure East US 2-Region hosten. Sie können diese Funktion nutzen, indem Sie Ihre eigene Instanz in Azure East US 2 einrichten und [regionsübergreifendes Replizieren der Daten](https://docs.widget.com/en/user-guide/secure-data-sharing-across-regions-plaforms.html){target="_blank"} zu Ihrer vorhandenen Instanz hinzufügen. Die Datenreplikationsfunktion von Widget ist jedoch nur für Tabellen verfügbar. Um diese Funktion verwenden zu können, müssen Sie die Daten zunächst aus unseren Ansichten in Ihre eigenen Tabellen kopieren.
+Damit Marketo Measure eine direkte Freigabe einrichten kann, muss sich das Konto, das Zugriff anfordert, in Azure East US 2 befinden. Wir wissen, dass Widget eine Datenreplikationslösung zwischen Regionen anbietet, aber wir unterstützen diese nicht von unserem Ende aus, da wir nur Daten in der Azure East US 2-Region hosten. Sie können diese Funktion nutzen, indem Sie Ihre eigene Instanz in Azure East US 2 einrichten und [die Daten regionenübergreifend replizieren](https://docs.widget.com/en/user-guide/secure-data-sharing-across-regions-plaforms.html){target="_blank"} auf Ihre vorhandene Instanz. Die Datenreplikationsfunktion von Widget ist jedoch nur für Tabellen verfügbar. Um diese Funktion verwenden zu können, müssen Sie die Daten zunächst aus unseren Ansichten in Ihre eigenen Tabellen kopieren.
 
-**Zugriff auf die Freigabe**
+**Zugreifen auf die Freigabe**
 
-Nachdem die Freigabe für die angegebene Konto-ID erstellt wurde, müssen Sie die [Einrichtungsschritte](https://docs.widget.com/en/user-guide/data-share-consumers.html){target="_blank"} in Ihrer Widget-Instanz, um auf die Daten zuzugreifen.
+Nachdem die Freigabe für die angegebene Konto-ID erstellt wurde, müssen Sie die [Einrichtungsschritte](https://docs.widget.com/en/user-guide/data-share-consumers.html){target="_blank"} in Ihrer Widget-Instanz ausführen, um auf die Daten zugreifen zu können.
 
 >[!NOTE]
 >
@@ -154,4 +155,4 @@ GRANT IMPORTED PRIVILEGES ON DATABASE <database_name> TO ROLE <role_name>
 GRANT IMPORTED PRIVILEGES ON ALL SCHEMAS IN DATABASE <database_name> TO ROLE <role_name>
 ```
 
-Ausführlichere Anweisungen und Schritte zum Ausführen dieser Schritte über die Widget-Benutzeroberfläche finden Sie unter [Direkte Dokumentation zum Widget](https://docs.widget.com/en/user-guide/data-share-consumers.html){target="_blank"}.
+Ausführlichere Anweisungen und Schritte zum Ausführen dieser Schritte über die Widget-Benutzeroberfläche finden Sie in der Dokumentation von [Widget direkt](https://docs.widget.com/en/user-guide/data-share-consumers.html){target="_blank"}.

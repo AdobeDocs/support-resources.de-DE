@@ -3,7 +3,7 @@ title: Übersicht der Support-Dienste für Experience Cloud
 description: Dieser Artikel enthält eine Zusammenfassung der Support-Optionen für Adobe Experience Cloud. Zu diesen Optionen gehören Online, Business, Enterprise und Elite.
 exl-id: ac22d8ac-a214-4ee2-8828-b28a4cccce43
 source-git-commit: 98e65227b9a988b32bdfb32a8c371f2474ea4ac5
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 100%
 
@@ -13,7 +13,7 @@ ht-degree: 100%
 
 Der Support für Adobe Experience Cloud tut alles, um Sie auf Ihrem Weg zum Erfolg zu unterstützen. Alle Abonnements beinhalten einen Support-Level, mit dem Sie einfachen Zugriff auf technische Unterstützung durch unsere hoch qualifizierten technischen Ressourcen haben.
 
-Für umfassendere Bedürfnisse bieten wir Adobe Support-Services an, die Zugriff auf spezifische Support-Mitarbeiter, beschleunigte Service-Level-Reaktionsziele und Sessions für proaktives Mentoring und Service-Prüfung umfassen. Egal, wie komplex Ihr Support-Bedarf auch sein mag, Adobe bietet das technische und betriebliche Know-how, mit dem Sie Ihre Adobe-Lösung bestmöglich einsetzen und optimale Eregebnisse erzielen können.
+Für umfassendere Bedürfnisse bieten wir Adobe Support-Services an, die Zugriff auf spezifische Support-Mitarbeiter, beschleunigte Service-Level-Reaktionsziele und Sessions für proaktives Mentoring und Service-Prüfung umfassen. Egal, wie komplex Ihr Support-Bedarf auch sein mag, Adobe bietet das technische und betriebliche Know-how, mit dem Sie Ihre Adobe-Lösung bestmöglich einsetzen und optimale Ergebnisse erzielen können.
 
 <table style="table-layout:fixed">
 <tr>

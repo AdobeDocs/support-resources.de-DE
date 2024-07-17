@@ -3,8 +3,8 @@ title: Standard Support für Adobe Creative Cloud und Adobe Document Cloud
 description: Adobe bietet eine umfassende Palette technischer Ressourcen, die Sie im Rahmen Ihres Adobe Enterprise-Abonnements zur Unterstützung Ihres Unternehmens nutzen können. Der Standard Support ermöglicht rund um die Uhr Zugriff auf unsere Selbsthilfe-Support-Ressourcen, darunter Hilfeartikel zu HelpX, sowie Kontakt zu anderen Kunden in der Adobe Community.
 exl-id: 2ce6a990-1dbc-4f08-a29b-357e3e03a6d6
 source-git-commit: 3b6cd95d8ec96fd28c62fd4aa40b45e3214af471
-workflow-type: ht
-source-wordcount: '732'
+workflow-type: tm+mt
+source-wordcount: '777'
 ht-degree: 100%
 
 ---
@@ -181,7 +181,7 @@ Auf <http://www.adobe.com> stehen Ihnen unsere ausführliche technische Produktd
 <thead>
   <tr>
     <th>Priorität</th>
-    <th>Standard Support</th>
+    <th>Standard-Support</th>
     <th>Business Support</th>
     <th>Enterprise Support</th>
     <th>Elite Support</th>
@@ -194,11 +194,11 @@ Auf <http://www.adobe.com> stehen Ihnen unsere ausführliche technische Produktd
     <td colspan="3" rowspan="4" align="center" valign="middle"> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Kunden, die einen Support-Plan für die jeweiligen Adobe-Produkte- und -Services erwerben, profitieren von einer vorrangigen Fallweiterleitung, durch die Fälle schneller an Support-Techniker von Adobe weitergeleitet werden.</td>
   </tr>
   <tr>
-    <td><strong>PRIORITÄT 2</strong><br>Die Unternehmensfunktionen des Kunden weisen eine erhebliche Beeinträchtigung des Service oder möglichen Datenverlust auf oder eine zentrale Funktion ist betroffen.</td>
+    <td><strong>PRIORITÄT 2</strong><br>Die Unternehmensfunktionen des Kunden weisen eine erhebliche Beeinträchtigung oder möglichen Datenverlust auf oder eine zentrale Funktion ist betroffen.</td>
     <td>24x7/<br>1 Stunde</td>
   </tr>
   <tr>
-    <td><strong>PRIORITÄT 3</strong><br>Die Unternehmensfunktionen des Kunden weisen eine geringfügige Beeinträchtigung des Service auf, es gibt jedoch eine Lösung/Problemumgehung, mit der die Unternehmensfunktionen weiterhin normal genutzt werden können.</td>
+    <td><strong>PRIORITÄT 3</strong><br>Die Unternehmensfunktionen des Kunden weisen eine geringfügige Beeinträchtigung auf, es gibt jedoch eine Lösung/Problemumgehung, mit der die Unternehmensfunktionen weiterhin normal genutzt werden können.</td>
     <td>Werktag/<br>4 Stunden</td>
   </tr>
   <tr>
@@ -268,10 +268,10 @@ Der Adobe-Kunden-Support ermöglicht den Zugriff auf die Dokumentation und den K
 |--- |--- |
 | [Experience League](https://experienceleague.adobe.com/?lang=de) | Im Abschnitt „Experience League“ finden Adobe-Kunden Selbsthilfe-Tutorials, die Produktdokumentation, von Schulungsleitern geführte Schulungen, eine Community-Seite sowie Support für ausgewählte Adobe Creative Cloud- und Document-Produkte. |
 | [Adobe Support Community](https://community.adobe.com/?profile.language=de) | In der Adobe Support Community können Sie Fragen stellen, Antworten finden, von Experten lernen und Ihr Wissen austauschen. |
-| [Produktionsprobleme und Systemausfälle](https://status.adobe.com/) | Status.adobe.com übermittelt die Statusinformationen sämtlicher Adobe-Produkte und -Services, die in Umgebungen mit mehreren Mandanten implementiert sind. Kunden können Voreinstellungen für ihr Abonnement auswählen und E-Mail-Benachrichtigungen erhalten, wenn Adobe ein Produktereignis erstellt, aktualisiert oder löst. Dies kann geplante Wartungen oder Service-Probleme unterschiedlichen Schweregrads umfassen. |
+| [Produktionsprobleme und Systemausfälle](https://status.adobe.com/) | Status.adobe.com übermittelt die Statusinformationen sämtlicher Adobe-Produkte und -Services, die in Umgebungen mit mehreren Mandanten bereitgestellt sind. Kunden können Voreinstellungen für ihr Abonnement auswählen und E-Mail-Benachrichtigungen erhalten, wenn Adobe ein Produktereignis erstellt, aktualisiert oder löst. Dies kann geplante Wartungen oder Service-Probleme unterschiedlichen Schweregrads umfassen. |
 | [Geschäftsbedingungen](https://helpx.adobe.com/de/support/programs/support-policies-terms-conditions.html) | Allgemeine Geschäftsbedingungen mit detaillierten Informationen zu den angebotenen Support-Services. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Regionale Betriebszeiten und Sprachunterstützung
 

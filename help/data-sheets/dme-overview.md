@@ -3,9 +3,9 @@ title: Übersicht der Support-Services für Creative Enterprise und Document Clo
 description: Dieser Artikel enthält eine Zusammenfassung der Optionen zum Kunden-Support für Adobe Creative Cloud und Document Cloud. Zu diesen Optionen gehören Standard, Business, Enterprise und Elite.
 exl-id: e3c762b9-d4b3-4248-b1c1-8212a763b4c5
 source-git-commit: 6e3accaab1360993295e9ee4ab88d55d3e7b744e
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '285'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 
@@ -22,7 +22,7 @@ Für umfangreichere Anforderungen bieten wir Adobe-Support-Pläne an, die den Zu
     <img alt="Standard" src="assets/STANDARDSupportThumbnailCC.png"/>
     </a>
     <div>
-    <a href="dme-standard.md"><strong>Standard-Support</strong></a>  (<a href="assets/DMeStandardSupportDatasheet_2022.pdf" target="_blank">PDF</a> anzeigen)
+    <a href="dme-standard.md"><strong>Standardunterstützung</strong></a> (Ansicht <a href="assets/DMeStandardSupportDatasheet_2022.pdf" target="_blank">PDF</a>)
     </div>
     <p>Zugang rund um die Uhr für autorisierte Benutzer (Administratoren) zu unseren technischen Supportteams per Chat oder Telefon sowie die Möglichkeit, Hilfeanfragen über unser Support-Web-Portal zu stellen. </p>
     <br>

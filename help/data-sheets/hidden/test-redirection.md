@@ -3,7 +3,8 @@ title: Umleitungs-Testseite (ausgeblendet)
 description: Testseite für interne Testzwecke
 hide: true
 hidefromtoc: true
-source-git-commit: 918fee2b3380b2359f43b9abf32af5c5fb08d7ce
+exl-id: 07e6051d-b29c-4ac3-980c-d064487c2804
+source-git-commit: 972704990172c966a27744b49b9f7af5626e9f3e
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 0%
@@ -26,17 +27,17 @@ EDS: <https://eds.experienceleague.adobe.com/en/docs/workfront/using/product-ann
 
 ## Umleitungen mit Platzhalter
 
-(Viele zu eins) `https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/*`
+(Viele bis eins) `https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/*`
 
 * EXL: <https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/bubba.html>
 * EDS: <https://eds.experienceleague.adobe.com/en/docs/analytics/analyze/reports-analytics/bubba>
 
-1:1 `https://experienceleague.adobe.com/docs/primetime/aiq-help/(*)`
+(1:1) `https://experienceleague.adobe.com/docs/primetime/aiq-help/(*)`
 
 * EXL: <https://experienceleague.adobe.com/docs/primetime/aiq-help/account-iq-components/segments-timeframe.html>
 * EDS: <https://eds.experienceleague.adobe.com/en/docs/primetime/aiq-help/account-iq-components/segments-timeframe>
 
-1:1 `https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/(*)`
+(1:1) `https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/(*)`
 
 * EXL: <https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/2022/microsoft.html>
 * EDS: <https://eds.experienceleague.adobe.com/en/docs/adobe-campaign-insider-events/events/2022/microsoft>

@@ -1,8 +1,9 @@
 ---
 title: Übersicht über frühere Adobe-Support-Pläne
 description: Dieser Artikel enthält eine Zusammenfassung der Support-Optionen für Adobe Experience Cloud, Adobe Document Cloud und Adobe Creative Cloud.
-source-git-commit: fb54ebe58a8311686378b1c0be7ab717d8f5db64
-workflow-type: ht
+exl-id: 19b0e8a6-748e-4f6d-a183-30fbde07a367
+source-git-commit: 9b2223eca555b44484cbd042a2020f068e11f54b
+workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 100%
 

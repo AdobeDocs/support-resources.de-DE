@@ -4,7 +4,8 @@ description: Eine grundlegende Einführung in den Markdown-Stil
 mini-toc-levels: 1
 hide: true
 hidefromtoc: true
-source-git-commit: 77a5127250ffbc9d490579188e8469d4c3dac4c3
+exl-id: 9f15436b-156a-4c07-bfaf-8557cd948197
+source-git-commit: 972704990172c966a27744b49b9f7af5626e9f3e
 workflow-type: tm+mt
 source-wordcount: '4238'
 ht-degree: 13%
@@ -25,7 +26,7 @@ Siehe hier: [Adobe.com](https://www.adobe.com){rel=nofollow}
 
 >[!TIP]
 >
->Sehen Sie sich dies an [AdobeDocs Markdown-Video](https://video.tv.adobe.com/v/26165).
+>Sehen Sie sich dieses [AdobeDocs Markdown-Video](https://video.tv.adobe.com/v/26165) an.
 
 Zum größten Teil folgen wir der Git-Flavored Markdown-Syntax (GFM) für die Formatierung von Text. Einige Syntax (wie horizontale Linien) wird jedoch nicht unterstützt, und wir haben Markdown auf verschiedene Arten erweitert, um unsere Dokumentationsanforderungen zu erfüllen.
 
@@ -33,7 +34,7 @@ Zum größten Teil folgen wir der Git-Flavored Markdown-Syntax (GFM) für die Fo
 
 Für einen Absatz ist keine spezielle Syntax in Markdown erforderlich. Fügen Sie zwischen jedem Absatz eine leere Zeile hinzu.
 
-So formatieren Sie Text als **fett**, fügen Sie sie in zwei Sternchen ein:
+Um Text als **fett** zu formatieren, schließen Sie ihn in zwei Sternchen ein:
 
 ```
 This text is **bold**.
@@ -45,13 +46,13 @@ Um Text *kursiv* zu formatieren, schließen Sie ihn in einfache Sternchen ein:
 This text is *italic*.
 ```
 
-So formatieren Sie Text ***fett und kursiv***, fügen Sie ihn in drei Sternchen ein:
+Um Text sowohl als ***fett als auch kursiv*** zu formatieren, fügen Sie ihn in drei Sternchen ein:
 
 ```
 This is text is both ***bold and italic***.
 ```
 
-Um Markdown-Formatierungszeichen zu ignorieren, verwenden Sie `\` vor dem Zeichen:
+Um Markdown-Formatierungszeichen zu ignorieren, verwenden Sie vor dem -Zeichen `\`:
 
 `This is not \*italicized\* type.`
 
@@ -117,7 +118,7 @@ There are two ways to create badges:
 
 ## Blockzitate
 
-Unser Authoring-System verwendet die Blockquotensyntax (`>` am Anfang der Zeilen), um benutzerdefinierte Markdown-Erweiterungen für Tipps, Hinweise und Videos zu identifizieren. Sie können tatsächliche Blockzitate durch Hinzufügen eines `>` Zeichen vor einem Absatz.
+Unser Authoring-System verwendet die Blockierungsquotensyntax (`>` am Anfang von Zeilen), um benutzerdefinierte Markdown-Erweiterungen für Tipps, Hinweise und Videos zu identifizieren. Sie können tatsächliche Blockzitate erstellen, indem Sie vor einem Absatz ein `>` -Zeichen hinzufügen.
 
 >Dies ist ein Blockzitat.
 
@@ -127,11 +128,11 @@ Unser Authoring-System verwendet die Blockquotensyntax (`>` am Anfang der Zeilen
 
 ## Codeblock (in Zeile){#code-block}
 
-**Verwendungsbereiche**
+**Verwendungszeitpunkt**
 
 Wird verwendet, um einen Code in einer Zeile in einem Satz wiederzugeben. Ideal, um einen Cookie-Namen, Dateinamen, Wert oder Befehl abzurufen, für den kein vollständiger Codeblock erforderlich ist.
 
-Inhalte in Codeblöcken in werden wie besehen und nicht lokalisiert gerendert. (Eine Ausnahme von dieser Regel ist `!UICONTROL` und `!DNL` Syntax, die bei der Verpackung zur Veröffentlichung entfernt wird.)
+Inhalte in Codeblöcken in werden wie besehen und nicht lokalisiert gerendert. (Eine Ausnahme von dieser Regel ist die Syntax `!UICONTROL` und `!DNL`, die während der Verpackung zur Veröffentlichung entfernt wird.)
 
 Verwenden Sie auch Codeblöcke für Beispiel-URLs, die nicht validiert werden sollen: `https://www.example.com`
 
@@ -149,13 +150,13 @@ This is `inline code` within a paragraph of text.
 
 >[!TIP]
 >
->Sie können Text auch mit dreifachen Backticks (&grave;&grave;&grave;) umbrechen, um einen Inline-Codeblock zu erstellen. Dies ist besonders nützlich, wenn Sie auf ein Zeichen mit der Rücktaste in einem Inline-Codeblock verweisen müssen. Beispiel:
+>Sie können Text auch mit dreifachen Backticks (&grave;&grave;&amp;;grave;) umbrechen, um einen Inline-Codeblock zu erstellen. Dies ist besonders nützlich, wenn Sie auf ein Zeichen mit der Rücktaste in einem Inline-Codeblock verweisen müssen. Beispiel:
 >
-&grave;&grave;&grave;`Use a back tick (`&grave;`) for formatting`&grave;&grave;&grave;
+&grave;&grave;&grave;`Use a back tick (`&grave;`) for formatting`&grave;&grave;&amp;&amp;grave
 
 ## Codeblock (abgegrenzt)
 
-**Verwendungsbereiche**
+**Verwendungszeitpunkt**
 
 Verwenden Sie einen Codeblock, um die Codesyntax anzuzeigen. Ein abgegrenzter Codeblock verwendet drei Backticks, um das Codeelement einzuschließen, das Sie hervorheben möchten. Fügen Sie leere Zeilen über und unter dem abgegrenzten Codeblock hinzu.
 
@@ -163,11 +164,11 @@ Codeblöcke werden nicht lokalisiert.
 
 >[!TIP]
 >
-Geben Sie eine Sprache an, wenn Sie einen abgegrenzten Codeblock erstellen. Wenn Sie eine Sprache angeben, können Sie eine für diese Sprache spezifische Syntaxhervorhebung vornehmen und eine **Kopieren** -Schaltfläche für die Benutzer. Wenn Sie eine Sprache angeben, können Sie auch Zeilennummern anzeigen.
+Geben Sie eine Sprache an, wenn Sie einen abgegrenzten Codeblock erstellen. Wenn Sie eine Sprache angeben, kann die Syntax speziell für diese Sprache hervorgehoben werden. Außerdem wird für die Benutzer die Schaltfläche **Kopieren** angezeigt. Wenn Sie eine Sprache angeben, können Sie auch Zeilennummern anzeigen.
 
 **Syntax**
 
-Verwenden Sie vor und nach den Codezeilen drei Rückticks ( &grave;&grave;&grave; ). Achten Sie darauf, dass die Zecken zum Öffnen und Schließen der Rückseite mit der gleichen Anzahl von Leerzeichen eingerückt sind. Geben Sie für eine optimale Darstellung eine Codesprache an.
+Verwenden Sie drei Backticks ( &grave;&grave;&grave; ) vor und nach den Codezeilen. Achten Sie darauf, dass die Zecken zum Öffnen und Schließen der Rückseite mit der gleichen Anzahl von Leerzeichen eingerückt sind. Geben Sie für eine optimale Darstellung eine Codesprache an.
 
 &grave;&grave;&grave;`javascript`
 
@@ -247,11 +248,11 @@ Beispiel mit Zeilenhervorhebung (&grave;&grave;&grave;`html {line-numbers="true"
 
 ### Variablenformatierung in Codeblöcken
 
-Variablensyntax, z. B. `<i>italic</i>` wird in Codeblöcken nicht unterstützt. Um variablen Text anzugeben, können Sie spitze Klammern verwenden `< >`.
+Die Variablensyntax wie `<i>italic</i>` wird in Codeblöcken nicht unterstützt. Um Variablentext anzugeben, ist eine Option die Verwendung von spitzen Klammern `< >`.
 
 ## Reduzierbare Abschnitte
 
-Sie können einen ausblendbaren Abschnitt erstellen (auch als **Akkordeon**), die standardmäßig ausgeblendet ist. Der Benutzer kann auf den Titel klicken, um den Abschnitt zu erweitern oder zu reduzieren.
+Sie können einen ausblendbaren Abschnitt (manchmal auch als **Accordion** bezeichnet) erstellen, der standardmäßig ausgeblendet ist. Der Benutzer kann auf den Titel klicken, um den Abschnitt zu erweitern oder zu reduzieren.
 
 Reduzierbarer Text kann verwendet werden, um komplexe Inhalte zu vereinfachen, z. B. das Rationalisieren einer FAQ-Seite oder das Deklarieren eines komplexen Verfahrens mit verschachtelten Listen. Anstatt beispielsweise eine Reihe von Unterschritten anzuzeigen, können Sie die Unterschritte in einen Abschnitt &quot;Details anzeigen&quot;reduzieren.
 
@@ -270,7 +271,8 @@ This is text inside a collapsible section.
 
 **Beispiel**
 
-+++Siehe Details Dies ist Text in einem ausblendbaren Abschnitt.
+++ + Siehe Details
+Dies ist Text in einem ausblendbaren Abschnitt.
 
 * Aufzählungszeichen eins
 * Aufzählungszeichen 2
@@ -280,12 +282,12 @@ This is text inside a collapsible section.
 
 **Hinweise**
 
-* Verschachteln Sie nicht ausblendbare Abschnitte in ausblendbaren Abschnitten. Verschachtelte reduzierbare Abschnitte werden nicht ordnungsgemäß dargestellt. Sie führen jedoch nicht dazu, dass die Validierung fehlschlägt, sodass Benutzer die `+++` Syntax des verschachtelten Abschnitts.
+* Verschachteln Sie nicht ausblendbare Abschnitte in ausblendbaren Abschnitten. Verschachtelte reduzierbare Abschnitte werden nicht ordnungsgemäß dargestellt. Sie führen jedoch nicht dazu, dass die Validierung fehlschlägt, sodass Benutzer die Syntax `+++` des verschachtelten Abschnitts sehen.
 * Stellen Sie sicher, dass Sie im ausblendbaren Abschnitt leere Zeilen über und unter Elementen wie Aufzählungslisten und Codeblöcke hinzufügen. Andernfalls wird ein Überprüfungsfehler ausgegeben.
 * Sie können Überschriften in ausblendbaren Abschnitten hinzufügen. Dies wird jedoch nicht empfohlen.
 * [Akkordeons sind nicht immer die Antwort für komplexe Inhalte auf Desktops](https://www.nngroup.com/articles/accordions-complex-content/)
-* Ein historischer Nachteil reduzierbarer Abschnitte ist, dass **Auf Seite suchen** (Strg/Befehl+F) ignoriert ausgeblendeten Text. Dies trifft zwar weiterhin in Safari zu, gilt jedoch nicht mehr für Chrome. &quot;Suchen in Seite&quot;erkennt ausgeblendeten Text in Chrome.
-* Beispiel einer [Wartungs-Updates](https://experienceleague.adobe.com/docs/workfront-known-issues/releases/current-updates.html?lang=en) Seite mit ausblendbaren Abschnitten.
+* Ein historischer Nachteil ausblendbarer Abschnitte ist, dass **In Seite finden** (Strg/Befehl+F) ausgeblendeten Text ignoriert. Dies trifft zwar weiterhin in Safari zu, gilt jedoch nicht mehr für Chrome. &quot;Suchen in Seite&quot;erkennt ausgeblendeten Text in Chrome.
+* Beispiel einer [Wartungsaktualisierung](https://experienceleague.adobe.com/docs/workfront-known-issues/releases/current-updates.html?lang=en) -Seite mit ausblendbaren Abschnitten.
 
 ## Kommentare und Bemerkungen
 
@@ -306,7 +308,7 @@ Sie sollten Text unter diesem nicht sehen können (&quot;Sie können mich nicht 
 You can't see me (unless you're editing in Git).
 -->
 
-**Erinnerung:** Kommentare (Anmerkungen) erscheinen nicht in den öffentlichen Hilfeartikeln. Kommentare werden jedoch in den öffentlichen Markdown-Dateien angezeigt, die Benutzer sehen und bearbeiten können.
+**Erinnerung:** Kommentare (Anmerkungen) werden nicht in den öffentlichen Hilfeartikeln angezeigt. Kommentare werden jedoch in den öffentlichen Markdown-Dateien angezeigt, die Benutzer sehen und bearbeiten können.
 
 >[!IMPORTANT]
 >
@@ -372,7 +374,7 @@ Laden Sie die ZIP-Datei oder eine andere herunterladbare Datei in das Asset-Verz
 
 Gerendert:
 
-Herunterladen [download-test.zip](assets/download-test.zip)
+Laden Sie [download-test.zip](assets/download-test.zip) herunter
 
 >[!NOTE]
 >
@@ -380,7 +382,7 @@ Die maximale Dateigröße für Download-Dateien und Bilder beträgt 100 MB. Das 
 
 ## Überschriften {#headings}
 
-In Markdown verwenden Sie Pfund-Zeichen (`#`), um Überschriftenebenen zu identifizieren. Die erste Ebene (`#`) ist der Artikeltitel, der auch im Metadaten-Header angegeben ist. Behalten Sie diese bei. Die zweite Ebene (`##`) stellt die Hauptüberschriften auf der Seite dar, die im Mini-Inhaltsverzeichnis enthalten sein werden. Wenn Sie es gewohnt sind, in AEM (chl-author) zu schreiben, werden die Überschriften der Stufe 2 (`##`) der Komponente &quot;Überschrift 1&quot;in AEM.
+In Markdown verwenden Sie Pfund-Zeichen (`#`) zur Identifizierung von Überschriftenebenen. Die erste Ebene (`#`) ist der Artikeltitel, der auch im Metadaten-Header angegeben ist. Behalten Sie diese bei. Die zweite Ebene (`##`) stellt die Hauptüberschriften auf der Seite dar, die im Mini-Inhaltsverzeichnis enthalten sein werden. Wenn Sie es gewohnt sind, in AEM (chl-author) zu schreiben, werden die Überschriften der Stufe 2 (`##`) in AEM der Komponente &quot;Überschrift 1&quot;zugeordnet.
 
 Maximale Zeichenanzahl für Überschriften: 69 Zeichen (Englisch) / 120 Zeichen (LOC).
 
@@ -394,16 +396,16 @@ Maximale Zeichenanzahl für Überschriften: 69 Zeichen (Englisch) / 120 Zeichen 
 
 **Best Practices für Überschriften**
 
-* Stellen Sie sicher, dass eine Überschrift der Stufe 1 (`#`) folgt eine leere Zeile nach den Metadaten in jedem Artikel.
-* Levels nicht überspringen, z. B. Springen von Stufe 2 (`##`) auf Ebene 4 (`####`).
-* Leere Zeile einschließen *before* und *after* jede Überschrift.
-* Wenn eine Überschrift Zahlen enthält, geben Sie eine explizite Überschriften-ID an, die nicht mit einer Zahl beginnt, z. B. `## Release notes for 2016 {#release-notes-2016}`.
+* Stellen Sie sicher, dass eine Überschrift der Stufe 1 (`#`) nach den Metadaten in jedem Artikel eine leere Zeile folgt.
+* Überspringen Sie keine Ebenen, z. B. von Ebene 2 (`##`) zu Ebene 4 (`####`).
+* Fügen Sie für jede Überschrift eine leere Zeile *vor* und *nach* ein.
+* Wenn eine Überschrift Ziffern enthält, geben Sie eine explizite Überschriften-ID an, die nicht mit einer Zahl beginnt, z. B. `## Release notes for 2016 {#release-notes-2016}`.
 * Wir empfehlen nur drei Überschriftenebenen. Die Ebenen 4 und höher werden derzeit nicht ordnungsgemäß dargestellt.
-* Überschriften werden in der rechten Navigationsleiste angezeigt, sodass Benutzer klicken können, um zu einem Abschnitt zu springen. Standardmäßig werden in der rechten Navigationsleiste zwei Ebenen von Überschriften angezeigt. Wenn Sie die Anzahl der Ebenen ändern möchten, verwenden Sie `mini-toc-levels` Metadaten, z. B. `mini-toc-levels: 3`.
+* Überschriften werden in der rechten Navigationsleiste angezeigt, sodass Benutzer klicken können, um zu einem Abschnitt zu springen. Standardmäßig werden in der rechten Navigationsleiste zwei Ebenen von Überschriften angezeigt. Wenn Sie die Anzahl der Ebenen ändern möchten, verwenden Sie `mini-toc-levels` -Metadaten, z. B. `mini-toc-levels: 3`.
 
-**Kopfzeilen-IDs**
+**Überschriften-IDs**
 
-Kopfzeilen-IDs (auch als *Anker-IDs*) werden zum Erstellen benutzerdefinierter Deep-Links zu Abschnitten in Artikeln verwendet. Verwenden Sie das folgende Format, um eine Überschriften-ID anzugeben:
+Überschriften-IDs (auch *Anker-IDs* genannt) werden zum Erstellen benutzerdefinierter Deep-Links zu Abschnitten in Artikeln verwendet. Verwenden Sie das folgende Format, um eine Überschriften-ID anzugeben:
 
 ```
 ## Creating processing rules {#processing-rules}
@@ -411,7 +413,7 @@ Kopfzeilen-IDs (auch als *Anker-IDs*) werden zum Erstellen benutzerdefinierter D
 
 Überschriften-IDs sollten in Kleinbuchstaben und getrennt werden.
 
-Wenn Sie keine Überschriften-ID für eine Überschrift angeben, lautet die standardmäßige Überschriften-ID die Überschrift &quot;gelogifiziert&quot;(Kleinbuchstaben und Silbentrennung). Beispiel: die `## Creating widgets and Such` -Überschrift enthält `#creating-widgets-and-such` ankern.
+Wenn Sie keine Überschriften-ID für eine Überschrift angeben, lautet die standardmäßige Überschriften-ID die Überschrift &quot;gelogifiziert&quot;(Kleinbuchstaben und Silbentrennung). Beispielsweise verfügt die Überschrift `## Creating widgets and Such` über einen `#creating-widgets-and-such` -Anker.
 
 ## HTML-Syntax {#html}
 
@@ -458,13 +460,13 @@ Wenn Sie möchten, dass dieser Liste eine HTML-Syntax hinzugefügt wird, melden 
 
 ## Bilder {#images}
 
-Verwenden Sie die `![]()` -Syntax für Bilder. Die Klammern `[ ]` Alt-Text und die Klammern einschließen `( )` die Bildposition und optional den Mauszeiger-Text (QuickInfo) einschließen. Das Ausrufezeichen unterscheidet ein Bild von einem Link.
+Verwenden Sie die Syntax `![]()` für Bilder. Die Klammern `[ ]` enthalten ALT-Text und die Klammern `( )` enthalten die Bildposition und optional den Mauszeiger über Text (QuickInfo). Das Ausrufezeichen unterscheidet ein Bild von einem Link.
 
 ```
 ![alt text](assets/logo.png "Hover text")
 ```
 
-![Alternativtext](assets/logo.png "Hover text")
+![alt text](assets/logo.png "hover text")
 
 Bei freigegebenen Bildern können Sie die Bilder in einem Stammordner für Assets platzieren und dann einen Stammlink verwenden, der von einer beliebigen Datei in einem Repository aus funktioniert:
 
@@ -474,7 +476,7 @@ Bei freigegebenen Bildern können Sie die Bilder in einem Stammordner für Asset
 
 ### Ändern und Ausrichten von Bildern
 
-**Bildeigenschaften (mit rechts ausgerichtetem Bild)** ![Alternativtext](assets/premium.png "Premium Hover text"){align="right"}
+**Bildeigenschaften (mit rechts ausgerichtetem Bild)** ![ALT-Text](assets/premium.png "Premium-Hover-Text"){align="right"}
 
 Verwenden Sie die folgende Syntax, um die standardmäßige Bildbreite zu ändern oder das Bild in der Seitenansicht oder Tabellenzelle rechts auszurichten.
 
@@ -484,12 +486,12 @@ Verwenden Sie die folgende Syntax, um die standardmäßige Bildbreite zu ändern
 
 Gerendert:
 
-![Alternativtext für Tauchbild](assets/maui-dive.jpg "Hover text - Maui dive width ist 300 Pixel und zentriert"){width="300" align="center"}
+![Alternativtext für Bild tauchen](assets/maui-dive.jpg "Hover text - Maui-Tauchbreite ist 300 Pixel und zentriert"){width="300" align="center"}
 
 * Bei großen Bildern empfehlen wir, Bilder zu erstellen, die groß genug sind, um skaliert und an die Seitenbreite angepasst zu werden (mindestens 640 Pixel breit). Die empfohlene Breite beträgt 1500 Pixel. Es müssen keine Bilder erstellt werden, die größer als 2500 Pixel oder 500 KB sind. Die maximale Dateigröße für Bilder beträgt 100 MB.
-* Erstellen Sie bei kleinen Bildern Bilder mit der gewünschten Breite in Pixel oder verwenden Sie den Parameter &quot;Breite&quot;, z. B. `{width="250"}` (Pixel) oder `{width="50%"}` (Prozentsatz des Ansichtsbereichs, nicht der Originalbildgröße). Bilder werden proportional skaliert. Beachten Sie, dass Bilder vergrößert oder verkleinert werden können. Achten Sie daher auf die Verpixelung.
+* Erstellen Sie bei kleinen Bildern Bilder mit der gewünschten Breite in Pixel oder verwenden Sie den Breitenparameter, z. B. `{width="250"}` (Pixel) oder `{width="50%"}` (Prozentsatz des Ansichtsbereichs, nicht die Originalbildgröße). Bilder werden proportional skaliert. Beachten Sie, dass Bilder vergrößert oder verkleinert werden können. Achten Sie daher auf die Verpixelung.
 * In einigen Fällen sehen Bilder aus derselben Benutzeroberfläche auf der Seite nicht proportional aus, da breitere Bilder (z. B. eine Symbolleiste) herunterskaliert werden, während schmale Bilder (z. B. ein Bedienfeld) nicht herunterskaliert werden. In solchen Fällen sollten Sie die größeren Bilder herabsetzen, um die visuelle Konsistenz zu verbessern.
-* Sie können die Ausrichtung eines Bildes innerhalb des Ansichtsbereichs ändern. Verwenden Sie `{align="center"}` oder `{align="right"}`. Die `valign` -Parameter wird nicht unterstützt.
+* Sie können die Ausrichtung eines Bildes innerhalb des Ansichtsbereichs ändern. Verwenden Sie entweder `{align="center"}` oder `{align="right"}`. Der Parameter `valign` wird nicht unterstützt.
 
 >[!NOTE]
 >
@@ -540,7 +542,7 @@ Gerendert:
 
 [Adobe](https://www.adobe.com)
 
-Wenn Sie eine URL direkt zu Text hinzufügen, wird sie nicht automatisch in einen Link konvertiert. Wenn eine URL als Link angezeigt werden soll, fügen Sie `< >` Syntax. Beispiele:
+Wenn Sie eine URL direkt zu Text hinzufügen, wird sie nicht automatisch in einen Link konvertiert. Wenn eine URL als Link angezeigt werden soll, fügen Sie die Syntax `< >` hinzu. Beispiele:
 
 ```
 https://www.adobe.com
@@ -564,9 +566,9 @@ So sieht ein standardmäßiger relativer Link aus:
 See [Overview example article](collaborative-doc-instructions/overview.md)
 ```
 
-Der Pfadname muss sowohl den Speicherort der Quelldatei als auch die Zieldatei berücksichtigen. Sie können alle relativen Link-Operanden verwenden, z. B. `./` (aktuelles Verzeichnis), `../` (zurück zu einem Verzeichnis) und `../../` (zwei Ordner zurück).
+Der Pfadname muss sowohl den Speicherort der Quelldatei als auch die Zieldatei berücksichtigen. Sie können alle relativen Link-Operanden verwenden, z. B. `./` (aktuelles Verzeichnis), `../` (vorheriges Verzeichnis) und `../../` (zwei Ordner zurück).
 
-**Option 2: Relativer Stammlink**
+**Option 2: Root relative link**
 
 Der Vorteil dieses Linktyps besteht darin, dass nur die Zieldatei berücksichtigt werden muss. Sie funktioniert aus jeder Quelldatei im Repository, unabhängig vom Speicherort der Quelldatei.
 
@@ -590,7 +592,7 @@ Um von einem anderen Artikel im Repo aus auf diese Überschrift zu verweisen, f�
 
 **In neuer Registerkarte öffnen**
 
-Wenn Sie mit einem Link eine neue Registerkarte öffnen möchten, z. B. wenn Sie zu einem anderen Handbuch springen, verwenden Sie die `{target="_blank"}` -Eigenschaft im Link.
+Wenn Sie möchten, dass ein Link eine neue Registerkarte öffnet, z. B. wenn Sie zu einem anderen Handbuch springen, verwenden Sie die Eigenschaft `{target="_blank"}` im Link.
 
 Beispiel:
 
@@ -619,7 +621,7 @@ Verwenden Sie die Komponente &quot;Mehr wie dieses&quot;zum Anzeigen verwandter 
 
 **Syntax**
 
-![Mehr wie diese Syntax](assets/morelikethis.png)
+![ Mehr wie diese Syntax](assets/morelikethis.png)
 
 **Beispiel**
 
@@ -736,7 +738,7 @@ Dies ist ein Erfolgshinweis. Nur EXL.
 
 Um nummerierte Listen zu erstellen, beginnen Sie eine Zeile mit `1.` oder `1)`, wählen Sie jedoch eine Methode aus und verwenden Sie sie konsistent im Artikel. Sie müssen die Zahlen nicht speziell angeben. GitHub erledigt das für Sie.
 
-Verwenden Sie die Nummer `1` für jeden Schritt in der nummerierten Liste.
+Verwenden Sie die Zahl &quot;`1`&quot; für jeden Schritt in der nummerierten Liste.
 
 Fügen Sie vor und nach Listen leere Zeilen hinzu.
 
@@ -766,9 +768,9 @@ Fügen Sie vor und nach Listen leere Zeilen hinzu.
 
 1. This is yet another step, the third.
 
-Um Aufzählungslisten zu erstellen, beginnen Sie eine Zeile mit `*` oder `-` oder `+`, wählen Sie jedoch eine Methode aus und verwenden Sie sie konsistent im Artikel. (Wenn Sie die Formate mischen, z. B. `*` und `+`ein Markdown-Validierungsfehler beim Einchecken der Datei erhalten.)
+Um Aufzählungslisten zu erstellen, beginnen Sie eine Zeile mit `*` oder `-` oder `+`, wählen Sie jedoch eine Methode aus und verwenden Sie sie konsistent im Artikel. (Wenn Sie die Formate wie `*` und `+` mischen, erhalten Sie beim Einchecken der Datei einen Markdown-Validierungsfehler.)
 
-**Best Practice:** Verwendung `*` für Aufzählungszeichen. Visual Studio Code wendet das Sternchen für Aufzählungszeichen an, sodass es einfacher ist, mit Sternchen zu bleiben, um die Erstellung einer ungeordneten Liste zu automatisieren. (Möglicherweise haben Sie bemerkt, dass die Datei TOC.md Pluszeichen verwendet `+` für Listen. Das ist ein Hindernis für die Migration. Jedes gültige Aufzählungszeichen würde funktionieren, solange es im Artikel konsistent ist.)
+**Best Practice:** Verwenden Sie `*` für Aufzählungszeichen. Visual Studio Code wendet das Sternchen für Aufzählungszeichen an, sodass es einfacher ist, mit Sternchen zu bleiben, um die Erstellung einer ungeordneten Liste zu automatisieren. (Möglicherweise haben Sie bemerkt, dass die Datei TOC.md für Listen Pluszeichen `+` verwendet. Das ist ein Hindernis für die Migration. Jedes gültige Aufzählungszeichen würde funktionieren, solange es im Artikel konsistent ist.)
 
 **Syntax**
 
@@ -838,13 +840,13 @@ HINWEIS: Wenn Sie zu weit einrücken, z. B. 6 Leerzeichen anstelle von 3, wird d
 
 Schattierungsfelder sind nützlich, um einen Inhaltsabschnitt aus dem Rest der Seite zu verschieben. Beispielsweise fügt das Workfront-Team &quot;Beispielfelder&quot;mit Text, Bildern und Codebeispielen hinzu, um einen bestimmten Zweck zu erreichen. Ein Schattierkasten kann auch für die Abschnitte &quot;Eigene&quot;oder &quot;Anwendungsfall&quot;oder für erweiterte Hinweise oder Tipps nützlich sein.
 
-Um ein Schattierfeld zu erstellen, fügen Sie `>[!BEGINSHADEBOX]` am Anfang des Abschnitts und `>[!ENDSHADEBOX]` am Ende. Alle Inhalte zwischen diesen Start- und End-Tags haben einen grauen Hintergrund. Hinzufügen einer Bezeichnung zu `BEGINSHADEBOX` (z. B. `>[!BEGINSHADEBOX "Use Case]` ist eine optionale Methode zum Erstellen eines fett hervorgehobenen Schattierungsfelds. Sie können auch fett gedruckten Text oder eine Überschrift in der nächsten Zeile hinzufügen.
+Um eine Schattierungsbox zu erstellen, fügen Sie am Anfang des Abschnitts `>[!BEGINSHADEBOX]` und am Ende `>[!ENDSHADEBOX]` hinzu. Alle Inhalte zwischen diesen Start- und End-Tags haben einen grauen Hintergrund. Das Hinzufügen einer Bezeichnung zu `BEGINSHADEBOX` (z. B. `>[!BEGINSHADEBOX "Use Case]`) ist eine optionale Möglichkeit, einen fett hervorgehobenen Schattierungsfeldtitel zu erstellen. Sie können auch fett gedruckten Text oder eine Überschrift in der nächsten Zeile hinzufügen.
 
 Beispiel:
 
 >[!BEGINSHADEBOX]
 
-**Rahmen in einer HTML-Tabelle entfernen**
+**Entfernen des Rands in einer HTML-Tabelle**
 
 In einigen Fällen verwenden Sie eine HTML-Tabelle, um ein ausgeglichenes Design zu erstellen, aber Sie möchten nicht, dass der Inhalt wie eine Tabelle aussieht. Verwenden Sie die folgende Syntax, um einen Rahmen für eine einzeilige HTML-Tabelle zu deaktivieren:
 
@@ -859,7 +861,7 @@ Nicht überbeanspruchen! Für normale Tabellen soll ein konsistentes Design übe
 
 ![Tabellenspitze](assets/table-no-border.png)
 
-In einer Tabelle mit drei Spalten können Sie auch `<td align="center">` und `<td align="right">` , um den Zelleninhalt gleichmäßig über den Ansichtsbereich zu verteilen. Wenn es nicht so wäre, hätte ich es dir gesagt.
+In einer Tabelle mit drei Spalten können Sie auch `<td align="center">` und `<td align="right">` hinzufügen, um den Zelleninhalt gleichmäßig über den Ansichtsbereich zu verteilen. Wenn es nicht so wäre, hätte ich es dir gesagt.
 
 Dies ist die letzte Zeile der Schattenbox.
 
@@ -867,11 +869,11 @@ Dies ist die letzte Zeile der Schattenbox.
 
 ## Snippets und Includes
 
-Um Text in einem Repo unter Artikeln freizugeben, erstellen Sie eine `_includes` im Ordner `help` Ordner. Diese `_includes` -Ordner können Md-Dateien enthalten, die aus anderen Dateien im Repository referenziert (eingeschlossen) werden können. Zusätzlich wird eine `snippets.md` -Datei in diesem Repo kann Head2-Anker enthalten, auf die von jeder Datei im Repo verwiesen werden kann.
+Um Text zwischen Artikeln in einem Repo freizugeben, erstellen Sie einen Ordner &quot;`_includes`&quot;im Ordner &quot;`help`&quot;. Dieser Ordner &quot;`_includes`&quot; kann Md-Dateien enthalten, die aus anderen Dateien im Repository referenziert (einbezogen) werden können. Darüber hinaus kann eine `snippets.md` -Datei in diesem Repo Head2-Anker enthalten, auf die von jeder Datei im Repo verwiesen werden kann.
 
-Verweis auf H2 in der Datei snippets.md : `{{id-name}}`
+Verweis auf H2 in der Datei &quot;snippets.md&quot;: `{{id-name}}`
 
-Referenz zum Einschließen der Datei: `{{$include /help/_includes/filename.md}}`
+Verweis auf einzuschließende Datei: `{{$include /help/_includes/filename.md}}`
 
 ## Tabellen
 
@@ -879,11 +881,11 @@ Tabellen können in Markdown problematisch sein. Bei der Migration von Tabellen 
 
 >[!TIP]
 >
-Beobachten Sie die [Video Markdown Tables](https://video.tv.adobe.com/v/26220)
+Video [Markdown Tables](https://video.tv.adobe.com/v/26220) ansehen
 
 Native Tabellen sehen in Markdown häufig besser aus. Die Spaltengröße hängt vom Inhalt ab. HTML-Tabellen werden mit Spalten gleicher Breite gerendert.
 
-Markdown unterstützt standardmäßig nicht mehrere Zeilen oder Listen in Zellen. Wir haben jedoch Markdown-Tabellen erweitert, um mehrere Zeilen in Zellen zuzulassen (mithilfe von `<p>` oder `<br>`) oder einfachen Listen (mithilfe von `<ul><li>` usw.).
+Markdown unterstützt standardmäßig nicht mehrere Zeilen oder Listen in Zellen. Wir haben jedoch Markdown-Tabellen erweitert, um mehrere Zeilen in Zellen zuzulassen (mit `<p>` oder `<br>`) oder einfache Listen (mit `<ul><li>` usw.).
 
 >[!IMPORTANT]
 >
@@ -944,16 +946,16 @@ Problemumgehung mit manuellen Kugeln.
 
 | Farbe | Aufgaben |
 |--- |--- |
-| Rot | * Lesen <br> * Schreiben <br> * Studie |
+| Rot | * Lesen Sie <br> * Schreiben Sie <br> * Studie |
 | Blau | * Swim <br> * Ausführen <br> * Steigerung <br> **Hinweis**: Denken Sie daran, Smart zu trainieren. |
 3,32
 
 
-## Registerkarten
+## Tabs     
 
 Eine Registerkarte ist ein anklickbarer Bereich oben in einem Abschnitt, der unterschiedliche Inhalte anzeigt. Wenn auf eine Registerkarte geklickt wird, wird der Inhalt der Registerkarte angezeigt und der Inhalt anderer Registerkarten wird ausgeblendet.
 
-Um einen Registerkartensatz zu erstellen, fügen Sie `>[!BEGINTABS]` am Anfang des Registerkartensets und `>[!ENDTABS]` nach der letzten Registerkarte. Hinzufügen `>[!TAB <tab title>]` Tags für jeden Tab-Abschnitt hinzu und fügen Sie den Inhalt jeder Registerkarte darunter hinzu.
+Um einen Registerkartensatz zu erstellen, fügen Sie am Anfang des Registerkartensets `>[!BEGINTABS]` und am Ende der letzten Registerkarte `>[!ENDTABS]` hinzu. Fügen Sie für jeden Registerkartenabschnitt `>[!TAB <tab title>]` -Tags hinzu und fügen Sie den Inhalt jeder Registerkarte darunter hinzu.
 
 **Tab-Syntax**
 
@@ -983,7 +985,7 @@ This content appears in the Linux tab.
 >[!ENDTABS]
 ```
 
-**Gerendert**
+**Rendered**
 
 >[!BEGINTABS]
 
@@ -1009,11 +1011,11 @@ Dieser Inhalt wird auf der Registerkarte Linux angezeigt.
 
 >[!ENDTABS]
 
-**Tab-Notizen**
+**Tab notes**
 
 * Benutzer können die Seitensuche nicht verwenden (Strg+F/Befehl+F), um Inhalte in nicht angezeigten Registerkarten zu suchen.
 * Wenn die Registerkartentitel im Browser des Benutzers über die Breite der Seitenansicht hinausgehen, wird eine horizontale Bildlaufleiste angezeigt.
-* Die Tabulatortitel können nicht formatiert werden. Jede Syntax, die Sie hinzufügen, wird als Teil des Titels übergeben. Beispiel: `>[!TAB **iOS**]` wird angezeigt als `**iOS**`.
+* Die Tabulatortitel können nicht formatiert werden. Jede Syntax, die Sie hinzufügen, wird als Teil des Titels übergeben. Beispielsweise wird `>[!TAB **iOS**]` als `**iOS**` angezeigt.
 * Sie können mehrere Registerkartensätze auf einer Seite erstellen, aber einen Registerkartensatz nicht in einem anderen Registerkartensatz verschachteln.
 * Auf den Registerkartensatz wird ein schattierter Hintergrund angewendet, damit Benutzer den Inhalt der Registerkarte von anderen Inhalten unterscheiden können.
 
@@ -1031,7 +1033,7 @@ Gerendert:
 
 Dieser gesamte Absatz soll NICHT hervorgehoben werden. <span class="preview"> Dieses Wort ist innerhalb eines markierten Satzes **fett** dargestellt.</span> Und das ist nur der letzte Satz.
 
-Als allgemeine Regel verwenden Sie `<span class="preview">` , um einen Absatz oder Text in einem Absatz hervorzuheben, und `<div class="preview">` für mehrere Absätze und Komponenten.
+Verwenden Sie als allgemeine Regel `<span class="preview">` , um einen Absatz oder Text in einem Absatz hervorzuheben, und verwenden Sie `<div class="preview">` für mehrere Absätze und Komponenten.
 
 >[!NOTE]
 >
@@ -1076,15 +1078,15 @@ Spezielle Komponenten werden in einem Block-Anführungszeichen mit eckigen Klamm
 * Texthervorhebung
 * Seitenregisterkarten
 
-Markdown-Blockzitat verwenden ( `>` ) am Anfang jeder Zeile, um eine absatzbasierte Komponente, z. B. eine Notiz, zu verknüpfen. Um die Vorschau zu verbessern, fügen Sie unmittelbar nach dem Anfang des Abschnitts eine Zeile hinzu, die nur über ein Häkchen-Anführungszeichen verfügt (`>`). Um den Abschnitt zu beenden, fügen Sie eine leere Zeile hinzu.
+Verwenden Sie das Markdown-Blockanführungszeichen ( `>` ) am Anfang jeder Zeile, um eine absatzbasierte Komponente, z. B. eine Notiz, zu verknüpfen. Um die Vorschau zu verbessern, fügen Sie unmittelbar nach dem Anfang des Abschnitts eine Zeile hinzu, die nur über ein Häkchen-Anführungszeichen (`>`) verfügt. Um den Abschnitt zu beenden, fügen Sie eine leere Zeile hinzu.
 
-Wenn Sie Unterkomponenten innerhalb von Komponenten verwenden müssen, fügen Sie eine zusätzliche Ebene von Blockanführungszeichen hinzu (`>  >`) für diesen Unterkomponentenabschnitt. Beispielsweise sollte ein HINWEIS in einem DONOTLOCALIZE-Abschnitt mit `>  >`.
+Wenn Sie Unterkomponenten innerhalb von Komponenten verwenden müssen, fügen Sie eine zusätzliche Ebene von Blockanführungszeichen (`>  >`) für diesen Unterkomponentenabschnitt hinzu. Beispielsweise sollte ein HINWEIS in einem DONOTLOCALIZE-Abschnitt mit `>  >` beginnen.
 
-In einigen Fällen müssen wir bestimmte Einstellungen für Markdown-Elemente unterstützen, z. B. Überschriften. Wenn Sie die Standardeinstellungen ändern müssen, fügen Sie die Parameter in geschweiften Klammern hinzu `{# }` hinter der Komponente zurück.
+In einigen Fällen müssen wir bestimmte Einstellungen für Markdown-Elemente unterstützen, z. B. Überschriften. Wenn Sie die Standardeinstellungen ändern müssen, fügen Sie die Parameter in geschweiften Klammern `{# }` nach der Komponente hinzu.
 
 ### Leere Zeilen
 
-Sie können Ihren Textwänden etwas Atemraum mit leeren Zeilen hinzufügen. Verwendung `<br>&nbsp;` als Problemumgehung zum Hinzufügen einer leeren Zeile.
+Sie können Ihren Textwänden etwas Atemraum mit leeren Zeilen hinzufügen. Verwenden Sie `<br>&nbsp;` als Problemumgehung, um eine leere Zeile hinzuzufügen.
 
 Beispiel: Dies ist ein erster Satz von einem wirklich langen Text. Lassen Sie mich eine leere Zeile zwischen diesem Absatz und dem nächsten einfügen.
 
@@ -1094,15 +1096,15 @@ Dies mag hier nicht sehr beeindruckend erscheinen, aber versuchen Sie leere Zeil
 
 ### Zeichen für &quot;Escape&quot; {#characters-to-escape}
 
-Mehrere Zeichen (`# { } [ ] < > * + - . !`) eine besondere Bedeutung in Markdown oder HTML zum Erstellen von Überschriften, Bildern, Listen und anderen Komponenten haben. Wenn Sie diese Zeichen verwenden, denkt die Rendering-Engine, dass Sie Code hinzufügen. In einigen Fällen möchten Sie diese Zeichen jedoch in Ihrem Text anzeigen. Dazu müssen Sie die Zeichen &quot;Escape&quot;(Maskieren). Die einfachste Escape-Methode besteht darin, dem Zeichen einen umgekehrten Schrägstrich (`\`). Wenn Sie beispielsweise eine Zeile mit einer `#` -Zeichen, damit sie nicht als Überschrift interpretiert wird, geben Sie `\#`:
+Einige Zeichen (`# { } [ ] < > * + - . !`) haben in Markdown oder HTML eine besondere Bedeutung für das Erstellen von Überschriften, Bildern, Listen und anderen Komponenten. Wenn Sie diese Zeichen verwenden, denkt die Rendering-Engine, dass Sie Code hinzufügen. In einigen Fällen möchten Sie diese Zeichen jedoch in Ihrem Text anzeigen. Dazu müssen Sie die Zeichen &quot;Escape&quot;(Maskieren). Die einfachste Escape-Methode besteht darin, dem Zeichen einen umgekehrten Schrägstrich (`\`) voranzustellen. Wenn Sie beispielsweise eine Zeile mit dem Zeichen `#` beginnen möchten, damit sie nicht als Überschrift interpretiert wird, geben Sie `\#` ein:
 
 `\# This is not a heading`
 
-**Gerendert:**
+**gerendert:**
 
 \# Dies ist keine Überschrift
 
-Der umgekehrte Schrägstrich funktioniert nur mit folgenden Zeichen: `# { } [ ] * + - . !`. Wenn Sie Zeichen wie spitze Klammern (z. B. `<yourname>`), können Sie den Text entweder in Backticks einschließen, um einen Inline-Codeblock anzuwenden, oder den HTML-Entitätscode anstelle des Zeichens verwenden. Beispiele für gängige HTML-Codes:
+Der umgekehrte Schrägstrich funktioniert nur mit den folgenden Zeichen: `# { } [ ] * + - . !`. Wenn Sie Zeichen wie spitze Klammern (z. B. `<yourname>`) als Escape-Zeichen verwenden müssen, können Sie den Text entweder in Backticks einschließen, um einen Inline-Codeblock anzuwenden, oder den HTML-Entitätscode anstelle des Zeichens verwenden. Beispiele für gängige HTML-Codes:
 
 * `&lt;` (&lt;)
 * `&gt;` (>)
@@ -1111,15 +1113,15 @@ Der umgekehrte Schrägstrich funktioniert nur mit folgenden Zeichen: `# { } [ ] 
 * `&mdash;` (—)
 * `&ndash;` (-)
 
-Eine vollständige Liste der HTML-Entitäten finden Sie im [Freiformseite](https://www.freeformatter.com/html-entities.html). Auf diese Weise können Sie alle Sonderzeichen nachschlagen.
+Eine vollständige Liste der HTML-Entitäten finden Sie auf der [Freeformatter-Website](https://www.freeformatter.com/html-entities.html). Auf diese Weise können Sie alle Sonderzeichen nachschlagen.
 
 >[!NOTE]
 >
-Bei Kettenschritten wie &quot;Datei auswählen > Speichern unter&quot;müssen Sie nicht `>` -Zeichen, da es nicht neben anderen Zeichen steht. Für Variablen wie `<filename>` Sie möchten die spitzen Klammern mit einem der beiden Codeblöcke umgehen. `backticks` oder Zeichencodes (`&lt;filename&gt;`).
+Bei Kettenschritten wie &quot;Datei auswählen > Speichern unter&quot;müssen Sie das Zeichen &quot;`>`&quot;nicht maskieren, da es sich nicht neben anderen Zeichen befindet. Bei Variablen wie `<filename>` sollten Sie die spitzen Klammern entweder mit dem Codeblock `backticks` oder mit Zeichencodes (`&lt;filename&gt;`) umgehen.
 
-Wenn Sie HTML-Entitäten in Codeblöcken verwenden, wird der Entitätstext nicht in das Sonderzeichen konvertiert. Beispiel: `&gt;` in einem Codeblock als `&gt;` &quot; anstelle von &quot; > &quot;.
+Wenn Sie HTML-Entitäten in Codeblöcken verwenden, wird der Entitätstext nicht in das Sonderzeichen konvertiert. Beispiel: `&gt;` wird in einem Codeblock als &quot; `&gt;` &quot;anstelle von &quot;> &quot;angezeigt.
 
-Verwenden Sie zum Escapeen von Rückticks ( &grave; ) `&grave;` oder fügen Sie das Backtick in drei Backticks ein, die einen Inline-Codeblock umschließen.
+Verwenden Sie `&grave;` oder fügen Sie das Backtick in drei Backticks ein, die einen Inline-Codeblock umschließen.
 
 ### Nicht unterstützte Elemente
 
@@ -1154,7 +1156,7 @@ Nicht unterstützt
 
 **Blockzitate**
 
-Wir verwenden Blockzitate (`>` am Anfang einer Zeile), um eine erweiterte Markdown-Syntax wie Notizen und Videos anzugeben, die als Nächstes beschrieben wird. Sie können aber auch `>` -Syntax, um einen Abschnitt mit einem Blockzitat zu erstellen.
+Wir verwenden Blockanführungszeichen (`>` am Anfang einer Zeile), um eine erweiterte Markdown-Syntax wie Notizen und Videos anzugeben, die als Nächstes beschrieben wird. Sie können jedoch auch die Syntax `>` verwenden, um einen Abschnitt mit einem Blockzitat zu erstellen.
 
 >[!NOTE]
 >
