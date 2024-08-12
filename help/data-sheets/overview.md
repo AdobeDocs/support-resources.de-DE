@@ -3,9 +3,9 @@ title: Adobe-Erfolgspläne – Übersicht
 description: Dieser Artikel enthält eine Zusammenfassung der Support-Optionen für Adobe Experience Cloud, Adobe Document Cloud und Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
 source-git-commit: ce457445cf12559cccbf80b06d390d01c40281d7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2199'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -36,7 +36,7 @@ Adobe-Erfolgspläne gehen über die reaktive Problemlösung hinaus, um Ihnen ein
 | **Add-on „Erweiterter Cloud-Support“**<br> Erstklassige Betreuung und Wertversicherung für Kundinnen und Kunden von Adobe Experience Manager as a Cloud Service | ![Symbol „Verfügbar“](assets/Plus_blue.svg){width="20"} Verfügbar | ![Symbol „Verfügbar“](assets/Plus_blue.svg){width="20"} Verfügbar |
 | **Add-on „Mentor Sessions“**<br> Bietet kompetentes Lernen mit einer Just-in-time-Schulungsmethode | ![Symbol „Verfügbar“](assets/Plus_blue.svg){width="20"} Verfügbar | ![Symbol „Verfügbar“](assets/green_checkmark.svg){width="20"} Enthalten |
 | **Add-on „Developer Boost“**<br> Ermöglicht Zugang zu technischen Expertinnen bzw. Experten im Außendienst, die bei Reparaturanfragen helfen können. | ![Symbol „Verfügbar“](assets/Plus_blue.svg){width="20"} Verfügbar | ![Symbol „Enthalten“](assets/green_checkmark.svg){width="20"} Enthalten |
-| **Priority Queue Bundle-Add-on**<br> Bietet schnellere Reaktionszeiten, einen einzigen Kontaktpunkt für Support-Aktivitäten und Zugriff auf Success Accelerators. | ![Symbol „Verfügbar“](assets/Plus_blue.svg){width="20"} Verfügbar | ![Symbol „Enthalten“](assets/green_checkmark.svg){width="20"} Enthalten |
+| **Add-on „Priority Queue Bundle“**<br> Bietet schnellere Reaktionszeiten, einen zentralen Kontaktpunkt für Support-Aktivitäten und Zugriff auf Erfolgsbeschleuniger. | ![Symbol „Verfügbar“](assets/Plus_blue.svg){width="20"} Verfügbar | ![Symbol „Enthalten“](assets/green_checkmark.svg){width="20"} Enthalten |
 
 {style="table-layout:fixed"}
 
