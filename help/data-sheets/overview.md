@@ -3,7 +3,7 @@ title: Adobe-Erfolgspläne – Übersicht
 description: Dieser Artikel enthält eine Zusammenfassung der Support-Optionen für Adobe Experience Cloud, Adobe Document Cloud und Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
 source-git-commit: d00bb0543704d5e1d662eba11bc9fa3bb0ad51e5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2203'
 ht-degree: 100%
 
