@@ -4,10 +4,10 @@ description: Diese Seite wird aus der Suche und dem Inhaltsverzeichnis ausgeblen
 hide: true
 hidefromtoc: true
 exl-id: 822b2044-195c-4721-9b81-345d88f8aa2d
-source-git-commit: b9f43e9070d4b70ec039af68a6819c18224a430e
+source-git-commit: 6315dae3fe82b4db81fbb8d964e4e72f7e395465
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 40%
+source-wordcount: '58'
+ht-degree: 43%
 
 ---
 
@@ -25,8 +25,6 @@ ht-degree: 40%
 + [Umleitungstest](hidden/test-redirection.md)
 + [Autoaktivierungstest](hidden/autoactivate.md)
 
-## Neuer Abschnitt
+## Neuer Abschnitt Akamai
 
-Ich klicke nicht auf Publish Now. Wenn Sie dies sehen, hat die automatische Aktivierung funktioniert.
-
-7. August 2024
+Testen Sie, ob Änderungen mit AEM Live live geschaltet werden.
