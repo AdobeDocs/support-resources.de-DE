@@ -4,10 +4,10 @@ description: Diese Seite wird aus der Suche und dem Inhaltsverzeichnis ausgeblen
 hide: true
 hidefromtoc: true
 exl-id: 822b2044-195c-4721-9b81-345d88f8aa2d
-source-git-commit: 6315dae3fe82b4db81fbb8d964e4e72f7e395465
+source-git-commit: 17bd60901117bdfc68e3cfceb5fd3efa2a74949a
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 43%
+source-wordcount: '60'
+ht-degree: 41%
 
 ---
 
@@ -25,6 +25,6 @@ ht-degree: 43%
 + [Umleitungstest](hidden/test-redirection.md)
 + [Autoaktivierungstest](hidden/autoactivate.md)
 
-## Neuer Abschnitt Akamai
+## Neuer Abschnitt - 19. November
 
-Testen Sie, ob Änderungen mit AEM Live live geschaltet werden.
+Testen Sie, ob SCCM noch ordnungsgemäß ausgeführt wird. Problem begehen?
