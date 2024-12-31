@@ -13,4 +13,4 @@ ht-degree: 0%
 
 # Automatisch aktivieren
 
-Wenn diese Datei sichtbar ist, liegt dies daran, dass die automatische Aktivierung funktioniert hat.
+Wenn diese Datei sichtbar ist, liegt das daran, dass die automatische Aktivierung funktioniert hat.

@@ -11,6 +11,6 @@ ht-degree: 41%
 
 ---
 
-# Ausgeblendeter neuer Test (Clue edit)
+# Ausgeblendeter neuer Test (Hinweis bearbeiten)
 
-Testen der Änderungen von Keith an Clue
+Testet Keiths Änderungen an Clue

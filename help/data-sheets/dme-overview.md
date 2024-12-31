@@ -22,7 +22,7 @@ Für umfangreichere Anforderungen bieten wir Adobe-Support-Pläne an, die den Zu
     <img alt="Standard" src="assets/STANDARDSupportThumbnailCC.png"/>
     </a>
     <div>
-    <a href="dme-standard.md"><strong>Standardunterstützung</strong></a> (Ansicht <a href="assets/DMeStandardSupportDatasheet_2022.pdf" target="_blank">PDF</a>)
+    <a href="dme-standard.md"><strong>Standard Support</strong></a> (Ansicht <a href="assets/DMeStandardSupportDatasheet_2022.pdf" target="_blank">PDF</a>)
     </div>
     <p>Zugang rund um die Uhr für autorisierte Benutzer (Administratoren) zu unseren technischen Supportteams per Chat oder Telefon sowie die Möglichkeit, Hilfeanfragen über unser Support-Web-Portal zu stellen. </p>
     <br>

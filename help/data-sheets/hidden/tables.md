@@ -1,6 +1,6 @@
 ---
 title: Tabellen
-description: Arbeiten mit Markdown-Tabellen und HTML-Tabellen.
+description: Arbeiten mit Markdown-Tabellen und HTML-Tabellen
 hide: true
 hidefromtoc: true
 exl-id: 5ce746fc-6835-4bee-85c5-5ad5176baca0
@@ -17,36 +17,36 @@ Matt war immer wieder hier -
 
 EDS
 
-Standard Markdown unterstützt nur einfache Tabellen. Für AdobeDocs Markdown stehen Ihnen die folgenden Optionen zur Verfügung:
+Standard-Markdown unterstützt nur einfache Tabellen. Für AdobeDocs Markdown haben Sie die folgenden Optionen:
 
 * Grundlegende Markdown-Tabellen
 * HTML-Tabellen
-* Markdown-Tabellen mit begrenzter HTML-Syntax für Absatzumbrüche (`<p>`), Zeilenumbrüche (`<br>`) und einfache Listen (`<ul>`, `<ol>`).
+* Markdown-Tabellen mit begrenzter HTML-Syntax für Absatzumbrüche (`<p>`), Zeilenumbrüche (`<br>`) und Basislisten (`<ul>`, `<ol>`).
 
 ## Konvertieren von HTML-Tabellen in Markdown-Tabellen
 
-In einigen Fällen möchten Sie eine HTML-Tabelle in eine Markdown-Tabelle oder in Markdown-Text konvertieren. Möglicherweise müssen Sie das Erscheinungsbild verbessern, einen Validierungsfehler beheben oder die Bearbeitung in Zukunft vereinfachen.
+In einigen Fällen empfiehlt es sich, eine HTML-Tabelle in eine Markdown-Tabelle oder in Markdown-Text zu konvertieren. Vielleicht müssen Sie das Erscheinungsbild verbessern, einen Validierungsfehler beheben oder die Bearbeitung in Zukunft erleichtern.
 
-Leider konnten wir kein einziges Tool finden, das HTML-Tabellen gut konvertiert. Normalerweise verwenden wir eine Kombination von Tools, um eine anständige Markdown-Tabelle zusammenzufügen.
+Leider konnten wir kein einziges Tool finden, das HTML-Tabellen gut konvertiert. Normalerweise verwenden wir eine Kombination von Tools, um eine anständige Markdown-Tabelle zusammenzuzimmern.
 
 | Tool | Funktion |
 |--- |--- |
-| [Markdown-Tabellen-Generator](https://www.tablesgenerator.com/markdown_tables) | Gut geeignet zum Erstellen von Markdown-Tabellen von Grund auf. |
-| [Erweiterter Tabellenkonverter](https://tableconvert.com/html-to-markdown) | Konvertieren Sie Tabellen aus beliebigen Formaten in beliebige Formate. <p>**Hinweis:** Links und Bilder werden beim Konvertieren reduziert. |
-| [Grundlegender Tabellen-HTML > Markdown-Konverter](https://jmalarcon.github.io/markdowntables/) | Einfacher HTML-Konverter <p>**Hinweis:** Links und Bilder werden beim Konvertieren reduziert. |
-| [Nicht tabellarische HTML > Markdown-Konverter](https://codebeautify.org/html-to-markdown) | Konvertiert HTML-Tabellen in Tabellen-Markdown-Syntax ohne Tabelle. Verwenden Sie in Kombination mit den oben genannten Tools zum Kopieren von Links, Bildern und anderen reduzierten Elementen. |
+| [Markdown-Tabellen-Generator](https://www.tablesgenerator.com/markdown_tables) | Ideal zum Erstellen von Markdown-Tabellen von Grund auf. |
+| [Erweiterter Tabellenkonverter](https://tableconvert.com/html-to-markdown) | Konvertieren von Tabellen beliebiger Formate in beliebige Formate <p>**Hinweis:** Links und Bilder werden bei der Konvertierung reduziert. |
+| [Grundlegende Tabelle HTML > Markdown-Konverter](https://jmalarcon.github.io/markdowntables/) | Einfacher HTML-Konverter <p>**Hinweis:** Links und Bilder werden bei der Konvertierung reduziert. |
+| [Nicht-Tabellen-HTML > Markdown-Konverter](https://codebeautify.org/html-to-markdown) | Konvertiert HTML-Tabellen in Nicht-Tabellen-Markdown-Syntax. Verwenden Sie diese Option in Kombination mit den oben genannten Tools zum Kopieren von Links, Bildern und anderen reduzierten Elementen. |
 
 ## Grundlegende Markdown-Tabellen
 
-* Stellen Sie sicher, dass Sie in der zweiten Zeile, die die Tabelleneigenschaften bestimmt, mindestens drei Bindestriche hinzufügen. Beispiel: `|--- |--- |--- |` für eine Tabelle mit drei Spalten.
-* Markdown-Tabellen müssen mindestens eine Kopfzeile und eine Textzeile enthalten. Sie können keine einzeilige oder einzellige Markdown-Tabelle erstellen (verwenden Sie stattdessen HTML).
-* Stellen Sie sicher, dass jede Zeile dieselbe Anzahl von Pipe-Zeichen ( &amp;vert; ) enthält. Wenn Sie ein Senkrechtstrich in eine Tabellenzelle einfügen müssen, führen Sie eine Escape-Sequenz mit einem umgekehrten Schrägstrich (`\|`) oder mit dem HTML-Entitätscode (`&vert;`) durch.
-* Achten Sie darauf, Codeblöcke in Tabellen zu verwenden. Inline-Codeblöcke können zu unverhältnismäßigen Spaltenbreiten führen.
-* Sie können die Darstellung der Tabelle ändern, indem Sie Auto oder Fixed angeben. Siehe [Ändern der Darstellung von Tabellen](#table-rendering).
+* Achten Sie darauf, dass Sie mindestens drei Bindestriche in der zweiten Zeile hinzufügen, die die Tabelleneigenschaften bestimmt. Beispiel: `|--- |--- |--- |` für eine 3-spaltige Tabelle.
+* Markdown-Tabellen müssen mindestens eine Kopfzeile und eine Textzeile haben. Eine einzeilige oder eine einzellige Markdown-Tabelle kann nicht erstellt werden (stattdessen HTML verwenden).
+* Stellen Sie sicher, dass jede Zeile über dieselbe Anzahl von senkrechten Strichen ( &amp;vert; ) verfügt. Wenn Sie ein Pipe-Zeichen in eine Tabellenzelle einschließen müssen, escapen Sie es, indem Sie ihm einen umgekehrten Schrägstrich (`\|`) voranstellen oder den HTML-Entitätscode (`&vert;`) verwenden.
+* Achten Sie auf die Verwendung von Codeblöcken in Tabellen. Inline-Code-Blöcke können zu unverhältnismäßigen Spaltenbreiten führen.
+* Sie können ändern, wie die Tabelle gerendert wird, indem Sie Auto oder Fest angeben. Siehe [Ändern der Darstellung von Tabellen](#table-rendering).
 
 ## Erstellen von Markdown-Tabellen mit Bonus-HTML
 
-Um die Migration zu erleichtern, haben wir Markdown-Tabellen erweitert, um HTML-Absatzumbrüche (`<p>`), Zeilenumbrüche (`<br>`) und grundlegende HTML-Listen (`<ul>` und `<ol>`) in Markdown-Tabellen zu unterstützen.
+Um die Migration zu erleichtern, haben wir Markdown-Tabellen erweitert, um HTML-Absatzumbrüche (`<p>`), Zeilenumbrüche (`<br>`) und einfache HTML-Listen (`<ul>` und `<ol>`) in Markdown-Tabellen zu unterstützen.
 
 **Markdown-Tabelle mit Zeilenumbrüchen und Listen**
 
@@ -64,17 +64,17 @@ Um die Migration zu erleichtern, haben wir Markdown-Tabellen erweitert, um HTML-
 | Kopfzeile 1 | Kopfzeile 2 | Kopfzeile 3 |
 |--- |--- |--- |
 | Normale Zeile | row 1 column 2 | row 1 column 3 |
-| Zeilenumbruch | erste Zeile in Zelle<br>zweite Zeile in Zelle | row 1 column 3 |
+| Zeilenumbruch | Erste Zeile in Zelle<br>Zweite Zeile in Zelle | row 1 column 3 |
 | Aufzählungsliste | Aufzählungsliste:<ul><li>Element 1</li><li>Element 2</li><li>Element 3</li></ul> | row 2 column 3 |
-| Aufzählungsliste mit Zeilenumbruch | Aufzählungsliste:<ul><li>Element 1</li><li>Element 2</li><li>Element 3</li></ul><br>Dies ist eine neue Zeile nach der Aufzählungsliste | row 2 column 3 |
+| Aufzählungsliste mit Zeilenumbruch | Aufzählungsliste:<ul><li>Element 1</li><li>Element 2</li><li>Element 3</li></ul><br>Dies ist eine neue Zeile nach dem Aufzählungszeichen. | row 2 column 3 |
 
 >[!IMPORTANT]
 >
->Wenn Sie sich für die Verwendung von HTML in nativen Tabellen entscheiden, stellen Sie sicher, dass Sie die richtige HTML-Syntax verwenden. Fehler in der HTML-Syntax führen zu Überprüfungsfehlern, die schwer zu verstehen sind. Überprüfen Sie Ihre Arbeit.
+>Wenn Sie sich für die Verwendung von HTML in nativen Tabellen entscheiden, stellen Sie sicher, dass Sie die richtige HTML-Syntax verwenden. Fehler beim HTML der Syntax führen zu schwer verständlichen Validierungsfehlern. Überprüfen Sie Ihre Arbeit.
 
 ## Arbeiten mit HTML-Tabellen
 
-Das Migrationstool versuchte, so viele Formatierungen wie möglich von der ursprünglichen Tabelle beizubehalten. Der Großteil dieser HTML-Syntax wird ignoriert, während einige dieser Syntax zu Validierungsfehlern führt.
+Das Migrations-Tool hat versucht, so viel Formatierung wie möglich aus der ursprünglichen Tabelle beizubehalten. Der Großteil dieser HTML-Syntax wird ignoriert, während ein Teil dieser Syntax zu Validierungsfehlern führt.
 
 **Beispiel für migrierte HTML-Tabelle**
 
@@ -105,74 +105,74 @@ Das Migrationstool versuchte, so viele Formatierungen wie möglich von der urspr
 </table>
 ```
 
-**Rendered**
+**gerendert**
 
 <table> 
  <tbody>
   <tr>
    <th>Eigenschaft</th> 
    <th>Typ</th> 
-   <th>Wertbeschreibung</th> 
+   <th>Beschreibung des Werts</th> 
   </tr>
   <tr>
    <td>badgingPath</td> 
    <td>String[]</td> 
-   <td><p><i>(Erforderlich)</i> Eine mehrwertige Zeichenfolge von Badge-Bildern bis zur Anzahl der badgingLevels. Die Badge-Bildpfade müssen so angeordnet sein, dass der erste an den höchsten Fachmann vergeben wird. Wenn es weniger Abzeichen gibt, als durch badgingLevels angegeben, füllt das letzte Abzeichen im Array den Rest des Arrays aus. Beispieleintrag:</p><p> <code>/etc/community/badging/images/expert-badge/jcr:content/expert.png</code></p></td> 
+   <td><p><i>(Erforderlich)</i> Eine Zeichenfolge mit mehreren Werten aus Badge-Bildern bis zur Anzahl der badgingLevels. Die Abzeichen-Bildpfade müssen bestellt werden, damit der erste an den höchsten Experten vergeben wird. Wenn es weniger Badges gibt als durch badgingLevels angegeben, füllt das letzte Badge im Array den Rest des Arrays aus. Beispieleintrag:</p><p> <code>/etc/community/badging/images/expert-badge/jcr:content/expert.png</code></p></td> 
   </tr>
   <tr>
-   <td>badgingLevels</td> 
+   <td>BadgingLevels</td> 
    <td>Lang</td> 
-   <td><p><i>(Optional)</i> Gibt den Umfang des zu vergebenden Fachwissens an. Wenn beispielsweise <code>expert </code>und <code>almost expert</code> (zwei Abzeichen) vorhanden sein sollen, sollte der Wert auf 2 gesetzt werden. BadgingLevel sollte mit der Anzahl der von Experten verwendeten Badge-Bilder übereinstimmen, die für die badgingPath -Eigenschaft aufgelistet sind. Der Standardwert ist 1.</p></td> 
+   <td><p><i>(Optional)</i> Gibt den Grad des Fachwissens an, das verliehen werden soll. Wenn beispielsweise ein (<code>expert </code> und ein <code>almost expert</code> (zwei Badges) vorhanden sein sollen, sollte der Wert auf 2 gesetzt werden. Die BadgingLevel sollte mit der Anzahl der fachkundigen Badge-Bilder übereinstimmen, die für die badgingPath-Eigenschaft aufgeführt sind. Der Standardwert ist 1.</p></td> 
   </tr>
   <tr>
    <td>badgingType</td> 
-   <td>Zeichenfolge</td> 
-   <td><p><i>(Erforderlich)</i> Identifiziert die Scoring-Engine entweder als "Standard"oder als "erweitert". Auf "Erweitert"gesetzt, andernfalls ist der Standardwert "Einfach".</p></td> 
+   <td>String</td> 
+   <td><p><i>(Erforderlich)</i> Gibt die Scoring-Engine als „Standard“ oder „Erweitert“ an. Auf „Erweitert“ gesetzt, andernfalls ist der Standard „Einfach“.</p></td> 
   </tr>
  </tbody>
 </table>
 
 **Verwendung von HTML-Tabellen**
 
-* Zum Ausgleichen von Spalten.
-* Zum Auslassen von Tabellenüberschriften (Markdown-Tabellen müssen über eine Kopfzeile verfügen).
-* So entfernen Sie den Rand einer einzeiligen Tabelle (`<tr style="border: 0;">`).
-* So fügen Sie Spalten- oder Zeilenbereiche hinzu.
-* So richten Sie Text in einer Tabellenzelle aus.
+* Spalten ausgleichen.
+* So lassen Sie Tabellenkopfzeilen weg (Markdown-Tabellen müssen über eine Kopfzeile verfügen).
+* So entfernen Sie den Rahmen einer einzeiligen Tabelle (`<tr style="border: 0;">`).
+* So fügen Sie Spalten- oder Zeilenspannen hinzu.
+* Ausrichten von Text in einer Tabellenzelle.
 
 **Hinweise zum Arbeiten mit HTML-Tabellen**
 
-* Verwenden Sie keine Markdown-Syntax in HTML-Tabellen. Wenn Sie beispielsweise einer HTML-Tabelle `[!NOTE]` hinzufügen, wird dies wie besehen (`[!NOTE]`) gerendert. Verwenden Sie stattdessen die HTML-Syntax für Anmerkungen und Bilder.
+* Verwenden Sie keine Markdown-Syntax in HTML-Tabellen. Wenn Sie beispielsweise `[!NOTE]` zu einer HTML-Tabelle hinzufügen, wird sie wie vorliegend gerendert (`[!NOTE]`). Verwenden Sie stattdessen die HTML-Syntax für Dinge wie Notizen und Bilder.
 
-  Loc-Tags bilden eine Ausnahme zu dieser Regel, da UICONTROL und DNL-Tags entfernt werden, bevor die Seiten gerendert werden.
+  Sperren-Tags bilden eine Ausnahme von dieser Regel, da UICONTROL- und DNL-Tags entfernt werden, bevor die Seiten gerendert werden.
 
-* Nicht die gesamte HTML-Syntax wird in Tabellen unterstützt. Breite, Höhe, Farbe und andere HTML-Syntaxelemente werden bei der Wiedergabe in EXL ignoriert. Sie können diese Werte in lassen, es sei denn, sie führen zu Überprüfungsfehlern.
-* Um Text auszurichten, verwenden Sie `align: "left|center|right"` im HTML. Verwenden Sie beispielsweise `<td align="center">`, um den Inhalt einer Tabellenzelle zu zentrieren.
-* HTML-Tabellen können keine verschachtelten Tabellen enthalten.
+* Nicht die gesamte HTML-Syntax wird in Tabellen unterstützt. width, height, color und andere HTML-Syntaxelemente werden beim Rendern in EXL ignoriert. Sie können diese Werte in lassen, es sei denn, sie führen zu Validierungsfehlern.
+* Verwenden Sie zum Ausrichten von Text `align: "left|center|right"` HTML. Um beispielsweise den Inhalt einer Tabellenzelle zu zentrieren, verwenden Sie `<td align="center">`.
+* HTML-Tabellen dürfen keine verschachtelten Tabellen enthalten.
 
 >[!TIP]
 >
->Wenn Sie einen Rahmen für eine einzeilige HTML-Tabelle deaktivieren möchten, verwenden Sie folgende Syntax:
+>Wenn Sie einen Rahmen für eine einzeilige HTML-Tabelle deaktivieren möchten, verwenden Sie diese Syntax:
 >
 >```
 ><table>
 ><tr style="border: 0;">
 >```
 
-## Festlegen der Darstellung von Tabellen {#table-rendering}
+## Festlegen, wie Tabellen gerendert werden {#table-rendering}
 
-Tabellen können auf zwei Arten gerendert werden:
+Wir haben zwei Möglichkeiten, Tabellen zu rendern:
 
-* **Fest** (derzeit Standardeinstellung) - Umfasst benutzerdefinierte Regeln für die Wiedergabe von Tabellen, einschließlich HTML-Tabellen mit Bildern. Tabellen werden in voller Breite ohne Bildlauf dargestellt, was manchmal zu überlappendem Text führt.
-* **Auto** - Ähnlich wie Git-Flavored Markdown (GFM). Tabellen dürfen scrollen, sodass sich der Text nicht überschneidet.
+* **Behoben** (derzeit der Standard) - Enthält benutzerdefinierte Regeln zum Rendern von Tabellen, einschließlich des HTML von Tabellen mit Bildern. Tabellen werden als volle Breite ohne Scrollen gerendert, was manchmal zu überlappendem Text führt.
+* **Auto** - Ähnlich wie Git-Markdown (GFM). Tabellen dürfen scrollen, sodass sich der Text nicht überschneidet.
 
-In den meisten Fällen werden die Tabellen mit dem gleichen Erscheinungsbild gerendert. Wenn Ihre Tabelle jedoch überlappenden Text enthält, sollten Sie das Tag `auto` anwenden. Oder wenn Ihre HTML-Tabelle mit Grafikkarten nicht richtig dargestellt wird, sollten Sie das Tag `fixed` anwenden.
+In den meisten Fällen werden die Tabellen mit demselben Erscheinungsbild gerendert. Wenn Ihre Tabelle jedoch überlappenden Text enthält, sollten Sie das `auto`-Tag anwenden. Falls Ihre HTML-Tabelle mit Grafikkarten nicht ordnungsgemäß gerendert wird, können Sie das `fixed`-Tag anwenden.
 
 Wir erwägen, den Standardwert von `fixed` in `auto` zu ändern.
 
 ## Bearbeiten von Markdown-Tabellen
 
-Wenn Sie angeben möchten, wie eine native Markdown-Tabelle gerendert wird, fügen Sie NACH der Tabelle eine der folgenden Syntaxzeilen mit leeren Zeilen vor und nach:
+Wenn Sie angeben möchten, wie eine native Markdown-Tabelle gerendert wird, fügen Sie eine der folgenden Syntaxzeilen NACH der Tabelle hinzu, wobei leere Zeilen vor und nach der Tabelle stehen:
 
 * `{style="table-layout:auto"}`
 * `{style="table-layout:fixed"}`
@@ -181,7 +181,7 @@ Wenn Sie angeben möchten, wie eine native Markdown-Tabelle gerendert wird, füg
 
 ### Bearbeiten von HTML-Tabellen
 
-Wenn Sie angeben möchten, wie eine HTML-Tabelle dargestellt wird, verwenden Sie eine der folgenden Syntaxzeilen in der ersten Zeile der Tabelle:
+Wenn Sie angeben möchten, wie eine HTML-Tabelle gerendert wird, verwenden Sie eine der folgenden Syntaxzeilen in der ersten Zeile der Tabelle:
 
 * `<table style="table-layout:auto">`
 * `<table style="table-layout:fixed">`
@@ -199,13 +199,13 @@ Wenn Sie angeben möchten, wie eine HTML-Tabelle dargestellt wird, verwenden Sie
 </table>
 ```
 
-### Verwendung von &quot;Auto&quot;oder &quot;Fest&quot;
+### Verwendung von „Automatisch“ oder „Behoben“
 
-**Überschneidender Text**
+**Überlappender Text**
 
-Verwenden Sie `auto` für Tabellen mit langen Codeblöcken oder Text, der bei Auswahl von `fixed` (Standard) überlappenden Text verursacht.
+Verwenden Sie `auto` für Tabellen mit langen Codeblöcken oder Text, der zu überlappendem Text führt, wenn `fixed` (Standard) ausgewählt ist.
 
-*Korrigiert (Standard)*
+*Behoben (Standard)*
 
 | Insights-Metrik | Beschreibung | ID-Abfrageparameter |
 | ---- | ---- | ---- |
@@ -231,9 +231,9 @@ Verwenden Sie `auto` für Tabellen mit langen Codeblöcken oder Text, der bei Au
 
 {style="table-layout:auto"}
 
-**HTML von Tabellen mit ausgeglichenen Bildern**
+**HTML-Tabellen mit ausgeglichenen Bildern**
 
-Verwenden Sie `fixed` für HTML-Tabellen, für die ausgeglichene Bilder erforderlich sind, die bei Auswahl von `auto` unausgeglichen werden. In diesem Beispiel haben die Bilder identische Größen, aber es gibt mehr Text in der mittleren Spalte.
+Verwenden Sie `fixed` für das HTML von Tabellen, für die ausgewogene Bilder erforderlich sind, die bei Auswahl von `auto` unausgeglichen werden. In diesem Beispiel haben die Bilder identische Größen, aber es gibt mehr Text in der mittleren Spalte.
 
 *Auto*
 
@@ -244,9 +244,9 @@ Verwenden Sie `fixed` für HTML-Tabellen, für die ausgeglichene Bilder erforder
     <img alt="Lead" src="assets/leads-home.png"/>
     </a>
     <div>
-    <a href="note-test.md"><strong>Workflow für Adobe-Leads</strong></a>
+    <a href="note-test.md"><strong>Workflow zum Adobe von Leads</strong></a>
     </div>
-    <em> Hauptbearbeitungs-Workflow für Lead-Autoren.</em>
+    <em>Hauptbearbeitungs-Workflow für Lead-Writer.</em>
     <br>
   </td>
   <td>
@@ -254,9 +254,9 @@ Verwenden Sie `fixed` für HTML-Tabellen, für die ausgeglichene Bilder erforder
       <img alt="Gelegentlich" src="assets/infrequent.png">
     </a>
     <div>
-    <a href="syntax-style-guide.md"><strong>Workflow für seltene Benutzer</strong></a>
+    <a href="syntax-style-guide.md"><strong>Workflow für selten verwendete Benutzer</strong></a>
     </div>
-    <em>Kein Lead-Writer? Lernen Sie die einfachsten Möglichkeiten kennen, Beiträge zu leisten. Kein Lead-Autor? Lernen Sie die einfachsten Möglichkeiten kennen, Beiträge zu leisten. Kein Lead-Autor? Lernen Sie die einfachsten Möglichkeiten kennen, Beiträge zu leisten. Kein Lead-Autor? Lernen Sie die einfachsten Möglichkeiten kennen, Beiträge zu leisten. Kein Lead-Autor? Lernen Sie die einfachsten Möglichkeiten kennen, Beiträge zu leisten. Kein Lead-Autor? Lernen Sie die einfachsten Möglichkeiten kennen, Beiträge zu leisten.</em>
+    <em>Kein leitender Autor? Erfahren Sie, wie Sie am einfachsten Beiträge leisten können. Kein leitender Autor? Erfahren Sie, wie Sie am einfachsten Beiträge leisten können. Kein leitender Autor? Erfahren Sie, wie Sie am einfachsten Beiträge leisten können. Kein leitender Autor? Erfahren Sie, wie Sie am einfachsten Beiträge leisten können. Kein leitender Autor? Erfahren Sie, wie Sie am einfachsten Beiträge leisten können. Kein leitender Autor? Erfahren Sie, wie Sie am einfachsten Beiträge leisten können.</em>
     <br>
   </td>
   <td>
@@ -266,13 +266,13 @@ Verwenden Sie `fixed` für HTML-Tabellen, für die ausgeglichene Bilder erforder
     <div>
     <a href="note-test.md"><strong>Validierung</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie Überprüfungsfehler beheben.</em>
+    <em>Erfahren Sie, wie Sie Validierungsfehler beheben können.</em>
     <br>
   </td>
 </tr>
 </table>
 
-*Korrigiert (in mehr als einer Hinsicht)*
+*Behoben (auf mehrere Arten)*
 
 <table style="table-layout:fixed">
 <tr>
@@ -281,9 +281,9 @@ Verwenden Sie `fixed` für HTML-Tabellen, für die ausgeglichene Bilder erforder
     <img alt="Lead" src="assets/leads-home.png"/>
     </a>
     <div>
-    <a href="note-test.md"><strong>Workflow für Adobe-Leads</strong></a>
+    <a href="note-test.md"><strong>Workflow zum Adobe von Leads</strong></a>
     </div>
-    <em> Hauptbearbeitungs-Workflow für Lead-Autoren.</em>
+    <em>Hauptbearbeitungs-Workflow für Lead-Writer.</em>
     <br>
   </td>
   <td>
@@ -291,9 +291,9 @@ Verwenden Sie `fixed` für HTML-Tabellen, für die ausgeglichene Bilder erforder
       <img alt="Gelegentlich" src="assets/infrequent.png">
     </a>
     <div>
-    <a href="syntax-style-guide.md"><strong>Workflow für seltene Benutzer</strong></a>
+    <a href="syntax-style-guide.md"><strong>Workflow für selten verwendete Benutzer</strong></a>
     </div>
-    <em>Kein Lead-Writer? Lernen Sie die einfachsten Möglichkeiten kennen, Beiträge zu leisten. Kein Lead-Autor? Lernen Sie die einfachsten Möglichkeiten kennen, Beiträge zu leisten. Kein Lead-Autor? Lernen Sie die einfachsten Möglichkeiten kennen, Beiträge zu leisten. Kein Lead-Autor? Lernen Sie die einfachsten Möglichkeiten kennen, Beiträge zu leisten. Kein Lead-Autor? Lernen Sie die einfachsten Möglichkeiten kennen, Beiträge zu leisten. Kein Lead-Autor? Lernen Sie die einfachsten Möglichkeiten kennen, Beiträge zu leisten.</em>
+    <em>Kein leitender Autor? Erfahren Sie, wie Sie am einfachsten Beiträge leisten können. Kein leitender Autor? Erfahren Sie, wie Sie am einfachsten Beiträge leisten können. Kein leitender Autor? Erfahren Sie, wie Sie am einfachsten Beiträge leisten können. Kein leitender Autor? Erfahren Sie, wie Sie am einfachsten Beiträge leisten können. Kein leitender Autor? Erfahren Sie, wie Sie am einfachsten Beiträge leisten können. Kein leitender Autor? Erfahren Sie, wie Sie am einfachsten Beiträge leisten können.</em>
     <br>
   </td>
   <td>
@@ -303,7 +303,7 @@ Verwenden Sie `fixed` für HTML-Tabellen, für die ausgeglichene Bilder erforder
     <div>
     <a href="note-test.md"><strong>Validierung</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie Überprüfungsfehler beheben.</em>
+    <em>Erfahren Sie, wie Sie Validierungsfehler beheben können.</em>
     <br>
   </td>
 </tr>

@@ -1,5 +1,5 @@
 ---
-title: Umleitungs-Testseite (ausgeblendet)
+title: Umleitungen Testseite (ausgeblendet)
 description: Testseite für interne Testzwecke
 hide: true
 hidefromtoc: true
@@ -11,11 +11,11 @@ ht-degree: 0%
 
 ---
 
-# Umleitungs-Testseite (ausgeblendet)
+# Umleitungen Testseite (ausgeblendet)
 
 Ausgeblendete Testseite mit Umleitungen
 
-## Standard-Umleitungen 1:1
+## 1:1-Umleitungen
 
 EXL: <https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/create-proofs/create-proofs--in-wf.html>
 
@@ -25,9 +25,9 @@ EXL: <https://experienceleague.adobe.com/docs/workfront/using/product-announceme
 
 EDS: <https://eds.experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/quarterly-release/release-20-2/2020.2-release-overview>
 
-## Umleitungen mit Platzhalter
+## Platzhalter-Umleitungen
 
-(Viele bis eins) `https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/*`
+(Viele zu eins) `https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/*`
 
 * EXL: <https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/bubba.html>
 * EDS: <https://eds.experienceleague.adobe.com/en/docs/analytics/analyze/reports-analytics/bubba>
@@ -44,7 +44,7 @@ EDS: <https://eds.experienceleague.adobe.com/en/docs/workfront/using/product-ann
 
 ## Andere Umleitungen
 
-Landingpages, andere Domänen, nginx-Konfiguration
+Landingpages, andere Domains, nginx-Konfiguration
 
 <https://one.workfront.com/s/managed-content-videos/welcome-to-workfront-MCFSRY5DWNL5EENJI3JD6XIB3TOM>
 

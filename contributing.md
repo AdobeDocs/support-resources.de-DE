@@ -1,7 +1,7 @@
 ---
 source-git-commit: 13e17b77946de3270c46bd7c40160c8400c330d2
-workflow-type: ht
-source-wordcount: '0'
+workflow-type: tm+mt
+source-wordcount: '281'
 ht-degree: 100%
 
 ---
@@ -43,4 +43,4 @@ Wir lieben Beiträge aus unserer Community. Wenn Sie den Schritt über die Rolle
 
 ## Sicherheitsprobleme
 
-Sicherheitsprobleme sollten in diesem Problemtracker nicht gemeldet werden. Reichen Sie [Probleme stattdessen bei unseren Sicherheitsexperten ein.](https://helpx.adobe.com/de/security/alertus.html)
+Sicherheitsprobleme sollten in diesem Problemtracker nicht gemeldet werden. Stattdessen sollten [Sie derartige Probleme unseren Sicherheitsexperten melden](https://helpx.adobe.com/de/security/alertus.html).

@@ -8,8 +8,8 @@ git-repo: https://github.com/AdobeDocs/support-resources.de-DE
 hide: true
 source-git-commit: 7e4ac30891832abca354e4f42530cc22aa808998
 workflow-type: tm+mt
-source-wordcount: '53'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 

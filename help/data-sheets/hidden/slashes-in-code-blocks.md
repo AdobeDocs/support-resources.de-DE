@@ -1,16 +1,17 @@
 ---
-title: Slashes in Codeblöcken UGP-11189
-description: Slashes in Codeblöcken UGP-11189 test
+title: Schrägstriche in Code-Blöcken UGP-11189
+description: Schrägstriche in Code-Blöcken UGP-11189 Test
 hide: true
 hidefromtoc: true
-source-git-commit: 4fc9b739d18941d276b88f8799163523c8bd5f85
+exl-id: d585d672-b617-4aba-83ac-1295ce8a55cb
+source-git-commit: 7626d51e268d1e04363af1294b2504b129540eac
 workflow-type: tm+mt
 source-wordcount: '45'
 ht-degree: 4%
 
 ---
 
-# Schrägstrich in Codeblöcken
+# Schrägstrich in Code-Blöcken
 
 1. Führen Sie den Befehl aus:
 
@@ -22,8 +23,8 @@ ht-degree: 4%
 
 Nicht im Codeblock
 
-vendor/bin/magento-patches -n status |grep &quot;27015\|Status&quot;
+Status Vendor/bin/Magento-patches -n |grep „27015\|Status“
 
 Umgekehrter Schrägstrich:
 
-vendor/bin/magento-patches -n status |grep &quot;27015&amp;bsol;|Status&quot;
+Status Vendor/bin/Magento-patches -n |grep „27015&amp;bsol;|Status“

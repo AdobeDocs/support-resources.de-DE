@@ -4,7 +4,7 @@ user-guide-description: Erfolgsplan- und Support-Ressourcen für Adobe Experienc
 feature-set: Experience Cloud
 feature: Success Plans
 source-git-commit: f84aeb6527c4693ebe81edc5fe5b21e4c6a5c30d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 100%
 

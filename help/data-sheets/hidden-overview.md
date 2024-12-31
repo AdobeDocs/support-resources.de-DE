@@ -18,13 +18,13 @@ ht-degree: 41%
 + [Ausgeblendeter neuer Test 2](hidden-new-test-2.md)
 + [Handbuch zur ausgeblendeten Syntax](hidden/syntax-style-guide.md)
 + [Bildtestkachel](hidden/test-page.md)
-+ [Tabellen-Test](hidden/tables.md)
++ [Testtabellen](hidden/tables.md)
 + [Tabellenumbrüche](hidden/table-breaks.md)
 + [Testdatei 1](hidden/note-test.md)
 + [Testdatei 2](hidden-test.md)
-+ [Umleitungstest](hidden/test-redirection.md)
-+ [Autoaktivierungstest](hidden/autoactivate.md)
++ [Redirects-Test](hidden/test-redirection.md)
++ [Selbstaktivierungstest](hidden/autoactivate.md)
 
-## Neuer Abschnitt - 19. November
+## Neuer Abschnitt 19. November
 
-Testen Sie, ob SCCM noch ordnungsgemäß ausgeführt wird. Problem begehen?
+Testen Sie, ob SCCM weiterhin ordnungsgemäß ausgeführt wird. Problem stürzen?
