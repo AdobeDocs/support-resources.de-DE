@@ -3,10 +3,10 @@ user-guide-title: Ressourcen für Erfolgspläne
 user-guide-description: Erfolgsplan- und Support-Ressourcen für Adobe Experience Cloud und Adobe Experience Platform.
 feature-set: Experience Cloud
 feature: Success Plans
-source-git-commit: f84aeb6527c4693ebe81edc5fe5b21e4c6a5c30d
+source-git-commit: af88f8e75bcc3a5402c8b81ea2cf2a219e06e6fe
 workflow-type: tm+mt
-source-wordcount: '141'
-ht-degree: 100%
+source-wordcount: '143'
+ht-degree: 98%
 
 ---
 
@@ -53,7 +53,8 @@ ht-degree: 100%
 + [Ausgeblendeter Tabellentest](hidden/tables.md)
 + [Ausgeblendete Tabellenumbrüche](hidden/table-breaks.md)
 + [Test für ausgeblendete Hinweise](hidden/note-test.md)
-+ [Nur neue automatische Aktivierungen ausgeblendet](hidden/autoactivate.md)
++ {#test-section}
+   + [Nur neue automatische Aktivierungen ausgeblendet](hidden/autoactivate.md)
 
 <!--
 + [Hidden table breaks](hidden/table-breaks.md)
