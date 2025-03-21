@@ -6,7 +6,7 @@ feature: Success Plans
 source-git-commit: a03302829e6f88ba15e94a37a45fd33ce0cd0b6a
 workflow-type: tm+mt
 source-wordcount: '148'
-ht-degree: 96%
+ht-degree: 97%
 
 ---
 
@@ -54,7 +54,7 @@ ht-degree: 96%
 + [Ausgeblendeter Tabellentest](hidden/tables.md)
 + [Ausgeblendete Tabellenumbrüche](hidden/table-breaks.md)
 + [Test für ausgeblendete Hinweise](hidden/note-test.md)
-+ [Ausgeblendete Weiterleitungen](hidden/redirect-tests.md)
++ [Ausgeblendete Umleitungen](hidden/redirect-tests.md)
 + Testabschnitt {#test-section}
    + [Nur neue automatische Aktivierungen ausgeblendet](hidden/autoactivate.md)
 
