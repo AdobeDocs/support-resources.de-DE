@@ -4,9 +4,9 @@ user-guide-description: Erfolgsplan- und Support-Ressourcen für Adobe Experienc
 feature-set: Experience Cloud
 feature: Success Plans
 source-git-commit: a03302829e6f88ba15e94a37a45fd33ce0cd0b6a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '148'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -42,7 +42,7 @@ ht-degree: 97%
 + [Geschäftsbedingungen](https://helpx.adobe.com/de/support/programs/support-policies-terms-conditions.html){target="_blank"}
 + [Ausgeblendete Übersicht](hidden-overview.md)
 + [Ausgeblendete Fehlerbehebung](hidden-trouble.md)
-+ [Hidden Lakshay-Test](hidden-lakshay-test.md)
++ [Ausgeblendeter Lakshay-Test](hidden-lakshay-test.md)
 + [Ausgeblendet – Schrägstrich im Code-Block](hidden/slashes-in-code-blocks.md)
 + [Ausgeblendeter neuer Test](hidden-new-test.md)
 + [Ausgeblendeter neuer Test 2](hidden-new-test-2.md)
