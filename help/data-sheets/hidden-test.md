@@ -6,7 +6,7 @@ hidefromtoc: true
 badgePremium: label="Premium" type="Positive" url="https://www.premium-product.com" tooltip="Premium herunterladen"
 badgeExam: label="Prüfung ADO-E903" type="neutral"
 exl-id: 45f70aca-5885-4da0-90d7-50fbf44de9dc
-source-git-commit: 44f293b1bf767eb485332d7766fc87ce00146da9
+source-git-commit: 9eb78be80323d500ffff02b39a37aa190fab2ad3
 workflow-type: tm+mt
 source-wordcount: '1274'
 ht-degree: 99%
@@ -17,7 +17,7 @@ ht-degree: 99%
 
 Vorschau des Wiederholungsversuchs? Sollte über Jenkins kommen. 31. März.
 
-11:46
+00:16
 
 ## Problematische Tabellen mit Bildern
 
