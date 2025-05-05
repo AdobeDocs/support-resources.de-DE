@@ -17,7 +17,7 @@ ht-degree: 0%
 
 <ol><li>Verwenden Sie die Variable "{{name}}".</li></ol>
 
-<ol><li>Verwenden Sie die Variable &amp;lbrace;&amp;lbrace;<code>name</code>&amp;rbrace;&amp;rbrace;.</li></ol>
+<ol><li>Verwenden Sie die Variable &lbrace;&lbrace;<code>name</code>&rbrace;&rbrace;.</li></ol>
 
 ## Verschachtelter Test
 

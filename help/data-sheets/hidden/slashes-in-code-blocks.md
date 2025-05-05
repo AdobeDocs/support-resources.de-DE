@@ -27,4 +27,4 @@ Status Vendor/bin/Magento-patches -n |grep „27015\|Status“
 
 Umgekehrter Schrägstrich:
 
-Status Vendor/bin/Magento-patches -n |grep „27015&amp;bsol;|Status“
+Status Vendor/bin/Magento-patches -n |grep „27015&bsol;|Status“

@@ -132,7 +132,7 @@ Unser Authoring-System verwendet die Blockquotes-Syntax (`>` am Anfang der Zeile
 
 Wird verwendet, um ein Stück Code in einem Satz inline wiederzugeben. Ideal, um einen Cookie-Namen, einen Dateinamen, einen Wert oder einen Befehl aufzurufen, für den kein vollständiger Code-Block erforderlich ist.
 
-Inhalte in Code-Blöcken werden im Istzustand wiedergegeben und nicht lokalisiert. (Die einzige Ausnahme von dieser Regel ist `!UICONTROL` und `!DNL` Syntax, die beim Verpacken zur Veröffentlichung entfernt wird.)
+Inhalte in Code-Blöcken werden im Istzustand wiedergegeben und nicht lokalisiert. (Die einzige Ausnahme von dieser Regel ist `` und `` Syntax, die beim Verpacken zur Veröffentlichung entfernt wird.)
 
 Verwenden Sie außerdem Codeblöcke für Beispiel-URLs, die nicht validiert werden sollen: `https://www.example.com`
 
@@ -152,7 +152,7 @@ This is `inline code` within a paragraph of text.
 >
 >Sie können Text auch in drei Backticks (&grave;&grave;&grave;) einschließen, um einen Inline-Code-Block zu erstellen. Dies ist besonders nützlich, wenn Sie auf ein Backtick-Zeichen in einem Inline-Code-Block verweisen müssen. Beispiel:
 >
-&grave;&grave;&grave;`Use a back tick (`&grave;`) for formatting`&grave;&grave;&grave;&grave;
+>&grave;&grave;&grave;`Use a back tick (`&grave;`) for formatting`&grave;&grave;&grave;&grave;
 
 ## Code-Block (eingezäunt)
 
@@ -164,7 +164,7 @@ Beachten Sie, dass Codeblöcke nicht lokalisiert werden.
 
 >[!TIP]
 >
-Geben Sie eine Sprache an, wenn Sie einen abgegrenzten Code-Block erstellen. Wenn Sie eine Sprache angeben, können Sie für diese Sprache spezifische Syntaxhervorhebungen vornehmen und den Benutzern eine **Kopieren**-Schaltfläche anzeigen. Sie können auch Zeilennummern anzeigen, wenn Sie eine Sprache angeben.
+>Geben Sie eine Sprache an, wenn Sie einen abgegrenzten Code-Block erstellen. Wenn Sie eine Sprache angeben, können Sie für diese Sprache spezifische Syntaxhervorhebungen vornehmen und den Benutzern eine **Kopieren**-Schaltfläche anzeigen. Sie können auch Zeilennummern anzeigen, wenn Sie eine Sprache angeben.
 
 **Syntax**
 
@@ -282,7 +282,7 @@ Dies ist Text in einem ausblendbaren Abschnitt.
 
 **Hinweise**
 
-* Verschachteln Sie keine ausblendbaren Abschnitte innerhalb ausblendbarer Abschnitte. Verschachtelte reduzierbare Abschnitte werden nicht ordnungsgemäß gerendert. Sie führen jedoch nicht dazu, dass die Validierung fehlschlägt, sodass Benutzende die `+++` Syntax des verschachtelten Abschnitts sehen.
++++* Verschachteln Sie keine ausblendbaren Abschnitte innerhalb ausblendbarer Abschnitte. Verschachtelte reduzierbare Abschnitte werden nicht ordnungsgemäß gerendert. Sie führen jedoch nicht dazu, dass die Validierung fehlschlägt, sodass Benutzende die `` Syntax des verschachtelten Abschnitts sehen.
 * Stellen Sie sicher, dass Sie im reduzierbaren Abschnitt über und unter Elementen wie Aufzählungslisten und Codeblöcke leere Zeilen hinzufügen, da sonst ein Validierungsfehler ausgegeben wird.
 * Sie können Überschriften in ausblendbaren Abschnitten hinzufügen, dies wird jedoch nicht empfohlen.
 * [Akkordeons sind nicht immer die Antwort auf komplexe Inhalte auf Desktops](https://www.nngroup.com/articles/accordions-complex-content/)
@@ -312,9 +312,9 @@ You can't see me (unless you're editing in Git).
 
 >[!IMPORTANT]
 >
-Vermeiden Sie das Hinzufügen von Kommentaren innerhalb von Blockkomponenten wie Aufzählungslisten, insbesondere verschachtelten Aufzählungslisten. Der Kommentar kann ändern, wie die Aufzählungsliste gerendert wird.
+>Vermeiden Sie das Hinzufügen von Kommentaren innerhalb von Blockkomponenten wie Aufzählungslisten, insbesondere verschachtelten Aufzählungslisten. Der Kommentar kann ändern, wie die Aufzählungsliste gerendert wird.
 >
-Kommentieren Sie in der Datei TOC.md keine Zeilen in der Mitte der Inhaltsverzeichnisliste aus. Dadurch kann die Inhaltsverzeichnisliste beschädigt werden, was zu Validierungsfehlern führen kann. Verschieben Sie stattdessen die Kommentare im Inhaltsverzeichnis an das Ende der Datei.
+>Kommentieren Sie in der Datei TOC.md keine Zeilen in der Mitte der Inhaltsverzeichnisliste aus. Dadurch kann die Inhaltsverzeichnisliste beschädigt werden, was zu Validierungsfehlern führen kann. Verschieben Sie stattdessen die Kommentare im Inhaltsverzeichnis an das Ende der Datei.
 
 ## KONTEXTBEZOGENE HILFE
 
@@ -370,7 +370,7 @@ Cat
 
 Laden Sie die ZIP-Datei oder eine andere herunterladbare Datei in das Asset-Verzeichnis hoch und verknüpfen Sie dann damit. Wenn es sich um eine ZIP-Datei handelt, wird die Datei durch Klicken auf den Link heruntergeladen. Wenn es sich um einen Dateityp wie PDF oder PNG handelt, der in einem Browser geöffnet werden kann, wird durch Klicken auf den Link eine neue Registerkarte geöffnet. Für solche Dateien sollten Sie sie komprimieren oder Anweisungen geben, mit der rechten Maustaste auf den Link zu klicken und sie herunterzuladen.
 
-`Download` &amp;lbrack;`download-test.zip`&amp;rbrack;`(assets/download-test.zip)`
+`Download` &lbrack;`download-test.zip`&rbrack;`(assets/download-test.zip)`
 
 Gerendert:
 
@@ -378,7 +378,7 @@ Download [Test-ZIP herunterladen](assets/download-test.zip)
 
 >[!NOTE]
 >
-Die maximale Dateigröße zum Herunterladen von Dateien und Bildern beträgt 100 MB. Das ist das github.com Limit. Das Limit von git.corp.adobe.com ist höher (250 MB), aber wir müssen in der Lage sein, Dateien in den Spiegel von github.com zu kopieren.
+>Die maximale Dateigröße zum Herunterladen von Dateien und Bildern beträgt 100 MB. Das ist das github.com Limit. Das Limit von git.corp.adobe.com ist höher (250 MB), aber wir müssen in der Lage sein, Dateien in den Spiegel von github.com zu kopieren.
 
 ## Überschriften {#headings}
 
@@ -497,7 +497,7 @@ Bob - Breite = 300 Pixel unter
 
 >[!NOTE]
 >
-Die maximale Dateigröße für Bilder beträgt 100 MB. Das ist das github.com Limit. Das Limit von git.corp.adobe.com ist höher (250 MB), aber wir müssen in der Lage sein, Dateien in den Spiegel von github.com zu kopieren.
+>Die maximale Dateigröße für Bilder beträgt 100 MB. Das ist das github.com Limit. Das Limit von git.corp.adobe.com ist höher (250 MB), aber wir müssen in der Lage sein, Dateien in den Spiegel von github.com zu kopieren.
 
 ### Bild-Links
 
@@ -626,8 +626,8 @@ Verwenden Sie die Komponente „Ähnlicher“, um verwandte Links am Ende eines 
 
 >[!MORELIKETHIS]
 >
-* [Article 1](https://helpx.adobe.com/de/support/analytics.html)
-* [Article 2](https://helpx.adobe.com/de/support/audience-manager.html)
+>* [Article 1](https://helpx.adobe.com/de/support/analytics.html)
+>* [Article 2](https://helpx.adobe.com/de/support/audience-manager.html)
 
 ## Notizen/Ermahnungen
 
@@ -645,7 +645,7 @@ Wir haben Markdown erweitert, um verschiedene Arten von Anmerkungen zu formatier
 
 >[!NOTE]
 >
-Dies ist ein standardmäßiger HINWEIS-Block.
+>Dies ist ein standardmäßiger HINWEIS-Block.
 
 **Syntax**
 
@@ -659,7 +659,7 @@ Dies ist ein standardmäßiger HINWEIS-Block.
 
 >[!TIP]
 >
-Dies ist ein Standardtipp.
+>Dies ist ein Standardtipp.
 
 **Syntax**
 
@@ -673,7 +673,7 @@ Dies ist ein Standardtipp.
 
 >[!WARNING]
 >
-Dies ist ein standardmäßiger Warnblock.
+>Dies ist ein standardmäßiger Warnblock.
 
 **Syntax**
 
@@ -687,7 +687,7 @@ Dies ist ein standardmäßiger Warnblock.
 
 >[!IMPORTANT]
 >
-Dies ist ein wichtiger Standardblock.
+>Dies ist ein wichtiger Standardblock.
 
 **Syntax**
 
@@ -703,35 +703,35 @@ Dies ist ein wichtiger Standardblock.
 
 >[!NOTE]
 >
-Dies ist ein standardmäßiger HINWEIS-Block.
+>Dies ist ein standardmäßiger HINWEIS-Block.
 >
-Es enthält mehrere Absätze.
+>Es enthält mehrere Absätze.
 
 Neue unterstützte Notizentypen:
 
 >[!ADMIN]
 >
-Dies ist ein Administratorhinweis. Nur EXL.
+>Dies ist ein Administratorhinweis. Nur EXL.
 
 >[!AVAILABILITY]
 >
-Dies ist ein Hinweis zur Verfügbarkeit. Nur EXL.
+>Dies ist ein Hinweis zur Verfügbarkeit. Nur EXL.
 
 >[!PREREQUISITES]
 >
-Dies ist ein Hinweis zu den Voraussetzungen. Nur EXL.
+>Dies ist ein Hinweis zu den Voraussetzungen. Nur EXL.
 
 >[!INFO]
 >
-Dies ist ein Informationshinweis. Nur EXL.
+>Dies ist ein Informationshinweis. Nur EXL.
 
 >[!ERROR]
 >
-Dies ist ein Fehlerhinweis. Nur EXL.
+>Dies ist ein Fehlerhinweis. Nur EXL.
 
 >[!SUCCESS]
 >
-Dies ist ein Erfolgshinweis. Nur EXL.
+>Dies ist ein Erfolgshinweis. Nur EXL.
 
 ## Nummerierte Listen und Aufzählungslisten {#lists}
 
@@ -827,7 +827,7 @@ Sie können auch Listen in Listen einbetten und Inhalte zwischen Listenelementen
 
    >[!NOTE]
    >
-   This is note text.
+   >This is note text.
 
 1. Do another step.
 
@@ -856,7 +856,7 @@ In einigen Fällen verwenden Sie eine HTML-Tabelle, um ein ausgewogenes Design z
 
 >[!NOTE]
 >
-Nicht zu viel benutzen. Bei normalen Tabellen möchten wir ein konsistentes Design für alle Inhalte beibehalten.
+>Nicht zu viel benutzen. Bei normalen Tabellen möchten wir ein konsistentes Design für alle Inhalte beibehalten.
 
 ![Tischspitze](assets/table-no-border.png)
 
@@ -880,7 +880,7 @@ Tabellen können in Markdown problematisch sein. Wenn Tabellen aus dem vorherige
 
 >[!TIP]
 >
-Sehen Sie sich [ Video zu Markdown-Tabellen an](https://video.tv.adobe.com/v/26220)
+>Sehen Sie sich [ Video zu Markdown-Tabellen an](https://video.tv.adobe.com/v/26220)
 
 Native Tabellen sehen in Markdown häufig besser aus. Die Größe der Spalten richtet sich nach ihrem Inhalt. HTML-Tabellen werden mit Spalten gleicher Breite gerendert.
 
@@ -888,7 +888,7 @@ Standardmäßig unterstützt Markdown nicht mehrere Zeilen oder Listen in Zellen
 
 >[!IMPORTANT]
 >
-Seien Sie vorsichtig, wenn Sie diese HTML-Codes zu Markdown-Tabellen hinzufügen. Wenn Ihre Syntax falsch ist, erhalten Sie einen verwirrenden Validierungsfehler, der das Problem nicht genau beschreibt. Überprüfen Sie Ihre HTML-Syntax, um sicherzustellen, dass sie korrekt formatiert ist.
+>Seien Sie vorsichtig, wenn Sie diese HTML-Codes zu Markdown-Tabellen hinzufügen. Wenn Ihre Syntax falsch ist, erhalten Sie einen verwirrenden Validierungsfehler, der das Problem nicht genau beschreibt. Überprüfen Sie Ihre HTML-Syntax, um sicherzustellen, dass sie korrekt formatiert ist.
 
 In keiner Tabelle zulässig: iFrames, Zellenspannen, eingebettete Tabellen.
 
@@ -1035,9 +1035,9 @@ In der Regel verwenden Sie `<span class="preview">`, um einen Absatz oder Text i
 
 >[!NOTE]
 >
-Wir arbeiten noch daran, die Hervorhebung von bestimmten Seitenelementen wie Anmerkungen und Tabellen zu verbessern. Sie können JIRA-Fehler protokollieren, wenn Sie ein unsachgemäßes Rendering sehen. In Bearbeitung.
+>Wir arbeiten noch daran, die Hervorhebung von bestimmten Seitenelementen wie Anmerkungen und Tabellen zu verbessern. Sie können JIRA-Fehler protokollieren, wenn Sie ein unsachgemäßes Rendering sehen. In Bearbeitung.
 >
-Die VSC-Vorschau unterstützt noch keine Hervorhebung.
+>Die VSC-Vorschau unterstützt noch keine Hervorhebung.
 
 ## Video
 
@@ -1115,7 +1115,7 @@ Eine vollständige Liste der HTML-Entitäten finden Sie auf der [Freeformatter-W
 
 >[!NOTE]
 >
-Bei Kettenschritten wie „Datei auswählen“ > „Speichern unter“ müssen Sie das `>` nicht mit Escape-Zeichen versehen, da es sich nicht neben anderen Zeichen befindet. Bei Variablen wie `<filename>` sollten Sie die spitzen Klammern entweder mit Code-Block-`backticks` oder mit Zeichen-Codes (`&lt;filename&gt;`) ausklammern.
+>Bei Kettenschritten wie „Datei auswählen“ > „Speichern unter“ müssen Sie das `>` nicht mit Escape-Zeichen versehen, da es sich nicht neben anderen Zeichen befindet. Bei Variablen wie `<filename>` sollten Sie die spitzen Klammern entweder mit Code-Block-`backticks` oder mit Zeichen-Codes (`&lt;filename&gt;`) ausklammern.
 
 Wenn Sie HTML-Entitäten in Codeblöcken verwenden, wird der Entitätstext nicht in das Sonderzeichen konvertiert. Beispielsweise wird `&gt;` in einem Codeblock als &quot;`&gt;` &quot; anstelle von &quot; > &quot; angezeigt.
 
@@ -1158,4 +1158,4 @@ Wir verwenden Blockanführungszeichen (`>` am Anfang einer Zeile), um eine erwei
 
 >[!NOTE]
 >
-Wenn Sie zu weit einrücken, z. B. sechs Leerzeichen anstelle von drei, wird der Inhalt als Blockanführungszeichen gerendert. Verwenden Sie den richtigen Einzug, um zu vermeiden, dass der Inhalt fälschlicherweise als Blockzitat gerendert wird.
+>Wenn Sie zu weit einrücken, z. B. sechs Leerzeichen anstelle von drei, wird der Inhalt als Blockanführungszeichen gerendert. Verwenden Sie den richtigen Einzug, um zu vermeiden, dass der Inhalt fälschlicherweise als Blockzitat gerendert wird.

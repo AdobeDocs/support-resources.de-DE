@@ -40,7 +40,7 @@ Leider konnten wir kein einziges Tool finden, das HTML-Tabellen gut konvertiert.
 
 * Achten Sie darauf, dass Sie mindestens drei Bindestriche in der zweiten Zeile hinzufügen, die die Tabelleneigenschaften bestimmt. Beispiel: `|--- |--- |--- |` für eine 3-spaltige Tabelle.
 * Markdown-Tabellen müssen mindestens eine Kopfzeile und eine Textzeile haben. Eine einzeilige oder eine einzellige Markdown-Tabelle kann nicht erstellt werden (stattdessen HTML verwenden).
-* Stellen Sie sicher, dass jede Zeile über dieselbe Anzahl von senkrechten Strichen ( &amp;vert; ) verfügt. Wenn Sie ein Pipe-Zeichen in eine Tabellenzelle einschließen müssen, escapen Sie es, indem Sie ihm einen umgekehrten Schrägstrich (`\|`) voranstellen oder den HTML-Entitätscode (`&vert;`) verwenden.
+* Stellen Sie sicher, dass jede Zeile über dieselbe Anzahl von senkrechten Strichen ( &vert; ) verfügt. Wenn Sie ein Pipe-Zeichen in eine Tabellenzelle einschließen müssen, escapen Sie es, indem Sie ihm einen umgekehrten Schrägstrich (`\|`) voranstellen oder den HTML-Entitätscode (`&vert;`) verwenden.
 * Achten Sie auf die Verwendung von Codeblöcken in Tabellen. Inline-Code-Blöcke können zu unverhältnismäßigen Spaltenbreiten führen.
 * Sie können ändern, wie die Tabelle gerendert wird, indem Sie Auto oder Fest angeben. Siehe [Ändern der Darstellung von Tabellen](#table-rendering).
 
