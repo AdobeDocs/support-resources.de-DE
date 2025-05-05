@@ -18,49 +18,49 @@ ht-degree: 7%
 
 :::: landing-cards-container
 ::
-![ALT-Text](https://experienceleague.adobe.com/en/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
+![ALT-Text](https://experienceleague.adobe.com/de/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
 
 Titel 1
 
 Dies ist die Kartenbeschreibung.
 Dies ist der Karteninhalt.
-[Weitere Informationen](https://experienceleague.adobe.com/?lang=de)
+[Weitere Informationen](https://experienceleague.adobe.com/de?lang=de)
 ::
 ::
-![ALT-Text](https://experienceleague.adobe.com/en/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
+![ALT-Text](https://experienceleague.adobe.com/de/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
 
 Titel 1
 
 Dies ist die Kartenbeschreibung.
 Dies ist der Karteninhalt.
-[Weitere Informationen](https://experienceleague.adobe.com/?lang=de)
+[Weitere Informationen](https://experienceleague.adobe.com/de?lang=de)
 ::
 ::
-![ALT-Text](https://experienceleague.adobe.com/en/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
+![ALT-Text](https://experienceleague.adobe.com/de/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
 
 Titel 1
 
 Dies ist die Kartenbeschreibung.
 Dies ist der Karteninhalt.
-[Weitere Informationen](https://experienceleague.adobe.com/?lang=de)
+[Weitere Informationen](https://experienceleague.adobe.com/de?lang=de)
 ::
 ::
-![ALT-Text](https://experienceleague.adobe.com/en/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
+![ALT-Text](https://experienceleague.adobe.com/de/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
 
 Titel 1
 
 Dies ist die Kartenbeschreibung.
 Dies ist der Karteninhalt.
-[Weitere Informationen](https://experienceleague.adobe.com/?lang=de)
+[Weitere Informationen](https://experienceleague.adobe.com/de?lang=de)
 ::
 ::
-![ALT-Text](https://experienceleague.adobe.com/en/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
+![ALT-Text](https://experienceleague.adobe.com/de/docs/experience-manager-sites-optimizer/content/media_1173e9b57de6809d27fd2ccd8809bd5cee2437e3d.png?width=2000&amp;format=webply&amp;optimize=medium&amp;lang=en)
 
 Titel 1
 
 Dies ist die Kartenbeschreibung.
 Dies ist der Karteninhalt.
-[Weitere Informationen](https://experienceleague.adobe.com/?lang=de)
+[Weitere Informationen](https://experienceleague.adobe.com/de?lang=de)
 ::
 ::
 
@@ -73,7 +73,7 @@ Titel 1
 
 Dies ist die Kartenbeschreibung.
 Dies ist der Karteninhalt.
-[Weitere Informationen](https://experienceleague.adobe.com/?lang=de)
+[Weitere Informationen](https://experienceleague.adobe.com/de?lang=de)
 ::
 ::
 
@@ -81,7 +81,7 @@ Titel 1
 
 Dies ist die Kartenbeschreibung.
 Dies ist der Karteninhalt.
-[Weitere Informationen](https://experienceleague.adobe.com/?lang=de)
+[Weitere Informationen](https://experienceleague.adobe.com/de?lang=de)
 ::
 ::
 
@@ -89,7 +89,7 @@ Titel 1
 
 Dies ist die Kartenbeschreibung.
 Dies ist der Karteninhalt.
-[Weitere Informationen](https://experienceleague.adobe.com/?lang=de)
+[Weitere Informationen](https://experienceleague.adobe.com/de?lang=de)
 ::
 ::
 
@@ -97,7 +97,7 @@ Titel 1
 
 Dies ist die Kartenbeschreibung.
 Dies ist der Karteninhalt.
-[Weitere Informationen](https://experienceleague.adobe.com/?lang=de)
+[Weitere Informationen](https://experienceleague.adobe.com/de?lang=de)
 ::
 ::
 
@@ -105,6 +105,6 @@ Titel 1
 
 Dies ist die Kartenbeschreibung.
 Dies ist der Karteninhalt.
-[Weitere Informationen](https://experienceleague.adobe.com/?lang=de)
+[Weitere Informationen](https://experienceleague.adobe.com/de?lang=de)
 ::
 ::

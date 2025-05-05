@@ -266,7 +266,7 @@ Der Adobe-Kunden-Support ermöglicht den Zugriff auf die Dokumentation und den K
 
 | Ressource | Beschreibung |
 |--- |--- |
-| [Experience League](https://experienceleague.adobe.com/?lang=de) | Im Abschnitt „Experience League“ finden Adobe-Kunden Selbsthilfe-Tutorials, die Produktdokumentation, von Schulungsleitern geführte Schulungen, eine Community-Seite sowie Support für ausgewählte Adobe Creative Cloud- und Document-Produkte. |
+| [Experience League](https://experienceleague.adobe.com/de?lang=de) | Im Abschnitt „Experience League“ finden Adobe-Kunden Selbsthilfe-Tutorials, die Produktdokumentation, von Schulungsleitern geführte Schulungen, eine Community-Seite sowie Support für ausgewählte Adobe Creative Cloud- und Document-Produkte. |
 | [Adobe Support Community](https://community.adobe.com/?profile.language=de) | In der Adobe Support Community können Sie Fragen stellen, Antworten finden, von Experten lernen und Ihr Wissen austauschen. |
 | [Produktionsprobleme und Systemausfälle](https://status.adobe.com/) | Status.adobe.com übermittelt die Statusinformationen sämtlicher Adobe-Produkte und -Services, die in Umgebungen mit mehreren Mandanten bereitgestellt sind. Kunden können Voreinstellungen für ihr Abonnement auswählen und E-Mail-Benachrichtigungen erhalten, wenn Adobe ein Produktereignis erstellt, aktualisiert oder löst. Dies kann geplante Wartungen oder Service-Probleme unterschiedlichen Schweregrads umfassen. |
 | [Geschäftsbedingungen](https://helpx.adobe.com/de/support/programs/support-policies-terms-conditions.html) | Allgemeine Geschäftsbedingungen mit detaillierten Informationen zu den angebotenen Support-Services. |

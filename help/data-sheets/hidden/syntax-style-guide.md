@@ -287,7 +287,7 @@ Dies ist Text in einem ausblendbaren Abschnitt.
 * Sie können Überschriften in ausblendbaren Abschnitten hinzufügen, dies wird jedoch nicht empfohlen.
 * [Akkordeons sind nicht immer die Antwort auf komplexe Inhalte auf Desktops](https://www.nngroup.com/articles/accordions-complex-content/)
 * Ein historischer Nachteil ausblendbarer Abschnitte besteht darin, dass **Auf Seite suchen** (Strg/Befehl+F) ausgeblendeten Text ignoriert. Das gilt zwar immer noch in Safari, aber es gilt nicht mehr für Chrome. „Auf der Seite suchen“ erkennt ausgeblendeten Text in Chrome.
-* Beispiel einer Seite [Wartungsaktualisierungen](https://experienceleague.adobe.com/docs/workfront-known-issues/releases/current-updates.html?lang=en) mit ausblendbaren Abschnitten.
+* Beispiel einer Seite [Wartungsaktualisierungen](https://experienceleague.adobe.com/docs/workfront-known-issues/releases/current-updates.html?lang=de) mit ausblendbaren Abschnitten.
 
 ## Kommentare und Anmerkungen
 
