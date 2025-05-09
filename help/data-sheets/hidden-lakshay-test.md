@@ -18,9 +18,9 @@ ht-degree: 0%
 
 :::: landing-cards-container
 ::
-![ALT-Text](https://experienceleague.adobe.com/en/docs/journey-optimizer-v2/using/media_1d834c9bcc356413ce8f04590143dc85613d5851c.png?width=2000&amp;format=webply&amp;optimize=medium)
+![ALT-Text](https://experienceleague.adobe.com/de/docs/journey-optimizer-v2/using/media_1d834c9bcc356413ce8f04590143dc85613d5851c.png?width=2000&amp;format=webply&amp;optimize=medium)
 
-![Symbol](https://cdn.experienceleague.adobe.com/icons/gears.svg)
+![Symbol](https://cdn.experienceleague.adobe.com/icons/gears.svg?lang=de)
 
 Schnellstartanleitungen
 
@@ -28,9 +28,9 @@ Erfahren Sie, wie Sie Ihre Produktziele in Journey Optimizer mit Ihrem personali
 [Weitere Informationen](/en/docs/journey-optimizer-v2/using/get-started/quick-start/quick-start)
 ::
 ::
-![ALT-Text](https://experienceleague.adobe.com/en/docs/journey-optimizer-v2/using/media_151105955ede1eb92ba5369c11699448b5da6e0a0.jpg?width=2000&amp;format=webply&amp;optimize=medium)
+![ALT-Text](https://experienceleague.adobe.com/de/docs/journey-optimizer-v2/using/media_151105955ede1eb92ba5369c11699448b5da6e0a0.jpg?width=2000&amp;format=webply&amp;optimize=medium)
 
-![Symbol](https://cdn.experienceleague.adobe.com/icons/gears.svg)
+![Symbol](https://cdn.experienceleague.adobe.com/icons/gears.svg?lang=de)
 
 Benutzeroberfläche
 
@@ -38,9 +38,9 @@ Erfahren Sie, wie Sie in Journey Optimizer navigieren und Ihr Erlebnis optimiere
 [Weitere Informationen](/en/docs/journey-optimizer-v2/using/get-started/user-interface)
 ::
 ::
-![ALT-Text](https://experienceleague.adobe.com/en/docs/journey-optimizer-v2/using/media_1c064a7a4145c59b81d3cbbaf300d9655a7c7c552.jpg?width=2000&amp;format=webply&amp;optimize=medium)
+![ALT-Text](https://experienceleague.adobe.com/de/docs/journey-optimizer-v2/using/media_1c064a7a4145c59b81d3cbbaf300d9655a7c7c552.jpg?width=2000&amp;format=webply&amp;optimize=medium)
 
-![Symbol](https://cdn.experienceleague.adobe.com/icons/gears.svg)
+![Symbol](https://cdn.experienceleague.adobe.com/icons/gears.svg?lang=de)
 
 Erstellen Ihrer ersten Journey
 
@@ -48,9 +48,9 @@ Entwerfen und orchestrieren Sie personalisierte Omni-Channel-Journey, um die Mar
 [Weitere Informationen](/en/docs/journey-optimizer-v2/using/journey-management/orchestrate-journeys/create-journey/journey-gs)
 ::
 ::
-![ALT-Text](https://experienceleague.adobe.com/en/docs/journey-optimizer-v2/using/media_183fe7a108b5121b3795cb3310c5cfaa2a16b737e.jpg?width=2000&amp;format=webply&amp;optimize=medium)
+![ALT-Text](https://experienceleague.adobe.com/de/docs/journey-optimizer-v2/using/media_183fe7a108b5121b3795cb3310c5cfaa2a16b737e.jpg?width=2000&amp;format=webply&amp;optimize=medium)
 
-![Symbol](https://cdn.experienceleague.adobe.com/icons/gears.svg)
+![Symbol](https://cdn.experienceleague.adobe.com/icons/gears.svg?lang=de)
 
 Starten der ersten Kampagne
 
