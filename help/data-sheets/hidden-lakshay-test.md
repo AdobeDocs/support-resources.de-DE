@@ -18,7 +18,7 @@ ht-degree: 0%
 
 :::: landing-cards-container
 ::
-![icon](https://cdn.experienceleague.adobe.com/icons/book.svg)
+![icon](https://cdn.experienceleague.adobe.com/icons/book.svg?lang=de)
 
 Einführung in Journey-Aktivitäten
 
@@ -28,7 +28,7 @@ Erfahren Sie mehr über Ereignis-, Orchestrierungs- und Aktionsaktivitäten zum 
 ::
 
 ::
-![icon](https://cdn.experienceleague.adobe.com/icons/circle-play.svg)
+![icon](https://cdn.experienceleague.adobe.com/icons/circle-play.svg?lang=de)
 
 Verwenden allgemeiner Ereignisse
 
@@ -38,7 +38,7 @@ Beherrschen Sie die Konfiguration und Anwendungsfälle allgemeiner Ereignisse un
 ::
 
 ::
-![icon](https://cdn.experienceleague.adobe.com/icons/list-check.svg)
+![icon](https://cdn.experienceleague.adobe.com/icons/list-check.svg?lang=de)
 
 Reaktionsereignisse
 
@@ -48,7 +48,7 @@ Benutzerinteraktionen mit Nachrichten verfolgen und Reaktionsereignisse konfigur
 ::
 
 ::
-![icon](https://cdn.experienceleague.adobe.com/icons/bullseye.svg)
+![icon](https://cdn.experienceleague.adobe.com/icons/bullseye.svg?lang=de)
 
 Zielgruppen-Qualifizierungsereignisse
 
@@ -58,7 +58,7 @@ Verwenden Sie Profileintritte und -austritte, um Journey effektiv zu Triggern od
 ::
 
 ::
-![icon](https://cdn.experienceleague.adobe.com/icons/code-branch.svg)
+![icon](https://cdn.experienceleague.adobe.com/icons/code-branch.svg?lang=de)
 
 Bedingungsaktivität
 
@@ -68,7 +68,7 @@ Definieren Sie personalisierte Pfade in Journey mithilfe spezifischer Kriterien 
 ::
 
 ::
-![icon](https://cdn.experienceleague.adobe.com/icons/clock.svg)
+![icon](https://cdn.experienceleague.adobe.com/icons/clock.svg?lang=de)
 
 Warteaktivität
 
@@ -83,7 +83,7 @@ Konfigurieren Sie Verzögerungen in Journey mithilfe von Dauer- oder benutzerdef
 
 :::: landing-cards-container
 ::
-![icon](https://cdn.experienceleague.adobe.com/icons/puzzle-piece.svg)
+![icon](https://cdn.experienceleague.adobe.com/icons/puzzle-piece.svg?lang=de)
 
 Verwenden von Inhaltskomponenten von Email Designer
 
@@ -93,7 +93,7 @@ Erfahren Sie, wie Sie mit Inhaltskomponenten in Adobe Journey Optimizers E-Mail-
 ::
 
 ::
-![icon](https://cdn.experienceleague.adobe.com/icons/puzzle-piece.svg)
+![icon](https://cdn.experienceleague.adobe.com/icons/puzzle-piece.svg?lang=de)
 
 Verwenden visueller Fragmente für das E-Mail-Design
 
@@ -103,7 +103,7 @@ Erfahren Sie, wie Sie wiederverwendbare und anpassbare Komponenten mithilfe visu
 ::
 
 ::
-![icon](https://cdn.experienceleague.adobe.com/icons/link.svg)
+![icon](https://cdn.experienceleague.adobe.com/icons/link.svg?lang=de)
 
 Links hinzufügen und Nachrichten verfolgen
 
@@ -113,7 +113,7 @@ Erfahren Sie, wie Sie Links hinzufügen, das Tracking aktivieren und Tracking-Ei
 ::
 
 ::
-![icon](https://cdn.experienceleague.adobe.com/icons/bullseye.svg)
+![icon](https://cdn.experienceleague.adobe.com/icons/bullseye.svg?lang=de)
 
 Hinzufügen personalisierter Angebote zu E-Mails
 
@@ -123,7 +123,7 @@ Erfahren Sie, wie Sie mit dem Entscheidungs-Management von Adobe Journey Optimiz
 ::
 
 ::
-![icon](https://cdn.experienceleague.adobe.com/icons/file-lines.svg)
+![icon](https://cdn.experienceleague.adobe.com/icons/file-lines.svg?lang=de)
 
 Textversion einer E-Mail erstellen und anpassen
 
@@ -133,7 +133,7 @@ Erfahren Sie, wie Sie die Nur-Text-Version einer E-Mail erstellen und bearbeiten
 ::
 
 ::
-![icon](https://cdn.experienceleague.adobe.com/icons/gear.svg)
+![icon](https://cdn.experienceleague.adobe.com/icons/gear.svg?lang=de)
 
 Hinzufügen von Metadaten zu E-Mail-Inhalten
 
@@ -148,7 +148,7 @@ Verbessern Sie die Lesbarkeit und Barrierefreiheit von E-Mails, indem Sie Metada
 
 :::: landing-cards-container
 ::
-![icon](https://cdn.experienceleague.adobe.com/icons/circle-play.svg)
+![icon](https://cdn.experienceleague.adobe.com/icons/circle-play.svg?lang=de)
 
 Erste Schritte mit Genehmigungen
 
@@ -158,7 +158,7 @@ Erfahren Sie, wie Sie in Adobe Journey Optimizer Validierungs-Workflows für Jou
 ::
 
 ::
-![icon](https://cdn.experienceleague.adobe.com/icons/gear.svg)
+![icon](https://cdn.experienceleague.adobe.com/icons/gear.svg?lang=de)
 
 Erstellen und Verwalten von Genehmigungsrichtlinien
 
@@ -168,7 +168,7 @@ Schrittweise Anleitung zum Erstellen, Konfigurieren und Aktivieren von Genehmigu
 ::
 
 ::
-![icon](https://cdn.experienceleague.adobe.com/icons/list-check.svg)
+![icon](https://cdn.experienceleague.adobe.com/icons/list-check.svg?lang=de)
 
 Genehmigung für Journey und Kampagnen anfordern
 
@@ -178,7 +178,7 @@ Erfahren Sie, wie Sie Validierungen anfordern und verwalten können, bevor Sie J
 ::
 
 ::
-![icon](https://cdn.experienceleague.adobe.com/icons/shield-halved.svg)
+![icon](https://cdn.experienceleague.adobe.com/icons/shield-halved.svg?lang=de)
 
 Prüfungs- und Genehmigungsanfragen
 
@@ -193,7 +193,7 @@ Erfahren Sie, wie Sie Änderungen für Journey und Kampagnen, für die eine Gene
 
 :::: landing-cards-container
 ::
-![icon](https://cdn.experienceleague.adobe.com/icons/circle-play.svg)
+![icon](https://cdn.experienceleague.adobe.com/icons/circle-play.svg?lang=de)
 
 Erste Schritte mit erweiterten Berichten
 
@@ -203,7 +203,7 @@ Erfahren Sie, wie Sie die erweiterten Reporting-Funktionen von Adobe Journey Opt
 ::
 
 ::
-![icon](https://cdn.experienceleague.adobe.com/icons/list-check.svg)
+![icon](https://cdn.experienceleague.adobe.com/icons/list-check.svg?lang=de)
 
 Umfassende Liste der Metriken
 
@@ -213,7 +213,7 @@ Informieren Sie sich über die umfassende Liste von Metriken, die nach Versandty
 ::
 
 ::
-![icon](https://cdn.experienceleague.adobe.com/icons/gear.svg)
+![icon](https://cdn.experienceleague.adobe.com/icons/gear.svg?lang=de)
 
 Berichte verwalten
 
@@ -223,7 +223,7 @@ Erfahren Sie, wie Sie Berichtszeiträume definieren, Daten exportieren, Metriken
 ::
 
 ::
-![icon](https://cdn.experienceleague.adobe.com/icons/chart-line.svg)
+![icon](https://cdn.experienceleague.adobe.com/icons/chart-line.svg?lang=de)
 
 Kampagnenberichte - Übersicht
 
@@ -233,7 +233,7 @@ Greifen Sie auf kanalspezifische Einblicke wie Klicks, Impressions und Versandst
 ::
 
 ::
-![icon](https://cdn.experienceleague.adobe.com/icons/chart-line.svg)
+![icon](https://cdn.experienceleague.adobe.com/icons/chart-line.svg?lang=de)
 
 Journey Reports - Übersicht
 
@@ -243,7 +243,7 @@ Detaillierte Metriken für Kunden-Journey über verschiedene Kanäle wie E-Mail,
 ::
 
 ::
-![icon](https://cdn.experienceleague.adobe.com/icons/chart-line.svg)
+![icon](https://cdn.experienceleague.adobe.com/icons/chart-line.svg?lang=de)
 
 Übersichtsbericht für Kampagnen und Journey
 
@@ -258,7 +258,7 @@ Analysieren Sie Traffic, Interaktionsmetriken und ausgehende Fehler in Kampagnen
 
 :::: landing-cards-container
 ::
-![icon](https://cdn.experienceleague.adobe.com/icons/list-check.svg)
+![icon](https://cdn.experienceleague.adobe.com/icons/list-check.svg?lang=de)
 
 So erstellen und verwalten Sie Entscheidungen
 
@@ -268,7 +268,7 @@ Erfahren Sie, wie Sie mit der Offer Decisioning-Engine Entscheidungen für perso
 ::
 
 ::
-![icon](https://cdn.experienceleague.adobe.com/icons/gear.svg)
+![icon](https://cdn.experienceleague.adobe.com/icons/gear.svg?lang=de)
 
 Konfigurieren der Angebotsauswahl
 
@@ -278,7 +278,7 @@ Erfahren Sie, wie Sie Angebotsauswahlmethoden konfigurieren, einschließlich Ang
 ::
 
 ::
-![icon](https://cdn.experienceleague.adobe.com/icons/code-branch.svg)
+![icon](https://cdn.experienceleague.adobe.com/icons/code-branch.svg?lang=de)
 
 Angebotsentscheidungen simulieren
 
