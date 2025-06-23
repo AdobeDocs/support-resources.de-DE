@@ -3,10 +3,10 @@ user-guide-title: Ressourcen für Erfolgspläne
 user-guide-description: Erfolgsplan- und Support-Ressourcen für Adobe Experience Cloud und Adobe Experience Platform.
 feature-set: Experience Cloud
 feature: Success Plans
-source-git-commit: a03302829e6f88ba15e94a37a45fd33ce0cd0b6a
-workflow-type: ht
-source-wordcount: '148'
-ht-degree: 100%
+source-git-commit: f9095f0a6215d5c7654a356056deb905cdb633fb
+workflow-type: tm+mt
+source-wordcount: '145'
+ht-degree: 92%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 # Ressourcen für Erfolgspläne {#data-sheets}
 
 + [Adobe-Erfolgspläne – Übersicht](overview.md)
-+ The Crux Podcast{#crux-podcast}
++ Der Crux-Podcast{#crux-podcast}
    + [Folge 1 – Billy Georgaros](episode1.md)
      [Folge 2 – Karrie Benjamin](episode2.md)
      [Folge 3 – George Kotsinis](episode3.md)
@@ -42,7 +42,6 @@ ht-degree: 100%
 + [Geschäftsbedingungen](https://helpx.adobe.com/de/support/programs/support-policies-terms-conditions.html){target="_blank"}
 + [Ausgeblendete Übersicht](hidden-overview.md)
 + [Ausgeblendete Fehlerbehebung](hidden-trouble.md)
-+ [Ausgeblendeter Lakshay-Test](hidden-lakshay-test.md)
 + [Ausgeblendet – Schrägstrich im Code-Block](hidden/slashes-in-code-blocks.md)
 + [Ausgeblendeter neuer Test](hidden-new-test.md)
 + [Ausgeblendeter neuer Test 2](hidden-new-test-2.md)
@@ -55,10 +54,12 @@ ht-degree: 100%
 + [Ausgeblendete Tabellenumbrüche](hidden/table-breaks.md)
 + [Test für ausgeblendete Hinweise](hidden/note-test.md)
 + [Ausgeblendete Umleitungen](hidden/redirect-tests.md)
-+ Testabschnitt {#test-section}
++ Versuchsstrecke {#test-section}
    + [Nur neue automatische Aktivierungen ausgeblendet](hidden/autoactivate.md)
 
 <!--
++ [Hidden Lakshay test](hidden-lakshay-test.md)
+
 + [Hidden table breaks](hidden/table-breaks.md)
 
 
