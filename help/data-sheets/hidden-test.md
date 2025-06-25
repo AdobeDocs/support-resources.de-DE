@@ -6,18 +6,16 @@ hidefromtoc: true
 badgePremium: label="Premium" type="Positive" url="https://www.premium-product.com" tooltip="Premium herunterladen"
 badgeExam: label="Prüfung ADO-E903" type="neutral"
 exl-id: 45f70aca-5885-4da0-90d7-50fbf44de9dc
-source-git-commit: fea913bab4f42341a7714a4a1ddbdb7cadb924bc
+source-git-commit: 9f7f12030fb9be9beca5ad145f80ff4ac46821ca
 workflow-type: tm+mt
-source-wordcount: '1274'
-ht-degree: 99%
+source-wordcount: '1258'
+ht-degree: 96%
 
 ---
 
 # Ausgeblendete Testseite
 
-Vorschau des Wiederholungsversuchs? Sollte über Jenkins kommen. 31. März.
-
-15:02
+Veröffentlichungstest. 25. Juni 2025 um 10:20 Uhr.
 
 ## Problematische Tabellen mit Bildern
 
@@ -62,7 +60,7 @@ _[Sekundäre Schaltfläche](https://www.adobe.com/)_
 
 Der folgende Absatz wird in der VSC-Vorschau nicht ordnungsgemäß dargestellt. Ich weiß nicht, warum.
 
-Wenn Ihr Kennwort von [!DNL Adobe] verwaltet wird, können Sie das [Kennwort in Ihrem Adobe-Konto ändern](https://helpx.adobe.com/de/manage-account/using/change-or-reset-password.html){target="_blank"}.
+Wenn Ihr Kennwort von [!DNL Adobe] verwaltet wird, können Sie [das Kennwort in Ihrem Adobe-Konto ändern](https://helpx.adobe.com/de/manage-account/using/change-or-reset-password.html){target="_blank"}.
 
 ## Hinweistypen
 
@@ -123,7 +121,7 @@ Ein Badge ist eine farbige Beschriftung, die als Inhaltskennzeichnung verwendet 
 
 [!BADGE Badge-Beispiel]
 
-Es gibt zwei Typen of Badges mit unterschiedlicher Syntax:
+Es gibt zwei Arten von Abzeichen mit jeweils unterschiedlicher Syntax:
 
 * **Metadaten**: Zeigt das Badge oben auf einer Seite an
 * **Inline**: Zeigt das Badge an, in dem sich die Syntax befindet
@@ -160,10 +158,10 @@ Badges verwenden Farben, die in Adobe Spectrum definiert sind:
 | Typ | Badge |
 |---|---|
 | Informativ (Standard) | [!BADGE Beta]{type=Informative url="https://www.beispiel.com"} |
-| Positiv | [!BADGE Neue Funktion]{type=Positive url="https://www.example.com" tooltip="Zu example.com gehen"} |
-| Negativ | [!BADGE Eingestellt]{type=negative tooltip="Diese Funktion wurde eingestellt"} |
-| Neutral | [!BADGE Vielleicht]{type=Neutral tooltip="Ein Reiter fiel vom Pferd..."} |
-| Achtung | [!BADGE Achtung]{type=Caution tooltip="Gelber Status"} |
+| Positiv | [!BADGE Neue Funktion]{type=Positive url="https://www.beispiel.com" tooltip="Zu beispiel.com wechseln"} |
+| Negativ | [!BADGE Eingestellt]{type=negative tooltip="Diese Funktion wurde jetzt eingestellt"} |
+| Neutral | [!BADGE Vielleicht]{type=Neutral tooltip="Ein Reiter fiel vom Pferd …"} |
+| Vorsicht | [!BADGE Achtung]{type=Caution tooltip="Gelber Status"} |
 
 Syntaxbeispiele
 
