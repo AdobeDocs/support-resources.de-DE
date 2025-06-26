@@ -4,9 +4,9 @@ user-guide-description: Erfolgsplan- und Support-Ressourcen für Adobe Experienc
 feature-set: Experience Cloud
 feature: Success Plans
 source-git-commit: f9095f0a6215d5c7654a356056deb905cdb633fb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '145'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -14,9 +14,8 @@ ht-degree: 92%
 # Ressourcen für Erfolgspläne {#data-sheets}
 
 + [Adobe-Erfolgspläne – Übersicht](overview.md)
-+ Der Crux-Podcast{#crux-podcast}
++ The Crux Podcast{#crux-podcast}
    + [Folge 1 – Billy Georgaros](episode1.md)
-
      [Folge 2 – Karrie Benjamin](episode2.md)
      [Folge 3 – George Kotsinis](episode3.md)
      [Folge.4 – Jessica Ouellette](episode4.md)
@@ -25,7 +24,7 @@ ht-degree: 92%
      [Folge 7 – Chris Diaz](episode7.md)
      [Folge 8 – Vincent Lee](episode8.md)
      [Folge 9 – Ren Wightman](episode9.md)
-+ Adobe-Support-Pläne vor dem 16. Juni 2022{#prior-plans}
++ Adobe-Support-Pläne vor dem 16. Juni 2022{#prior-plans}
    + [Übersicht über frühere Adobe-Support-Pläne](overview-prior-plans.md)
    + Experience Cloud-Services {#data-sheets}
       + [Adobe-Support – Überblick](dx-overview.md)
@@ -40,8 +39,8 @@ ht-degree: 92%
       + [Business](dme-business.md)
       + [Enterprise](dme-enterprise.md)
       + [Elite](dme-elite.md)
-+ [Geschäftsbedingungen](https://helpx.adobe.com/de/support/programs/support-policies-terms-conditions.html){target="_blank"}
-+ [Ausgeblendete Übersicht](hidden-overview.md)
++ [Allgemeine Geschäftsbedingungen](https://helpx.adobe.com/de/support/programs/support-policies-terms-conditions.html){target="_blank"}
++ [Ausgeblendeter Überblick](hidden-overview.md)
 + [Ausgeblendete Fehlerbehebung](hidden-trouble.md)
 + [Ausgeblendet – Schrägstrich im Code-Block](hidden/slashes-in-code-blocks.md)
 + [Ausgeblendeter neuer Test](hidden-new-test.md)
@@ -55,7 +54,7 @@ ht-degree: 92%
 + [Ausgeblendete Tabellenumbrüche](hidden/table-breaks.md)
 + [Test für ausgeblendete Hinweise](hidden/note-test.md)
 + [Ausgeblendete Umleitungen](hidden/redirect-tests.md)
-+ Versuchsstrecke {#test-section}
++ Testabschnitt {#test-section}
    + [Nur neue automatische Aktivierungen ausgeblendet](hidden/autoactivate.md)
 
 <!--
