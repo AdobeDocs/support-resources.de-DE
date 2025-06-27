@@ -1,23 +1,25 @@
 ---
-description: Herstellen einer Verbindung zur Widget-Data Warehouse - Produktdokumentation
-title: Herstellen einer Verbindung zur Widget-Data Warehouse
+description: Verbinden mit dem Widget Data Warehouse - Produktdokumentation
+title: Herstellen einer Verbindung mit dem Data Warehouse-Widget
 hide: true
 hidefromtoc: true
 exl-id: d6a7cff5-08f9-4c93-8765-46e692feaa0d
-source-git-commit: 972704990172c966a27744b49b9f7af5626e9f3e
+source-git-commit: 4145889fe291e80fa8d295368ead3e0075917e86
 workflow-type: tm+mt
-source-wordcount: '911'
+source-wordcount: '913'
 ht-degree: 0%
 
 ---
 
-# Herstellen einer Verbindung zur Widget-Data Warehouse {#connecting-to-the-widget-data-warehouse}
+# Herstellen einer Verbindung mit dem Data Warehouse-Widget {#connecting-to-the-widget-data-warehouse}
 
 ## Neuer Test
 
+Juni 27
+
 <ol><li>Verwenden Sie die Variable "{{name}}".</li></ol>
 
-<ol><li>Verwenden Sie die Variable &lbrace;&lbrace;<code>name</code>&rbrace;&rbrace;.</li></ol>
+<ol><li>Verwenden Sie die Variable &amp;lbrace;&amp;lbrace;<code>name</code>&amp;rbrace;&amp;rbrace;.</li></ol>
 
 ## Verschachtelter Test
 
@@ -60,7 +62,7 @@ Um auf Ihr Widget Data Warehouse zuzugreifen, müssen Sie zur spezifischen URL f
 
    >[!NOTE]
    >
-   >Dies ist ein schreibgeschütztes Konto, das für Ihre Organisation verfügbar ist, nicht nur für einzelne Benutzer. Jeder Benutzer in Ihrem Unternehmen, der Zugriff auf Marketo Measure hat, kann dieses Konto verwenden, um sich beim Widget-Data Warehouse-Leserkonto anzumelden.
+   >Dies ist ein schreibgeschütztes Konto, das für Ihre Organisation verfügbar ist, nicht nur für einzelne Benutzer. Jeder Benutzer in Ihrem Unternehmen, der Zugriff auf Marketo Measure hat, kann dieses Konto verwenden, um sich beim Widget Data Warehouse-Leserkonto anzumelden.
 
 1. Klicken Sie auf den in der Widget-URL angegebenen Link. Dadurch gelangen Sie zur Widget-Anmeldeseite, auf der Sie Ihren Benutzernamen und Ihr Kennwort eingeben. _Wenn Sie Ihr Kennwort nicht haben, können Sie es mit den folgenden Schritten zurücksetzen_.
 
@@ -76,7 +78,7 @@ Um auf Ihr Widget Data Warehouse zuzugreifen, müssen Sie zur spezifischen URL f
 
 ## Passwort zurücksetzen {#reset-your-password}
 
-Marketo Measure hat keinen Zugriff auf Ihr Widget-Anmeldekennwort.  Wenn Sie Ihr Kennwort zurücksetzen müssen, klicken Sie auf der Informationsseite zum Data Warehouse auf die Schaltfläche Kennwort zurücksetzen und folgen Sie den Anweisungen. Ein temporäres Kennwort wird sofort in der Benutzeroberfläche angezeigt. Sie werden bei Ihrer nächsten Data Warehouse-Anmeldung aufgefordert, Ihr eigenes Passwort zu erstellen.
+Marketo Measure hat keinen Zugriff auf Ihr Widget-Anmeldekennwort.  Wenn Sie Ihr Kennwort zurücksetzen müssen, klicken Sie auf der Informationsseite von Data Warehouse auf die Schaltfläche Kennwort zurücksetzen und folgen Sie den Anweisungen. Ein temporäres Kennwort wird sofort in der Benutzeroberfläche angezeigt. Sie werden bei Ihrer nächsten Data Warehouse-Anmeldung aufgefordert, Ihr eigenes Passwort zu erstellen.
 
 >[!NOTE]
 >
@@ -98,11 +100,11 @@ Sie müssen einige Informationen eingeben, um Ihr Widget-Data-Warehouse mit eine
 * **URI** (immer erforderlich)
    * Dies ist der Domain-Name des Widget-Kontos.  Er ist in einem Teil des Widget-Anmelde-Links enthalten.
 * **Benutzername** (immer erforderlich)
-   * Der Benutzername wird auf der Seite mit den Data Warehouse-Informationen in Marketo Measure aufgeführt.
+   * Der Benutzername wird auf der Informationsseite von Data Warehouse in Marketo Measure aufgeführt.
 * **Kennwort** (immer erforderlich)
    * Dies ist das Kennwort, das Sie beim ersten Anmelden bei Ihrem Widget-Konto festgelegt haben.  Gehen Sie wie oben beschrieben vor, um Ihr Kennwort zurückzusetzen.
 * **Datenbankname** (nicht immer erforderlich)
-   * Die Datenbank speichert die Daten im Widget. Es ist die Speicherressource. Der Datenbankname wird auf der Seite mit den Data Warehouse-Informationen in Marketo Measure aufgeführt.
+   * Die Datenbank speichert die Daten im Widget. Es ist die Speicherressource. Der Datenbankname wird in Marketo Measure auf der Data Warehouse-Informationsseite aufgeführt.
 * **Warehouse-Name** (nicht immer erforderlich)
    * Das Warehouse ist das, was Abfragen in Widget ausführt. Es ist die Rechenressource.  Der Warehouse-Name wird auf der Data Warehouse-Informationsseite in Marketo Measure aufgeführt.
 
