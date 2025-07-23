@@ -4,9 +4,9 @@ user-guide-description: Erfolgsplan- und Support-Ressourcen für Adobe Experienc
 feature-set: Experience Cloud
 feature: Success Plans
 source-git-commit: 8ee3995aa158a545de25ce0fb7506c3e453a9ce4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '149'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,6 @@ ht-degree: 97%
 + [Adobe-Erfolgspläne – Übersicht](overview.md)
 + The Crux Podcast{#crux-podcast}
    + [Folge 1 – Billy Georgaros](episode1.md)
-
      [Folge 2 – Karrie Benjamin](episode2.md)
      [Folge 3 – George Kotsinis](episode3.md)
      [Folge.4 – Jessica Ouellette](episode4.md)
@@ -43,7 +42,7 @@ ht-degree: 97%
 + [Allgemeine Geschäftsbedingungen](https://helpx.adobe.com/de/support/programs/support-policies-terms-conditions.html){target="_blank"}
 + [Ausgeblendeter Überblick](hidden-overview.md)
 + [Ausgeblendete Fehlerbehebung](hidden-trouble.md)
-+ [Funky Überschriften UGP-13342](hidden-funky-headings.md)
++ [Flippige Überschriften – UGP-13342](hidden-funky-headings.md)
 + [Ausgeblendet – Schrägstrich im Code-Block](hidden/slashes-in-code-blocks.md)
 + [Ausgeblendeter neuer Test](hidden-new-test.md)
 + [Ausgeblendeter neuer Test 2](hidden-new-test-2.md)
