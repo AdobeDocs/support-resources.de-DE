@@ -16,6 +16,7 @@ ht-degree: 98%
 + [Adobe-Erfolgspläne – Übersicht](overview.md)
 + The Crux Podcast{#crux-podcast}
    + [Folge 1 – Billy Georgaros](episode1.md)
+
      [Folge 2 – Karrie Benjamin](episode2.md)
      [Folge 3 – George Kotsinis](episode3.md)
      [Folge.4 – Jessica Ouellette](episode4.md)
