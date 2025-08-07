@@ -27,7 +27,7 @@ ht-degree: 31%
 
 ## Plättchentest
 
->[!FRAGMENT](https://experienceleague-stage.adobe.com/en/slides/analyze-project)
+>[ !FRAGMENT](https://experienceleague-stage.adobe.com/en/slides/analyze-project)
 
 ## Neuer Abschnitt 30. Januar
 
