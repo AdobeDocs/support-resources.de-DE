@@ -35,7 +35,7 @@ Syntax 1:
 
 gerendert:
 
->[!FRAGMENT](https://experienceleague-stage.adobe.com/en/slides/analyze-project)
+>[ !FRAGMENT](https://experienceleague-stage.adobe.com/en/slides/analyze-project)
 
 
 Syntax 2:
@@ -48,7 +48,7 @@ Syntax 2:
 
 gerendert:
 
->[!FRAGMENT]
+>[ !FRAGMENT]
 >
 >[Projekt analysieren](https://experienceleague-stage.adobe.com/en/slides/analyze-project)
 
