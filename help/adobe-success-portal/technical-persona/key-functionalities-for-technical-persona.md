@@ -34,7 +34,7 @@ Dadurch werden Sie zum Abschnitt **[!UICONTROL Fallverwaltung]** des Portals mit
 
 Dieser Abschnitt auf der Homepage des Portals zeigt proaktive Warnhinweise zu Leistung, Sicherheit und Funktionalität an. Diese Warnhinweise werden bei Umgebungsprüfungen generiert und in den **[!UICONTROL Adobe-Status]** integriert, um einen Überblick über potenzielle Produktausfallzeiten zu erhalten.
 
-Klicken Sie **** Abschnitt **[!UICONTROL Warnhinweise und Adobe-Status]** der Startseite des Portals auf „Alle anzeigen“, um auf die Seite zuzugreifen.
+Klicken Sie **&#x200B;**&#x200B;Abschnitt **[!UICONTROL Warnhinweise und Adobe-Status]** der Startseite des Portals auf „Alle anzeigen“, um auf die Seite zuzugreifen.
 
 ## Support und Erkenntnisse
 
