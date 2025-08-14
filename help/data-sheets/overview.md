@@ -2,10 +2,10 @@
 title: Adobe-Erfolgspläne – Übersicht
 description: Dieser Artikel enthält eine Zusammenfassung der Support-Optionen für Adobe Experience Cloud, Adobe Document Cloud und Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: 9532b81aed538e93dce9cf894a2b56bb22d109ef
-workflow-type: ht
-source-wordcount: '2203'
-ht-degree: 100%
+source-git-commit: 598a5e58107314e3315090304b258573fdd5d729
+workflow-type: tm+mt
+source-wordcount: '2221'
+ht-degree: 97%
 
 ---
 
@@ -106,7 +106,7 @@ Benannte Support-Kontakte können Probleme über alle verfügbaren Kanäle einre
 
 | Nord- und Südamerika | Europa, Naher Osten und Afrika | Asien-Pazifik | Japan |
 |---|---|---|---|
-| 6:00–17:30 Uhr | 9:00–17:00 Uhr | 9:00–17:00 Uhr | 9:00–17:00 Uhr |
+| 6:00 - 17:3000 Uhr | 9:00–17:00 Uhr | 9:00–17:00 Uhr | 9:00–17:00 Uhr |
 
 ## Lebenszyklus von Support-Fällen – in Kürze verfügbar
 
@@ -131,7 +131,7 @@ In diesem Szenario werden die folgenden Schritte unternommen, wenn von einer Kun
 * Am 1., 3. und 5. Tag nach der Statusänderung in „Antwort steht aus“ werden Nachverfolgungsbenachrichtigungen an die Kundin bzw. den Kunden gesendet mit der Bitte, die zusätzlichen Informationen bereitzustellen.
 * Wenn die Kundin bzw. der Kunde 6 Tage lang nicht reagiert, nachdem der Status in „Antwort steht aus“ geändert wurde, wird der Fall geschlossen und es wird eine Benachrichtigung bezüglich der Schließung gesendet.
 
-Kundinnen und Kunden können einen geschlossenen Fall innerhalb von 14 Tagen erneut öffnen, um die Kommunikation fortzusetzen. Nach Ablauf von 14 Tagen kann ein neuer Support-Fall geöffnet werden, um die Kommunikation im Zusammenhang mit einem zuvor geschlossenen Fall fortzusetzen.
+Kunden können einen abgeschlossenen Fall in Experience League innerhalb von 14 Tagen erneut öffnen, um die Kommunikation fortzusetzen. Nach 14 Tagen kann ein neues Support-Case geöffnet werden, um die Kommunikation in Bezug auf einen zuvor geschlossenen Fall fortzusetzen. Beachten Sie, dass eine E-Mail zu einem geschlossenen Ticket nicht erneut geöffnet wird.
 
 **Technische Fachkraft stellt eine Lösung bereit**
 
