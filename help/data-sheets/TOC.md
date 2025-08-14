@@ -3,9 +3,9 @@ user-guide-title: Ressourcen für Erfolgspläne
 user-guide-description: Erfolgsplan- und Support-Ressourcen für Adobe Experience Cloud und Adobe Experience Platform.
 feature-set: Experience Cloud
 feature: Success Plans
-source-git-commit: f2d8eb9125df5f542c1ed075348586965f4adaad
+source-git-commit: 67c030d28d7715cbf51910b61a6ba3d3aee29c7d
 workflow-type: ht
-source-wordcount: '151'
+source-wordcount: '96'
 ht-degree: 100%
 
 ---
@@ -40,24 +40,6 @@ ht-degree: 100%
       + [Enterprise](dme-enterprise.md)
       + [Elite](dme-elite.md)
 + [Allgemeine Geschäftsbedingungen](https://helpx.adobe.com/de/support/programs/support-policies-terms-conditions.html){target="_blank"}
-+ [Ausgeblendeter Überblick](hidden-overview.md)
-+ [Ausgeblendete Reduzierung](hidden-collapse.md)
-+ [Ausgeblendete Fehlerbehebung](hidden-trouble.md)
-+ [Flippige Überschriften – UGP-13342](hidden-funky-headings.md)
-+ [Ausgeblendet – Schrägstrich im Code-Block](hidden/slashes-in-code-blocks.md)
-+ [Ausgeblendeter neuer Test](hidden-new-test.md)
-+ [Ausgeblendeter neuer Test 2](hidden-new-test-2.md)
-+ [Ausgeblendete Testdatei](hidden-test.md)
-+ [Ausgeblendete Fehlerbehebungen](hidden/bug-fixes.md)
-+ [Ausgeblendete EDS-Testkachel](hidden/test-page.md)
-+ [Ausgeblendeter Umleitungstest](hidden/test-redirection.md)
-+ [Handbuch zur ausgeblendeten Syntax](hidden/syntax-style-guide.md)
-+ [Ausgeblendeter Tabellentest](hidden/tables.md)
-+ [Ausgeblendete Tabellenumbrüche](hidden/table-breaks.md)
-+ [Test für ausgeblendete Hinweise](hidden/note-test.md)
-+ [Ausgeblendete Umleitungen](hidden/redirect-tests.md)
-+ Testabschnitt {#test-section}
-   + [Nur neue automatische Aktivierungen ausgeblendet](hidden/autoactivate.md)
 
 <!--
 + [Hidden Lakshay test](hidden-lakshay-test.md)
