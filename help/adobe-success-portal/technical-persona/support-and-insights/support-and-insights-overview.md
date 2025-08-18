@@ -1,6 +1,6 @@
 ---
 title: Support und Einblicke - Übersicht
-description: Das Dashboard [!UICONTROL Support und Einblicke“ ] Adobe Success Portals bietet Zugriff auf technische Ressourcen, Ergebnisse von Umgebungsprüfungen und Tools zum Fall-Management.
+description: Das Dashboard [!UICONTROL Support und Einblicke“ &#x200B;] Adobe Success Portals bietet Zugriff auf technische Ressourcen, Ergebnisse von Umgebungsprüfungen und Tools zum Fall-Management.
 exl-id: 107f9049-64d1-41a8-919c-3c6cd8982413
 source-git-commit: 35e945e7ea5825c0ad7ed09afd1053e7594e64d4
 workflow-type: tm+mt
