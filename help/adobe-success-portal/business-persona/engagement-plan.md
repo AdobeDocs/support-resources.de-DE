@@ -1,6 +1,6 @@
 ---
 title: '[!UICONTROL Interaktionsplan]'
-description: Erfahren Sie[!UICONTROL  wie „Interaktionsplan] die Sichtbarkeit und Kommunikation der Stakeholder verbessert, indem er einen zentralen Überblick über Ihr Adobe-Account-Team und die Interaktionsoptionen bietet.
+description: Erfahren Sie[!UICONTROL &#x200B; wie „Interaktionsplan] die Sichtbarkeit und Kommunikation der Stakeholder verbessert, indem er einen zentralen Überblick über Ihr Adobe-Account-Team und die Interaktionsoptionen bietet.
 source-git-commit: 35fbd5343830feb9d605ee9c3645b3a0b4498594
 workflow-type: tm+mt
 source-wordcount: '176'
