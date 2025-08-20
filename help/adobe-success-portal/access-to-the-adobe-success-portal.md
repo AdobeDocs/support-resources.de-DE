@@ -1,10 +1,11 @@
 ---
 title: Zugriff auf  [!DNL Adobe Success]  Portal
 description: Erfahren Sie, wie Sie Fälle im  [!DNL Adobe Success] -Portal verwalten.
-source-git-commit: fd8552d22f38e354e6620bbbdf135fb770cca3e2
+exl-id: 791b6cce-e7c9-42fe-a50c-4ef16fafdd10
+source-git-commit: 400b90e09f76f3ad299f3d56f0d42668ea4e13ea
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 0%
+source-wordcount: '141'
+ht-degree: 1%
 
 ---
 
@@ -14,9 +15,9 @@ In diesem Handbuch wird beschrieben, wie Sie sich beim [!DNL Adobe Success] Port
 
 Sie erhalten eine Benachrichtigung vom **[!UICONTROL Success]**-Portal-Team, die Ihren Zugriff bestätigt. Diese Nachricht enthält Anmeldedaten.
 
-1. Navigieren Sie zu https://experience.adobe.com/.
+1. Navigieren Sie zu [https://experience.adobe.com/](https://experience.adobe.com/).
 1. Melden Sie sich mit Ihrer Adobe ID an.
-1. Wählen Sie das Symbol [!DNL Adobe Success] Portal (Alpha) aus.
+1. Wählen Sie das Symbol **[!UICONTROL Erfolgsportal (Alpha)]** aus.
 
    ![alpha-success-portal-alpha](assets/alpha-success-portal-alpha.png)
 
@@ -44,5 +45,3 @@ Sie können die Schaltfläche **[!UICONTROL Alpha Feedback]** im Portal verwende
 >Das Feedback-Tool ist kein spezieller Support-Kanal. Dies ist nicht für dringende Anmeldeprobleme geeignet.
 
 ![adobe-success-portal-home](assets/adobe-success-portal-home.png)
-
-
