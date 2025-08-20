@@ -1,23 +1,23 @@
 ---
 title: '[!UICONTROL Wertverfolgung]'
 description: Die Seite [!UICONTROL Wertverfolgung] bietet eine Ansicht Ihrer [!UICONTROL Anwendungsfälle] organisiert nach KBOs.
-source-git-commit: e48c0e344dd06a19aecae3f2114d4d4d292f293e
+exl-id: 2b3d5d40-4c5a-4e34-a7ea-3c16c3b621ff
+source-git-commit: 7da6cd7e5dd0ed11809292ab03772c9c7197e78c
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 1%
+source-wordcount: '102'
+ht-degree: 0%
 
 ---
 
-
 # [!UICONTROL Wertverfolgung]
 
-Die Seite **[!UICONTROL Wertverfolgung]** bietet eine Ansicht verschiedener **[!UICONTROL Anwendungsfälle]** die von KBOs organisiert werden. Sie können filtern **[!UICONTROL welche]** in dieser Ansicht angezeigt werden, indem Sie die Filter oben auf der Seite nutzen.
+Die Seite **[!UICONTROL Wertverfolgung]** bietet eine Ansicht verschiedener **[!UICONTROL Anwendungsfälle]** die von KBOs organisiert werden. Sie können mithilfe der Filter oben auf der Seite filtern, welche Anwendungsfälle in dieser Ansicht angezeigt werden.
 
 Um auf **[!UICONTROL Wertverfolgung]** zuzugreifen, klicken Sie auf das Symbol ![Wertverfolgung-Symbol](/help/adobe-success-portal/assets/value-tracker-icon.png) im linken Navigationsbereich der Portal-Homepage.
 
 ![value-tracker-landing-page](/help/adobe-success-portal/assets/value-tracker-landing-page.png)
 
-Klicken Sie auf **[!UICONTROL Karte]** Anwendungsfall“, um eine Detailansicht mit folgenden Inhalten zu öffnen:
+Klicken Sie auf **[!UICONTROL Karte]** Anwendungsfall“, um eine detaillierte Ansicht des Anwendungsfalls zu öffnen, die folgende Merkmale aufweist:
 
 * *[!UICONTROL Erfolgsmetrik]*
 * *[!UICONTROL Zielgruppe]*
@@ -28,4 +28,3 @@ Klicken Sie auf **[!UICONTROL Karte]** Anwendungsfall“, um eine Detailansicht 
 * *Verknüpfte Adobe-Lösungen*
 
 ![value-tracker-use-case-example](/help/adobe-success-portal/assets/value-tracker-use-case-example.png)
-
