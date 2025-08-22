@@ -1,13 +1,13 @@
 ---
 title: '[!UICONTROL Aktionsplan]'
 description: /[!UICONTROL Aktionsplan/] bietet einen strukturierten Überblick über die Ausführung Ihrer KBOs. Sie enthält zugehörige Beschleuniger und Aktivitäten, die das Adobe-Team geplant, abgeschlossen oder aktiv bearbeitet hat, um Sie beim Erreichen Ihrer Ziele zu unterstützen.
-source-git-commit: e46c0e328728f8a44e36dac6c08a2c6fa855b1c0
+exl-id: 818b149c-91ee-43b6-a235-576f2810db1b
+source-git-commit: 4af12a2808ec6c20b84fdbbd0608e9603cc2647b
 workflow-type: tm+mt
-source-wordcount: '206'
-ht-degree: 0%
+source-wordcount: '202'
+ht-degree: 1%
 
 ---
-
 
 # [!UICONTROL Aktionsplan]
 
@@ -17,7 +17,7 @@ Um zu **[!UICONTROL Aktionsplan]** zu wechseln, klicken Sie auf das ![Aktionspla
 
 Die Seite ist in zwei primäre Registerkarten unterteilt:
 
-## &#x200B;1. [!UICONTROL Hauptgeschäftsziele]
+## [!UICONTROL Wichtige Geschäftsziele]
 
 Auf dieser Registerkarte werden alle KBOs mit den entsprechenden Beschleunigern und Aktivitäten angezeigt.
 
@@ -25,18 +25,18 @@ Auf dieser Registerkarte werden alle KBOs mit den entsprechenden Beschleunigern 
 
 Klicken Sie auf ein KBO in der Liste, um die Detailansicht des Ziels zu öffnen. Sie können auch eine verknüpfte **[!UICONTROL Aktivität]** oder einen **[!UICONTROL Beschleuniger]** auswählen, um spezifische Informationen anzuzeigen, z. B.:
 
-* Eine Beschreibung
+* Beschreibung
 * Aktueller Status
 * Geplantes oder tatsächliches Abschlussdatum
 * Beteiligte Adobe-Stakeholder
 
 ![action-plan-kbo-tab-about-activity](/help/adobe-success-portal/assets/action-plan-kbo-tab-about-activity.png)
 
-## &#x200B;2. [!UICONTROL Aktivitäten]
+## [!UICONTROL Activities]
 
 Auf dieser Registerkarte wird eine Liste der Aktivitäten angezeigt, die nicht mit KBOs verknüpft sind. Jede Aktivität umfasst:
 
-* Eine Beschreibung
+* Beschreibung
 * Aktueller Status
 * Beteiligte Adobe-Stakeholder
 
