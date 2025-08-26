@@ -5,7 +5,7 @@ exl-id: e233ccb8-8d51-4d42-9812-efedd070d45c
 source-git-commit: 0d7392f983323fb18fb9e7e21fa3111e1ee51795
 workflow-type: tm+mt
 source-wordcount: '283'
-ht-degree: 0%
+ht-degree: 44%
 
 ---
 
@@ -13,16 +13,16 @@ ht-degree: 0%
 
 Die Ansicht des [!DNL Adobe Success]-Portals für eine technische Rolle soll Benutzenden dabei helfen, Tickets zu erstellen, Support-Fälle zu verwalten und die Systemleistung zu überwachen. Im Folgenden finden Sie die wichtigsten Funktionen des Portals für solche Benutzer.
 
-## Neuen Fall erstellen
+## Erstellen eines neuen Falls
 
 So senden Sie eine Support-Anfrage:
 
-1. Navigieren Sie zur oberen rechten Ecke der Homepage des Portals.
-1. Wählen **[!UICONTROL Groß-/Kleinschreibung]** Widget **[!UICONTROL Neuen Fall erstellen]** aus.
+1. Navigieren Sie auf der Homepage des Portals nach rechts oben.
+1. Wählen Sie **[!UICONTROL Fall öffnen]** im Widget **[!UICONTROL Neuen Fall erstellen]** aus.
 
    ![create-a-new-case](/help/adobe-success-portal/assets/technical-persona-create-case.png)
 
-1. Füllen Sie das Formular aus, fügen Sie entsprechende Dateien oder Protokolle bei, bestätigen Sie die Verpflichtung und klicken Sie auf **[!UICONTROL Fall senden]**.
+1. Füllen Sie das Formular aus, fügen Sie entsprechende Dateien oder Protokolle an, bestätigen Sie das Vorhaben und klicken Sie auf **[!UICONTROL Fall senden]**.
 
 Sie können auch das Widget **[!UICONTROL Neuen Fall erstellen]** auf der Seite [[!UICONTROL Support und Einblicke]](/help/adobe-success-portal/technical-persona/support-and-insights/support-and-insights-overview.md) des Portals verwenden, um ein neues Support-Ticket zu öffnen.
 
@@ -30,13 +30,13 @@ Sie können auch das Widget **[!UICONTROL Neuen Fall erstellen]** auf der Seite 
 
 Weitere Informationen zum Erstellen von Support-Anfragen finden Sie im Handbuch [Erstellen und Verwalten von Anfragen  [!DNL Adobe Success] Portal](/help/adobe-success-portal/technical-persona/support-and-insights/create-and-manage-cases-in-the-adobe-success-portal.md).
 
-## Fälle anzeigen
+## Anzeigen von Fällen
 
 Um auf eine Liste der aktiven und geschlossenen Fälle zuzugreifen, klicken Sie auf **[!UICONTROL Fälle anzeigen]** über das **[!UICONTROL Neuen Fall erstellen]** Widget auf der Homepage.
 
 ![view-and-manage-existing-cases](/help/adobe-success-portal/assets/technical-persona-view-cases.png)
 
-Dadurch werden Sie zum Abschnitt [[!UICONTROL Fallverwaltung]](/help/adobe-success-portal/technical-persona/support-and-insights/support-and-insights-overview.md#case-management) des Portals mit einer Liste offener und geschlossener Fälle weitergeleitet.
+Dadurch werden Sie zum Abschnitt [[!UICONTROL Fall-Management]](/help/adobe-success-portal/technical-persona/support-and-insights/support-and-insights-overview.md#case-management) des Portals mit einer Liste der offenen und der geschlossenen Fälle weitergeleitet.
 
 ## [!UICONTROL Warnhinweise und Adobe-Status]
 
