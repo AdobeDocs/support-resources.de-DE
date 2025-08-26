@@ -1,6 +1,6 @@
 ---
 title: Support und Einblicke – Überblick
-description: Das Dashboard [!DNL Adobe Success/]Support und Einblicke[!UICONTROL  des /] Portals bietet Zugriff auf technische Ressourcen, Ergebnisse von Umgebungsprüfungen und Tools zum Fall-Management.
+description: Das Dashboard [!DNL Adobe Success/]Support und Einblicke[!UICONTROL &#x200B; des /] Portals bietet Zugriff auf technische Ressourcen, Ergebnisse von Umgebungsprüfungen und Tools zum Fall-Management.
 exl-id: 107f9049-64d1-41a8-919c-3c6cd8982413
 source-git-commit: 7fffb0a2aae3afdd508a0ccbe0bafd3814c6b476
 workflow-type: tm+mt
