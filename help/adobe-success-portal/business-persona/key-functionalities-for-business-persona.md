@@ -1,17 +1,17 @@
 ---
 title: Wichtige Funktionen für geschäftliche Personas
-description: Die Funktionen des /[!DNL Adobe Success/]-Portals für eine Business-Persona ermöglichen eine Wertmessung über wichtige Geschäftsziele hinweg, die Verfolgung des Fortschritts und die Bereitstellung von Einblicken in einer leicht zugänglichen Ansicht.
+description: Die Funktionen des /[!DNL Adobe Success/]-Portals für geschäftliche Personas ermöglichen eine Wertmessung für wichtige Geschäftsziele, Tracking des Fortschritts und die Bereitstellung von Erkenntnissen in einer leicht zugänglichen Ansicht.
 exl-id: 374c3809-a982-464e-b417-1b0ae4191628
 source-git-commit: b1bc0a7a210ead0639cb87193c93d23b38f1f08a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '131'
-ht-degree: 62%
+ht-degree: 100%
 
 ---
 
 # Wichtige Funktionen für geschäftliche Personas
 
-Die Funktionen des [!DNL Adobe Success]-Portals für eine Business-Persona ermöglichen eine Wertmessung über [[!UICONTROL Key Business Objectives]](/help/adobe-success-portal/business-persona/key-business-objectives.md) (KBO) hinweg, die den Fortschritt verfolgt und Einblicke in eine leicht zugängliche Ansicht bietet.
+Die Funktionen des [!DNL Adobe Success]-Portals für geschäftliche Personas ermöglichen eine Wertmessung für [[!UICONTROL wichtige Geschäftsziele]](/help/adobe-success-portal/business-persona/key-business-objectives.md) (Key Business Objectives, KBOs), Tracking des Fortschritts und die Bereitstellung von Erkenntnissen in einer leicht zugänglichen Ansicht.
 
 ![adobe-success-portal-for-business-persona-overview](/help/adobe-success-portal/assets/overview-and-business-persona-overview.png)
 

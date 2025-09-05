@@ -1,37 +1,36 @@
 ---
 title: '[!UICONTROL Interaktionsplan]'
-description: Erfahren Sie[!UICONTROL &#x200B; wie „Interaktionsplan] die Sichtbarkeit und Kommunikation der Stakeholder verbessert, indem er einen zentralen Überblick über Ihr Adobe-Account-Team und die Interaktionsoptionen bietet.
-source-git-commit: 35fbd5343830feb9d605ee9c3645b3a0b4498594
-workflow-type: tm+mt
+description: Erfahren Sie, wie der [!UICONTROL Interaktionsplan] die Stakeholder-Sichtbarkeit und Kommunikation verbessert, indem er einen zentralen Überblick über Ihr Adobe-Accountteam und die Interaktionsoptionen bietet.
+exl-id: 65a0ac9f-9103-4497-8e85-c471c2ffff51
+source-git-commit: 76f639e3764509ef2f30bbd98fedbf010075b400
+workflow-type: ht
 source-wordcount: '176'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-
 # [!UICONTROL Interaktionsplan]
 
-Der **[!UICONTROL Interaktionsplan]** löst Herausforderungen im Zusammenhang mit der Sichtbarkeit und Kommunikation von Stakeholdern. Es bietet einen zentralen Überblick über Ihr Adobe-Account-Team und darüber, wie Sie mit ihm interagieren können.
+Der **[!UICONTROL Interaktionsplan]** löst Herausforderungen im Zusammenhang mit der Stakeholder-Sichtbarkeit und Kommunikation. Er bietet einen zentralen Überblick über Ihr Adobe-Accountteam und die Möglichkeiten der Interaktion mit ihnen.
 
-Um auf diesen Abschnitt zuzugreifen, klicken ![ auf das Symbol ](/help/adobe-success-portal/assets/engagement-icon.png)Interaktion-Symbol im linken Navigationsbereich der Portal-Homepage.
+Um auf diesen Abschnitt zuzugreifen, klicken Sie direkt im linken Navigationsbereich der Portal-Startseite auf das Symbol ![Symbol „Interaktion“](/help/adobe-success-portal/assets/engagement-icon.png).
 
-Diese Seite enthält die folgenden Unterabschnitte:
+Diese Seite umfasst die folgenden Teilabschnitte:
 
 ## [!UICONTROL Strategische Partner]
 
-Auf dieser Registerkarte wird eine Liste Ihrer Adobe-Kontopartner angezeigt. Klicken Sie auf jeden Kontakt, um dessen E-Mail-Adresse, den Zeitpunkt der Kontaktaufnahme und die entsprechenden **[!UICONTROL Accelerators]** und **[!UICONTROL Aktivitäten]** anzuzeigen, an denen er beteiligt ist.
+Auf dieser Registerkarte wird eine Liste Ihrer Adobe-Kontopartner angezeigt. Klicken Sie auf jeden Kontakt, um dessen E-Mail-Adresse, den Zeitpunkt der Kontaktaufnahme und die entsprechenden **[!UICONTROL Beschleuniger]** und **[!UICONTROL Aktivitäten]** anzuzeigen, an denen er beteiligt ist.
 
-![Engagement-Plan-Strategic-Partner](/help/adobe-success-portal/assets/engagement-plan-strategic-partner.png)
+![engagement-plan-strategic-partner](/help/adobe-success-portal/assets/engagement-plan-strategic-partner.png)
 
 ## [!UICONTROL Framework]
 
-Auf dieser Registerkarte wird die Struktur Ihrer Interaktion mit Ihrem Adobe-Team beschrieben, einschließlich der Häufigkeit von Meetings, der Teilnehmer aus Ihrem Unternehmen und Adobe sowie der Ziele der einzelnen Interaktions-Touchpoints.
+Auf dieser Registerkarte wird die Struktur Ihrer Interaktion mit Ihrem Adobe-Team beschrieben, einschließlich der Häufigkeit von Meetings, der Teilnehmenden aus Ihrem Unternehmen und von Adobe sowie der Ziele der einzelnen Interaktions-Touchpoints.
 
-![Engagement-plan-framework](/help/adobe-success-portal/assets/engagement-plan-framework.png)
+![engagement-plan-framework](/help/adobe-success-portal/assets/engagement-plan-framework.png)
 
-## [!UICONTROL Accelerator-Katalog]
+## [!UICONTROL Beschleuniger-Katalog]
 
-Auf dieser Registerkarte finden Sie einen Katalog der verfügbaren **[!UICONTROL Accelerators]**, die in Ihrem Abonnement enthalten sind. Überprüfen Sie die Angebote und stimmen Sie sich mit Ihrem Adobe-Account-Team ab, um eine Interaktion mit Accelerator anzufordern.
+Auf dieser Registerkarte finden Sie einen Katalog der verfügbaren **[!UICONTROL Beschleuniger]**, die in Ihrem Abonnement enthalten sind. Überprüfen Sie die Angebote und stimmen Sie sich mit Ihrem Adobe-Accountteam ab, um eine Beschleuniger-Interaktion anzufordern.
 
-![Engagement-Plan-Accelerator-Catalog](/help/adobe-success-portal/assets/engagement-plan-accelerator-catalog.png)
-
+![engagement-plan-accelerator-catalog](/help/adobe-success-portal/assets/engagement-plan-accelerator-catalog.png)

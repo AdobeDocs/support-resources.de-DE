@@ -1,25 +1,26 @@
 ---
-title: Erstellen und Verwalten von Fällen im  [!DNL Adobe Success] -Portal
-description: Erfahren Sie, wie Sie Fälle im  [!DNL Adobe Success] -Portal verwalten.
-source-git-commit: f68a62004b2802ef6e1b780a687d202571754e70
-workflow-type: tm+mt
+title: Erstellen und Verwalten von Fällen im [!DNL Adobe Success] -Portal
+description: Erfahren Sie, wie Sie Fälle im [!DNL Adobe Success] -Portal verwalten.
+exl-id: 0b4eb2bc-ee11-4136-a744-457f9e204143
+source-git-commit: b05c238726c88ae0c51f40f077192dc136c0ae59
+workflow-type: ht
 source-wordcount: '281'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Erstellen und Verwalten von Fällen im [!DNL Adobe Success] Portal
+# Erstellen und Verwalten von Fällen im [!DNL Adobe Success]-Portal
 
-In diesem Handbuch wird erläutert, wie Sie Berichte für Fälle im [!DNL Adobe Success] Portal erstellen, anzeigen und herunterladen.
+In dieser Anleitung wird erläutert, wie Sie im [!DNL Adobe Success]-Portal Berichte für Fälle erstellen, anzeigen und herunterladen.
 
-## Fall öffnen
+## Eröffnen eines Falls
 
-Sie können einen Fall über die Registerkarte Startseite oder die Registerkarte **[!UICONTROL Support und Einblicke]** öffnen.
+Sie können einen Fall über die Registerkarte „Startseite“ oder die Registerkarte **[!UICONTROL Support und Erkenntnisse]** öffnen.
 
-So greifen Sie über **[!UICONTROL Registerkarte „Startseite]** auf die Seite „Fall öffnen“ zu:
+So greifen Sie über die Registerkarte „Startseite“ auf die Seite **[!UICONTROL Fall öffnen]** zu:
 
-1. Navigieren Sie zur Registerkarte Startseite .
-1. Wählen Sie **[!UICONTROL Fall öffnen]**.
+1. Navigieren Sie zur Registerkarte „Startseite“.
+1. Wählen Sie **[!UICONTROL Fall öffnen]** aus.
 
 
    ![adobe-success-portal-home-page-open-case](../../assets/adobe-success-portal-home-page-open-case.png)
@@ -28,8 +29,8 @@ So greifen Sie über **[!UICONTROL Registerkarte „Startseite]** auf die Seite 
 
 1. Füllen Sie die erforderlichen Felder aus:
    1. **[!UICONTROL Produkt auswählen]**.
-   1. **[!UICONTROL Anwaltsbezeichnung]**.
-   1. **[!UICONTROL Fallbeschreibung]**.
+   1. **[!UICONTROL Titel des Falls]**.
+   1. **[!UICONTROL Beschreibung des Falls]**.
 1. Wählen Sie **[!UICONTROL Fall senden]** aus.
 
 
@@ -39,10 +40,10 @@ So greifen Sie über **[!UICONTROL Registerkarte „Startseite]** auf die Seite 
 
 
 
-So greifen Sie über die Registerkarte **[!UICONTROL Support und Einblicke]** auf die Seite **[!UICONTROL Offener Fall]** zu.
+So greifen Sie über die Registerkarte **[!UICONTROL Support und Erkenntnisse]** auf die Seite **[!UICONTROL Fall öffnen]** zu.
 
-1. Navigieren Sie zur Registerkarte **[!UICONTROL Support und]**&quot;.
-1. Wählen Sie **[!UICONTROL Fall öffnen]**.
+1. Navigieren Sie zur Registerkarte **[!UICONTROL Support und Erkenntnisse]**.
+1. Wählen Sie **[!UICONTROL Fall öffnen]** aus.
 
 
 
@@ -50,15 +51,15 @@ So greifen Sie über die Registerkarte **[!UICONTROL Support und Einblicke]** au
 
 
 
-Gehen Sie wie oben beschrieben vor, um den Vorgang abzuschließen und zu übermitteln.
+Führen Sie dieselben Schritte wie oben durch, um den Vorgang abzuschließen und zu übermitteln.
 
-## Fall anzeigen
+## Anzeigen eines Falls
 
-Sie können einen Fall auf der Startseite oder auf der Registerkarte **[!UICONTROL Support und Einblicke]** anzeigen.
+Sie können einen Fall auf der Registerkarte „Startseite“ oder auf der Registerkarte **[!UICONTROL Support und Erkenntnisse]** anzeigen.
 
-So greifen Sie über **[!UICONTROL Registerkarte „Startseite]** auf die Seite „Fälle anzeigen“ zu:
+So greifen Sie über die Registerkarte „Startseite“ auf die Seite **[!UICONTROL Fälle anzeigen]** zu:
 
-1. Navigieren Sie zur Registerkarte Startseite .
+1. Navigieren Sie zur Registerkarte „Startseite“.
 1. Wählen Sie **[!UICONTROL Fälle anzeigen]** aus.
 
 
@@ -67,11 +68,11 @@ So greifen Sie über **[!UICONTROL Registerkarte „Startseite]** auf die Seite 
 
 
 
-1. Wählen Sie die Produktkarte aus, die Sie anzeigen möchten, und wählen Sie dann **[!UICONTROL Offene Fälle]** oder **[!UICONTROL Geschlossene Fälle]**.
+1. Wählen Sie die Produktkarte aus, die Sie anzeigen möchten, und wählen Sie dann **[!UICONTROL Offene Fälle]** oder **[!UICONTROL Geschlossene Fälle]** aus.
 
    >[!NOTE]
    >
-   >Sie können auch die Registerkarte **[!UICONTROL Support und Einblicke]** auswählen, um schnell auf Produktkarten mit Links **[!UICONTROL Offene]** oder **[!UICONTROL Geschlossene]**&quot; zuzugreifen.
+   >Sie können auch die Registerkarte **[!UICONTROL Support und Erkenntnisse]** auswählen, um mit den Links **[!UICONTROL Offene Fälle]** oder **[!UICONTROL Geschlossene Fälle]** schnell auf Produktkarten zuzugreifen.
 
 
 
@@ -87,11 +88,11 @@ So greifen Sie über **[!UICONTROL Registerkarte „Startseite]** auf die Seite 
 
 
 
-## Fallberichte herunterladen
+## Herunterladen von Fallberichten
 
-Herunterladen von PDF-Berichten zu Ihren Fällen:
+So laden Sie PDF-Berichte zu Ihren Fällen herunter:
 
-1. Navigieren Sie zur Registerkarte Startseite .
+1. Navigieren Sie zur Registerkarte „Startseite“.
 1. Wählen Sie **[!UICONTROL Fälle anzeigen]** aus.
 
 
@@ -102,10 +103,10 @@ Herunterladen von PDF-Berichten zu Ihren Fällen:
 
    >[!NOTE]
    >
-   >Sie können auch die Registerkarte **[!UICONTROL Support und Einblicke]** auswählen, um schnell auf Produktkarten mit Links zu **[!UICONTROL Offene]** oder **[!UICONTROL Geschlossene Fälle]** zuzugreifen.
+   >Sie können auch die Registerkarte **[!UICONTROL Support und Erkenntnisse]** auswählen, um mit den Links **[!UICONTROL Offene Fälle]** oder **[!UICONTROL Geschlossene Fälle]** schnell auf Produktkarten zuzugreifen.
 
    ![adobe-success-portal-open-case-closed-case](../../assets/adobe-success-portal-open-case-closed-case.png)
 
-1. Aktivieren Sie auf [ Seite „Produkt] - Support-Fälle“ das Kontrollkästchen neben dem Fall, den Sie herunterladen möchten, und wählen Sie **[!UICONTROL Fall herunterladen]** aus.
+1. Aktivieren Sie auf der Seite [Produkt – Support-Fälle] das Kontrollkästchen neben dem Fall, den Sie herunterladen möchten, und wählen Sie **[!UICONTROL Fälle herunterladen]** aus.
 
    ![adobe-success-portal-download-cases](../../assets/adobe-success-portal-download-cases.png)

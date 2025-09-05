@@ -1,27 +1,27 @@
 ---
-title: '[!UICONTROL Wertverfolgung]'
-description: Die Seite [!UICONTROL Wertverfolgung] bietet eine Ansicht Ihrer [!UICONTROL Anwendungsfälle] organisiert nach KBOs.
+title: '[!UICONTROL Value Tracker]'
+description: Die Seite [!UICONTROL Value Tracker] bietet eine Ansicht Ihrer [!UICONTROL Anwendungsfälle], organisiert nach wichtigen Geschäftszielen (Key Business Objectives, KBOs).
 exl-id: 2b3d5d40-4c5a-4e34-a7ea-3c16c3b621ff
 source-git-commit: 7da6cd7e5dd0ed11809292ab03772c9c7197e78c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '102'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL Wertverfolgung]
+# [!UICONTROL Value Tracker]
 
-Die Seite **[!UICONTROL Wertverfolgung]** bietet eine Ansicht verschiedener **[!UICONTROL Anwendungsfälle]** die von KBOs organisiert werden. Sie können mithilfe der Filter oben auf der Seite filtern, welche Anwendungsfälle in dieser Ansicht angezeigt werden.
+Die Seite **[!UICONTROL Value Tracker]** bietet eine Ansicht verschiedener **[!UICONTROL Anwendungsfälle]**, organisiert nach wichtigen Geschäftszielen (Key Business Objectives, KBOs). Sie können mithilfe der Filter oben auf der Seite auswählen, welche Anwendungsfälle in dieser Ansicht angezeigt werden.
 
-Um auf **[!UICONTROL Wertverfolgung]** zuzugreifen, klicken Sie auf das Symbol ![Wertverfolgung-Symbol](/help/adobe-success-portal/assets/value-tracker-icon.png) im linken Navigationsbereich der Portal-Homepage.
+Um auf den **[!UICONTROL Value Tracker]** zuzugreifen, klicken Sie im linken Navigationsbereich der Portal-Startseite auf das Symbol ![Symbol „Value Tracker“](/help/adobe-success-portal/assets/value-tracker-icon.png).
 
 ![value-tracker-landing-page](/help/adobe-success-portal/assets/value-tracker-landing-page.png)
 
-Klicken Sie auf **[!UICONTROL Karte]** Anwendungsfall“, um eine detaillierte Ansicht des Anwendungsfalls zu öffnen, die folgende Merkmale aufweist:
+Klicken Sie auf die Karte **[!UICONTROL Anwendungsfall]**, um eine detaillierte Ansicht des Anwendungsfalls zu öffnen, die folgende Informationen enthält:
 
 * *[!UICONTROL Erfolgsmetrik]*
 * *[!UICONTROL Zielgruppe]*
-* *[!UICONTROL Call to action]*
+* *[!UICONTROL Handlungsaufforderung]*
 * *[!UICONTROL Aktivierungskanäle]*
 * *[!UICONTROL Adobe-Funktionen]*
 * *[!UICONTROL Tag der Live-Schaltung]*

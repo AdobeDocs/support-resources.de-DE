@@ -1,32 +1,31 @@
 ---
 title: '[!UICONTROL Wichtige Geschäftsziele]'
-description: /[!UICONTROL Wichtige Geschäftsziele/] sind allgemeine Ziele, die ein Kunde durch seine Partnerschaft mit Adobe erreichen möchte.
-source-git-commit: db8e85a731cba0bb8108690f70f34454f57163ea
-workflow-type: tm+mt
+description: '[!UICONTROL Wichtige Geschäftsziele] sind übergeordnete Ziele, die Kunden und Kundinnen durch die Partnerschaft mit Adobe erreichen möchten.'
+exl-id: 1798d438-caeb-45a6-bc12-347028a6a4e5
+source-git-commit: 76f639e3764509ef2f30bbd98fedbf010075b400
+workflow-type: ht
 source-wordcount: '89'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
+# [!UICONTROL Wichtige Geschäftsziele] (Key Business Objectives, KBOs)
 
-# [!UICONTROL Wichtige Geschäftsziele] (KBO)
+KBOs werden in einer horizontalen Bildlaufansicht oben auf der Startseite des Portals angezeigt. Jede KBO-Karte enthält:
 
-KBOs werden in einer horizontalen Bildlaufansicht oben auf der Homepage des Portals angezeigt. Jede KBO-Karte enthält:
-
-* Eine kurze Beschreibung
-* Aktueller Status
-* Zugehörige Anwendungsfälle
-* Verknüpfte Aktivitäten und Accelerators
+* eine kurze Beschreibung
+* den aktuellen Status
+* zugehörige Anwendungsfälle
+* verknüpfte Aktivitäten und Beschleuniger
 
 ![kbo-home-page](/help/adobe-success-portal/assets/kbo-home-page.png)
 
-Klicken Sie auf eine Karte, um eine detaillierte Ansicht der Informationen zum KBO zu öffnen, z. B.:
+Klicken Sie auf eine Karte, um eine detaillierte Ansicht der Informationen zum KBO zu öffnen, z. B.:
 
 * Status
 * Key Performance Indicators ([!UICONTROL KPIs])
-* [!UICONTROL Nutzungsszenarios]
-* Verwandte [!UICONTROL Adobe-Lösungen]
-* Liste der zugehörigen [!UICONTROL Accelerators] und [!UICONTROL Aktivitäten]
+* [!UICONTROL Anwendungsfälle]
+* verwandte [!UICONTROL Adobe-Lösungen]
+* Liste der zugehörigen [!UICONTROL Beschleuniger] und [!UICONTROL Aktivitäten]
 
 ![about-kbo-example](/help/adobe-success-portal/assets/about-kbo-example.png)
-
