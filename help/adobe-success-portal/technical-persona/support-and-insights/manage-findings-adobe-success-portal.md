@@ -2,10 +2,10 @@
 title: Verwalten der Feststellungen im [!DNL Adobe Success] -Portal
 description: In dieser Anleitung wird erläutert, wie Sie im [!DNL Adobe Success] -Portal auf die Feststellungen zugreifen, sie interpretieren und darauf reagieren können, um Produktleistung, Sicherheit und Funktionsrisiken proaktiv zu verwalten.
 exl-id: c787ce29-993c-498c-9e39-8a04c2eeedda
-source-git-commit: b05c238726c88ae0c51f40f077192dc136c0ae59
-workflow-type: ht
-source-wordcount: '765'
-ht-degree: 100%
+source-git-commit: f23f0debcd6a0e2962524de321d436b854001495
+workflow-type: tm+mt
+source-wordcount: '864'
+ht-degree: 87%
 
 ---
 
@@ -39,23 +39,23 @@ So zeigen Sie Erkenntnisse zu einem Produkt an:
 1. Navigieren Sie zu **[!UICONTROL Support und Erkenntnisse]**.
 1. Wählen Sie die entsprechende Produktkarte aus. Wählen Sie die Registerkarte **[!UICONTROL Feststellungen]** aus.
 
-   ![asp-support-inisghts-findings](../../assets/asp-support-inisghts-findings.png)
+   ![Erfolgsportal von Adobe mit hervorgehobenen Ergebnissen unter AEM as a Cloud Service - Assets mit 3 aufgelisteten Elementen](../../assets/asp-support-inisghts-findings.png "Ergebnisse für AEM Assets in Cloud Service anzeigen")
 
 
 1. Es wird eine Liste aller Feststellungen für das ausgewählte Produkt angezeigt.
 
-   ![adobe-success-portal-findings](../../assets/adobe-success-portal-findings.png)
+   ![Erfolgsportal von Adobe mit Registerkarte „Ergebnisse“ für AEM Cloud Service - Assets mit aufgelisteten Zwischenspeicherungsproblemen](../../assets/adobe-success-portal-findings.png "Anzeigen von Zwischenspeicherungsergebnissen für AEM Assets in Cloud Service")
 
 1. Hier sind die folgenden Aktionen möglich:
 
-   ![adobe-success-portal-download](../../assets/adobe-success-portal-download.png)
+   ![In der Benutzeroberfläche des Adobe Success Portals werden die Suchleiste, die Download-Schaltfläche und ein Risikofund unter &quot;AEM Sites](../../assets/adobe-success-portal-download.png "Suchen“, „Herunterladen“ oder „Ergebnisse für AEM Sites in Cloud Service anzeigen“ hervorgehoben")
 
    * Suchen Sie nach bestimmten Einträgen.
    * Exportieren Sie die Liste der Feststellungen, indem Sie **[!UICONTROL Feststellungen herunterladen]** auswählen. Um einen Bericht für eine einzelne Feststellung zu exportieren, aktivieren Sie das Kontrollkästchen neben der entsprechenden Feststellung in der Spalte **[!UICONTROL Name der Feststellung]**. Wenn Sie keine Feststellung auswählen, enthält die PDF-Datei standardmäßig eine Liste aller Feststellungen.
    * Zeigen Sie Details zu einer Feststellung an, einschließlich einer empfohlenen Lösung, indem Sie unter **[!UICONTROL Name der Feststellung]** eine Feststellung auswählen. Auf der Detailseite zur Feststellung wird die ausgewählte Feststellung mit zusätzlichem Kontext und einer Empfehlung angezeigt. Um diesen Bericht anzuzeigen, klicken Sie auf den Dowlnoad-Pfeil.
 
 
-     ![findings-details](../../assets/findings-details.png)
+     ![Download-Schaltfläche zum Exportieren von Suchdetails in Adobe Success Portal](../../assets/findings-details.png "Laden Sie den Bericht dieser Suche herunter")
 
 
 ## Aktionsfeststellungen
@@ -72,7 +72,7 @@ Führen Sie diese Schritte aus, um zu überprüfen, ob die einzelnen Feststellun
 1. Wählen Sie einen Eintrag unter **[!UICONTROL Name der Feststellung]** aus. Auf der Seite mit den Feststellungsdetails haben Sie folgende Möglichkeiten:
    * Wählen Sie **[!UICONTROL Validieren]** aus, um zu überprüfen, ob das Problem noch vorhanden ist (die Schaltfläche **[!UICONTROL Validieren]** dient zur Bestätigung, dass das Problem behoben wurde):
 
-   ![adobe-success-portal-validate](../../assets/adobe-success-portal-validate.png)
+   ![Schaltfläche „Validieren“ im Bedienfeld „Ergebnisse“ zur Bestätigung der Problembehebung im Adobe Success Portal](../../assets/adobe-success-portal-validate.png "Schaltfläche „Validieren“")
 
 
    * Wenn das Problem weiterhin besteht, wird die folgende Meldung angezeigt: *[!UICONTROL Die Überprüfung ist abgeschlossen. Feststellungen wird noch erkannt]*. Verwenden Sie die Informationen und Empfehlungen auf der Seite mit den Feststellungsdetails, um das Problem zu untersuchen und zu beheben.

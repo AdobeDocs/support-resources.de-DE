@@ -2,10 +2,10 @@
 title: Erstellen und Verwalten von Fällen im [!DNL Adobe Success] -Portal
 description: Erfahren Sie, wie Sie Fälle im [!DNL Adobe Success] -Portal verwalten.
 exl-id: 0b4eb2bc-ee11-4136-a744-457f9e204143
-source-git-commit: b05c238726c88ae0c51f40f077192dc136c0ae59
-workflow-type: ht
-source-wordcount: '281'
-ht-degree: 100%
+source-git-commit: 0a8d1af656473e05f82f7c309291c0b63bf6b71c
+workflow-type: tm+mt
+source-wordcount: '441'
+ht-degree: 61%
 
 ---
 
@@ -23,7 +23,7 @@ So greifen Sie über die Registerkarte „Startseite“ auf die Seite **[!UICONT
 1. Wählen Sie **[!UICONTROL Fall öffnen]** aus.
 
 
-   ![adobe-success-portal-home-page-open-case](../../assets/adobe-success-portal-home-page-open-case.png)
+   ![Schaltfläche „Fall öffnen“ im Abschnitt „Neuen Fall erstellen“ von Adobe Success Portal](../../assets/adobe-success-portal-home-page-open-case.png "Schaltfläche „Fall öffnen“")
 
 
 
@@ -35,7 +35,7 @@ So greifen Sie über die Registerkarte „Startseite“ auf die Seite **[!UICONT
 
 
 
-   ![adobe-success-portal-submit-case](../../assets/adobe-success-portal-submit-case.png)
+   ![Schaltfläche „Fall einreichen“ unten im Support-Ticket-Formular im Adobe Success-Portal](../../assets/adobe-success-portal-submit-case.png " Senden Sie Ihre Support-Anfrage")
 
 
 
@@ -47,7 +47,7 @@ So greifen Sie über die Registerkarte **[!UICONTROL Support und Erkenntnisse]**
 
 
 
-   ![adobe-success-portal-support-insights-open-case](../../assets/adobe-success-portal-support-insights-open-case.png)
+   ![Schaltfläche „Fall öffnen“ im Abschnitt „Neuen Fall erstellen“ von Adobe Success Portal](../../assets/adobe-success-portal-support-insights-open-case.png "Schaltfläche „Fall öffnen“")
 
 
 
@@ -64,7 +64,7 @@ So greifen Sie über die Registerkarte „Startseite“ auf die Seite **[!UICONT
 
 
 
-   ![adobe-success-portal-view-cases](../../assets/adobe-success-portal-view-cases.png)
+   ![Schaltfläche „Fälle anzeigen“ im Abschnitt „Neuen Fall erstellen“ von Adobe Success Portal](../../assets/adobe-success-portal-view-cases.png "Ihre bestehenden Support-Fälle anzeigen")
 
 
 
@@ -76,7 +76,7 @@ So greifen Sie über die Registerkarte „Startseite“ auf die Seite **[!UICONT
 
 
 
-   ![adobe-success-portal-open-case-closed-case](../../assets/adobe-success-portal-open-case-closed-case.png)
+   ![Indikatoren für offene und geschlossene Fälle im Abschnitt „Support und Einblicke“ für AEM Cloud Service - Assets](../../assets/adobe-success-portal-open-case-closed-case.png "Zusammenfassung offener und geschlossener Support-Fälle anzeigen")
 
 
 
@@ -84,7 +84,7 @@ So greifen Sie über die Registerkarte „Startseite“ auf die Seite **[!UICONT
 
 
 
-   ![adobe-success-portal-case-number](../../assets/adobe-success-portal-case-number.png)
+   ![Link „Fallnummer“ in den Support-Fällen von Adobe Success Portal](../../assets/adobe-success-portal-case-number.png "Klicken Sie, um die Falldetails anzuzeigen")
 
 
 
@@ -96,7 +96,7 @@ So laden Sie PDF-Berichte zu Ihren Fällen herunter:
 1. Wählen Sie **[!UICONTROL Fälle anzeigen]** aus.
 
 
-   ![adobe-success-portal-view-cases](../../assets/adobe-success-portal-view-cases.png)
+   ![Schaltfläche „Fälle anzeigen“ im Abschnitt „Neuen Fall erstellen“ von Adobe Success Portal](../../assets/adobe-success-portal-view-cases.png "Ihre bestehenden Support-Fälle anzeigen")
 
 
 1. Wählen Sie die Produktkarte aus, die Sie anzeigen möchten, und wählen Sie dann **[!UICONTROL Offene Fälle]** oder **[!UICONTROL Geschlossene Fälle]**.
@@ -105,8 +105,8 @@ So laden Sie PDF-Berichte zu Ihren Fällen herunter:
    >
    >Sie können auch die Registerkarte **[!UICONTROL Support und Erkenntnisse]** auswählen, um mit den Links **[!UICONTROL Offene Fälle]** oder **[!UICONTROL Geschlossene Fälle]** schnell auf Produktkarten zuzugreifen.
 
-   ![adobe-success-portal-open-case-closed-case](../../assets/adobe-success-portal-open-case-closed-case.png)
+   ![Indikatoren für offene und geschlossene Fälle im Abschnitt „Support und Einblicke“ für AEM Cloud Service - Assets](../../assets/adobe-success-portal-open-case-closed-case.png "Zusammenfassung offener und geschlossener Support-Fälle anzeigen")
 
 1. Aktivieren Sie auf der Seite [Produkt – Support-Fälle] das Kontrollkästchen neben dem Fall, den Sie herunterladen möchten, und wählen Sie **[!UICONTROL Fälle herunterladen]** aus.
 
-   ![adobe-success-portal-download-cases](../../assets/adobe-success-portal-download-cases.png)
+   ![Schaltfläche „Fälle herunterladen“ im Abschnitt „Fallverwaltung“ des Adobe Success-Portals](../../assets/adobe-success-portal-download-cases.png "Daten zu Support-Fällen herunterladen")
