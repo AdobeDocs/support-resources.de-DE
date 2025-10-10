@@ -3,9 +3,9 @@ title: Zugriff auf das [!DNL Adobe Success] -Portal
 description: Erfahren Sie, wie Sie Fälle im [!DNL Adobe Success] -Portal verwalten.
 exl-id: 791b6cce-e7c9-42fe-a50c-4ef16fafdd10
 source-git-commit: cc2a327307321a77623e1a4a82f9227ef5a3949c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '170'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -19,13 +19,13 @@ Sie erhalten eine Benachrichtigung vom **[!UICONTROL Success]**-Portal-Team, die
 1. Melden Sie sich mit Ihrer Adobe ID an.
 1. Wählen Sie das Symbol **[!UICONTROL Success-Portal (Alpha)]** aus.
 
-   ![Symbol und Titel für Erfolgsportal (Alpha)](assets/alpha-success-portal-alpha.png "Zugriff auf Erfolgsportal (Alpha)")
+   ![Symbol und Titel für Success-Portal (Alpha)](assets/alpha-success-portal-alpha.png "Zugriff auf Success-Portal (Alpha)")
 
 
 
 1. Nach der Anmeldung werden fünf Registerkarten angezeigt:
 
-   ![Seitenleiste der Adobe Success Portal-Benutzeroberfläche](assets/adobe-success-portal-tabs.png "Seitenleisten-Registerkarten")
+   ![Seitenleiste in der Oberfläche des Adobe Success-Portals](assets/adobe-success-portal-tabs.png "Seitenleisten-Registerkarten")
 
 
    * Startseite
@@ -44,4 +44,4 @@ Sie können die Schaltfläche **[!UICONTROL Alpha-Feedback]** im Portal verwende
 >
 >Das Feedback-Tool ist kein spezieller Support-Kanal. Es ist nicht für dringende Anmeldeprobleme geeignet.
 
-![Schaltfläche &quot;Alpha-Feedback“ auf dem Portal zum Senden von Feedback](assets/adobe-success-portal-home.png "Schaltfläche &quot;Alpha-Feedback“")
+![Schaltfläche „Feedback zu Alpha“ im Portal zum Senden von Feedback](assets/adobe-success-portal-home.png "Schaltfläche „Feedback zu Alpha“")
