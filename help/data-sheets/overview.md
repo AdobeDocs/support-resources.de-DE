@@ -2,9 +2,9 @@
 title: Adobe-Erfolgspläne – Übersicht
 description: Dieser Artikel enthält eine Zusammenfassung der Support-Optionen für Adobe Experience Cloud, Adobe Document Cloud und Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: 598a5e58107314e3315090304b258573fdd5d729
-workflow-type: ht
-source-wordcount: '2221'
+source-git-commit: eab06cfc16fd8adb5ff6ea918f0e351ffc1719cd
+workflow-type: tm+mt
+source-wordcount: '1833'
 ht-degree: 100%
 
 ---
@@ -108,41 +108,6 @@ Benannte Support-Kontakte können Probleme über alle verfügbaren Kanäle einre
 |---|---|---|---|
 | 6:00–17:30 Uhr | 9:00–17:00 Uhr | 9:00–17:00 Uhr | 9:00–17:00 Uhr |
 
-## Lebenszyklus von Support-Fällen – in Kürze verfügbar
-
-In dieser Dokumentation werden Verbesserungen am Lebenszyklus von Adobe DX-Support-Fällen beschrieben. Ziel ist es, die Kommunikation zu verstärken und der Kundschaft schnellstmöglich Lösungen bereitzustellen, um den Customer Success sicherzustellen. Im Folgenden finden Sie die Zeitschienen und Benachrichtigungen für verschiedene Szenarien, die während des Support-Vorgangs auftreten können:
-
-**Erinnerungen zum Nachverfolgen eines Falles**
-
-| Benachrichtigung | Fallstatus | Benachrichtigungsintervall | Tage bis zur Schließung des Falles |
-|--- |--- |--- |--- |
-| **1.** | „Antwort steht aus“ oder „Lösung bereitgestellt“ | 24 Stunden/1 Tag | 5 Tage |
-| **2.** | „Antwort steht aus“ oder „Lösung bereitgestellt“ | 72 Stunden/3 Tage | 3 Tage |
-| **3.** | „Antwort steht aus“ oder „Lösung bereitgestellt“ | 120 Stunden/5 Tage | 1 Tag |
-| **4.** | „Antwort steht aus“ oder „Lösung bereitgestellt“ in „Automatisch geschlossen“ geändert | 144 Stunden/6 Stunden | Geschlossen |
-
-**Szenarien im Detail**
-
-**Zusätzliche Informationen von Kundenseite erforderlich**
-
-In diesem Szenario werden die folgenden Schritte unternommen, wenn von einer Kundin bzw. einem Kunden zusätzliche Informationen benötigt werden:
-
-* Die technische Fachkraft sendet eine Aktualisierung, um Informationen anzufordern, und der Fallstatus wird in „Antwort steht aus“ geändert.
-* Am 1., 3. und 5. Tag nach der Statusänderung in „Antwort steht aus“ werden Nachverfolgungsbenachrichtigungen an die Kundin bzw. den Kunden gesendet mit der Bitte, die zusätzlichen Informationen bereitzustellen.
-* Wenn die Kundin bzw. der Kunde 6 Tage lang nicht reagiert, nachdem der Status in „Antwort steht aus“ geändert wurde, wird der Fall geschlossen und es wird eine Benachrichtigung bezüglich der Schließung gesendet.
-
-Kundinnen und Kunden können in Experience League einen geschlossenen Fall innerhalb von 14 Tagen erneut öffnen, um die Kommunikation fortzusetzen. Nach Ablauf von 14 Tagen kann ein neuer Support-Fall geöffnet werden, um die Kommunikation im Zusammenhang mit einem zuvor geschlossenen Fall fortzusetzen. Beachten Sie, dass durch eine bloße Antwort auf eine E-Mail zu einem geschlossenen Ticket dieses nicht erneut geöffnet wird.
-
-**Technische Fachkraft stellt eine Lösung bereit**
-
-In diesem Szenario werden die folgenden Schritte unternommen, wenn eine technische Fachkraft eine Lösung anbietet:
-
-* Die technische Fachkraft sendet eine Aktualisierung mit einem Lösungsvorschlag und der Fallstatus wird in „Lösung bereitgestellt“ geändert.
-* Am 1., 3. und 5. Tag nach der Statusänderung in „Lösung bereitgestellt“ werden Nachverfolgungsbenachrichtigungen an die Kundin bzw. den Kunden gesendet mit der Bitte, die bereitgestellte Lösung zu bestätigen.
-* Wenn die Kundin bzw. der Kunde 6 Tage lang nicht reagiert, nachdem der Status in „Lösung bereitgestellt“ geändert wurde, wird der Fall geschlossen und es wird eine Benachrichtigung bezüglich der Schließung gesendet.
-
-Kundinnen und Kunden können einen geschlossenen Fall innerhalb von 14 Tagen erneut öffnen, um die Kommunikation fortzusetzen. Nach Ablauf von 14 Tagen kann ein neuer Support-Fall geöffnet werden, um die Kommunikation im Zusammenhang mit einem zuvor geschlossenen Fall fortzusetzen.
-
 ## Zusätzliche Bedingungen für Adobe Commerce on Managed Services (früher: Magento Commerce Pro: Managed Services)
 
 Standard-Support für Produkte von Adobe Commerce: Managed Services, die vom Kunden am oder nach dem 20. September 2021 lizenziert oder erneuert wurden, unterliegen den in der unten stehenden Tabelle angegebenen erwarteten Antwortzeiten, die die in der obigen Tabelle angegebenen erwarteten Antwortzeiten ersetzen. Außer wie in der folgenden Tabelle angegeben, bleiben alle anderen weiteren Support-Bedingungen für Adobe Commerce: Managed Services unverändert. Die folgenden erwarteten Antwortzeiten gelten nur für Service-Anfragen im Zusammenhang mit Adobe Commerce: Managed Services und keine anderen AEC-Produkte.
@@ -168,7 +133,7 @@ Standard-Support für Produkte von Adobe Commerce: Managed Services, die vom Kun
   <tr>
     <td>Definieren </td>
     <td>Geschäftsanforderungen, KPIs, Anwendungsfälle (lösungsspezifisch oder ggf. für mehrere Lösungen), Kundenbereitschaftsstrategie, Bewertung und Empfehlungen. Festlegen einer soliden Grundlage für eine erfolgreiche neue Implementierung  </td>
-    <td>Dokument zu Assessment &amp; Recommendations </td>
+    <td>Dokument zu Bewertung und Empfehlungen </td>
   </tr>
   <tr>
     <td>Design </td>
