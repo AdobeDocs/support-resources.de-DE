@@ -3,10 +3,10 @@ title: Versionshinweise zum Adobe Success-Portal
 description: 'Die neusten Versionsinformationen für das [!DNL Adobe Success portal]. '
 feature: Release Notes
 exl-id: be268e05-8298-4f21-8f2f-f66c52d76fe3
-source-git-commit: 4a7f2142170b79b8024881144fa77ea4940c382c
+source-git-commit: 2894190b3171228e9c14a7cdef5bb2d92b97a6ec
 workflow-type: tm+mt
-source-wordcount: '514'
-ht-degree: 36%
+source-wordcount: '595'
+ht-degree: 32%
 
 ---
 
@@ -18,9 +18,21 @@ Diese Versionshinweise enthalten Aktualisierungen am [!DNL Adobe Success portal]
 ![Fehlerbehebung](../adobe-success-portal/assets/fix.svg) – Fehlerbehebungen und Verbesserungen
 ![Fehler](../adobe-success-portal/assets/bug.svg) – Bekannte Probleme
 
+## 4,0
+
+_11. November 2025_
+
+![Korrigieren](../adobe-success-portal/assets/fix.svg) Die Unterhaltungsreihenfolge auf der Seite mit den Falldetails wurde optimiert, sodass automatisch zur neuesten Nachricht gescrollt wird.
+
+![Korrigieren](../adobe-success-portal/assets/fix.svg) Die Falldetails wurden aktualisiert, sodass beim Öffnen in einer neuen Registerkarte mithilfe von **Strg+Klicken**/**Befehl+Klicken** die Schaltfläche „Zurück“ ordnungsgemäß deaktiviert ist, um Navigationsfehler zu vermeiden.
+
+![Fehler](../adobe-success-portal/assets/bug.svg) Es wurde ein Problem behoben, bei dem falsche Status-, Regions- oder Zeitzonendetails für **[!UICONTROL Adobe-Status]**-Warnhinweise in **[!UICONTROL Support und Einblicke]** angezeigt wurden.
+
+![Bug](../adobe-success-portal/assets/bug.svg) Es wurden Anzeigeprobleme mit **[!UICONTROL Accelerators]** und **[!UICONTROL Aktivitäten]** in Verbindung mit **[!UICONTROL Strategic Partners]** behoben.
+
 ## 3,0
 
-_9. Oktober 2025_
+_09. Okt. 2025_
 
 ![Neu](../adobe-success-portal/assets/new.svg) Es wurde eine Kalenderansicht zum **[!UICONTROL Aktionsplan]**-Modul zur Visualisierung von Zeitplänen von **[!UICONTROL Accelerators]** und **[!UICONTROL Aktivitäten]** in Verbindung mit **[!UICONTROL Key Business Objectives]** (KBOs) hinzugefügt.
 * Greifen Sie auf den Kalender über die KBO-Seite des Aktionsplans oder über **[!UICONTROL KBO]**/**[!UICONTROL Accelerator]**/**[!UICONTROL Activity]**-Detailseiten zu (nur wenn sie mit einer KBO verknüpft sind).
