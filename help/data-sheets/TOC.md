@@ -3,10 +3,10 @@ user-guide-title: Ressourcen für Erfolgspläne
 user-guide-description: Erfolgsplan- und Support-Ressourcen für Adobe Experience Cloud und Adobe Experience Platform.
 feature-set: Experience Cloud
 feature: Success Plans
-source-git-commit: 67c030d28d7715cbf51910b61a6ba3d3aee29c7d
+source-git-commit: de2e82b0e5d2324c01eca5abdce6e87dcb347680
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 100%
+source-wordcount: '103'
+ht-degree: 93%
 
 ---
 
@@ -14,6 +14,7 @@ ht-degree: 100%
 # Ressourcen für Erfolgspläne {#data-sheets}
 
 + [Adobe-Erfolgspläne – Übersicht](overview.md)
++ [Adobe DX Solutions Unified Holiday Readiness Guide](unified-holiday-readiness.md)
 + The Crux Podcast{#crux-podcast}
    + [Folge 1 – Billy Georgaros](episode1.md)
      [Folge 2 – Karrie Benjamin](episode2.md)
