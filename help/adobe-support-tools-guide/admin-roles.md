@@ -27,7 +27,7 @@ Die Verwaltungshierarchie kann verwendet werden, um die individuellen Anforderun
 
 >[!NOTE]
 >
->Die Administrationshierarchie gilt nicht für Teams und Kunden. Team-Kunden haben nur eine **(**). Der Vertragseigentümer (_früher als **Primärer Administrator**_bezeichnet) ist der Systemadministrator mit Zugriff auf die Vertragsdetails und den Abrechnungsverlauf. Wenn Sie der aktuelle Vertragseigentümer sind, können Sie einen vorhandenen Systemadministrator (_ früher als &quot;**Administrator“ bezeichnet**_ als Vertragseigentümer benennen.
+>Die Administrationshierarchie gilt nicht für Teams und Kunden. Team-Kunden haben nur eine **(**). Der Vertragseigentümer (_früher als **Primärer Administrator**&#x200B;_bezeichnet) ist der Systemadministrator mit Zugriff auf die Vertragsdetails und den Abrechnungsverlauf. Wenn Sie der aktuelle Vertragseigentümer sind, können Sie einen vorhandenen Systemadministrator (_ früher als &quot;**Administrator“ bezeichnet**&#x200B;_ als Vertragseigentümer benennen.
 
 ![Admin-Bild](assets/storage_admin.png)
 
@@ -49,11 +49,11 @@ Eine detaillierte Liste der Berechtigungen für jede Administratorrolle finden S
 
 Gilt für: Adobe Enterprise-Kunden.
 
-Als Administrator können Sie anderen Benutzern eine Administratorrolle zuweisen und ihnen dieselben Berechtigungen wie Ihnen zuweisen. Ebenso können Sie Berechtigungen für eine Rolle unter Ihrer Administratorrolle in der Hierarchie gewähren, wie [ oben beschrieben](#administrative-hierarchy). Beispielsweise können Sie als Produktadministrator einem Benutzer Produktadministratorberechtigungen oder Produktprofil-Administratorberechtigungen erteilen, jedoch keine Bereitstellungs-Administratorberechtigungen. Die Berechtigungen für die Admin Console finden Sie in der [Berechtigungsmatrix](#enterprise-admins-permissions-matrix).
+Als Administrator können Sie anderen Benutzern eine Administratorrolle zuweisen und ihnen dieselben Berechtigungen wie Ihnen zuweisen. Ebenso können Sie Berechtigungen für eine Rolle unter Ihrer Administratorrolle in der Hierarchie gewähren, wie [&#x200B; oben beschrieben](#administrative-hierarchy). Beispielsweise können Sie als Produktadministrator einem Benutzer Produktadministratorberechtigungen oder Produktprofil-Administratorberechtigungen erteilen, jedoch keine Bereitstellungs-Administratorberechtigungen. Die Berechtigungen für die Admin Console finden Sie in der [Berechtigungsmatrix](#enterprise-admins-permissions-matrix).
 
 So fügen Sie einen Administrator hinzu oder laden ihn ein:
 
-1. Admin Console Wählen Sie in der [ ](https://adminconsole.adobe.com/)die Option **Benutzer** > **Administratoren**.
+1. Admin Console Wählen Sie in der [&#x200B; &#x200B;](https://adminconsole.adobe.com/)die Option **Benutzer** > **Administratoren**.
 
    Alternativ können Sie zum entsprechenden Produkt, Produktprofil oder zur entsprechenden Benutzergruppe gehen und zur Registerkarte **Administratoren** navigieren.
 
