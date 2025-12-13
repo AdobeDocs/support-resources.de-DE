@@ -119,7 +119,7 @@ Um Adobe Journey Optimizer auf die Weihnachtszeit vorzubereiten, sollten Unterne
    * Versandzeit
    * Angebotstyp
    * Kanalmix
-Siehe [Best Practices für AJO Experimentation Accelerator](https://experienceleague.adobe.com/en/docs/experimentation-accelerator/using/get-started/experiment-accelerator-best-practices).
+Siehe [Best Practices für AJO Experimentation Accelerator](https://experienceleague.adobe.com/de/docs/experimentation-accelerator/using/get-started/experiment-accelerator-best-practices).
 * End-to-End-Journey-Validierung durchführen:
    * Ereignis-Trigger
    * Segmentierungseintrag
@@ -133,7 +133,7 @@ Siehe [Best Practices für AJO Experimentation Accelerator](https://experiencele
 
 ### Best Practices
 
-* Verwenden Sie die Omni-Channel-Orchestrierung. Lesen Sie den Blog-Artikel [Essential Omnichannel Customer Journey for Engagement and Growth](https://business.adobe.com/blog/essential-customer-journeys-for-omnichannel-engagement) der ein Beispiel für eine Weihnachtssaison mit AJO zeigt.
+* Verwenden Sie die Omni-Channel-Orchestrierung. Lesen Sie den Blog-Artikel [Essential Omnichannel Customer Journey for Engagement and Growth](https://business.adobe.com/de/blog/essential-customer-journeys-for-omnichannel-engagement) der ein Beispiel für eine Weihnachtssaison mit AJO zeigt.
 * Priorisieren Sie gegebenenfalls Echtzeit-Trigger . Beispiel: Warenkorbabbruch, Durchsuchen, Abbruch und Warnmeldungen, da Urlaubskäufer reaktiver sind.
 * Nutzen von Segmentierung und Personalisierung: Targeting von zielgerichteten Segmenten, Anpassung von Angeboten an das Kaufverhalten der Vergangenheit und an Präferenzen.
 * Minimale Nachrichtenermüdung: Erzwingen Sie Begrenzungen und ruhige Stunden, um eine Überforderung zu vermeiden. Siehe den Blogpost [Erhöhen des Kundenerlebnisses mit täglicher Frequenzlimitierung in &#x200B;](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-blogs/elevate-customer-experience-with-daily-frequency-capping-in-ajo/ba-p/761510?profile.language=de)AJO&quot;.
