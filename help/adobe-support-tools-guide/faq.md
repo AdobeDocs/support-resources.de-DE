@@ -2,24 +2,24 @@
 keywords: Häufig gestellte Fragen; häufig gestellte Fragen
 title: Häufig gestellte Fragen zu Adobe Business Platform und Admin Console
 description: Häufig gestellte Fragen zu Adobe Workfront
-source-git-commit: 21f2b42e3131fe0339e5de15824f48166409c7c1
+source-git-commit: dc05d9746bff375f5c29a164fbfdf4adb8d219d5
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '485'
 ht-degree: 11%
 
 ---
 
-# Häufig gestellte Fragen zu Adobe Business Platform und Admin Console
+# Häufig gestellte Fragen zu [!DNL Adobe Business Platform] und Admin Console
 
 +++**Was ist Adobe Identity und Admin Console?**
 
-Die Adobe Business-Plattform bietet Administratoren und funktionalen Leads eine hochmoderne Steuerkonsole, um ihre angepasste Version der Workfront-Software zu verwalten.
+Die [!DNL Adobe Business Platform] bietet Administratoren und funktionalen Leads eine hochmoderne Steuerkonsole, um ihre angepasste Version der Workfront-Software zu verwalten.
 
 +++
 
 +++**Warum müssen Kunden zu Adobe Identity und Admin Console (AAC) wechseln?**
 
-Kunden erhalten eine noch sicherere und intuitivere Verwaltungskonsole, wenn sie zur Adobe Business Platform wechseln.
+Kunden erhalten eine noch sicherere und intuitivere Verwaltungskonsole, wenn sie zu [!DNL Adobe Business Platform] wechseln.
 
 +++
 
@@ -57,7 +57,7 @@ In [diesem Dokument](overview.md) werden einige der neuen verfügbaren Funktions
 
 +++**Welche Schulungsressourcen stehen für AAC zur Verfügung?**
 
-&lt;https://helpx.adobe.com/de/enterprise/using/admin-console.html >
+&lt;https://helpx.adobe.com/enterprise/using/admin-console.html >
 
 +++
 
@@ -81,7 +81,7 @@ Die Dauer der AAC-Implementierung für -Kunden kann variieren, aber das typische
 
 +++**Wirkt sich dies auf andere Technologien aus, die ich in die Workfront-Lösung außerhalb von Adobe-Produkten integriert habe?**
 
-Kunden, die die Fusion-Anwendung zur Verbindung mit anderen Services verwenden, werden erst verschoben, wenn die Fusion-Anwendung bereit ist, diese Änderung vorzunehmen.
+Kunden, die das [!DNL Fusion]-Programm verwenden, um eine Verbindung zu anderen Services herzustellen, werden erst verschoben, wenn das [!DNL Fusion]-Programm bereit ist, diese Änderung vorzunehmen.
 
 +++
 
