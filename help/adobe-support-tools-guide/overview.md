@@ -28,7 +28,7 @@ New URL for July 27:
 https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/actions-in-admin-console.html
 -->
 
-Darüber hinaus gibt es eine FAQ zum Nachschlagen ([) ](faq.md).
+Darüber hinaus gibt es eine FAQ zum Nachschlagen ([) &#x200B;](faq.md).
 
 ## Details zur Kundenmigration
 
