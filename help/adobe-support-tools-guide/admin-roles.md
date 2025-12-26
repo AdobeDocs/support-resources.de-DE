@@ -1,10 +1,9 @@
 ---
 title: Administratorrollen
 description: Mithilfe der Adobe Admin Console können Unternehmen eine flexible Verwaltungshierarchie definieren, die eine differenzierte Verwaltung des Zugriffs und der Verwendung von Adobe-Produkten ermöglicht.
-exl-id: bfee66b5-d7bb-4ecb-8d22-efb68611ecc8
-source-git-commit: 21f2b42e3131fe0339e5de15824f48166409c7c1
+source-git-commit: 13e89a152d9387a8b23544e6b6c6e3cad5856666
 workflow-type: tm+mt
-source-wordcount: '1639'
+source-wordcount: '1642'
 ht-degree: 1%
 
 ---
@@ -27,7 +26,7 @@ Die Verwaltungshierarchie kann verwendet werden, um die individuellen Anforderun
 
 >[!NOTE]
 >
->Die Administrationshierarchie gilt nicht für Teams und Kunden. Team-Kunden haben nur eine **(**). Der Vertragseigentümer (_früher als **Primärer Administrator**&#x200B;_bezeichnet) ist der Systemadministrator mit Zugriff auf die Vertragsdetails und den Abrechnungsverlauf. Wenn Sie der aktuelle Vertragseigentümer sind, können Sie einen vorhandenen Systemadministrator (_ früher als &quot;**Administrator“ bezeichnet**&#x200B;_ als Vertragseigentümer benennen.
+>Die Administrationshierarchie gilt nicht für Teams und Kunden. Team-Kunden haben nur eine **(**). Der Vertragseigentümer (_früher als **Primärer Administrator**_bezeichnet) ist der Systemadministrator mit Zugriff auf die Vertragsdetails und den Abrechnungsverlauf. Wenn Sie der aktuelle Vertragseigentümer sind, können Sie einen vorhandenen Systemadministrator (_ früher als &quot;**Administrator“ bezeichnet**_ als Vertragseigentümer benennen.
 
 ![Admin-Bild](assets/storage_admin.png)
 
@@ -49,37 +48,37 @@ Eine detaillierte Liste der Berechtigungen für jede Administratorrolle finden S
 
 Gilt für: Adobe Enterprise-Kunden.
 
-Als Administrator können Sie anderen Benutzern eine Administratorrolle zuweisen und ihnen dieselben Berechtigungen wie Ihnen zuweisen. Ebenso können Sie Berechtigungen für eine Rolle unter Ihrer Administratorrolle in der Hierarchie gewähren, wie [&#x200B; oben beschrieben](#administrative-hierarchy). Beispielsweise können Sie als Produktadministrator einem Benutzer Produktadministratorberechtigungen oder Produktprofil-Administratorberechtigungen erteilen, jedoch keine Bereitstellungs-Administratorberechtigungen. Die Berechtigungen für die Admin Console finden Sie in der [Berechtigungsmatrix](#enterprise-admins-permissions-matrix).
+Als Administrator können Sie anderen Benutzern eine Administratorrolle zuweisen und ihnen dieselben Berechtigungen wie Ihnen zuweisen. Ebenso können Sie Berechtigungen für eine Rolle unter Ihrer Administratorrolle in der Hierarchie gewähren, wie [ oben beschrieben](#administrative-hierarchy). Beispielsweise können Sie als Produktadministrator einem Benutzer Produktadministratorberechtigungen oder Produktprofil-Administratorberechtigungen erteilen, jedoch keine Bereitstellungs-Administratorberechtigungen. Die Berechtigungen für die Admin Console finden Sie in der [Berechtigungsmatrix](#enterprise-admins-permissions-matrix).
 
 So fügen Sie einen Administrator hinzu oder laden ihn ein:
 
-1. Admin Console Wählen Sie in der [&#x200B; &#x200B;](https://adminconsole.adobe.com/)die Option **Benutzer** > **Administratoren**.
+1. Adobe Admin Console Wählen Sie in der **(https://adminconsole.adobe.com/)** die Option **[!UICONTROL Benutzer]** > **[!UICONTROL Administratoren]**.
 
-   Alternativ können Sie zum entsprechenden Produkt, Produktprofil oder zur entsprechenden Benutzergruppe gehen und zur Registerkarte **Administratoren** navigieren.
+   Alternativ können Sie zum entsprechenden Produkt, Produktprofil oder zur entsprechenden Benutzergruppe gehen und zur Registerkarte **[!UICONTROL Administratoren]** navigieren.
 
-1. Klicken Sie **Admin hinzufügen**.
+1. Klicken Sie **[!UICONTROL Admin hinzufügen]**.
 1. Geben Sie einen Namen oder eine E-Mail-Adresse ein. Sie können nach vorhandenen Benutzern suchen oder einen neuen Benutzer hinzufügen, indem Sie eine gültige E-Mail-Adresse angeben und die Informationen auf dem Bildschirm ausfüllen.
-1. Klicken Sie **Weiter**. Eine Liste mit Administratorrollen wird angezeigt.
+1. Klicken Sie **[!UICONTROL Weiter]**. Eine Liste mit Administratorrollen wird angezeigt.
 
->[!NOTE]
->
->* Die Optionen auf diesem Bildschirm hängen von Ihrem Konto und Ihrer Administratorrolle ab. Sie können entweder dieselben Berechtigungen wie Sie selbst gewähren oder Berechtigungen für eine Rolle in der Hierarchie gewähren, die Ihnen untergeordnet ist.
->* Als System-Admin eines Teams können Sie nur eine einzige Admin-Rolle zuweisen: Systemadmin.
+   >[!NOTE]
+   >
+   >* Die Optionen auf diesem Bildschirm hängen von Ihrem Konto und Ihrer Administratorrolle ab. Sie können entweder dieselben Berechtigungen wie Sie selbst gewähren oder Berechtigungen für eine Rolle in der Hierarchie gewähren, die Ihnen untergeordnet ist.
+   >* Als System-Admin eines Teams können Sie nur eine einzige Admin-Rolle zuweisen: Systemadmin.
 
 1. Eine oder mehrere Administratorrollen auswählen.
 1. Wählen Sie für Administratortypen wie „Produktadministrator“, „Produktprofiladministrator“ und „Benutzergruppenadministrator“ die jeweiligen Produkte, Profile und Gruppen aus.
 
->[!NOTE]
->
->Für einen Produktprofil-Administrator können Sie Profile für mehr als ein Produkt einbeziehen.
+   >[!NOTE]
+   >
+   >Für einen Produktprofil-Administrator können Sie Profile für mehr als ein Produkt einbeziehen.
 
-![Administrator hinzufügen](assets/add-admin.png)
+   ![Administrator hinzufügen](assets/add-admin.png)
 
 1. Überprüfen Sie die dem Benutzer zugewiesenen Administratorrollen und klicken Sie auf **Speichern**.
 
 Der Benutzer erhält eine E-Mail-Einladung zu den neuen Administratorrechten von `message@adobe.com`.
 
-Benutzer müssen in der E **Mail auf** Erste Schritte“ klicken, um der Organisation beizutreten. Wenn neue Admins den Link **Erste Schritte** in der E-Mail-Einladung nicht verwenden, können sie sich nicht bei Admin Console anmelden.
+Benutzer müssen in der E **[!UICONTROL Mail auf]** Erste Schritte“ klicken, um der Organisation beizutreten. Wenn neue Admins den Link **[!UICONTROL Erste Schritte]** in der E-Mail-Einladung nicht verwenden, können sie sich nicht bei Admin Console anmelden.
 
 Im Rahmen des Anmeldevorgangs werden Benutzende möglicherweise aufgefordert, ein Adobe-Profil einzurichten, wenn sie noch keines haben. Wenn Benutzende mehrere Profile mit ihrer E-Mail-Adresse verknüpft haben, müssen sie „Team beitreten“ auswählen (wenn dazu aufgefordert) und dann das mit der neuen Organisation verknüpfte Profil auswählen.
 
@@ -93,19 +92,19 @@ Als Administrator können Sie die Systemadministratorrolle anderen Benutzern zuw
 
 So fügen Sie einen Systemadministrator hinzu oder laden ihn ein:
 
-1. Wählen Sie in der Admin Console **Benutzer** > **Administratoren** aus.
+1. Adobe Admin Console Wählen Sie in der **** die Option **[!UICONTROL Benutzer]** > **[!UICONTROL Administratoren]**.
 
    Eine Liste der vorhandenen Administratoren wird angezeigt.
 
-1. Klicken Sie **Admin hinzufügen**.
+1. Klicken Sie **[!UICONTROL Admin hinzufügen]**.
 
-   Der **„Administrator hinzufügen** wird angezeigt.
+   Der **[!UICONTROL „Administrator hinzufügen]** wird angezeigt.
 
 1. Geben Sie einen Namen oder eine E-Mail-Adresse ein. Sie können nach vorhandenen Benutzern suchen oder einen neuen Benutzer hinzufügen, indem Sie eine gültige E-Mail-Adresse angeben und die Informationen auf dem Bildschirm ausfüllen.
 
    Standardmäßig ist „Systemadministrator“ ausgewählt.
 
-1. Klicken Sie auf **Speichern**.
+1. Klicken Sie auf **[!UICONTROL Speichern]**.
 
 ![Team-Admin-Bild](assets/teams-admin.png)
 
@@ -124,12 +123,12 @@ Als Administrator können Sie die Administratorrolle für andere Administratoren
 
 So bearbeiten Sie Administratorrollen:
 
-1. Wählen Sie in der Admin Console **Benutzer** > **Administratoren** aus. Die Liste der vorhandenen Administratoren wird angezeigt.
+1. Adobe Admin Console Wählen Sie in der **** die Option **[!UICONTROL Benutzer]** > **[!UICONTROL Administratoren]**. Die Liste der vorhandenen Administratoren wird angezeigt.
 
-   Alternativ können Sie zum entsprechenden Produkt, Produktprofil oder zur entsprechenden Benutzergruppe gehen und zur Registerkarte **Administratoren** navigieren.
+   Alternativ können Sie zum entsprechenden Produkt, Produktprofil oder zur entsprechenden Benutzergruppe gehen und zur Registerkarte **[!UICONTROL Administratoren]** navigieren.
 
 1. Klicken Sie auf den Namen des Admins, der bearbeitet werden soll.
-1. Klicken Sie **Abschnitt Benutzerdetails** auf ![Symbol](assets/one-console-ellipses.png) und wählen Sie **Administratorrechte** und **Administratorrechte bearbeiten**.
+1. Klicken Sie **[!UICONTROL Abschnitt Benutzerdetails]** auf ![Symbol](assets/one-console-ellipses.png) und wählen Sie **Administratorrechte** und **[!UICONTROL Administratorrechte bearbeiten]**.
 
    ![Administratorrechte bearbeiten](assets/admin-rights-section.png)
 
@@ -143,11 +142,11 @@ Als Team-Systemadministrator können Sie die Systemadministratorprivilegien ande
 
 So widerrufen Sie Systemadministratorberechtigungen:
 
-1. Wählen Sie in der Admin Console **Benutzer** > **Administratoren** aus.
+1. Adobe Admin Console Wählen Sie in der **** die Option **[!UICONTROL Benutzer]** > **[!UICONTROL Administratoren]**.
 
    Die Liste der vorhandenen Administratoren wird angezeigt.
 
-1. Klicken Sie in den Benutzerdetails ![Symbol](assets/one-console-ellipses.png) rechts neben dem Abschnitt **Administratorrechte** und wählen Sie **Administratorrechte bearbeiten**.
+1. Klicken Sie **[!UICONTROL &quot;]**&quot; auf ![Symbol](assets/one-console-ellipses.png) rechts neben dem Abschnitt **[!UICONTROL Administratorrechte]** und wählen Sie **[!UICONTROL Administratorrechte bearbeiten]**.
 
    ![Administratorrechte bearbeiten](assets/admin-rights-section.png)
 
@@ -157,7 +156,7 @@ So widerrufen Sie Systemadministratorberechtigungen:
 
 Gilt für: Adobe Teams Enterprise-Kunden.
 
-1. Um Admin-Berechtigungen zu entziehen, wählen Sie einen Benutzer aus und klicken Sie dann auf **Admin entfernen**.
+Um Admin-Berechtigungen zu entziehen, wählen Sie einen Benutzer aus und klicken Sie dann auf **[!UICONTROL Admin entfernen]**.
 
 ![Administratorbild entfernen](assets/remove-admin.png)
 
