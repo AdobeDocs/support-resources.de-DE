@@ -6,20 +6,18 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 33f9483614eb53b6379d2f738e95f3dcccad9487
+source-git-commit: 6926618416db5fa4b5c54d5cc7864b7f08e896ee
 workflow-type: tm+mt
-source-wordcount: '32'
-ht-degree: 18%
+source-wordcount: '27'
+ht-degree: 22%
 
 ---
 
 
 # Adobe Support- und Tools-Handbuch {#adobe-support-tools-guide}
 
-- [Experience League Support-Portal](adobe-customer-support-experience.md)
 - [Aktualisierung der Telefonnummer des Supports](phone-numbers.md)
 - [Administratorrollen](admin-roles.md)
 - Workfront-Dokumente {#workfront}
    - [Überblick](overview.md)
-   - [Landing](landing.md)
-   - [Häufig gestellte Fragen](faq.md)
+   - [FAQs](faq.md)
