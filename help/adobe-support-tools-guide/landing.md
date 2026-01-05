@@ -19,12 +19,12 @@ Bereiten Sie das Onboarding Ihres Unternehmens für die Adobe Admin Console vor 
 
   Wenn Sie bereits über andere Adobe-Produkte verfügen, bestätigen Sie bitte Ihre Bereitschaft, Adobe Workfront zu Ihrer aktuellen Adobe Admin Console hinzuzufügen. Wenn Sie weitere Informationen benötigen, verwenden Sie [diesen Link](https://helpx.adobe.com/de/enterprise/using/admin-console.html), um die Best Practices für die Verwaltung Ihrer Adobe-Produkte zu verstehen.
 
-* Unter dem [ Link erhalten ](https://helpx.adobe.com/enterprise/using/deployment-planning.html) Hilfe bei der Bereitstellung.
+* Unter dem [&#x200B; Link erhalten &#x200B;](https://helpx.adobe.com/enterprise/using/deployment-planning.html) Hilfe bei der Bereitstellung.
 * Bei Verwendung von Single Sign-On müssen Sie die neue Adobe Admin Console mit Ihrem bestehenden SSO-Provider verbinden.
 * Stellen Sie sicher, dass doppelte E-Mails entfernt werden und nur gültige E-Mail-Adressen verwendet werden.
 * Wenn Sie benutzerdefinierte API-Integrationen verwenden, vergewissern Sie sich, dass diese Benutzer über eine gültige E-Mail-Adresse verfügen, auf die sie zugreifen können.
 
-  Workfront empfiehlt, alle benutzerdefinierten Integrationen zu aktualisieren, um [OAuth2 zu ](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/create-oauth-application.html).
+  Workfront empfiehlt, alle benutzerdefinierten Integrationen zu aktualisieren, um [OAuth2 zu &#x200B;](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/create-oauth-application.html).
 
 Nachdem Sie Ihre Konsole konfiguriert haben, verwenden Sie diesen Link, um [Verwalten von Benutzern](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/create-manage-users/admin-console.html) in Ihrer Adobe Admin Console anzuzeigen.
 
