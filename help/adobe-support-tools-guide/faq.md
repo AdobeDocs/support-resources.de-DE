@@ -57,7 +57,7 @@ Die Kunden erhalten Anweisungen und Koordinationen von einem internen Workfront-
 
 +++**Welche Schulungsressourcen stehen für AAC zur Verfügung?**
 
-&lt;https://helpx.adobe.com/enterprise/using/admin-console.html >
+&lt;https://helpx.adobe.com/de/enterprise/using/admin-console.html >
 
 +++
 
