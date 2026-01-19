@@ -10,7 +10,7 @@ ht-degree: 66%
 
 # Aktualisierung der Adobe Commerce Support-Ticket-Lebenszyklusrichtlinie
 
-In dieser Dokumentation werden Verbesserungen am Lebenszyklus von Adobe DX-Support-Fällen beschrieben. Ziel ist es, die Kommunikation zu verstärken und der Kundschaft schnellstmöglich Lösungen bereitzustellen, um den Customer Success sicherzustellen. Dies finden Sie auch unter [Übersicht über Adobe-Erfolgspläne: Lebenszyklus von Support-Fällen](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#support-case-lifecycle---coming-soon).
+In dieser Dokumentation werden Verbesserungen am Lebenszyklus von Adobe DX-Support-Fällen beschrieben. Ziel ist es, die Kommunikation zu verstärken und der Kundschaft schnellstmöglich Lösungen bereitzustellen, um den Customer Success sicherzustellen. Dies finden Sie auch unter [Übersicht über Adobe-Erfolgspläne: Lebenszyklus von Support-Fällen](https://experienceleague.adobe.com/de/docs/support-resources/data-sheets/overview#support-case-lifecycle---coming-soon).
 Im Folgenden finden Sie die Timelines und Benachrichtigungen für verschiedene Szenarien, die während des Support-Vorgangs auftreten können:
 
 ## Fall-Follow-up-Erinnerungen
@@ -46,7 +46,7 @@ Kundinnen und Kunden können einen geschlossenen Fall innerhalb von 14 Tagen er
 
 ## Verwandtes Lesen
 
-* [Senden eines Support-Tickets](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#submit-ticket)
-* [&#x200B; Link „Ticket senden“ wird nicht auf der Startseite des Adobe Commerce-Hilfezentrums angezeigt](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#no-submit-link)
-* [Formular zur Ticketübermittlung: Händler wird in der Dropdown-Liste „Organisation“ nicht angezeigt](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#merchant-not-displayed)
-* [Übersicht über Adobe-Erfolgspläne: Lebenszyklus von Support-Fällen](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#support-case-lifecycle---coming-soon)
+* [Senden eines Support-Tickets](https://experienceleague.adobe.com/de/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#submit-ticket)
+* [&#x200B; Link „Ticket senden“ wird nicht auf der Startseite des Adobe Commerce-Hilfezentrums angezeigt](https://experienceleague.adobe.com/de/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#no-submit-link)
+* [Formular zur Ticketübermittlung: Händler wird in der Dropdown-Liste „Organisation“ nicht angezeigt](https://experienceleague.adobe.com/de/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#merchant-not-displayed)
+* [Übersicht über Adobe-Erfolgspläne: Lebenszyklus von Support-Fällen](https://experienceleague.adobe.com/de/docs/support-resources/data-sheets/overview#support-case-lifecycle---coming-soon)
