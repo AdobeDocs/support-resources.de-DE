@@ -6,10 +6,10 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 36451c1cc9894de0fcea7890ce3ff1d6b2bf2a0d
+source-git-commit: 068b2404d78bffdf5973c5b553acae6134bae6d0
 workflow-type: tm+mt
-source-wordcount: '56'
-ht-degree: 8%
+source-wordcount: '63'
+ht-degree: 7%
 
 ---
 
@@ -25,4 +25,5 @@ ht-degree: 8%
    - [Anfordern einer temporären Adobe Commerce-Aktualisierung in der Cloud-Infrastruktur](adobe-commerce-support/how-to-request-temporary-adobe-commerce-on-cloud-infrastructure-upsize.md)
    - [Adobe Commerce P1-Benachrichtigungs-Hotline](adobe-commerce-support/adobe-commerce-p1-notification-hotline.md)
    - [Adobe unterstützt den Zugriff auf Kundendaten und den Datenschutz](adobe-commerce-support/adobe-support-customer-data-access-and-privacy.md)
+   - [Aktualisierung der Adobe Commerce Support-Ticket-Lebenszyklusrichtlinie](adobe-commerce-support/magento-support-ticket-lifecycle-policy-update.md)
 
