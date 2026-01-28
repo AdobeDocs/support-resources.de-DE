@@ -17,7 +17,7 @@ In diesem Artikel wird erläutert, wie Sie Support-Tickets einreichen und den fa
 
 ## Experience League Support-Tickets
 
-Support-Tickets können jetzt über [Experience League gesendet ](https://experienceleague.adobe.com/home#support). Anweisungen zum Senden eines Support-Tickets finden Sie im Abschnitt zu [Senden eines Support-Tickets](#create-a-support-ticket-with-experience-league).
+Support-Tickets können jetzt über [Experience League gesendet &#x200B;](https://experienceleague.adobe.com/home#support). Anweisungen zum Senden eines Support-Tickets finden Sie im Abschnitt zu [Senden eines Support-Tickets](#create-a-support-ticket-with-experience-league).
 
 Wir arbeiten daran, die Interaktion mit dem Adobe-Kunden-Support zu verbessern. Unser Ziel ist es, das Support-Erlebnis mithilfe von Experience League zu optimieren, indem wir zu einem einzigen Einstiegspunkt wechseln. Nach der Live-Schaltung kann Ihr Unternehmen problemlos auf den Adobe-Kunden-Support zugreifen, den Service-Verlauf über ein produktübergreifendes gemeinsames System besser einsehen und über ein einziges Portal Hilfe per Telefon, Internet und Chat anfordern.
 

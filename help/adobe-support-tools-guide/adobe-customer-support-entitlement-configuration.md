@@ -55,4 +55,4 @@ Im Rahmen des Anmeldevorgangs werden Benutzende möglicherweise aufgefordert, ei
 
 ![Bestätigung der Administratorrechte](assets/admin-rights-confirmation.png)
 
-Weitere Informationen finden Sie in den [Anweisungen zur Bearbeitung ](admin-roles.md#add-enterprise-role) Unternehmensadministratorrolle“ in der Dokumentation zu Administratorrollen. Beachten Sie, dass nur ein Systemadministrator für Ihre Organisation diese Rolle zuweisen kann. Weitere Informationen zur Administrationshierarchie finden Sie in der Dokumentation [Administratorrollen](admin-roles.md) .
+Weitere Informationen finden Sie in den [Anweisungen zur Bearbeitung &#x200B;](admin-roles.md#add-enterprise-role) Unternehmensadministratorrolle“ in der Dokumentation zu Administratorrollen. Beachten Sie, dass nur ein Systemadministrator für Ihre Organisation diese Rolle zuweisen kann. Weitere Informationen zur Administrationshierarchie finden Sie in der Dokumentation [Administratorrollen](admin-roles.md) .
