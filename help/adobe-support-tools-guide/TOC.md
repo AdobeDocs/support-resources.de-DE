@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: c72e4564046c3d3a1ad7862752d215e4f319521d
+source-git-commit: 3b0588fd01010fb40640362b7fe24c5b28fb5faf
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '99'
 ht-degree: 5%
 
 ---
@@ -27,8 +27,7 @@ ht-degree: 5%
    - [Adobe Commerce P1-Benachrichtigungs-Hotline](adobe-commerce-support/adobe-commerce-p1-notification-hotline.md)
    - [Adobe unterstützt den Zugriff auf Kundendaten und den Datenschutz](adobe-commerce-support/adobe-support-customer-data-access-and-privacy.md)
    - [Aktualisierung der Adobe Commerce Support-Ticket-Lebenszyklusrichtlinie](adobe-commerce-support/magento-support-ticket-lifecycle-policy-update.md)
+   - [Factsheet zur Überwachung für Adobe Commerce in Cloud Pro-Infrastruktur](adobe-commerce-support/monitoring-whitepaper.md)
    - [Häufig gestellte Fragen zum Ende der Unterstützung für Adobe Commerce-Software](adobe-commerce-support/adobe-commerce-eos-policy-faq.md)
    - [Adobe Commerce Support-Ticket - Problembeschreibung](adobe-commerce-support/adobe-commerce-support-ticket-contact-reason-descriptions.md)
    - [Adobe Commerce Support-Tools auf einen Blick](adobe-commerce-support/support-tools-overview.md)
-
-
