@@ -1,14 +1,14 @@
 ---
-title: Adobe Commerce Support-Ticket **[!UICONTROL Problemgrund]** Beschreibungen
+title: Adobe Commerce Support-Ticket [!UICONTROL Problemgrund] - Beschreibungen
 description: In diesem Artikel werden die Feldoptionen für Support-Tickets [!UICONTROL *]Problemgrund** aufgeführt und detaillierte Beschreibungen der einzelnen Optionen bereitgestellt.
-source-git-commit: 58cec1efe3f4b5d2277507469cf17b51ccffb98d
+source-git-commit: 6050a615b0247930baad060e1c9cd7c46547bfdb
 workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 1%
 
 ---
 
-# Adobe Commerce Support-Ticket **[!UICONTROL Problemgrund]** - Beschreibungen
+# Adobe Commerce Support-Ticket [!UICONTROL Problemgrund] - Beschreibungen
 
 In diesem Artikel werden die Feldoptionen für Support **[!UICONTROL Tickets (]**) aufgeführt und detaillierte Beschreibungen der einzelnen Optionen bereitgestellt.
 
@@ -55,4 +55,4 @@ In diesem Artikel werden die Feldoptionen für Support **[!UICONTROL Tickets (]*
 
 ## Verwandtes Lesen
 
-* [Senden eines Support-Falls](https://experienceleague.adobe.com/de/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) im Experience League Support-Benutzerhandbuch für Adobe Commerce.
+* [Senden eines Support-Falls](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) im Experience League Support-Benutzerhandbuch für Adobe Commerce.
