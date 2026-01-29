@@ -1,21 +1,22 @@
 ---
-user-guide-title: Adobe Support- und Tools-Handbuch
+user-guide-title: Support- und Tools-Handbuch für Adobe
 user-guide-description: Detaillierte Anleitungen und Aktualisierungen zu Adobe-Support und -Tools.
 feature-set: Experience Cloud
 feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 3b0588fd01010fb40640362b7fe24c5b28fb5faf
+source-git-commit: 70f2eb86f4c19c9e1b0b20f35a763d67d6bb8dab
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 5%
+source-wordcount: '107'
+ht-degree: 4%
 
 ---
 
 
-# Adobe Support- und Tools-Handbuch {#adobe-support-tools-guide}
+# Support- und Tools-Handbuch für Adobe {#adobe-support-tools-guide}
 
+- [Übersicht über Support und Tools für Adobe](/help/adobe-support-tools-guide/adobe-support-tools-guide-overview.md)
 - [Adobe Customer Support Experience](adobe-customer-support-experience.md)
 - [Berechtigungskonfiguration für den Adobe-Kunden-Support](adobe-customer-support-entitlement-configuration.md)
 - [Aktualisierung der Telefonnummer des Supports](phone-numbers.md)
