@@ -1,24 +1,24 @@
 ---
 title: Berechtigungskonfiguration für den Adobe-Kunden-Support
-description: Wie Adobe-Kunden Support-Berechtigungen konfigurieren können, um die Fallübermittlung zu aktivieren.
+description: Wie Adobe-Kundinnen und -Kunden Support-Berechtigungen in der Admin Console einrichten und verwalten können, damit Benutzende auf Support-Ressourcen zugreifen, Probleme einreichen und Fallaktivitäten verwalten können.
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-source-git-commit: 009be3353a4bd690a7cf395e7e95540808058b39
+source-git-commit: 7f7a394874014fb5333ed9fb39f84b7137562726
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '373'
 ht-degree: 0%
 
 ---
 
 
-# Berechtigung für Adobe-Kunden-Support
+# Berechtigungskonfiguration für den Adobe-Kunden-Support
 
 Um Support-Berechtigungen für Ihr Unternehmen zu konfigurieren, fügen Sie den Benutzer zunächst über die Admin Console hinzu oder laden Sie ihn ein.
 
 ## Hinzufügen von Support-Berechtigungsrollen zu einer Organisation
 
-Die Rolle „Support-Admin“ ist keine Administratorrolle und hat Zugriff auf Support-bezogene Informationen. Support-Administratoren können Problemberichte anzeigen, erstellen und verwalten.
+Die Rolle **[!UICONTROL Support-Administrator]** ist eine Rolle ohne Administratorrechte, die Zugriff auf Support-bezogene Informationen hat. Ein **[!UICONTROL Support-Administrator]** kann Problemberichte anzeigen, erstellen und verwalten.
 
 So fügen Sie einen Administrator hinzu oder laden ihn ein:
 
@@ -32,7 +32,7 @@ So fügen Sie einen Administrator hinzu oder laden ihn ein:
 
 1. Klicken Sie **[!UICONTROL Weiter]**. Eine Liste mit Administratorrollen wird angezeigt.
 
-So weisen Sie einem Benutzer die Rolle Support-Administrator zu (damit ein Benutzer den Support kontaktieren kann):
+So weisen Sie einem Benutzer die Rolle **[!UICONTROL Support]** Administrator“ zu (ermöglichen Sie einem Benutzer, den Support zu kontaktieren):
 
 1. Wählen Sie die Option **[!UICONTROL Support-Administrator]** aus.
 
@@ -55,4 +55,4 @@ Im Rahmen des Anmeldevorgangs werden Benutzende möglicherweise aufgefordert, ei
 
 ![Bestätigung der Administratorrechte](assets/admin-rights-confirmation.png)
 
-Weitere Informationen finden Sie in den [Anweisungen zur Bearbeitung &#x200B;](admin-roles.md#add-enterprise-role) Unternehmensadministratorrolle“ in der Dokumentation zu Administratorrollen. Beachten Sie, dass nur ein Systemadministrator für Ihre Organisation diese Rolle zuweisen kann. Weitere Informationen zur Administrationshierarchie finden Sie in der Dokumentation [Administratorrollen](admin-roles.md) .
+Weitere Informationen finden Sie in den [Anweisungen zur Bearbeitung der Administratorrolle ](admin-roles.md#edit-enterprise-admin-role) Unternehmens“ in der Dokumentation zu Administratorrollen. Beachten Sie, dass nur ein Systemadministrator für Ihre Organisation diese Rolle zuweisen kann. Weitere Informationen zur Verwaltungshierarchie finden Sie in der Dokumentation [Administratorrollen](admin-roles.md) .
