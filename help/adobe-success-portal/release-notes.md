@@ -6,7 +6,7 @@ exl-id: be268e05-8298-4f21-8f2f-f66c52d76fe3
 source-git-commit: 2894190b3171228e9c14a7cdef5bb2d92b97a6ec
 workflow-type: tm+mt
 source-wordcount: '595'
-ht-degree: 32%
+ht-degree: 83%
 
 ---
 
@@ -30,43 +30,43 @@ _11. November 2025_
 
 ![Bug](../adobe-success-portal/assets/bug.svg) Es wurden Anzeigeprobleme mit **[!UICONTROL Accelerators]** und **[!UICONTROL Aktivitäten]** in Verbindung mit **[!UICONTROL Strategic Partners]** behoben.
 
-## 3,0
+## 3.0
 
-_09. Okt. 2025_
+_9. Oktober 2025_
 
-![Neu](../adobe-success-portal/assets/new.svg) Es wurde eine Kalenderansicht zum **[!UICONTROL Aktionsplan]**-Modul zur Visualisierung von Zeitplänen von **[!UICONTROL Accelerators]** und **[!UICONTROL Aktivitäten]** in Verbindung mit **[!UICONTROL Key Business Objectives]** (KBOs) hinzugefügt.
-* Greifen Sie auf den Kalender über die KBO-Seite des Aktionsplans oder über **[!UICONTROL KBO]**/**[!UICONTROL Accelerator]**/**[!UICONTROL Activity]**-Detailseiten zu (nur wenn sie mit einer KBO verknüpft sind).
-* Zwischen Listenansicht (Standard) und Kalenderansicht wechseln.
-* Der Kalender zeigt ausblendbare Abschnitte für jede KBO an:
+![Neu](../adobe-success-portal/assets/new.svg) Es wurde eine Kalenderansicht zum Modul **[!UICONTROL Aktionsplan]** hinzugefügt, um Timelines von **[!UICONTROL Beschleunigern]** und **[!UICONTROL Aktivitäten]** im Zusammenhang mit **[!UICONTROL wichtigen Geschäftszielen]** (KBOs) zu visualisieren.
+* Greifen Sie über die KBO-Seite des Aktionsplans oder über die Detailseiten **[!UICONTROL KBO]**/**[!UICONTROL Beschleuniger]**/**[!UICONTROL Aktivität]** (nur wenn sie mit einem KBO verknüpft sind) auf den Kalender zu.
+* Wechseln Sie zwischen Listenansicht (Standard) und Kalenderansicht.
+* Der Kalender zeigt ausblendbare Abschnitte für jedes KBO an:
    * Blau für **[!UICONTROL Beschleuniger]**
    * Grün für **[!UICONTROL Aktivitäten]**
-* Jeder **[!UICONTROL Accelerators]**/ **[!UICONTROL Aktivitäten]** zeigt Name, Status und Start-/Enddatum (formatiert als *Monat XX*, *JJJJ*).
-* Wenn Sie auf eine Ereigniskarte klicken, wird eine Seite mit Ereignisdetails geöffnet. Durch Klicken auf die Schaltfläche Zurück gelangen Sie zurück zum .
-* Ereignisse sind farbcodiert: blau für **[!UICONTROL Accelerators]**, grün für **[!UICONTROL Aktivitäten]**. Scrollen Sie vertikal durch KBOs und horizontal nach Woche oder Monat.
-* QuickInfos zeigen vollständige Namen an, wenn Text abgeschnitten wird und die Zeitleiste beim Scrollen sichtbar bleibt.
+* Für alle **[!UICONTROL Beschleuniger]**/**[!UICONTROL Aktivitäten]** werden Name, Status und Start-/Enddatum (im Format *Monat XX*, *JJJJ*) angezeigt.
+* Wenn Sie auf eine Ereigniskarte klicken, wird eine Seite mit Ereignisdetails geöffnet. Wenn Sie auf die Schaltfläche „Zurück“ klicken, kehren Sie zur ursprünglichen Seite zurück.
+* Ereignisse sind farblich gekennzeichnet: blau für **[!UICONTROL Beschleuniger]**, grün für **[!UICONTROL Aktivitäten]**. Scrollen Sie vertikal durch KBOs und horizontal nach Woche oder Monat.
+* Wenn Text abgeschnitten wird, werden vollständige Namen über QuickInfos angezeigt. Die Timeline bleibt sichtbar, wenn Sie scrollen.
 * Die Standardansicht ist die aktuelle Woche. Mit den Navigationspfeilen können Sie zwischen Wochen wechseln.
-* Die Monatsansicht bietet einen klaren Zeitplan für die laufenden und geplanten Arbeiten.
+* Die Monatsansicht bietet eine klare Timeline der laufenden und geplanten Arbeiten.
 
-![Korrigieren](../adobe-success-portal/assets/fix.svg) Die Seiten **[!UICONTROL Wichtige Geschäftsziele]** und **[!UICONTROL Aktivitäten]** im **[!UICONTROL Aktionsplan]** wurden verbessert, um QuickInfos zu Abschlussdaten anzuzeigen und so die Sichtbarkeit des Zeitplans zu verbessern.
+![Fehlerbehebung](../adobe-success-portal/assets/fix.svg) Auf den Seiten **[!UICONTROL Wichtige Geschäftsziele]** und **[!UICONTROL Aktivitäten]** im **[!UICONTROL Aktionsplan]** werden nun QuickInfos zu Abschlussdaten angezeigt, was die Übersichtlichkeit der Timeline verbessert.
 
-![Beheben](../adobe-success-portal/assets/fix.svg) Die Suche wurde in Filtern für **[!UICONTROL Aktionsplan]** und **[!UICONTROL Ergebnisverfolgung]** hinzugefügt, um die Navigation zu beschleunigen.
+![Fehlerbehebung](../adobe-success-portal/assets/fix.svg) Der Suche wurden Filter für **[!UICONTROL Aktionsplan]** und **[!UICONTROL Ergebnisverfolgung]** hinzugefügt, um die Navigation zu beschleunigen.
 
 
-![Korrigieren](../adobe-success-portal/assets/fix.svg) Es wurden QuickInfos zu jeder Suche für Schnellkontext hinzugefügt.
+![Fehlerbehebung](../adobe-success-portal/assets/fix.svg) Es wurden QuickInfos zu jedem Ergebnis hinzugefügt, um schnell Kontext zu bieten.
 
-![Beheben](../adobe-success-portal/assets/fix.svg) Das Adobe-Branding wurde zu PDFs hinzugefügt, die aus „Ergebnisse und Fälle“ heruntergeladen wurden.
+![Fehlerbehebung](../adobe-success-portal/assets/fix.svg) Das Adobe-Branding wurde zu PDFs hinzugefügt, die aus Ergebnissen und Fällen heruntergeladen wurden.
 
-![Fix](../adobe-success-portal/assets/fix.svg) Zeigt alle **[!UICONTROL strategischen Partner]** an, die einem Konto zugeordnet sind, mit Indikatoren für primäre Kontakte.
+![Fehlerbehebung](../adobe-success-portal/assets/fix.svg) Es werden alle **[!UICONTROL strategischen Partner]** angezeigt, die einem Konto zugeordnet sind, mit Hinweisen zu primären Kontakten.
 
 ![Behebung](../adobe-success-portal/assets/fix.svg) Es wurde ein Problem behoben, bei dem die Zeitzonen in **[!UICONTROL Warnhinweise und Adobe-Status]** das Profil des angemeldeten Benutzers nicht korrekt widerspiegelten.
 
-![Beheben](../adobe-success-portal/assets/fix.svg) Es wurde ein Problem behoben, bei dem Filter in **[!UICONTROL Warnhinweise und Adobe-Status]** nicht wie erwartet funktionierten.
+![Fehlerbehebung](../adobe-success-portal/assets/fix.svg) Es wurde ein Problem behoben, bei dem Filter in **[!UICONTROL Warnhinweise und Adobe-Status]** nicht wie erwartet funktionierten.
 
-![Behebung](../adobe-success-portal/assets/fix.svg) Es wurde ein Problem behoben, bei dem die Sortierung von **[!UICONTROL Anwendungsfällen]** auf den Seiten KBO-Details und **[!UICONTROL Ergebnisverfolgung]** inkonsistent war.
+![Fehlerbehebung](../adobe-success-portal/assets/fix.svg) Es wurde ein Problem behoben, bei dem die Sortierung von **[!UICONTROL Anwendungsfällen]** auf den Seiten „KBO-Details“ und **[!UICONTROL Ergebnisverfolgung]** inkonsistent war.
 
-![Behebung](../adobe-success-portal/assets/fix.svg) Es wurde ein Problem behoben, bei dem die QuickInfo auf der Seite mit der Fallliste den vollständigen Namen der Groß-/Kleinschreibung nicht enthüllte, wenn der Mauszeiger über einen Falltitel bewegt wurde.
+![Fehlerbehebung](../adobe-success-portal/assets/fix.svg) Es wurde ein Problem behoben, bei dem die QuickInfo auf der Seite mit der Fallliste nicht den vollständigen Fallnamen anzeigte, wenn der Mauszeiger über einen Falltitel bewegt wurde.
 
-![Beheben](../adobe-success-portal/assets/fix.svg) Es wurde ein Problem behoben, bei dem das Rückwärtspfeilsymbol im Safari-Browser falsch angezeigt wurde.
+![Fehlerbehebung](../adobe-success-portal/assets/fix.svg) Es wurde ein Problem behoben, bei dem das Rückwärtspfeilsymbol im Safari-Browser falsch angezeigt wurde.
 
 ## 2.0
 
