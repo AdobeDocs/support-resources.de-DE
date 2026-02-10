@@ -6,10 +6,10 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: cb9d0c550c1b4cf3ce333ea6a826e6f42cdd1146
+source-git-commit: 2469a09135b81ccfbf0bbda8fd46f552dc5d82fc
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 4%
+source-wordcount: '131'
+ht-degree: 3%
 
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 4%
 - Adobe Workfront-Support {#workfront}
    - [Häufig gestellte Fragen](faq.md)
 - Adobe Commerce-Support {#adobe-commerce-support}
+   - [So erhalten Sie Sicherheits-Patches und wenden diese an](adobe-commerce-support/how-to-obtain-and-apply-security-patches.md)
    - [Anfordern einer temporären Adobe Commerce-Aktualisierung in der Cloud-Infrastruktur](adobe-commerce-support/how-to-request-temporary-adobe-commerce-on-cloud-infrastructure-upsize.md)
    - [Adobe Commerce P1-Benachrichtigungs-Hotline](adobe-commerce-support/adobe-commerce-p1-notification-hotline.md)
    - [Adobe unterstützt den Zugriff auf Kundendaten und den Datenschutz](adobe-commerce-support/adobe-support-customer-data-access-and-privacy.md)
