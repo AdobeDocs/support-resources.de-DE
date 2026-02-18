@@ -2,7 +2,7 @@
 title: Standard Support für Adobe Creative Cloud und Adobe Document Cloud
 description: Adobe bietet eine umfassende Palette technischer Ressourcen, die Sie im Rahmen Ihres Adobe Enterprise-Abonnements zur Unterstützung Ihres Unternehmens nutzen können. Der Standard Support ermöglicht rund um die Uhr Zugriff auf unsere Selbsthilfe-Support-Ressourcen, darunter Hilfeartikel zu HelpX, sowie Kontakt zu anderen Kunden in der Adobe Community.
 exl-id: 2ce6a990-1dbc-4f08-a29b-357e3e03a6d6
-source-git-commit: 3b6cd95d8ec96fd28c62fd4aa40b45e3214af471
+source-git-commit: ddaeba7f5e8c2e6d4c7fc2112425ee83ee7eccd3
 workflow-type: tm+mt
 source-wordcount: '777'
 ht-degree: 100%
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 Adobe bietet eine umfassende Palette technischer Ressourcen, die Sie im Rahmen Ihres Adobe Enterprise-Abonnements zur Unterstützung Ihres Unternehmens nutzen können. Der Standard Support ermöglicht rund um die Uhr Zugriff auf unsere Selbsthilfe-Support-Ressourcen, darunter Hilfeartikel zu HelpX, sowie Kontakt zu anderen Kunden in der Adobe Community.
 
-Auf <http://www.adobe.com> stehen Ihnen unsere ausführliche technische Produktdokumentation und die aktuellen Versionshinweise zur Verfügung. Unser Standard Support bietet autorisierten Benutzern (Administratoren) außerdem die Möglichkeit, rund um die Uhr unsere technischen Supportteams per Chat oder Telefon zu kontaktieren und Hilfeanfragen über unser Support-Web-Portal zu stellen.
+Auf <https://www.adobe.com> stehen Ihnen unsere ausführliche technische Produktdokumentation und die aktuellen Versionshinweise zur Verfügung. Unser Standard Support bietet autorisierten Benutzern (Administratoren) außerdem die Möglichkeit, rund um die Uhr unsere technischen Supportteams per Chat oder Telefon zu kontaktieren und Hilfeanfragen über unser Support-Web-Portal zu stellen.
 
 [PDF-Version anzeigen](assets/DMeStandardSupportDatasheet_2022.pdf)
 
@@ -103,7 +103,7 @@ Auf <http://www.adobe.com> stehen Ihnen unsere ausführliche technische Produktd
     <td>✔</td>
     <td>✔</td>
   </tr>
-    <td>Proaktive Fallüberwachung</td>
+    <td>Proaktives Fall-Monitoring</td>
     <td></td>
     <td></td>
     <td>✔</td>
@@ -266,9 +266,9 @@ Der Adobe-Kunden-Support ermöglicht den Zugriff auf die Dokumentation und den K
 
 | Ressource | Beschreibung |
 |--- |--- |
-| [Experience League](https://experienceleague.adobe.com/de?lang=de) | Im Abschnitt „Experience League“ finden Adobe-Kunden Selbsthilfe-Tutorials, die Produktdokumentation, von Schulungsleitern geführte Schulungen, eine Community-Seite sowie Support für ausgewählte Adobe Creative Cloud- und Document-Produkte. |
+| [Experience League](https://experienceleague.adobe.com/?lang=de) | Im Abschnitt „Experience League“ finden Adobe-Kunden Selbsthilfe-Tutorials, die Produktdokumentation, von Schulungsleitern geführte Schulungen, eine Community-Seite sowie Support für ausgewählte Adobe Creative Cloud- und Document-Produkte. |
 | [Adobe Support Community](https://community.adobe.com/?profile.language=de) | In der Adobe Support Community können Sie Fragen stellen, Antworten finden, von Experten lernen und Ihr Wissen austauschen. |
-| [Produktionsprobleme und Systemausfälle](https://status.adobe.com/) | Status.adobe.com übermittelt die Statusinformationen sämtlicher Adobe-Produkte und -Services, die in Umgebungen mit mehreren Mandanten bereitgestellt sind. Kunden können Voreinstellungen für ihr Abonnement auswählen und E-Mail-Benachrichtigungen erhalten, wenn Adobe ein Produktereignis erstellt, aktualisiert oder löst. Dies kann geplante Wartungen oder Service-Probleme unterschiedlichen Schweregrads umfassen. |
+| [Produktionsprobleme und Systemausfälle](https://status.adobe.com/de) | Status.adobe.com übermittelt die Statusinformationen sämtlicher Adobe-Produkte und -Services, die in Umgebungen mit mehreren Mandanten bereitgestellt sind. Kunden können Voreinstellungen für ihr Abonnement auswählen und E-Mail-Benachrichtigungen erhalten, wenn Adobe ein Produktereignis erstellt, aktualisiert oder löst. Dies kann geplante Wartungen oder Service-Probleme unterschiedlichen Schweregrads umfassen. |
 | [Geschäftsbedingungen](https://helpx.adobe.com/de/support/programs/support-policies-terms-conditions.html) | Allgemeine Geschäftsbedingungen mit detaillierten Informationen zu den angebotenen Support-Services. |
 
 {style="table-layout:auto"}
