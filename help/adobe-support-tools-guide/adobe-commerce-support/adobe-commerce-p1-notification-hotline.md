@@ -2,7 +2,8 @@
 title: Adobe Commerce P1-Benachrichtigungs-Hotline
 description: Dieser Artikel enthält die P1-Benachrichtigungs-Hotline-Nummern für Adobe Commerce, die bei der Meldung eines P1-Vorfalls verwendet werden können, und erläutert, welche Informationen bereitgestellt werden müssen.
 solution: Commerce
-source-git-commit: f08fbf3920b6b80f2755598920c2a7ed82835510
+exl-id: 0c7088b2-6149-4307-b513-cebeeaa8f6ea
+source-git-commit: a8d43c1d190d6c7bb3e7653e304b4152fe7039ca
 workflow-type: tm+mt
 source-wordcount: '536'
 ht-degree: 0%
@@ -20,7 +21,7 @@ Wie in [Geschäftsbedingungen für Adobe Commerce-Support-Services definiert](ht
 ## P1-Benachrichtigungs-Hotline-Telefonrichtlinien
 
 * Die P1-Benachrichtigungs-Hotline ist verfügbar, um Probleme auf P1-Ebene zu melden (siehe die Definition von P1-Incident im vorherigen Abschnitt).
-* [Senden Sie ein Support-Ticket](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=de#submit-ticket) bevor Sie die Adobe Commerce P1-Benachrichtigungs-Hotline anrufen.
+* [Senden Sie ein Support-Ticket](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket) bevor Sie die Adobe Commerce P1-Benachrichtigungs-Hotline anrufen.
 * Untersuchung, Fehlerbehebung und Kommunikation erfolgen ausschließlich innerhalb des Support-Tickets.
 * Fügen Sie dem Ticket direkt vor dem Anruf alle zusätzlichen Informationen hinzu, die Sie möglicherweise im Zusammenhang mit dem Problem haben.
 * Vergewissern Sie sich beim Anruf, dass Sie die Ticketnummer haben.
@@ -47,4 +48,4 @@ Hinweis: Wenn Sie Voicemail aus irgendeinem Grund erreichen, hinterlassen Sie bi
    * Malaysia (gebührenpflichtig): (+60) 1800 220 120 (Beim ersten Menü drücken Sie 3 für die Adobe Commerce P1-Hotline)
    * Indien: (+91) 0008 004 402 107 (Beim ersten Menü drücken Sie 3 für die Adobe Commerce P1-Hotline)
    * Hongkong: (+852) 30 713 107 (Beim ersten Menü drücken Sie 3 für die Adobe Commerce P1-Hotline)
-   * Japan: (+81) 120 071 300 (Beim ersten Menü drücken Sie 3 für die Adobe Commerce P1-Hotline)
+   * Japan: (+81) 0120 410 404 (Beim ersten Menü drücken Sie 3 für die Adobe Commerce P1-Hotline)
