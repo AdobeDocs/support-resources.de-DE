@@ -5,9 +5,10 @@ feature: Cloud, Paas
 solution: Commerce
 feature-set: Commerce
 role: Developer
-source-git-commit: dfb3e7ea8638755cdff16b0765125403f429ef2e
+exl-id: 2dc52d5e-0930-48c4-986e-ce3f9f6f8221
+source-git-commit: 755c6dc9cff041b9ca9183fbecde21f90fbaee1a
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '287'
 ht-degree: 1%
 
 ---
@@ -31,14 +32,14 @@ Das Konto des Benutzers muss zunächst unter [https://accounts.magento.cloud](ht
 ## Lösung
 
 1. Bitten Sie den Benutzer, sich unter [https://accounts.magento.cloud](https://accounts.magento.cloud) anzumelden. Der Benutzer muss bereits mit derselben E-Mail-Adresse bei Adobe registriert sein.
-   > **HINWEIS**\
-   > Das Erstellen oder besitzen eines Kontos unter [https://account.adobe.com](https://account.adobe.com) bedeutet nicht automatisch, dass der Benutzer über ein Konto unter [https://accounts.magento.cloud](https://accounts.magento.cloud) verfügt. Der Benutzer muss zunächst [sein Commerce-Konto erstellen](https://experienceleague.adobe.com/de/docs/commerce-admin/start/commerce-account/commerce-account-create?lang=en#create-a-commerce-account).
+   >[!NOTE]
+   >Das Erstellen oder besitzen eines Kontos unter [https://account.adobe.com](https://account.adobe.com) bedeutet nicht automatisch, dass der Benutzer über ein Konto unter [https://accounts.magento.cloud](https://accounts.magento.cloud) verfügt. Der Benutzer muss zunächst [sein Commerce-Konto erstellen](https://experienceleague.adobe.com/en/docs/commerce-admin/start/commerce-account/commerce-account-create?lang=en#create-a-commerce-account).
 
-1. Wenn der/die Benutzende bereits über ein Adobe-Konto verfügt, sich jedoch nicht anmelden kann, bitten Sie ihn/sie, eine [Support-Anfrage](https://experienceleague.adobe.com/home?lang=de#support) mit der Einstellung [!UICONTROL Problemgrund] auf *Benutzerverwaltung* zu senden.
+1. Wenn der/die Benutzende bereits über ein Adobe-Konto verfügt, sich jedoch nicht anmelden kann, bitten Sie ihn/sie, eine [Support-Anfrage](https://experienceleague.adobe.com/home#support) mit der Einstellung [!UICONTROL Problemgrund] auf *Benutzerverwaltung* zu senden.
 
-1. Nachdem sich der Benutzer erfolgreich bei [https://accounts.magento.cloud](https://accounts.magento.cloud) angemeldet hat, können Sie den Benutzer zum Projekt hinzufügen. Detaillierte Anweisungen finden Sie unter [Hinzufügen von Benutzern und Verwalten des Zugriffs](https://experienceleague.adobe.com/de/docs/commerce-cloud-service/user-guide/project/user-access#add-users-and-manage-access) im Handbuch Commerce on Cloud Infrastructure .
+1. Nachdem sich der Benutzer erfolgreich bei [https://accounts.magento.cloud](https://accounts.magento.cloud) angemeldet hat, können Sie den Benutzer zum Projekt hinzufügen. Detaillierte Anweisungen finden Sie unter [Hinzufügen von Benutzern und Verwalten des Zugriffs](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/project/user-access#add-users-and-manage-access) im Handbuch Commerce on Cloud Infrastructure .
 
 ## Verwandtes Lesen:
 
-* [Verwalten des Benutzerzugriffs](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/user-access.html?lang=de) finden Sie in unserem Handbuch zu Commerce in Cloud-Infrastrukturen .
-* [Anmeldung beim Adobe Commerce Support- oder Cloud-Konto nicht möglich](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/unable-to-log-in-to-support-or-cloud-project.html?lang=de)
+* [Verwalten des Benutzerzugriffs](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/user-access.html) finden Sie in unserem Handbuch zu Commerce in Cloud-Infrastrukturen .
+* [Anmeldung beim Adobe Commerce Support- oder Cloud-Konto nicht möglich](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/unable-to-log-in-to-support-or-cloud-project.html)
