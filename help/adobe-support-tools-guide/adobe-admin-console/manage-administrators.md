@@ -18,7 +18,7 @@ ht-degree: 2%
 
 Erfahren Sie mehr über die Funktionen globaler Administratoren und darüber, wie Sie die Verwaltung von Benutzern, Produktlizenzen und Gruppen an Administratoren bzw. Administratorinnen für jede einzelne Organisation delegieren und verteilen.
 
-In der Global Admin Console können Sie ein Unternehmen auswählen und zur Registerkarte **[!UICONTROL Administratoren]** navigieren, um Administratorrechte hinzuzufügen, zu bearbeiten oder zu entfernen. Weitere Informationen finden Sie unter [Globale Administration übernehmen](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html). Zur [Global Admin Console](https://global-admin-console.adobe.com/) gehen, um sich anzumelden.
+In der Global Admin Console können Sie ein Unternehmen auswählen und zur Registerkarte **[!UICONTROL Administratoren]** navigieren, um Administratorrechte hinzuzufügen, zu bearbeiten oder zu entfernen. Weitere Informationen finden Sie unter [Globale Administration übernehmen](https://helpx.adobe.com/de/enterprise/global-admin-console/adopt-global-administration.html). Zur [Global Admin Console](https://global-admin-console.adobe.com/) gehen, um sich anzumelden.
 
 
 Mit der Global Admin Console wird eine Rolle als globaler Administrator eingeführt. Diese Rolle unterscheidet sich von der eines Systemadministrators und ermöglicht Ihnen Folgendes:
@@ -154,7 +154,7 @@ Ein globaler Administrator kann Organisationen erstellen, Ressourcen wie Produkt
 
    > [ !NHinweis]
    > 
-   > Organisationen können Einschränkungen bezüglich der möglichen Hinzufügung von Kontotypen haben. Diese können auf &quot;[&quot; &#x200B;](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html) anderen Konfigurationsparametern für eine Organisation basieren. Unternehmen erlauben nicht, sowohl Adobe ID-Benutzer als auch BusinessID-Benutzer gleichzeitig hinzuzufügen. Im Allgemeinen sollte es in einer Organisation keine Benutzer beider Typen geben. Abhängig von der Reihenfolge, in der die Regeln festgelegt werden, kann es jedoch einige Benutzer eines bestimmten Kontotyps geben, die vor der Anwendung von Richtlinien oder Regeln aufgetreten sind.
+   > Organisationen können Einschränkungen bezüglich der möglichen Hinzufügung von Kontotypen haben. Diese können auf &quot;[&quot; &#x200B;](https://helpx.adobe.com/de/enterprise/global-admin-console/update-policies.html) anderen Konfigurationsparametern für eine Organisation basieren. Unternehmen erlauben nicht, sowohl Adobe ID-Benutzer als auch BusinessID-Benutzer gleichzeitig hinzuzufügen. Im Allgemeinen sollte es in einer Organisation keine Benutzer beider Typen geben. Abhängig von der Reihenfolge, in der die Regeln festgelegt werden, kann es jedoch einige Benutzer eines bestimmten Kontotyps geben, die vor der Anwendung von Richtlinien oder Regeln aufgetreten sind.
 
 1. Wählen Sie im Abschnitt „Administratorrechte“ mindestens **[!UICONTROL Administratorrollen]**.
 
@@ -164,7 +164,7 @@ Ein globaler Administrator kann Organisationen erstellen, Ressourcen wie Produkt
 
 1. Wählen Sie **[!UICONTROL Speichern]** aus.
 
-1. Wählen Sie nach der Bearbeitung von Organisationen **[!UICONTROL Ausstehende Änderungen überprüfen]** und dann **[!UICONTROL Änderungen übermitteln]** aus, um [&#x200B; Änderungen &#x200B;](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html).
+1. Wählen Sie nach der Bearbeitung von Organisationen **[!UICONTROL Ausstehende Änderungen überprüfen]** und dann **[!UICONTROL Änderungen übermitteln]** aus, um [&#x200B; Änderungen &#x200B;](https://helpx.adobe.com/de/enterprise/global-admin-console/execute-jobs.html).
 
 Wenn eine Administratorrolle hinzugefügt wird, erhält der Benutzer eine E-Mail-Benachrichtigung, die ihn über die Änderung in seiner Rolle informiert.
 
@@ -182,7 +182,7 @@ Nachdem der Administrator hinzugefügt wurde, erhält er eine E-Mail-Nachricht, 
 
 1. Wählen **[!UICONTROL Ausstehende Änderungen überprüfen]** aus, nachdem Sie die Organisationen bearbeitet haben.
 
-Für jede hinzugefügte oder entfernte Administratorrolle wird ein separater Befehl in der Liste Ausstehende Änderungen angezeigt. Wählen Sie nach der Überprüfung **[!UICONTROL Änderungen übermitteln]** aus, um [auszuführen](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html).
+Für jede hinzugefügte oder entfernte Administratorrolle wird ein separater Befehl in der Liste Ausstehende Änderungen angezeigt. Wählen Sie nach der Überprüfung **[!UICONTROL Änderungen übermitteln]** aus, um [auszuführen](https://helpx.adobe.com/de/enterprise/global-admin-console/execute-jobs.html).
 
 ## Administratorrechte entfernen
 
@@ -194,7 +194,7 @@ Für jede hinzugefügte oder entfernte Administratorrolle wird ein separater Bef
 
 1. Wählen **[!UICONTROL OK]** im Bestätigungsdialogfeld aus.
 
-1. Wählen **[!UICONTROL Ausstehende Änderungen überprüfen]** aus, nachdem Sie die Organisationen bearbeitet haben. Wählen Sie nach der Überprüfung **[!UICONTROL Änderungen übermitteln]** aus, um [auszuführen](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html).
+1. Wählen **[!UICONTROL Ausstehende Änderungen überprüfen]** aus, nachdem Sie die Organisationen bearbeitet haben. Wählen Sie nach der Überprüfung **[!UICONTROL Änderungen übermitteln]** aus, um [auszuführen](https://helpx.adobe.com/de/enterprise/global-admin-console/execute-jobs.html).
 
 Nachdem Sie einen Administrator gelöscht haben, erhält der Benutzer eine E-Mail-Benachrichtigung, in der er über den Verlust des Zugriffs auf die Admin Console für diese Organisation informiert wird.
 
