@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Erfahren Sie, wie globale Administratoren detaillierte Lizenzberichte für mehrere Organisationen und Produkte für bestimmte Datumsbereiche generieren und herunterladen können, um die präzise Verfolgung der Lizenzbereitstellung zu erleichtern.
 
-> [!NOTE]
+&#x200B;> [!NOTE]
 >
 > Um einen Lizenzzuweisungsbericht zu erstellen, anzuzeigen und zu exportieren, melden Sie sich bei der [Global Admin Console](https://global-admin-console.adobe.com/) an und gehen Sie zu **[!UICONTROL Insights]** > **[!UICONTROL Berichte]** > **[!UICONTROL Lizenzzuweisung]**.
 
@@ -26,7 +26,7 @@ Berichte zur Lizenzzuweisung helfen Ihnen, die Lizenzbereitstellung proaktiv zu 
 1. Navigieren Sie zur **[[!UICONTROL Insights]](https://global-admin-console.adobe.com/insights)** in der Global Admin Console.
 2. Wählen Sie auf **[!UICONTROL Seite &quot;]**&quot; die Option **[!UICONTROL Bericht erstellen]** aus.
 3. Wählen Sie die Organisationen aus und klicken Sie auf **[!UICONTROL Weiter]**. Sie können jede Organisation einzeln auswählen oder alle untergeordneten Organisationen innerhalb eines übergeordneten Elements mithilfe der Schaltfläche **[!UICONTROL Alle auswählen]** auswählen.
-   > [!NOTE]
+   &#x200B;> [!NOTE]
    >
    >**Wissen, warum Sie bestimmte Organisationen nicht auswählen können**:
    >Wenn eine untergeordnete Organisation keinen Vertrag oder einen separaten Unternehmensvertrag mit demselben Produkt wie die übergeordnete Organisation hat, kann sie keinen Lizenzzuweisungsbericht erstellen. Wenn beispielsweise der Vertrag der übergeordneten Organisation über Adobe Acrobat verfügt und die untergeordnete Organisation denselben Vertrag als Teil eines anderen Vertrags hat, ist das Produkt für die Zuordnung beschränkt. Infolgedessen ist er auch auf die Berichterstellung in der Global Admin Console beschränkt. [Erfahren Sie, wie Sie die Bereitstellung für solche Organisationen mithilfe ihrer jeweiligen Admin Console verfolgen](https://helpx.adobe.com/enterprise/using/assignment-reports.html).
@@ -35,7 +35,7 @@ Berichte zur Lizenzzuweisung helfen Ihnen, die Lizenzbereitstellung proaktiv zu 
    >
    > Zuweisungsberichte können nur für Organisationen mit einem aktiven Vertrag erstellt werden.
 4. Wählen Sie die Produkte aus, die in den Bericht aufgenommen werden sollen, und wählen Sie **[!UICONTROL Weiter]**.
-   > [!NOTE]
+   &#x200B;> [!NOTE]
    >
    >**Wissen, warum Sie bestimmte Produkte nicht auswählen können**:
    >Produkte, die in der Global Admin Console nicht zugeordnet werden können, sind nicht in die Berichterstellung eingeschlossen. Dazu gehören derzeit einige Produkte für digitale Erlebnisse wie [!DNL Workfront], [!DNL Adobe Experience Manager] und [!DNL Adobe Experience Platform] sowie Produkte wie [!DNL Adobe Firefly Services], [!DNL Acrobat Sign] und [!DNL Adobe Stock]. [Mit der Adobe Admin Console finden Sie die Lizenzbereitstellungsdaten für diese Produkte](https://helpx.adobe.com/enterprise/using/assignment-reports.html).
