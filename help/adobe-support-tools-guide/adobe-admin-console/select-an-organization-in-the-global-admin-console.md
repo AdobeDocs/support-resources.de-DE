@@ -18,7 +18,7 @@ Erfahren Sie, wie Sie eine Organisation für die Bearbeitung in der Global Admin
 
 >[!NOTE]
 >
->Nachdem Sie Zugriff auf die [Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html#request-access) haben, können Sie zunächst ein Unternehmen auswählen, um den Namen, die Benutzergruppen, die Produktprofile, die Administratoren und die Organisationsrichtlinien des Unternehmens anzuzeigen und zu verwalten. Um sich bei der Global Admin Console anzumelden, [hier klicken](https://global-admin-console.adobe.com/).
+>Nachdem Sie Zugriff auf die [Global Admin Console](https://helpx.adobe.com/de/enterprise/global-admin-console/adopt-global-administration.html#request-access) haben, können Sie zunächst ein Unternehmen auswählen, um den Namen, die Benutzergruppen, die Produktprofile, die Administratoren und die Organisationsrichtlinien des Unternehmens anzuzeigen und zu verwalten. Um sich bei der Global Admin Console anzumelden, [hier klicken](https://global-admin-console.adobe.com/).
 
 Der Global Admin Console fungiert als zentraler Management-Hub für Adobe-Ressourcen. Globale Administratoren können:
 
@@ -79,6 +79,6 @@ Alle Administratoren, die einer Organisation hinzugefügt oder daraus entfernt w
 
 - Der Organisations-Pfadname ist eindeutig, der einfache Name ist jedoch nur unter den gleichrangigen Elementen eindeutig. Es kann Organisationen mit demselben einfachen Namen an anderer Stelle in der Organisationshierarchie geben.
 
-- Sie können die Liste der mit der ausgewählten Organisation verknüpften Domains nur über die globale Admin Console anzeigen. Wenn Sie Systemadministrator der ausgewählten Organisation sind, wählen Sie die Option **[!UICONTROL In Admin Console öffnen]** aus, um [Domains zu verwalten](https://helpx.adobe.com/enterprise/using/manage-domains-directories.html). Informationen zu den auf der Registerkarte Domains angezeigten Informationen finden Sie unter [Schemata exportieren und importieren](https://helpx.adobe.com/enterprise/global-admin-console/export-and-import-data.html#export-and-import-schemas).
+- Sie können die Liste der mit der ausgewählten Organisation verknüpften Domains nur über die globale Admin Console anzeigen. Wenn Sie Systemadministrator der ausgewählten Organisation sind, wählen Sie die Option **[!UICONTROL In Admin Console öffnen]** aus, um [Domains zu verwalten](https://helpx.adobe.com/de/enterprise/using/manage-domains-directories.html). Informationen zu den auf der Registerkarte Domains angezeigten Informationen finden Sie unter [Schemata exportieren und importieren](https://helpx.adobe.com/de/enterprise/global-admin-console/export-and-import-data.html#export-and-import-schemas).
 
 - IE 11 wird für den globalen Verwaltungszugriff nicht unterstützt. Verwenden Sie einen anderen Browser oder eine neuere Version von IE Browser.
