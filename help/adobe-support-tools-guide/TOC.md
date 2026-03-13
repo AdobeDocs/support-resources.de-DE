@@ -6,7 +6,7 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 40e68cd0bf2212050ebf56b0dad01e9ad78fff5e
+source-git-commit: 4d8db3211486b770bf1ed477bd8d9edda54acce5
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 3%
@@ -15,7 +15,6 @@ ht-degree: 3%
 
 # Support- und Tools-Handbuch für Adobe {#adobe-support-tools-guide}
 
-- [Hinweis zum Ende der Unterstützung für MySQL und Anleitung zur Datenbankkompatibilität für Adobe Commerce](adobe-commerce-support/mysql-end-of-support-notice-and-database-compatibility-guidance-for-adobe-commerce.md)
 - [Übersicht über Support und Tools für Adobe](/help/adobe-support-tools-guide/adobe-support-tools-guide-overview.md)
 - [Adobe Customer Support Experience](adobe-customer-support-experience.md)
 - [Berechtigungskonfiguration für den Adobe-Kunden-Support](adobe-customer-support-entitlement-configuration.md)
@@ -32,6 +31,7 @@ ht-degree: 3%
 - Adobe Workfront-Support {#workfront}
    - [Häufig gestellte Fragen](faq.md)
 - Adobe Commerce-Support {#adobe-commerce-support}
+   - [Hinweis zum Ende der Unterstützung für MySQL und Anleitung zur Datenbankkompatibilität für Adobe Commerce](adobe-commerce-support/mysql-end-of-support-notice-and-database-compatibility-guidance-for-adobe-commerce.md)
    - [So erhalten Sie Sicherheits-Patches und wenden diese an](adobe-commerce-support/how-to-obtain-and-apply-security-patches.md)
    - [Anfordern einer temporären Adobe Commerce-Aktualisierung in der Cloud-Infrastruktur](adobe-commerce-support/how-to-request-temporary-adobe-commerce-on-cloud-infrastructure-upsize.md)
    - [Adobe Commerce P1-Benachrichtigungs-Hotline](adobe-commerce-support/adobe-commerce-p1-notification-hotline.md)
