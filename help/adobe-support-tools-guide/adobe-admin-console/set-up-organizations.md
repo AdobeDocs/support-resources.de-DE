@@ -80,13 +80,13 @@ Als [globaler Administrator](https://helpx.adobe.com/enterprise/global-admin-con
 >[!TIP]
 >
 >Verwenden Sie einen klaren, erkennbaren Organisationsnamen mit bis zu 255 Zeichen, um Benutzern die Auswahl des richtigen Profils zu erleichtern. Verwenden Sie keine Sonderzeichen und erwägen Sie, Region, Abteilung oder Berechtigung einzuschließen. Vermeiden Sie außerdem ungewöhnliche Akronyme und vage oder ähnliche Namen in Ihrer Unternehmenshierarchie.
-Verwenden Sie einen klaren, erkennbaren Organisationsnamen mit bis zu 255 Zeichen, um Benutzern die Auswahl des richtigen Profils zu erleichtern. Verwenden Sie keine Sonderzeichen und erwägen Sie, Region, Abteilung oder Berechtigung einzuschließen. Vermeiden Sie außerdem ungewöhnliche Akronyme und vage oder ähnliche Namen in Ihrer Unternehmenshierarchie.
+>Verwenden Sie einen klaren, erkennbaren Organisationsnamen mit bis zu 255 Zeichen, um Benutzern die Auswahl des richtigen Profils zu erleichtern. Verwenden Sie keine Sonderzeichen und erwägen Sie, Region, Abteilung oder Berechtigung einzuschließen. Vermeiden Sie außerdem ungewöhnliche Akronyme und vage oder ähnliche Namen in Ihrer Unternehmenshierarchie.
 
 Änderungen werden im Administratorprotokoll protokolliert, alle Benutzer werden per E-Mail benachrichtigt und der Name kann 24 Stunden lang nicht erneut aktualisiert werden. [Erfahren Sie, wie Sie Auditprotokolle anzeigen und herunterladen können](https://helpx.adobe.com/enterprise/global-admin-console/insights.html).
 
 ## Ändern des übergeordneten Elements einer Organisation
 
-[!DNL Global Administrator](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html) können Sie eine Organisation in der Organisationshierarchie mithilfe der Schaltfläche **[!UICONTROL Hierarchie ändern]** neu übergeben.
+[[!DNL Global Administrator]](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html) können Sie eine Organisation in der Organisationshierarchie mithilfe der Schaltfläche **[!UICONTROL Hierarchie ändern]** neu übergeben.
 
 Das Ändern des übergeordneten Elements einer Organisation hat die folgenden Auswirkungen:
 
@@ -119,7 +119,7 @@ Erfahren Sie mehr über die [Einschränkungen bei der Produktzuweisung](https://
 >[!WARNING]
 >
 > Sie können untergeordnete Organisationen nur zu Stammorganisationen hinzufügen, die auf demselben Speichermodell basieren. Untergeordnete Organisationen, die auf dem Benutzerspeichermodell basieren, können daher nur zu Stammorganisationen hinzugefügt werden, die auf dem Benutzerspeichermodell basieren. Außerdem können untergeordnete Organisationen, die auf dem Enterprise-Speichermodell basieren, nur auf Basis des Enterprise-Speichermodells zu Stammorganisationen hinzugefügt werden.
-Sie können untergeordnete Organisationen nur zu Stammorganisationen hinzufügen, die auf demselben Speichermodell basieren. Untergeordnete Organisationen, die auf dem Benutzerspeichermodell basieren, können daher nur auf der Grundlage des Benutzerspeichermodells zu Stammorganisationen hinzugefügt werden. Außerdem können untergeordnete Organisationen, die auf dem Enterprise-Speichermodell basieren, nur auf Basis des Enterprise-Speichermodells zu Stammorganisationen hinzugefügt werden.
+>Sie können untergeordnete Organisationen nur zu Stammorganisationen hinzufügen, die auf demselben Speichermodell basieren. Untergeordnete Organisationen, die auf dem Benutzerspeichermodell basieren, können daher nur auf der Grundlage des Benutzerspeichermodells zu Stammorganisationen hinzugefügt werden. Außerdem können untergeordnete Organisationen, die auf dem Enterprise-Speichermodell basieren, nur auf Basis des Enterprise-Speichermodells zu Stammorganisationen hinzugefügt werden.
 
 Die Registerkarte **[!UICONTROL Organisationszuordnung]** zeigt Folgendes an:
 
@@ -132,7 +132,7 @@ Wenn eine Organisation zur globalen Administration hinzugefügt wird, bleiben Pr
 2. Wählen Sie in der Dropdown-Liste eine übergeordnete Organisation aus.\
    Dies sind die Organisationen, denen Sie als globaler Administrator direkt hinzugefügt werden. Wenn in der Dropdown-Liste keine Organisation angezeigt wird, die als übergeordnetes Element verwendet werden soll, wählen Sie eine weiter oben in der Hierarchie aus. Sobald der Vorgang „Organisationszuordnung“ abgeschlossen ist, können Sie mit [Hierarchie ändern](https://helpx.adobe.com/enterprise/global-admin-console/set-up-organizations.html#change-the-parent-of-an-organization) die neue Organisation in der Baumstruktur nach unten verschieben, um das übergeordnete Element zu erhalten, das Sie verwenden möchten.
 3. Wählen Sie die Organisationen aus, die als untergeordnete Organisationen der im vorherigen Schritt ausgewählten Organisation hinzugefügt werden sollen.
-4. Wählen **[!UICONTROL Ausstehende Änderungen überprüfen]** aus. Wählen Sie dann **[!UICONTROL Änderungen übermitteln]** aus, um [ auszuführen](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html).
+4. Wählen **[!UICONTROL Ausstehende Änderungen überprüfen]** aus. Wählen Sie dann **[!UICONTROL Änderungen übermitteln]** aus, um [&#x200B; auszuführen](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html).
 5. Nachdem Sie die Änderungen ausgeführt haben, können Sie die oben genannten Schritte wiederholen, um weitere untergeordnete Organisationen zu Ihrer Organisationshierarchie hinzuzufügen.
 
 Sobald sich eine Organisation in der Hierarchie befindet, können Sie Organisationsrichtlinien, Administratoren oder andere Einstellungen anpassen, indem Sie zur Registerkarte **[!UICONTROL Organisationen]** navigieren.
