@@ -36,7 +36,7 @@ Teil der unternehmensübergreifenden Verteilung und Verwaltung von Adobe-Produkt
 Dies gilt für Kunden, die über eine Registerkarte „Speicherung“ in ihrer Admin Console verfügen. Wenn keine Registerkarte „Speicher“ angezeigt wird, wurde Ihr Admin Console noch nicht auf das Enterprise-Speichermodell aktualisiert. Nach der Migration Ihrer Organisation werden die folgenden Änderungen angezeigt:
 
 - Globale Administratoren erhalten Zugriff auf das Speicherkontingent und die Nutzung in der gesamten Hierarchie und können über die Registerkarte **[!UICONTROL Produktzuweisung]** in der [Global Admin Console](https://adminconsole.adobe.com/) Speicher Organisationen zuweisen.
-- Systemadministratoren und Speicheradministratoren haben die volle Kontrolle über die Speichersysteme im gesamten Unternehmen und können diese anzeigen. Sie können den Speicher mithilfe der Registerkarte **[!UICONTROL Speicher]** in der [Adobe Admin Console ](https://adminconsole.adobe.com/) und verwalten.
+- Systemadministratoren und Speicheradministratoren haben die volle Kontrolle über die Speichersysteme im gesamten Unternehmen und können diese anzeigen. Sie können den Speicher mithilfe der Registerkarte **[!UICONTROL Speicher]** in der [Adobe Admin Console &#x200B;](https://adminconsole.adobe.com/) und verwalten.
 
 Mit den Aktualisierungen des Adobe Creative Cloud-Speichers sind die Speicherkontingente für Endbenutzer bis hin zur vom Unternehmen erworbenen Speichermenge flexibel. [Weitere Informationen](https://helpx.adobe.com/enterprise/using/manage-adobe-storage.html).
 
@@ -50,7 +50,7 @@ Gehen Sie wie folgt vor, um einer Organisation Produkte zuzuweisen:
 1. Wählen Sie ein Produkt aus der Dropdown-Liste aus, um zu sehen, wie es den verschiedenen Organisationen zugeordnet ist.\
    Wenn eine Organisation das Produkt derzeit nicht hat, wird das **[!UICONTROL Hinzufügen +]** angezeigt.
 
-   >[!NHinweis]
+   >[ !NHinweis]
    >
    >Wenn die untergeordnete Organisation bereits über einen Kaufvertrag verfügt, kann die Produktzuordnung von der übergeordneten Organisation zu dieser untergeordneten Organisation eingeschränkt sein. [Weitere Informationen](https://helpx.adobe.com/enterprise/global-admin-console/allocate-products.html#limited-product-allocation).
 
@@ -100,8 +100,8 @@ Sie können keine Produkte aus einem abgelaufenen ETLA-Vertrag einer untergeordn
 
 ![Produktzuordnung](/help/adobe-support-tools-guide/assets/product-allocation.png)
 
->[!IWichtig]
+>[ !IWichtig]
 >
 >Sobald ein ETLA-Vertrag, der Teil der Hierarchie ist, inaktiv ist, werden die Produkte aus den Seiten **[!UICONTROL Übersicht]** und **[!UICONTROL Produktzuordnung]** entfernt.
 
-[Erfahren Sie mehr über ](https://helpx.adobe.com/enterprise/using/contract-expiry.html), oder wenden Sie sich an den Administrator Ihres Unternehmens, um zu verhindern, dass Benutzende in der untergeordneten Organisation den Zugriff auf ihre Adobe-Programme und -Services verlieren.
+[Erfahren Sie mehr über &#x200B;](https://helpx.adobe.com/enterprise/using/contract-expiry.html), oder wenden Sie sich an den Administrator Ihres Unternehmens, um zu verhindern, dass Benutzende in der untergeordneten Organisation den Zugriff auf ihre Adobe-Programme und -Services verlieren.
