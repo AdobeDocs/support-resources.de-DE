@@ -29,7 +29,7 @@ Als globaler Administrator haben Sie uneingeschränkten Einblick in die Änderun
 
 >[!NOTE]
 >
-> Als Systemadministrator in einer [Adobe Admin Console](https://adminconsole.adobe.com)-Organisation können Sie das [Auditprotokoll](https://helpx.adobe.com/enterprise/using/audit-logs.html) verwenden, um Benutzerzuweisungen und Benutzerereignisse zu überprüfen. Von Systemadministratoren in untergeordneten Organisationen der ausgewählten Organisation durchgeführte Aktionen werden ebenfalls in die Auditprotokolle aufgenommen. Erfahren Sie mehr darüber, wie Systemadministratoren in [&#x200B; Admin Console vorgenommene &#x200B;](https://helpx.adobe.com/enterprise/using/audit-logs.html) verfolgen können.
+> Als Systemadministrator in einer [Adobe Admin Console](https://adminconsole.adobe.com)-Organisation können Sie das [Auditprotokoll](https://helpx.adobe.com/de/enterprise/using/audit-logs.html) verwenden, um Benutzerzuweisungen und Benutzerereignisse zu überprüfen. Von Systemadministratoren in untergeordneten Organisationen der ausgewählten Organisation durchgeführte Aktionen werden ebenfalls in die Auditprotokolle aufgenommen. Erfahren Sie mehr darüber, wie Systemadministratoren in [&#x200B; Admin Console vorgenommene &#x200B;](https://helpx.adobe.com/de/enterprise/using/audit-logs.html) verfolgen können.
 
 So zeigen Sie Auditprotokolle für Ihr Unternehmen an oder laden diese herunter:
 
@@ -106,7 +106,7 @@ Herunterladen eines Exportberichts:
 
 1. Melden Sie sich bei der [Global Admin Console an &#x200B;](https://global-admin-console.adobe.com/insights) navigieren Sie zu **[!UICONTROL Insights]** > **[!UICONTROL Berichte exportieren]**.
 
-   Die in den letzten 90 Tagen generierten Berichte werden angezeigt. Sobald die 90 Tage abgeschlossen sind, können Sie den Bericht erneut generieren. Erfahren Sie, wie Sie Berichte für [Organisationsstruktur“ &#x200B;](https://helpx.adobe.com/enterprise/global-admin-console/export-and-import-data.html#export-and-import-organization-structure) können.
+   Die in den letzten 90 Tagen generierten Berichte werden angezeigt. Sobald die 90 Tage abgeschlossen sind, können Sie den Bericht erneut generieren. Erfahren Sie, wie Sie Berichte für [Organisationsstruktur“ &#x200B;](https://helpx.adobe.com/de/enterprise/global-admin-console/export-and-import-data.html#export-and-import-organization-structure) können.
 
 
    | Feld | Beschreibung |
