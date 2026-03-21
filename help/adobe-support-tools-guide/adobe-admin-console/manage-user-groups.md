@@ -24,7 +24,7 @@ Wählen Sie in der {0[Global Admin Console} eine Organisation aus und navigieren
 
 ## Erstellen von Benutzergruppen
 
-Sie können [Benutzergruppen](https://helpx.adobe.com/de/enterprise/using/user-groups.html) einzeln, in großen Mengen oder [direkt synchronisieren) aus einer etablierten Azure-Anzeige &#x200B;](https://helpx.adobe.com/enterprise/using/add-azure-sync.html) einem Federated Directory in der Adobe Admin Console erstellen. In der Global Admin Console können Sie Benutzergruppen mit entsprechenden Produktprofilen definieren, denen die Benutzergruppen-Administrierenden später mithilfe der Admin Console Benutzende hinzufügen können.
+Sie können [Benutzergruppen](https://helpx.adobe.com/de/enterprise/using/user-groups.html) einzeln, in großen Mengen oder [direkt synchronisieren) aus einer etablierten Azure-Anzeige &#x200B;](https://helpx.adobe.com/de/enterprise/using/add-azure-sync.html) einem Federated Directory in der Adobe Admin Console erstellen. In der Global Admin Console können Sie Benutzergruppen mit entsprechenden Produktprofilen definieren, denen die Benutzergruppen-Administrierenden später mithilfe der Admin Console Benutzende hinzufügen können.
 
 1. Melden Sie sich bei der [Global Admin Console](https://global-admin-console.adobe.com/) an, wählen Sie eine zu bearbeitende Organisation aus und navigieren Sie dann zur Registerkarte **[!UICONTROL Benutzergruppen]** .
 
