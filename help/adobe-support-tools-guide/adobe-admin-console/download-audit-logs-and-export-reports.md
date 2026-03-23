@@ -4,13 +4,13 @@ description: Erfahren Sie, wie globale Administratoren Audit-Protokolle und -Ber
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-source-git-commit: d9dd4958b09ab10c4755671c0956698223c0a7b0
+exl-id: 4b562a4d-14e5-4687-a1ae-6a435f087627
+source-git-commit: 8db982f6a642a288453086c23d20b44b14d55354
 workflow-type: tm+mt
 source-wordcount: '880'
 ht-degree: 3%
 
 ---
-
 
 # Herunterladen von Auditprotokollen und Exportieren von Berichten
 
@@ -29,7 +29,7 @@ Als globaler Administrator haben Sie uneingeschränkten Einblick in die Änderun
 
 >[!NOTE]
 >
-> Als Systemadministrator in einer [Adobe Admin Console](https://adminconsole.adobe.com)-Organisation können Sie das [Auditprotokoll](https://helpx.adobe.com/de/enterprise/using/audit-logs.html) verwenden, um Benutzerzuweisungen und Benutzerereignisse zu überprüfen. Von Systemadministratoren in untergeordneten Organisationen der ausgewählten Organisation durchgeführte Aktionen werden ebenfalls in die Auditprotokolle aufgenommen. Erfahren Sie mehr darüber, wie Systemadministratoren in [&#x200B; Admin Console vorgenommene &#x200B;](https://helpx.adobe.com/de/enterprise/using/audit-logs.html) verfolgen können.
+> Als Systemadministrator in einer [Adobe Admin Console](https://adminconsole.adobe.com)-Organisation können Sie das [Auditprotokoll](https://helpx.adobe.com/enterprise/using/audit-logs.html) verwenden, um Benutzerzuweisungen und Benutzerereignisse zu überprüfen. Von Systemadministratoren in untergeordneten Organisationen der ausgewählten Organisation durchgeführte Aktionen werden ebenfalls in die Auditprotokolle aufgenommen. Erfahren Sie mehr darüber, wie Systemadministratoren in [ Admin Console vorgenommene ](https://helpx.adobe.com/enterprise/using/audit-logs.html) verfolgen können.
 
 So zeigen Sie Auditprotokolle für Ihr Unternehmen an oder laden diese herunter:
 
@@ -104,9 +104,9 @@ Alle von einem beliebigen globalen Administrator erstellten Berichte stehen an e
 
 Herunterladen eines Exportberichts:
 
-1. Melden Sie sich bei der [Global Admin Console an &#x200B;](https://global-admin-console.adobe.com/insights) navigieren Sie zu **[!UICONTROL Insights]** > **[!UICONTROL Berichte exportieren]**.
+1. Melden Sie sich bei der [Global Admin Console an ](https://global-admin-console.adobe.com/insights) navigieren Sie zu **[!UICONTROL Insights]** > **[!UICONTROL Berichte exportieren]**.
 
-   Die in den letzten 90 Tagen generierten Berichte werden angezeigt. Sobald die 90 Tage abgeschlossen sind, können Sie den Bericht erneut generieren. Erfahren Sie, wie Sie Berichte für [Organisationsstruktur“ &#x200B;](https://helpx.adobe.com/de/enterprise/global-admin-console/export-and-import-data.html#export-and-import-organization-structure) können.
+   Die in den letzten 90 Tagen generierten Berichte werden angezeigt. Sobald die 90 Tage abgeschlossen sind, können Sie den Bericht erneut generieren. Erfahren Sie, wie Sie Berichte für [Organisationsstruktur“ ](https://helpx.adobe.com/enterprise/global-admin-console/export-and-import-data.html#export-and-import-organization-structure) können.
 
 
    | Feld | Beschreibung |
@@ -121,6 +121,6 @@ Herunterladen eines Exportberichts:
 
    Wenn der soeben generierte Bericht nicht in der Liste angezeigt wird, wählen Sie **[!UICONTROL Aktualisieren]** aus.
 
-![export-reports](assets/export-reports.png)
+   ![export-reports](assets/export-reports.png)
 
 *Laden Sie alle Berichte herunter, die in den letzten 90 Tagen generiert wurden.*
