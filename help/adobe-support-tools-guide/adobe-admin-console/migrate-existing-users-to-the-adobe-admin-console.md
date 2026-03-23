@@ -25,7 +25,7 @@ Um eine Unterbrechung des Produktzugriffs für Endbenutzer zu vermeiden, müssen
 
 * Kunden von ETLA sollten eine Produktüberschneidung von mindestens 30 Tagen einräumen. Schließen Sie die Migration vor dem Jubiläumsdatum ab, damit Benutzer weiterhin Zugriff auf Adobe-Apps und -Services haben. Weitere Informationen zum Ablauf von ETLA-Verträgen finden Sie [Automatisierte Ablaufphasen für ETLA-Verträge](https://helpx.adobe.com/enterprise/using/contract-expiry.html).
 * Kaufen Sie für VIP-Kunden Lizenzen vor dem Jubiläumsdatum, und weisen Sie Lizenzen zu, bevor das Verlängerungsfenster zu Ihrer aktuellen VIP-Laufzeit geschlossen wird.
-* CLP- oder TLP-Kunden können mithilfe der Migrationsanweisungen unter „Lizenzierung“ von serialisierten Acrobat- oder Creative Suite-[ zu ](https://helpx.adobe.com/enterprise/using/licensing.html) migrieren.
+* CLP- oder TLP-Kunden können mithilfe der Migrationsanweisungen unter „Lizenzierung“ von serialisierten Acrobat- oder Creative Suite-[&#x200B; zu &#x200B;](https://helpx.adobe.com/enterprise/using/licensing.html) migrieren.
 
 >[!NOTE]
 >
@@ -88,7 +88,7 @@ Weisen Sie Lizenzen mithilfe einer CSV-Vorlage aus der [!DNL Admin Console] eine
 * Sie sind ein VIP-Kunde, der die Anforderungen für die schnelle Lizenzzuweisung nicht erfüllt, oder
 * Sie müssen Lizenzen außerhalb Ihres Verlängerungsfensters zuweisen.
 
-1. Nachdem Sie Zugriff auf die [Adobe Admin Console ](https://adminconsole.adobe.com/enterprise) und Ihre Lizenzen hinzugefügt wurden, navigieren Sie zu **[!UICONTROL Benutzer]** > **[!UICONTROL Benutzer]**.
+1. Nachdem Sie Zugriff auf die [Adobe Admin Console &#x200B;](https://adminconsole.adobe.com/enterprise) und Ihre Lizenzen hinzugefügt wurden, navigieren Sie zu **[!UICONTROL Benutzer]** > **[!UICONTROL Benutzer]**.
 2. Klicken Sie ![Menü &quot;](assets/migrate-more-options.png)&quot; oben rechts auf der Seite **[!UICONTROL Benutzer]** und wählen Sie **[!UICONTROL Benutzerdetails nach CSV bearbeiten]**.
 3. Klicken Sie **[!UICONTROL Dialogfeld Benutzer nach CSV bearbeiten]** auf **[!UICONTROL CSV-Vorlage herunterladen]** und wählen Sie **[!UICONTROL Aktuelle Benutzerliste]** aus.
 
@@ -107,7 +107,7 @@ Wenn Sie über ein VIP-Abonnement verfügen und Benutzer nach ETLA verschieben, 
 
 1. Melden Sie sich bei der [Adobe Admin Console](https://adminconsole.adobe.com/enterprise) an und öffnen Sie die Organisation, die Ihre VIP-Benutzer enthält.
 2. Navigieren Sie **[!UICONTROL Benutzer]** > **[!UICONTROL Benutzer]**.
-3. Klicken Sie ![ oben rechts auf ](assets/migrate-more-options.png)Menü „Weitere Optionen“ und wählen Sie dann **[!UICONTROL Benutzerliste in CSV exportieren]**.
+3. Klicken Sie ![&#x200B; oben rechts auf &#x200B;](assets/migrate-more-options.png)Menü „Weitere Optionen“ und wählen Sie dann **[!UICONTROL Benutzerliste in CSV exportieren]**.
 4. Öffnen Sie die ETLA-Organisation, in der diese Benutzer verwendet werden sollen.
 5. Navigieren Sie **[!UICONTROL Benutzer]** > **[!UICONTROL Benutzer]**.
 6. Klicken Sie **[!UICONTROL Benutzer durch CSV hinzufügen]**.
@@ -128,7 +128,7 @@ Wenn Sie über ein ETLA-Abonnement verfügen und Benutzende zu VIP verschieben:
 
 1. Melden Sie sich bei der [Adobe Admin Console](https://adminconsole.adobe.com/enterprise) an und öffnen Sie die Organisation, die Ihre ETLA-Benutzer enthält.
 2. Navigieren Sie **[!UICONTROL Benutzer]** > **[!UICONTROL Benutzer]**.
-3. Klicken Sie ![ oben rechts auf ](assets/migrate-more-options.png)Menü „Weitere Optionen“ und wählen Sie dann **[!UICONTROL Benutzerliste in CSV exportieren]**.
+3. Klicken Sie ![&#x200B; oben rechts auf &#x200B;](assets/migrate-more-options.png)Menü „Weitere Optionen“ und wählen Sie dann **[!UICONTROL Benutzerliste in CSV exportieren]**.
 
    ![Menü Benutzerliste exportieren](assets/migrate-export-user-list.png)
 
