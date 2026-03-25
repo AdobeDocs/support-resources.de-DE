@@ -5,9 +5,9 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 3220086a-4603-465f-a3e3-194193ca10ba
-source-git-commit: ee2da1708a19eb7871ffb03f2840c0b7d82bd159
+source-git-commit: 91d79132e11b322fd0ebd77df918be07060595fa
 workflow-type: tm+mt
-source-wordcount: '4423'
+source-wordcount: '4425'
 ht-degree: 3%
 
 ---
@@ -18,11 +18,11 @@ ht-degree: 3%
 
 Erfahren Sie, wie globale Administratoren die Organisations- und Produktverwaltung mit Export- und Importfunktionen in der Global Admin Console optimieren können.
 
-Greifen Sie auf die **[!UICONTROL Organisationen]** in der [Global Admin Console zu](https://helpx.adobe.com/de/enterprise/global-admin-console/adopt-global-administration.html) um die Organisationsstruktur zu exportieren oder zu importieren. Gehen Sie zur Registerkarte **[!UICONTROL Produktzuordnung]** für Zuordnungsdaten. Verwenden Sie das Symbol **[!UICONTROL Weitere Optionen]** **⋮**, um Export oder Import auszuwählen. [Melden Sie sich bei Global Admin Console an](https://global-admin-console.adobe.com).
+Greifen Sie auf die **[!UICONTROL Organisationen]** in der [Global Admin Console zu](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html) um die Organisationsstruktur zu exportieren oder zu importieren. Gehen Sie zur Registerkarte **[!UICONTROL Produktzuordnung]** für Zuordnungsdaten. Verwenden Sie das Symbol **[!UICONTROL Weitere Optionen]** **⋮**, um Export oder Import auszuwählen. [Melden Sie sich bei Global Admin Console an](https://global-admin-console.adobe.com).
 
 ## Exportieren der Organisationsstruktur
 
-Als [globaler Administrator](https://helpx.adobe.com/de/enterprise/global-admin-console/manage-administrators.html) können Sie die Organisationshierarchie exportieren. Sie können eine JSON-, CSV- oder XLSX-Darstellung der gesamten Organisationshierarchie oder einer Untergruppe davon herunterladen. Sie können diese Daten dann zur Analyse oder Änderung verwenden.
+Als [globaler Administrator](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html) können Sie die Organisationshierarchie exportieren. Sie können eine JSON-, CSV- oder XLSX-Darstellung der gesamten Organisationshierarchie oder einer Untergruppe davon herunterladen. Sie können diese Daten dann zur Analyse oder Änderung verwenden.
 
 Das ausgewählte Exportformat wirkt sich auf die Struktur der exportierten Daten aus:
 
@@ -51,7 +51,7 @@ Nach dem Herunterladen der Datei können Sie die Daten bearbeiten und dann wiede
 
 ## Organisationsstruktur importieren
 
-Als [globaler Administrator](https://helpx.adobe.com/de/enterprise/global-admin-console/manage-administrators.html) können Sie potenziell geänderte Daten importieren. Beim Hochladen werden die neuen Daten mit den aktuellen Daten verglichen und alle Änderungen werden auf die Organisationshierarchie angewendet. Alle Importvorgänge werden mit der aktualisierten Kopie der Organisationshierarchie durchgeführt. Wenn Sie ausstehende Änderungen haben, werden die Importänderungen zusätzlich zu den ausstehenden Änderungen in der Hierarchie hinzugefügt.
+Als [globaler Administrator](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html) können Sie potenziell geänderte Daten importieren. Beim Hochladen werden die neuen Daten mit den aktuellen Daten verglichen und alle Änderungen werden auf die Organisationshierarchie angewendet. Alle Importvorgänge werden mit der aktualisierten Kopie der Organisationshierarchie durchgeführt. Wenn Sie ausstehende Änderungen haben, werden die Importänderungen zusätzlich zu den ausstehenden Änderungen in der Hierarchie hinzugefügt.
 
 ### Importschritte
 
@@ -59,7 +59,7 @@ Als [globaler Administrator](https://helpx.adobe.com/de/enterprise/global-admin-
 2. Wählen Sie das Symbol **[!UICONTROL Weitere Optionen]** **⋮** und dann **[!UICONTROL Importieren]** aus. Je nach Größe und Komplexität der Importdatei kann die Verarbeitung einige Sekunden bis mehrere Minuten dauern.
 3. Wählen Sie **[!UICONTROL Datei auswählen]** und wählen Sie eine JSON-, CSV- oder XLSX-Datei zum Hochladen aus. Bei CSV-Dateien kann jeweils nur ein Organisationsdetail importiert werden, während der Import von Produkten nicht unterstützt wird. Die importierten Änderungen erscheinen so, als hätten Sie die Daten manuell bearbeitet.
 4. Wählen Sie **[!UICONTROL Schließen]** aus.
-5. Wählen **[!UICONTROL Ausstehende Änderungen überprüfen]** aus. Wählen Sie dann **[!UICONTROL Änderungen übermitteln]** aus, um [&#x200B; auszuführen](https://helpx.adobe.com/de/enterprise/global-admin-console/execute-jobs.html). Vor dem Ausführen der Änderungen werden die ausstehenden Aktionen auf dieselbe Weise angezeigt wie bei manuellen Bearbeitungen in der Global Admin Console.
+5. Wählen **[!UICONTROL Ausstehende Änderungen überprüfen]** aus. Wählen Sie dann **[!UICONTROL Änderungen übermitteln]** aus, um [ auszuführen](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html). Vor dem Ausführen der Änderungen werden die ausstehenden Aktionen auf dieselbe Weise angezeigt wie bei manuellen Bearbeitungen in der Global Admin Console.
 
 ## Schemata exportieren und importieren
 
@@ -215,7 +215,7 @@ Eingabedateien ohne oder leeres Operationsfeld werden ignoriert.
   <tr>
     <th>Feldname</th>
     <th>Beschreibung</th>
-    <th>Verwenden von </th>
+    <th>Verwenden von</th>
   </tr>
 
 <tr>
@@ -254,14 +254,14 @@ Länder- oder Regionscode, in dem der Benutzer tätig ist. Gilt nur für Federat
 
 <tr>
     <td>userType</td>
-    <td>Entweder "Adobe ID", "Enterprise ID" oder "Federated ID".</td>
+    <td>Eines von Adobe ID, Enterprise ID oder Federated ID.</td>
     <td>Schreibgeschützt</td>
   </tr>
 
 <tr>
     <td>adminType</td>
-    <td>ENTWEDER „GLOBAL ADMIN“, „GLOBAL VIEWER“, „SYSTEM ADMIN“, „USER GROUP ADMIN“, „PRODUCT ADMIN“, „PRODUCT PROFILE ADMIN“, „DEPLOYMENT ADMIN“ ODER „STORAGE_ADMIN“.</td>
-    <td rowspan="4">Kann festgelegt werden, wenn operation=Create</td>
+    <td>GLOBALER ADMIN, GLOBALER VIEWER, SYSTEMADMIN, BENUTZERGRUPPEN-ADMIN, PRODUKT-ADMIN, PRODUKTPROFIL-ADMIN, BEREITSTELLUNGS-ADMIN UND SPEICHER-ADMIN.</td>
+    <td rowspan="5">Kann festgelegt werden, wenn operation=Create</td>
   </tr>
 
 <tr>
@@ -285,7 +285,6 @@ Länder- oder Regionscode, in dem der Benutzer tätig ist. Gilt nur für Federat
 <tr>
     <td>userName</td>
     <td>Benutzername des Benutzers, wenn keine E-Mail-Adresse verwendet wird</td>
-    <td></td>
   </tr>
 
 <tr>
@@ -309,7 +308,7 @@ Exporte und Importe von Produktprofilen bestehen aus zwei Teilen: den Produktpro
 
 - Die Ressourcenobjekte sind im Produktprofil im JSON-Format verschachtelt.
 - Bei Verwendung von CSV oder XLSX mit Produktprofilen werden die Profile und Ressourcen zu einer Tabelle zusammengefasst. Für das Produktprofil sind mehrere Einträge vorhanden, einer für jede Ressource.
-- Das Feld „Ausgewählt“ in der Ressource steuert, ob der Service aktiviert ist.
+- Das ausgewählte Feld in der Ressource steuert, ob der Service aktiviert ist.
 - Beim Importieren von Produktprofilen muss es einen Vorgang Erstellen oder Aktualisieren für das Produktprofil selbst und für alle Ressourcenobjekte geben, die aktualisiert oder erstellt werden sollen.
 
 
@@ -317,7 +316,7 @@ Exporte und Importe von Produktprofilen bestehen aus zwei Teilen: den Produktpro
   <tr>
     <th>Feldname</th>
     <th>Beschreibung</th>
-    <th>Verwenden von </th>
+    <th>Verwenden von</th>
   </tr>
 
 <tr>
@@ -368,7 +367,7 @@ Organisation, die die Benutzergruppe enthält
 <tr>
     <td>Ressourcen</td>
     <td> Array von Ressourcen, die mit diesem Produktprofil verknüpft sind.
-Das Feld Ressourcen ist nur für das JSON-Format vorhanden. Für das CSV- und XLSX-Format werden Ressourcen mit den folgenden zusätzlichen Feldern dargestellt: resourceName, resourceId, resourceDescription, icon, selected, quota, resourceType. Einzelheiten zu diesen Feldern finden Sie unter [Produkte und Ressourcen](#products-and-resources).
+Das Feld Ressourcen ist nur für das JSON-Format vorhanden. Für das CSV- und XLSX-Format werden Ressourcen mit den folgenden zusätzlichen Feldern dargestellt: resourceName, resourceId, resourceDescription, icon, selected, quota, resourceType. Einzelheiten zu diesen Feldern finden Sie im Abschnitt „Produkte und Ressourcen“.
 Wenn das Produktprofil mehr als eine Ressource hat, sind mehrere Zeilen vorhanden, eine für jede Ressource. Die anderen Felder haben für jede Ressource dieselben Werte. </td>
     <td></td>
   </tr>
@@ -386,7 +385,7 @@ Wenn das Produktprofil mehr als eine Ressource hat, sind mehrere Zeilen vorhande
 
 - productProfileId, licenseId und orgId müssen gültige Werte haben.
 - Beim Erstellen eines Produktprofils muss der productProfileName ein gültiger Name sein und darf keinen anderen Produktprofilnamen oder Benutzergruppennamen in derselben Organisation duplizieren.
-- Das Kontingentfeld muss einen gültigen Wert für den Einheitentyp haben. Dies ist numerisch oder „unbegrenzt“, wenn resourceType=QUOTA oder andernfalls leer ist.
+- Das Kontingentfeld muss einen gültigen Wert für den Einheitentyp haben. Dies ist numerisch oder unbegrenzt, wenn resourceType=QUOTA oder andernfalls leer ist.
 - Das Benachrichtigungsfeld muss „true“ oder „false“ sein.
 - Validieren Sie für CSV- und XLSX-Importe productProfileId. Alle Einträge müssen dieselbe orgId, licenseId und productProfileName aufweisen.
 - Überprüfen Sie doppelten productProfileName in der Eingabedatei und in der Organisation.
@@ -403,7 +402,7 @@ Wenn das Produktprofil mehr als eine Ressource hat, sind mehrere Zeilen vorhande
   <tr>
     <th>Feldname</th>
     <th>Beschreibung</th>
-    <th>Verwenden von </th>
+    <th>Verwenden von</th>
   </tr>
 
 <tr>
@@ -483,7 +482,7 @@ Wenn das Produktprofil mehr als eine Ressource hat, sind mehrere Zeilen vorhande
   <tr>
     <th>Feldname</th>
     <th>Beschreibung</th>
-    <th>Verwenden von </th>
+    <th>Verwenden von</th>
   </tr>
 
 <tr>
@@ -558,13 +557,13 @@ Wenn das Produktprofil mehr als eine Ressource hat, sind mehrere Zeilen vorhande
 Die Domain-Informationen enthalten schreibgeschützte Informationen zu den in den einzelnen Organisationen verfügbaren Domains. Diese Daten können nicht bearbeitet werden.
 
 
-| Feldname | Beschreibung | Verwenden von  |
+| Feldname | Beschreibung | Verwenden von |
 | ------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
 | orgId | Verweis auf die Organisation, in der diese Domain aufgeführt ist | Wird als Referenz verwendet, um enthaltende oder verknüpfte Objekte zu finden. |
 | domainName | Name der Domain (z. B. adobe.com). | Schreibgeschützt |
 | directoryName | Name des Verzeichnisses, in dem die Domain aufgeführt ist | Schreibgeschützt |
 | directoryType | Einer von Federated ID oder Enterprise ID. | Schreibgeschützt |
-| domainStatus | entweder „AKTIV“, „RESERVIERT“, „NICHT BEANSPRUCHT“, „BEANSPRUCHT“, „VALIDIERT“, „ZURÜCKGEZOGEN“, „ABGELAUFEN“. | Schreibgeschützt |
+| domainStatus | entweder AKTIV, RESERVIERT, NICHT BEANSPRUCHT, BEANSPRUCHT, VALIDIERT, ZURÜCKGEZOGEN, ABGELAUFEN. | Schreibgeschützt |
 
 
 ### Produkte und Ressourcen {#products-and-resources}
@@ -574,7 +573,7 @@ In XLSX-Dateien gibt es zwei Blätter - eine für Produkte und eine für die Res
 **Produkte**
 
 
-| Feldname | Beschreibung | Verwenden von  |
+| Feldname | Beschreibung | Verwenden von |
 | ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
 | licenseId | Kennung, die das Produkt identifiziert. Jedes Produkt verfügt über eine eindeutige Lizenzkennung in der Organisation, in der es aufgeführt ist. Wenn Sie ein neues Produkt hinzufügen, kann dies leer sein oder eine Platzhalterkennung verwenden (z. B. new_product_1). Nach der Erstellung wird eine tatsächliche Lizenzkennung zugewiesen, die alle Verwendungen der Platzhalter-Lizenzkennung ersetzt. | Kann bei operation=create auf einen temporären Wert gesetzt werden |
 | productName | Name des Produkts | Schreibgeschützt |
@@ -606,7 +605,7 @@ In XLSX-Dateien gibt es zwei Blätter - eine für Produkte und eine für die Res
 Ressourcenobjekte können in Produkten und in Produktprofilen angezeigt werden.
 
 
-| Feldname | Beschreibung | Verwenden von  |
+| Feldname | Beschreibung | Verwenden von |
 | ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
 | resourceName | Name der Ressource | Schreibgeschützt |
 | resourceId | Ressourcenkennung | Schreibgeschützt |
@@ -630,7 +629,7 @@ Das Feld Vorgang für Ressourcen wird ignoriert, wenn für das Produkt, zu dem s
 
 ## Importieren und Exportieren von Produktzuordnungsdaten
 
-Als [globaler Administrator](https://helpx.adobe.com/de/enterprise/global-admin-console/manage-administrators.html) können Sie die Produktzuordnungsdaten als JSON- oder CSV-Datei exportieren. Anschließend können Sie diese Daten bearbeiten und zum Importieren der Änderungen hochladen. Beim Hochladen der potenziell geänderten Daten werden die neuen Daten mit den aktuellen Daten verglichen und alle Änderungen werden auf die Produktzuordnungsdaten angewendet. Sie können dann die ausstehenden Änderungen überprüfen und übermitteln, damit sie wirksam werden.
+Als [globaler Administrator](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html) können Sie die Produktzuordnungsdaten als JSON- oder CSV-Datei exportieren. Anschließend können Sie diese Daten bearbeiten und zum Importieren der Änderungen hochladen. Beim Hochladen der potenziell geänderten Daten werden die neuen Daten mit den aktuellen Daten verglichen und alle Änderungen werden auf die Produktzuordnungsdaten angewendet. Sie können dann die ausstehenden Änderungen überprüfen und übermitteln, damit sie wirksam werden.
 
 ## Exportieren des Produktzuordnungsmodells
 
@@ -646,7 +645,7 @@ Sie können Daten exportieren, ändern und dann die geänderte Datei importieren
 1. Melden Sie sich bei der [Global Admin Console](https://global-admin-console.adobe.com/) an und navigieren Sie zur Registerkarte **[!UICONTROL Produktzuordnung]** .
 2. Wählen Sie das ⋮ **[!UICONTROL Weitere Optionen]** und dann **[!UICONTROL Importieren]** aus.
 3. JSON- oder CSV-Datei zum Hochladen auswählen.
-4. Wählen **[!UICONTROL Ausstehende Änderungen überprüfen]** aus. Wählen Sie nach Überprüfung der Änderungen **[!UICONTROL Änderungen übermitteln]** aus, um [&#x200B; Änderungen &#x200B;](https://helpx.adobe.com/de/enterprise/global-admin-console/execute-jobs.html).
+4. Wählen **[!UICONTROL Ausstehende Änderungen überprüfen]** aus. Wählen Sie nach Überprüfung der Änderungen **[!UICONTROL Änderungen übermitteln]** aus, um [ Änderungen ](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html).
 
 ## Export- und Importformate für die Produktzuordnung
 
@@ -667,7 +666,7 @@ Wenn ein Produkt mehr als eine Ressource hat, können Aktualisierungsvorgänge a
 ### Beschreibung der Header
 
 
-| Feldname | Beschreibung | Verwenden von  |
+| Feldname | Beschreibung | Verwenden von |
 | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
 | productName | Name des Produkts. | Schreibgeschützt |
 | licenseId | Kennung eines Produkts (eindeutig für ein Produkt in einer Organisation). Wenn Sie ein neues Produkt hinzufügen, kann dies leer sein oder auf eine Platzhalterkennung (z. B. new_product_1) festgelegt werden. Die Platzhalterkennung wird in Fällen verwendet, in denen andere importierte Einträge auf dieses Produkt verweisen müssen. Nach der Erstellung wird eine tatsächliche Lizenzkennung zugewiesen, die alle Verwendungen der Platzhalter-Lizenzkennung ersetzt. | Kann festgelegt werden, wenn operation=Create |
