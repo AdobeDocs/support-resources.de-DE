@@ -4,9 +4,12 @@ description: Erfahren Sie, wie globale Administratoren Produktprofile in der Glo
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-product_v2: id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 exl-id: 6a0b2d9f-9e02-428c-a2be-bc457230f7e0
 source-git-commit: 74d2dd4eb999f91172eec4c3b5690e1e8b8bd293
 workflow-type: tm+mt
@@ -22,7 +25,7 @@ ht-degree: 1%
 
 ## Überblick
 
-Globale Administratoren können in der [Global Admin Console Produktprofile hinzufügen, bearbeiten und ](https://global-admin-console.adobe.com/).
+Globale Administratoren können in der [Global Admin Console Produktprofile hinzufügen, bearbeiten und &#x200B;](https://global-admin-console.adobe.com/).
 
 >[!NOTE]
 >
@@ -47,8 +50,8 @@ Um Produktprofile zu verwalten, wählen Sie ein Produkt aus. Die Steuerelemente 
    |---|---|
    | **[!UICONTROL Name]** | Ein eindeutiger Name für das Produktprofil innerhalb der Organisation, der sich von anderen Produktprofilen und Benutzergruppen unterscheidet. |
    | **[!UICONTROL Kontingent]** | Die Zielanzahl der für dieses Profil zugewiesenen Lizenzen. |
-   | **[!UICONTROL Benutzergruppen]** | Wählen Sie aus dem Dropdown-Menü aus oder geben Sie einen Benutzergruppennamen ein. Wenn die Benutzergruppe noch nicht vorhanden ist, erstellen Sie sie zuerst über die Registerkarte [**[!UICONTROL Benutzergruppen ]**](https://helpx.adobe.com/enterprise/global-admin-console/manage-user-groups.html). |
-   | **[!UICONTROL Administratoren]** | Wählen Sie aus dem Dropdown-Menü aus oder geben Sie die E-Mail-Adresse eines Administrators bzw. einer Administratorin ein. Wenn der Administrator noch nicht vorhanden ist, erstellen Sie ihn zuerst auf der Registerkarte [**[!UICONTROL Administratoren ]**](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html). |
+   | **[!UICONTROL Benutzergruppen]** | Wählen Sie aus dem Dropdown-Menü aus oder geben Sie einen Benutzergruppennamen ein. Wenn die Benutzergruppe noch nicht vorhanden ist, erstellen Sie sie zuerst über die Registerkarte [**[!UICONTROL Benutzergruppen &#x200B;]**](https://helpx.adobe.com/enterprise/global-admin-console/manage-user-groups.html). |
+   | **[!UICONTROL Administratoren]** | Wählen Sie aus dem Dropdown-Menü aus oder geben Sie die E-Mail-Adresse eines Administrators bzw. einer Administratorin ein. Wenn der Administrator noch nicht vorhanden ist, erstellen Sie ihn zuerst auf der Registerkarte [**[!UICONTROL Administratoren &#x200B;]**](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html). |
 
    Die [!UICONTROL Benutzergruppen] werden dem Produktprofil zugewiesen. Die angegebenen Administratoren werden zu **[!UICONTROL Produktprofil-]**), die das Profil über die Adobe Admin Console für das jeweilige Unternehmen verwalten können.
 
