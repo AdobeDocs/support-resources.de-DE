@@ -36,7 +36,7 @@ Jede Registerkarte in der Admin Console ermöglicht die Ausführung verschiedene
 
 - [!UICONTROL Einstellungen] {#settings}: Anfordern von Domains, Beschränken des Zugriffs auf Freigabefunktionen, Hinzufügen von Notizen für Endbenutzer, Festlegen von Kennwortschutzstufen.
 
-Wenn Sie sich nicht bei der Admin Console anmelden können, lesen Sie [Beheben von Problemen bei der Anmeldung zum Adobe-Konto](https://helpx.adobe.com/manage-account/kb/account-password-sign-help.html).
+Wenn Sie sich nicht bei der Admin Console anmelden können, lesen Sie [Beheben von Problemen bei der Anmeldung zum Adobe-Konto](https://helpx.adobe.com/de/manage-account/kb/account-password-sign-help.html).
 
 ## [!UICONTROL Übersicht] {#overview}
 
@@ -54,7 +54,7 @@ Wenn das Unternehmen Teil einer Global Admin Console ist, wird neben dem Namen d
 
 ![Admin Console - Wählen Sie die &#x200B;](assets/admin-console-select-your-org-hierarchy.png " Ihrer untergeordneten Organisation in der Hierarchie einer Global Admin Console aus")
 
-Wenn Sie über eine komplexe Organisationsstruktur mit vielen Admin Consoles verfügen oder Ihre Haupt-Admin Console in mehrere Konsolen aufteilen möchten, können Sie [Global Admin Console übernehmen](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html). So etwa multinationale Konzerne, Bildungskonsortien, große Schulbezirke und große staatliche Behörden. Global Admin Console verschachtelt bestehende Admin Consoles in einer hierarchischen Struktur, z. B. einem Organigramm, um für Transparenz in einem verteilten Unternehmen zu sorgen.
+Wenn Sie über eine komplexe Organisationsstruktur mit vielen Admin Consoles verfügen oder Ihre Haupt-Admin Console in mehrere Konsolen aufteilen möchten, können Sie [Global Admin Console übernehmen](https://helpx.adobe.com/de/enterprise/global-admin-console/adopt-global-administration.html). So etwa multinationale Konzerne, Bildungskonsortien, große Schulbezirke und große staatliche Behörden. Global Admin Console verschachtelt bestehende Admin Consoles in einer hierarchischen Struktur, z. B. einem Organigramm, um für Transparenz in einem verteilten Unternehmen zu sorgen.
 
 ## [!UICONTROL Produkte] {#products}
 
@@ -78,8 +78,8 @@ Geben Sie den Namen oder die E-Mail-Adresse des Benutzers ein. Sie können nach 
 
 Weitere Informationen finden Sie unter:
 
-- [Zuweisen oder Aufheben der Lizenzzuweisung](https://helpx.adobe.com/enterprise/using/assign-licenses-to-teams-users.html)
-- [Hinzufügen oder Entfernen von Produkten oder Lizenzen](https://helpx.adobe.com/enterprise/using/add-products-and-licenses.html)
+- [Zuweisen oder Aufheben der Lizenzzuweisung](https://helpx.adobe.com/de/enterprise/using/assign-licenses-to-teams-users.html)
+- [Hinzufügen oder Entfernen von Produkten oder Lizenzen](https://helpx.adobe.com/de/enterprise/using/add-products-and-licenses.html)
 
 ## [!UICONTROL Benutzer] {#users}
 
@@ -104,7 +104,7 @@ Je nach Plan (Unternehmen, VIP, VIP Marketplace oder Teams) haben Sie folgende M
 - Zahlungsdetails, Rechnungen und Verlängerungen verwalten.
 - Kontaktinformationen Ihres Adobe-Kundenbetreuers anzeigen.
 
-Weitere Informationen: [Konto verwalten](https://helpx.adobe.com/enterprise/using/accounts.html).
+Weitere Informationen: [Konto verwalten](https://helpx.adobe.com/de/enterprise/using/accounts.html).
 
 ## [!UICONTROL Insights] {#insights}
 
@@ -116,23 +116,23 @@ Wer kann diese Registerkarte sehen: Systemadministratoren.
 
 Als Systemadministrator haben Sie vollständige Sichtbarkeit der Änderungen, die in der [Admin Console vorgenommen &#x200B;](https://adminconsole.adobe.com/). Sie können das Auditprotokoll nach dem Typ der Aktionen, dem Zeitpunkt und der Person, die sie durchgeführt hat, durchsuchen.
 
-Zeigen Sie diese Berichte dann an und laden Sie sie zur weiteren Analyse herunter. Weitere Informationen: [Verwenden Sie Auditprotokoll, um Benutzerzuweisungen und Ereignisse zu &#x200B;](https://helpx.adobe.com/enterprise/using/audit-logs.html).
+Zeigen Sie diese Berichte dann an und laden Sie sie zur weiteren Analyse herunter. Weitere Informationen: [Verwenden Sie Auditprotokoll, um Benutzerzuweisungen und Ereignisse zu &#x200B;](https://helpx.adobe.com/de/enterprise/using/audit-logs.html).
 
 ### [!UICONTROL Arbeitsauftragsberichte] {#assignment-reports}
 
 Mithilfe der Lizenzzuweisungsberichte können Sie die Lizenzzuweisungsdaten Ihres Unternehmens verfolgen und die Lizenzbereitstellungen Ihrer Benutzer planen. Lizenzzuweisungsdaten unterstützen nur spezifische Benutzerlizenzen für Creative Cloud- und Document Cloud-Produkte, die im Rahmen des Enterprise Term License Agreement erworben wurden.
 
-Weitere Informationen: [Lizenzzuweisungsberichte für Enterprise-Produkte](https://helpx.adobe.com/enterprise/using/assignment-reports.html).
+Weitere Informationen: [Lizenzzuweisungsberichte für Enterprise-Produkte](https://helpx.adobe.com/de/enterprise/using/assignment-reports.html).
 
 ## [!UICONTROL Speicher] {#storage}
 
-Wer kann diese Registerkarte anzeigen: System- und Speicheradministratoren (nur für Kunden, die zum [Speichermodell im Pool“ migriert &#x200B;](https://helpx.adobe.com/enterprise/using/manage-adobe-storage.html)).
+Wer kann diese Registerkarte anzeigen: System- und Speicheradministratoren (nur für Kunden, die zum [Speichermodell im Pool“ migriert &#x200B;](https://helpx.adobe.com/de/enterprise/using/manage-adobe-storage.html)).
 
 Die **[!UICONTROL Speicherseite]** in der [Admin Console](https://adminconsole.adobe.com) bietet Ihnen einen Überblick über den Speicher in Ihren Creative Cloud-Programmen. Die Speicherkontingente sind für Endbenutzer bis zu der von der Organisation erworbenen Speichermenge flexibel.
 
 Sie können auch anzeigen, wie viel Kontingent von einzelnen Benutzern verwendet wird und welches Gesamtkontingent von allen Benutzern genutzt wird.
 
-Weitere Informationen: [Verwalten des Adobe-Speichers](https://helpx.adobe.com/enterprise/using/manage-adobe-storage.html).
+Weitere Informationen: [Verwalten des Adobe-Speichers](https://helpx.adobe.com/de/enterprise/using/manage-adobe-storage.html).
 
 ## [!UICONTROL Packages] {#packages}
 
@@ -140,20 +140,20 @@ Wer kann diese Registerkarte sehen: Systemadministratoren und Bereitstellungsadm
 
 Die **[!UICONTROL Pakete]** in der [Admin Console](https://adminconsole.adobe.com) bietet die folgenden Funktionen. Verwenden Sie sie, wenn Sie Desktop-Programme für Endbenutzer in Ihrer Organisation bereitstellen möchten.
 
-- Herunterladen vorkonfigurierter Pakete mithilfe von [Adobe-Vorlagen](https://helpx.adobe.com/enterprise/using/package-templates.html).
-- Erstellen Sie [&#x200B; Packager für &#x200B;](https://helpx.adobe.com/enterprise/using/create-nul-packages.html)Named User Licensing[&#x200B; oder Shared Device](https://helpx.adobe.com/enterprise/using/create-sdl-packages.html)-Lizenzen (für Bildungseinrichtungen) mit der Konfiguration und den Anwendungen, die Ihre Endbenutzenden haben sollen.
+- Herunterladen vorkonfigurierter Pakete mithilfe von [Adobe-Vorlagen](https://helpx.adobe.com/de/enterprise/using/package-templates.html).
+- Erstellen Sie [&#x200B; Packager für &#x200B;](https://helpx.adobe.com/de/enterprise/using/create-nul-packages.html)Named User Licensing[&#x200B; oder Shared Device](https://helpx.adobe.com/de/enterprise/using/create-sdl-packages.html)-Lizenzen (für Bildungseinrichtungen) mit der Konfiguration und den Anwendungen, die Ihre Endbenutzenden haben sollen.
 - Aktivieren Sie E-Mail-Benachrichtigungen, damit Sie benachrichtigt werden, wenn neue Produktversionen verfügbar werden.
 - Zeigen Sie frühere Pakete an, die Sie oder andere Administratoren in Ihrer Organisation erstellt haben. Zeigen Sie außerdem Details zu einem bestimmten Paket an und verfolgen Sie verfügbare Aktualisierungen für die Apps im Paket.
-- Laden Sie IT-Tools wie [Remote Update Manager](https://helpx.adobe.com/enterprise/using/using-remote-update-manager.html) und das [Adobe Update Server Setup-Tool &#x200B;](https://helpx.adobe.com/enterprise/using/update-server-setup-tool.html).
-- Laden Sie das Adobe Extension Manager-Befehlszeilen-Tool zum [Installieren von Erweiterungen und Plug-ins](https://helpx.adobe.com/enterprise/using/manage-extensions.html) aus dem ZXP-Datei-Container-Format herunter.
+- Laden Sie IT-Tools wie [Remote Update Manager](https://helpx.adobe.com/de/enterprise/using/using-remote-update-manager.html) und das [Adobe Update Server Setup-Tool &#x200B;](https://helpx.adobe.com/de/enterprise/using/update-server-setup-tool.html).
+- Laden Sie das Adobe Extension Manager-Befehlszeilen-Tool zum [Installieren von Erweiterungen und Plug-ins](https://helpx.adobe.com/de/enterprise/using/manage-extensions.html) aus dem ZXP-Datei-Container-Format herunter.
 
-Weitere Informationen finden Sie unter [Verpacken von Apps über die Admin Console](https://helpx.adobe.com/enterprise/using/package-apps-admin-console.html).
+Weitere Informationen finden Sie unter [Verpacken von Apps über die Admin Console](https://helpx.adobe.com/de/enterprise/using/package-apps-admin-console.html).
 
 ## [!UICONTROL Einstellungen] {#settings}
 
 Wer kann diese Registerkarte sehen: System- und Speicheradministratoren.
 
-Speicheradministratoren können nur auf die [Asset-Einstellungen](https://helpx.adobe.com/enterprise/using/asset-settings.html) und [Content-Protokolle](https://helpx.adobe.com/enterprise/using/content-logs.html) zugreifen. Systemadministratoren können Einstellungen je nach Plan anzeigen oder ändern.
+Speicheradministratoren können nur auf die [Asset-Einstellungen](https://helpx.adobe.com/de/enterprise/using/asset-settings.html) und [Content-Protokolle](https://helpx.adobe.com/de/enterprise/using/content-logs.html) zugreifen. Systemadministratoren können Einstellungen je nach Plan anzeigen oder ändern.
 
 >[!NOTE]
 >
@@ -161,23 +161,23 @@ Speicheradministratoren können nur auf die [Asset-Einstellungen](https://helpx.
 
 ## Datenschutz und Sicherheitskontakte {#privacy-and-security-contacts}
 
-Im Falle eines Sicherheitsvorfalls, der unsere Softwarelösungen betrifft, werden Benachrichtigungen an die entsprechenden Compliance-Beauftragten gesendet. Um eine sofortige Benachrichtigung zu gewährleisten, müssen Sie als Systemadministrator angeben, wer Ihre Sicherheits-, Datenschutz- und Compliance-Beauftragten sind. Weitere Informationen finden Sie unter [Datenschutz- und Sicherheitskontakte](https://helpx.adobe.com/enterprise/using/security-contacts.html).
+Im Falle eines Sicherheitsvorfalls, der unsere Softwarelösungen betrifft, werden Benachrichtigungen an die entsprechenden Compliance-Beauftragten gesendet. Um eine sofortige Benachrichtigung zu gewährleisten, müssen Sie als Systemadministrator angeben, wer Ihre Sicherheits-, Datenschutz- und Compliance-Beauftragten sind. Weitere Informationen finden Sie unter [Datenschutz- und Sicherheitskontakte](https://helpx.adobe.com/de/enterprise/using/security-contacts.html).
 
 ## [!UICONTROL Konsoleneinstellungen] {#console-settings}
 
-Mithilfe [[!UICONTROL Konsoleneinstellungen]](https://helpx.adobe.com/enterprise/using/console-settings.html) können Sie Ihren Endbenutzern benutzerdefinierte Notizen hinzufügen, um mit ihnen darüber zu kommunizieren, wie sie Hilfe erhalten, wenn Probleme auftreten oder Unterstützung benötigt wird.
+Mithilfe [[!UICONTROL Konsoleneinstellungen]](https://helpx.adobe.com/de/enterprise/using/console-settings.html) können Sie Ihren Endbenutzern benutzerdefinierte Notizen hinzufügen, um mit ihnen darüber zu kommunizieren, wie sie Hilfe erhalten, wenn Probleme auftreten oder Unterstützung benötigt wird.
 
 Wählen Sie eine standardmäßige E-Mail-Sprache für Ihr Unternehmen aus, um E-Mails über den Kontostatus zu erhalten, z. B. Abonnementänderungen oder Kreditkartenablauf. Wenn Sie eine Team-Mitgliedschaft direkt bei Adobe erworben haben, können Sie Ihren Team-Namen in den **[!UICONTROL Konsoleneinstellungen]** ändern.
 
 ## [!UICONTROL &#x200B; Inhaltsprotokolle] {#content-logs}
 
-Als Administrator können Sie detaillierte Berichte über die Arbeit der Endbenutzer mit Unternehmens-Assets wie Ordnern, Dateien und Bibliotheken herunterladen. Diese Berichte werden als [[!UICONTROL Inhaltsprotokolle“ &#x200B;]](https://helpx.adobe.com/enterprise/using/content-logs.html).
+Als Administrator können Sie detaillierte Berichte über die Arbeit der Endbenutzer mit Unternehmens-Assets wie Ordnern, Dateien und Bibliotheken herunterladen. Diese Berichte werden als [[!UICONTROL Inhaltsprotokolle“ &#x200B;]](https://helpx.adobe.com/de/enterprise/using/content-logs.html).
 
 ## Domain-Durchsetzung {#domain-enforcement}
 
 Systemadministratoren können unternehmenseigene Domains einschränken, um zu verhindern, dass Benutzer persönliche Adobe ID-Konten erstellen und verwenden. Dies beschränkt die Verwendung personenbezogener Daten, erhöht die Sicherheit und ermöglicht die gemeinsame Nutzung von Assets nur zwischen Organisationsbenutzenden.
 
-Weitere Informationen: [Domain-Durchsetzung für eingeschränkte Authentifizierung](https://helpx.adobe.com/enterprise/using/restricting-domains.html).
+Weitere Informationen: [Domain-Durchsetzung für eingeschränkte Authentifizierung](https://helpx.adobe.com/de/enterprise/using/restricting-domains.html).
 
 ## Identität {#identity}
 
@@ -185,21 +185,21 @@ Weitere Informationen: [Domain-Durchsetzung für eingeschränkte Authentifizieru
 
 ## [!UICONTROL Asset-Einstellungen] {#asset-settings}
 
-[Asset-Einstellungen](https://helpx.adobe.com/enterprise/using/asset-settings.html) geben einer Organisation die Kontrolle darüber, wie ihre Mitarbeiter ihre Assets außerhalb der Organisation freigeben. Asset-Einstellungen werden zusammen mit anderen Systemen zur Durchsetzung von Unternehmensrichtlinien verwendet (nicht von Adobe bereitgestellt), um sicherzustellen, dass Assets nur mit entsprechenden externen Personen und Organisationen freigegeben werden.
+[Asset-Einstellungen](https://helpx.adobe.com/de/enterprise/using/asset-settings.html) geben einer Organisation die Kontrolle darüber, wie ihre Mitarbeiter ihre Assets außerhalb der Organisation freigeben. Asset-Einstellungen werden zusammen mit anderen Systemen zur Durchsetzung von Unternehmensrichtlinien verwendet (nicht von Adobe bereitgestellt), um sicherzustellen, dass Assets nur mit entsprechenden externen Personen und Organisationen freigegeben werden.
 
 ## Authentifizierungseinstellungen {#authentication-settings}
 
-[Authentifizierungseinstellungen](https://helpx.adobe.com/enterprise/using/authentication-settings.html) unterstützen verschiedene Kennwortschutzstufen und -richtlinien, um Sicherheit und Schutz zu gewährleisten. Sie können eine Kennwortschutzstufe festlegen, die für alle Benutzer in Ihrem Unternehmen gilt.
+[Authentifizierungseinstellungen](https://helpx.adobe.com/de/enterprise/using/authentication-settings.html) unterstützen verschiedene Kennwortschutzstufen und -richtlinien, um Sicherheit und Schutz zu gewährleisten. Sie können eine Kennwortschutzstufe festlegen, die für alle Benutzer in Ihrem Unternehmen gilt.
 
 ## Verschlüsselungseinstellungen {#encryption-settings}
 
-[Verschlüsselungseinstellungen](https://helpx.adobe.com/enterprise/using/encryption.html) Generieren Sie dedizierte Verschlüsselungsschlüssel für zusätzliche Kontroll- und Sicherheitsebenen.
+[Verschlüsselungseinstellungen](https://helpx.adobe.com/de/enterprise/using/encryption.html) Generieren Sie dedizierte Verschlüsselungsschlüssel für zusätzliche Kontroll- und Sicherheitsebenen.
 
 ## Projektrichtlinien {#project-policies}
 
 Als Systemadministrator können Sie steuern, wer berechtigt ist, Projekte in Ihrer Organisation zu erstellen und zu verwalten. Standardmäßig können alle zur Admin Console hinzugefügten Benutzenden Projekte erstellen und verwalten.
 
-Weitere Informationen: [Projektrichtlinien](https://helpx.adobe.com/enterprise/using/projects-in-business-storage.html#project-policies).
+Weitere Informationen: [Projektrichtlinien](https://helpx.adobe.com/de/enterprise/using/projects-in-business-storage.html#project-policies).
 
 ## Support
 
@@ -211,4 +211,4 @@ Um sich an die Adobe-Kundenunterstützung zu wenden, gehen Sie zur Support-Seite
 - Planen von Expertensitzungen
 - Durchsuchen beliebter Hilfethemen und -foren
 
-Weitere Informationen zu Support-Optionen finden Sie unter [Support und Expertensitzungen](https://helpx.adobe.com/enterprise/using/support-and-expert-services.html).
+Weitere Informationen zu Support-Optionen finden Sie unter [Support und Expertensitzungen](https://helpx.adobe.com/de/enterprise/using/support-and-expert-services.html).

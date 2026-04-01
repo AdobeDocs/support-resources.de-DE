@@ -26,4 +26,4 @@ Systemadministratoren in Unternehmen können dem Prozess folgen, um eine Ablaufz
 
 1. Überprüfen Sie die **[!UICONTROL Authentifizierungsstufen]** und wählen Sie die für Ihre Benutzer am besten geeignete Authentifizierungsstufe aus: **[!UICONTROL Am einfachsten für]**, **[!UICONTROL Mehr Sicherheit]**, **[!UICONTROL Am sichersten]**.
 
-Besuchen Sie die [Hilfe zu Authentifizierungseinstellungen](https://helpx.adobe.com/enterprise/using/authentication-settings.html), um mehr über die verfügbaren Authentifizierungs- und Sicherheitsrichtlinien zu erfahren.
+Besuchen Sie die [Hilfe zu Authentifizierungseinstellungen](https://helpx.adobe.com/de/enterprise/using/authentication-settings.html), um mehr über die verfügbaren Authentifizierungs- und Sicherheitsrichtlinien zu erfahren.
