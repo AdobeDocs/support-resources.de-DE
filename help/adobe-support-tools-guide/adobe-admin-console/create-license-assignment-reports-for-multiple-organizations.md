@@ -5,7 +5,7 @@ Feature-set: Experience Cloud Services
 Solution: Admin Console
 Feature: Admin Console
 exl-id: e3380a89-8529-473f-bd17-efb05466eab9
-source-git-commit: dbbd971e57265e1651f44f834e56d461159ab4fc
+source-git-commit: 74d2dd4eb999f91172eec4c3b5690e1e8b8bd293
 workflow-type: tm+mt
 source-wordcount: '711'
 ht-degree: 1%
@@ -28,21 +28,21 @@ Berichte zur Lizenzzuweisung helfen Ihnen, die Lizenzbereitstellung proaktiv zu 
 1. Wählen Sie auf **[!UICONTROL Seite &quot;]**&quot; die Option **[!UICONTROL Bericht erstellen]** aus.
 1. Wählen Sie die Organisationen aus und klicken Sie auf **[!UICONTROL Weiter]**. Sie können jede Organisation einzeln auswählen oder alle untergeordneten Organisationen innerhalb eines übergeordneten Elements mithilfe der Schaltfläche **[!UICONTROL Alle auswählen]** auswählen.
 
->[!NOTE]
->
->**Wissen, warum Sie bestimmte Organisationen nicht auswählen können**:
->Wenn eine untergeordnete Organisation keinen Vertrag oder einen separaten Unternehmensvertrag mit demselben Produkt wie die übergeordnete Organisation hat, kann sie keinen Lizenzzuweisungsbericht erstellen. Wenn beispielsweise der Vertrag der übergeordneten Organisation über Adobe Acrobat verfügt und die untergeordnete Organisation denselben Vertrag als Teil eines anderen Vertrags hat, ist das Produkt für die Zuordnung beschränkt. Infolgedessen ist er auch auf die Berichterstellung in der Global Admin Console beschränkt. [Erfahren Sie, wie Sie die Bereitstellung für solche Organisationen mithilfe ihrer jeweiligen Admin Console verfolgen](https://helpx.adobe.com/de/enterprise/using/assignment-reports.html).
->
->[!NOTE]
->
->Zuweisungsberichte können nur für Organisationen mit einem aktiven Vertrag erstellt werden.
+   >[!NOTE]
+   >
+   >**Wissen, warum Sie bestimmte Organisationen nicht auswählen können**:
+   >Wenn eine untergeordnete Organisation keinen Vertrag oder einen separaten Unternehmensvertrag mit demselben Produkt wie die übergeordnete Organisation hat, kann sie keinen Lizenzzuweisungsbericht erstellen. Wenn beispielsweise der Vertrag der übergeordneten Organisation über Adobe Acrobat verfügt und die untergeordnete Organisation denselben Vertrag als Teil eines anderen Vertrags hat, ist das Produkt für die Zuordnung beschränkt. Infolgedessen ist er auch auf die Berichterstellung in der Global Admin Console beschränkt. [Erfahren Sie, wie Sie die Bereitstellung für solche Organisationen mithilfe ihrer jeweiligen Admin Console verfolgen](https://helpx.adobe.com/enterprise/using/assignment-reports.html).
+
+   >[!NOTE]
+   >
+   >Zuweisungsberichte können nur für Organisationen mit einem aktiven Vertrag erstellt werden.
 
 1. Wählen Sie die Produkte aus, die in den Bericht aufgenommen werden sollen, und wählen Sie **[!UICONTROL Weiter]**.
 
->[!NOTE]
->
->**Wissen, warum Sie bestimmte Produkte nicht auswählen können**:
->Produkte, die in der Global Admin Console nicht zugeordnet werden können, sind nicht in die Berichterstellung eingeschlossen. Dazu gehören derzeit einige Produkte für digitale Erlebnisse wie [!DNL Workfront], [!DNL Adobe Experience Manager] und [!DNL Adobe Experience Platform] sowie Produkte wie [!DNL Adobe Firefly Services], [!DNL Acrobat Sign] und [!DNL Adobe Stock]. [Mit der Adobe Admin Console finden Sie die Lizenzbereitstellungsdaten für diese Produkte](https://helpx.adobe.com/de/enterprise/using/assignment-reports.html).
+   >[!NOTE]
+   >
+   >**Wissen, warum Sie bestimmte Produkte nicht auswählen können**:
+   >Produkte, die in der Global Admin Console nicht zugeordnet werden können, sind nicht in die Berichterstellung eingeschlossen. Dazu gehören derzeit einige Produkte für digitale Erlebnisse wie [!DNL Workfront], [!DNL Adobe Experience Manager] und [!DNL Adobe Experience Platform] sowie Produkte wie [!DNL Adobe Firefly Services], [!DNL Acrobat Sign] und [!DNL Adobe Stock]. [Mit der Adobe Admin Console finden Sie die Lizenzbereitstellungsdaten für diese Produkte](https://helpx.adobe.com/enterprise/using/assignment-reports.html).
 
 1. Wählen Sie aus, ob der Bericht nach Monat oder Jahr aggregiert werden soll.
 1. Wählen Sie einen benutzerdefinierten Datumsbereich aus oder wählen Sie aus den Voreinstellungsoptionen. Sie können ein beliebiges Startdatum vom 18. Juni 2020 bis zum vorherigen Tag auswählen, sofern es nicht vor dem Startdatum Ihres Vertrags liegt.

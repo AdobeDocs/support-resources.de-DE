@@ -4,9 +4,10 @@ description: Erfahren Sie, was die Global Admin Console ist und wie Sie Zugriff 
 Feature-set: Experience Cloud Services
 Solution: Admin Console
 Feature: Admin Console
-source-git-commit: ae2a50b6ebab1ba46fdcad0e8aa2921b4728ed42
+exl-id: 4da055a9-7cdc-4411-8895-016e24eabb2e
+source-git-commit: a65339ed3314c178f52761aab1efa0fe898607ae
 workflow-type: tm+mt
-source-wordcount: '805'
+source-wordcount: '810'
 ht-degree: 0%
 
 ---
@@ -15,10 +16,9 @@ ht-degree: 0%
 
 Gilt für Unternehmen.
 
-Erfahren Sie mehr über die Vorteile der Verwendung von Global Admin Console und darüber, wie Sie Zugriff erhalten. [Weitere Informationen](#request-access-to-the-global-admin-console)
+Erfahren Sie mehr über die Vorteile der Verwendung von Global Admin Console und darüber, wie Sie Zugriff erhalten. [Weitere Informationen](#request-access-to-the-global-admin-console).
 
-Erstellen Sie einen Support-Fall in der Adobe Admin Console, um Zugriff auf eine Global Admin Console anzufordern.
-Melden Sie sich bei der [Global Admin Console](https://adminconsole.adobe.com/support) an.
+Erstellen Sie einen Support-Fall in der Adobe Admin Console, um Zugriff auf eine Global Admin Console anzufordern. Melden Sie sich bei der [Global Admin Console](https://adminconsole.adobe.com/support) an.
 
 ## Einführung
 
@@ -26,9 +26,7 @@ Die [Global Admin Console](https://adminconsole.adobe.com/support) ist für Kund
 
 Die Global Admin Console ersetzt oder ändert nicht die Funktionalität der bestehenden Admin Consoles. Es funktioniert als Hierarchie mit einer Stammorganisation an der Spitze und allen Konsolen, die unter dieser Stammorganisation verschachtelt sind. Es gibt ein Auswahlkriterium, das auf den Kauf und die Erstellung einer Hierarchiestruktur ausgerichtet ist, in der ein Admin Console als Stammkonsole fungiert.
 
-Weitere Informationen zu den Funktionen und Vorteilen von Global Admin Console finden Sie im [Whitepaper zu Global Admin Console](https://community.adobe.com/questions-624/new-white-paper-for-the-adobe-global-admin-console-678929#M35625).
-
-[!VIDEO](https://youtu.be/FLBWR78wpok)
+Weitere Informationen zu den Funktionen und Vorteilen von Global Admin Console finden Sie im [Whitepaper über Global Admin Console](https://community.adobe.com/questions-624/new-white-paper-for-the-adobe-global-admin-console-678929#M35625) und im folgenden [Video](https://youtu.be/FLBWR78wpok).
 
 Der Inhalt und die Sprachausgabe für dieses Video sind derzeit nur in englischer Sprache verfügbar.
 
@@ -46,7 +44,7 @@ Im Folgenden finden Sie einige wichtige Vorteile der [!DNL Global Admin Console]
 - Erstellen, Bearbeiten und Löschen von Produktprofilen und Benutzergruppen
 - Exportieren Sie Organisationsinformationen für das Reporting oder die Verwendung in anderen Prozessen.
 - Aktualisierungen an Organisationen und Änderungen an der Organisationshierarchie importieren.
-- Sie erhalten Benachrichtigungen zum ETLA-Vertragsstatus in untergeordneten Organisationen, einschließlich bevorstehender Auslaufverträge, abgelaufener Verträge oder inaktiver Verträge. Weitere Informationen finden Sie in der Dokumentation [Ablauf von Verträgen](https://helpx.adobe.com/de/enterprise/using/contract-expiry.html) .
+- Sie erhalten Benachrichtigungen zum ETLA-Vertragsstatus in untergeordneten Organisationen, einschließlich bevorstehender Auslaufverträge, abgelaufener Verträge oder inaktiver Verträge. Weitere Informationen finden Sie in der Dokumentation [Ablauf von Verträgen](https://helpx.adobe.com/enterprise/using/contract-expiry.html) .
 
 ## Eignungskriterien
 
@@ -63,7 +61,7 @@ Adobe empfiehlt eine globale Administration, wenn Ihr Unternehmen mindestens ein
 
 Um Zugriff auf die [Global Admin Console](https://adminconsole.adobe.com/support/) anzufordern, gehen Sie nach Rücksprache mit Ihrem Adobe-Support-Mitarbeiter wie folgt vor.
 
-1. Navigieren Sie in der {0[Admin Console} zu &#x200B;](https://adminconsole.adobe.com/support/)Support **[!UICONTROL >]** Support-Zusammenfassung **[!UICONTROL .]**
+1. Navigieren Sie in der {0[Admin Console} zu ](https://adminconsole.adobe.com/support/)Support **[!UICONTROL >]** Support-Zusammenfassung **[!UICONTROL .]**
 
    >[!NOTE]
    >

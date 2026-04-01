@@ -5,9 +5,9 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 4b562a4d-14e5-4687-a1ae-6a435f087627
-source-git-commit: 8db982f6a642a288453086c23d20b44b14d55354
+source-git-commit: 5573d0f0e58b7ba799726740ae0d29b1053122aa
 workflow-type: tm+mt
-source-wordcount: '880'
+source-wordcount: '876'
 ht-degree: 3%
 
 ---
@@ -29,25 +29,25 @@ Als globaler Administrator haben Sie uneingeschränkten Einblick in die Änderun
 
 >[!NOTE]
 >
-> Als Systemadministrator in einer [Adobe Admin Console](https://adminconsole.adobe.com)-Organisation können Sie das [Auditprotokoll](https://helpx.adobe.com/de/enterprise/using/audit-logs.html) verwenden, um Benutzerzuweisungen und Benutzerereignisse zu überprüfen. Von Systemadministratoren in untergeordneten Organisationen der ausgewählten Organisation durchgeführte Aktionen werden ebenfalls in die Auditprotokolle aufgenommen. Erfahren Sie mehr darüber, wie Systemadministratoren in [&#x200B; Admin Console vorgenommene &#x200B;](https://helpx.adobe.com/de/enterprise/using/audit-logs.html) verfolgen können.
+> Als Systemadministrator in einer [Adobe Admin Console](https://adminconsole.adobe.com)-Organisation können Sie das [Auditprotokoll](https://helpx.adobe.com/enterprise/using/audit-logs.html) verwenden, um Benutzerzuweisungen und Benutzerereignisse zu überprüfen. Von Systemadministratoren in untergeordneten Organisationen der ausgewählten Organisation durchgeführte Aktionen werden ebenfalls in die Auditprotokolle aufgenommen. Erfahren Sie mehr darüber, wie Systemadministratoren in [ Admin Console vorgenommene ](https://helpx.adobe.com/enterprise/using/audit-logs.html) verfolgen können.
 
 So zeigen Sie Auditprotokolle für Ihr Unternehmen an oder laden diese herunter:
 
 1. Melden Sie sich als globaler Administrator bei der [Global Admin Console](https://global-admin-console.adobe.com/insights) an.
 1. Wählen **[!UICONTROL Insights]** > **[!UICONTROL Auditprotokolle]** aus.
+
 Die Auditprotokolle zeigen die folgenden Informationen für gefilterte Ereignisse an:
 
-   | Feld | Beschreibung |
-   |------ |-------------|
-   | Datum | Datum und Uhrzeit des Ereignisses, angezeigt in der lokalen Zeitzone. |
-   | Ereignisname | Beschreibung der ausgeführten Aktion. |
-   | Ereignisdetail | Zusätzliche Ereignisdetails, falls verfügbar. |
-   | Objektname | Der Name des Produkts, Produktprofils oder der Benutzergruppe, das bzw. die am Ereignis beteiligt ist. |
-   | Betroffener Benutzer | E-Mail-Adresse des betroffenen Benutzers, falls zutreffend. |
-   | Admin | E-Mail-Adresse des Administrators, der die Aktion ausgeführt hat. *System* wird angezeigt, wenn die Aktion von einem Adobe-Backend-System ausgeführt wurde. |
-   | IP-Adresse | IP-Adresse des Geräts, auf dem die Aktion ausgeführt wurde. spiegelt in der Regel den physischen Standort wider, kann aber ein Proxy-Server oder eine VPN-Adresse sein. |
-   | Organisation | Name der vom Ereignis betroffenen Organisation. |
-
+| Feld | Beschreibung |
+|------ |-------------|
+| Datum | Datum und Uhrzeit des Ereignisses, angezeigt in der lokalen Zeitzone. |
+| Ereignisname | Beschreibung der ausgeführten Aktion. |
+| Ereignisdetail | Zusätzliche Ereignisdetails, falls verfügbar. |
+| Objektname | Name des Produkts, Produktprofils oder der Benutzergruppe, die am Ereignis beteiligt sind, falls zutreffend. |
+| Betroffener Benutzer | E-Mail-Adresse des betroffenen Benutzers, falls zutreffend. |
+| Admin | E-Mail-Adresse des Administrators, der die Aktion ausgeführt hat. *System* wird angezeigt, wenn die Aktion von einem Adobe-Backend-System ausgeführt wurde. |
+| IP-Adresse | IP-Adresse des Geräts, auf dem die Aktion ausgeführt wurde. Dies spiegelt in der Regel den physischen Standort wider, kann aber ein Proxy-Server oder eine VPN-Adresse sein. |
+| Organisation | Name der vom Ereignis betroffenen Organisation. |
 
 1. Auditprotokolle können mit den folgenden Optionen gefiltert werden:
 
@@ -55,7 +55,7 @@ Die Auditprotokolle zeigen die folgenden Informationen für gefilterte Ereigniss
    - Wählen Sie eine oder mehrere Organisationen aus.
    - Definieren Sie einen Datumsbereich.
    - Nach Ereignisnamen filtern.
-   - Sie können Filter kombinieren, um die Ergebnisse einzugrenzen, z. B. um Ereignisse der letzten sieben Tage für eine bestimmte Organisation anzuzeigen.
+   - Kombinieren Sie Filter, um die Ergebnisse einzugrenzen, z. B. um Ereignisse der letzten sieben Tage für eine bestimmte Organisation anzuzeigen.
 
    ![audit-logs](assets/audit-logs.png)
 
@@ -104,9 +104,9 @@ Alle von einem beliebigen globalen Administrator erstellten Berichte stehen an e
 
 Herunterladen eines Exportberichts:
 
-1. Melden Sie sich bei der [Global Admin Console an &#x200B;](https://global-admin-console.adobe.com/insights) navigieren Sie zu **[!UICONTROL Insights]** > **[!UICONTROL Berichte exportieren]**.
+1. Melden Sie sich bei der [Global Admin Console an ](https://global-admin-console.adobe.com/insights) navigieren Sie zu **[!UICONTROL Insights]** > **[!UICONTROL Berichte exportieren]**.
 
-   Die in den letzten 90 Tagen generierten Berichte werden angezeigt. Sobald die 90 Tage abgeschlossen sind, können Sie den Bericht erneut generieren. Erfahren Sie, wie Sie Berichte für [Organisationsstruktur“ &#x200B;](https://helpx.adobe.com/de/enterprise/global-admin-console/export-and-import-data.html#export-and-import-organization-structure) können.
+   Die in den letzten 90 Tagen generierten Berichte werden angezeigt. Sobald die 90 Tage abgeschlossen sind, können Sie den Bericht erneut generieren. Erfahren Sie, wie Sie Berichte für [Organisationsstruktur“ ](https://helpx.adobe.com/enterprise/global-admin-console/export-and-import-data.html#export-and-import-organization-structure) können.
 
 
    | Feld | Beschreibung |
