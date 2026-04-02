@@ -27,7 +27,7 @@ Die IP-basierte Zugriffssteuerung verwendet eine IP-Adresse, um die Verwendung v
 Sie können der Liste **Zulässige IP-Adressen** vertrauenswürdige öffentliche IPs hinzufügen, um Benutzer daran zu hindern,
 
 - Zugriff auf Produkte von öffentlichen IPs außerhalb der zulässigen IP-Bereiche
-- Anmeldung bei Adobe [Benutzerprofilen](https://helpx.adobe.com/enterprise/using/manage-adobe-profiles.html) von öffentlichen IPs außerhalb der zulässigen IP-Bereiche
+- Anmeldung bei Adobe [Benutzerprofilen](https://helpx.adobe.com/de/enterprise/using/manage-adobe-profiles.html) von öffentlichen IPs außerhalb der zulässigen IP-Bereiche
 - Benutzerprofile in Web-Apps außerhalb der zulässigen IP-Bereiche wechseln
 
   ![Organisationsstruktur exportieren](./assets/ip-based-access.avif)
@@ -64,9 +64,9 @@ Sie können jede aufgelistete IP-Adresse bearbeiten oder entfernen, indem Sie di
 >[!NOTE]
 >
 >- Wenn der IP-basierte Zugriff aktiviert ist, **keine erzwungene Abmeldung**. Benutzer sind nur betroffen, wenn sie versuchen, beim Anmelden oder beim Wechsel des Profils im Web das eingeschränkte Profil auszuwählen.
->- Wenn Sie ein gesichertes Web-Gateway verwenden, stellen Sie sicher, dass der gesamte Traffic durch dieses geleitet wird. Anzeigen der [Liste der zuzulassen](https://helpx.adobe.com/enterprise/kb/network-endpoints.html) damit Adobe-Programme und -Services ordnungsgemäß funktionieren.
->- Wenn Sie von der Admin Console gesperrt wurden, weil Sie eine ungültige IP-Adresse eingegeben haben, wenden Sie sich an die [Adobe-Kundenunterstützung](https://helpx.adobe.com/enterprise/using/support-for-enterprise.html).
+>- Wenn Sie ein gesichertes Web-Gateway verwenden, stellen Sie sicher, dass der gesamte Traffic durch dieses geleitet wird. Anzeigen der [Liste der zuzulassen](https://helpx.adobe.com/de/enterprise/kb/network-endpoints.html) damit Adobe-Programme und -Services ordnungsgemäß funktionieren.
+>- Wenn Sie von der Admin Console gesperrt wurden, weil Sie eine ungültige IP-Adresse eingegeben haben, wenden Sie sich an die [Adobe-Kundenunterstützung](https://helpx.adobe.com/de/enterprise/using/support-for-enterprise.html).
 
 ## Reden Sie mit
 
-Um mit anderen Administratoren zusammenzuarbeiten, Fragen zu stellen und mit ihnen zu chatten, besuchen Sie unsere [Enterprise and Teams Community](https://www.adobe.com/go/entcom).
+Um mit anderen Administratoren zusammenzuarbeiten, Fragen zu stellen und mit ihnen zu chatten, besuchen Sie unsere [Enterprise and Teams Community](https://www.adobe.com/go/entcom_de).
