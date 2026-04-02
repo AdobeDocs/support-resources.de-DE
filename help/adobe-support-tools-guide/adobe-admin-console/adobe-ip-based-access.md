@@ -36,7 +36,7 @@ Sie können der Liste **Zulässige IP-Adressen** vertrauenswürdige öffentliche
 
 ### Wichtige Überlegungen
 
->[!IWichtige Überlegungen]
+>[ !IWichtige Überlegungen]
 >
 >- Administratoren müssen zunächst ihre eigene öffentliche IP-Adresse hinzufügen und erst dann andere IP-Bereiche hinzufügen. Andernfalls kann ein Fehler auftreten.
 >- Der IP-basierte Zugriff gilt nicht für private IP-Adressen.
@@ -45,7 +45,7 @@ Sie können bis zu 150 verschiedene öffentliche IP-Bereiche nur im CIDR-Format 
 
 Führen Sie die folgenden Schritte aus, um den IP-basierten Zugriff in Ihrer Adobe Admin Console zu aktivieren:
 
-1. Wechseln Sie zum Abschnitt **[!UICONTROL Adobe Admin Console-](https://adminconsole.adobe.com/settings/identity)**.
+1. Wechseln Sie zum Abschnitt **[[!UICONTROL Adobe Admin Console-]](https://adminconsole.adobe.com/settings/identity)**.
 2. Wählen und erweitern Sie **[!UICONTROL Datenschutz und Sicherheit]** im Auswahlmenü und klicken Sie dann auf **[!UICONTROL Authentifizierungseinstellungen]**.
 3. Klicken Sie im Abschnitt **[!UICONTROL IP-basierter Zugriff]** auf die Schaltfläche **[!UICONTROL IP-Adresse hinzufügen]**.
 4. Im Fenster **[!UICONTROL IP-Adresse hinzufügen]**:
