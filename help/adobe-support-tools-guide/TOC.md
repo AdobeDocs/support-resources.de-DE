@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 89ec9694aa6a5215959c0cf3897880a60239c551
+source-git-commit: 201356d2f86139f6f4230547ad946c3bb5190ace
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '294'
 ht-degree: 2%
 
 ---
@@ -20,10 +20,10 @@ ht-degree: 2%
 - [Adobe Customer Support Experience](adobe-customer-support-experience.md)
 - [Berechtigungskonfiguration für den Adobe-Kunden-Support](adobe-customer-support-entitlement-configuration.md)
 - [Aktualisierung der Telefonnummer des Supports](phone-numbers.md)
-- [Administratorrollen](admin-roles.md)
 - Adobe Admin Console {#adobe-admin-console}
    - [Navigieren in der Adobe Admin Console](adobe-admin-console/navigating-the-adobe-admin-console.md)
    - [Übersicht über Admin Console](adobe-admin-console/admin-console-overview.md)
+   - [Administratorrollen](adobe-admin-console/admin-roles.md)
    - [Verwalten von Benutzergruppen in der Global Admin Console](adobe-admin-console/manage-user-groups.md)
    - [Barrierefreiheit in Adobe Admin Console](adobe-admin-console/admin-console-accessibility.md)
    - [Zuweisen von Produkten zu untergeordneten Organisationen mithilfe der Global Admin Console](adobe-admin-console/allocate-products.md)
@@ -33,6 +33,8 @@ ht-degree: 2%
    - [Organisation in der Global Admin Console auswählen](adobe-admin-console/select-an-organization-in-the-global-admin-console.md)
    - [Verwalten von Administratoren](adobe-admin-console/manage-administrators.md)
    - [Verwalten von Produktprofilen in der Global Admin Console](adobe-admin-console/manage-product-profiles.md)
+   - [Aktualisieren von Organisationsrichtlinien in der Global Admin Console](adobe-admin-console/update-policies.md)
+   - [Verwalten von Richtlinienvorlagen in der Global Admin Console](adobe-admin-console/manage-policy-templates.md)
    - [Organisationsstruktur und Produktzuordnungen exportieren oder importieren](adobe-admin-console/export-or-import-organization-structure-and-product-allocations.md)
    - [Erzwingen des Kennwortablaufs in der Admin Console](adobe-admin-console/enforce-password-expiration-in-the-admin-console.md)
    - [Herunterladen von Auditprotokollen und Exportieren von Berichten](adobe-admin-console/download-audit-logs-and-export-reports.md)
