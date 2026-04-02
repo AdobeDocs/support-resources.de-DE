@@ -4,9 +4,13 @@ description: Erfahren Sie, wie ein globaler Administrator Richtlinien für eine 
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-product_v2: id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080bid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 exl-id: bf8d4e71-30a6-4d6c-8749-47070e5b1906
 source-git-commit: 90807a4e803de702c9e0975df551efefc254030a
 workflow-type: tm+mt
@@ -34,7 +38,7 @@ Wenn beispielsweise die Richtlinie **Anspruchsdomänen** auf *nicht zulässig* f
 
 Gehen Sie wie folgt vor, um die Richtlinien einer Organisation zu ändern:
 
-1. Wählen Sie in [ Global Admin Console eine Organisation aus](https://helpx.adobe.com/enterprise/global-admin-console/overview.html) um sie zu bearbeiten, und navigieren Sie dann zur Registerkarte **[!UICONTROL Richtlinien]**.
+1. Wählen Sie in [&#x200B; Global Admin Console eine Organisation aus](https://helpx.adobe.com/enterprise/global-admin-console/overview.html) um sie zu bearbeiten, und navigieren Sie dann zur Registerkarte **[!UICONTROL Richtlinien]**.
 1. Wählen Sie den Umschalter für die entsprechende Richtlinie aus, um sie zuzulassen oder nicht zuzulassen. Sie können auch eine Richtlinie sperren, sodass sie nur von einem globalen Administrator der [ausgewählten Organisation](https://helpx.adobe.com/enterprise/global-admin-console/overview.html) oder der übergeordneten Organisation geändert oder entsperrt werden kann.
 1. Um eine Richtlinie zu sperren, wählen Sie das Symbol **[!UICONTROL Sperren]** ![Sperren](./assets/lock.png) aus. Wenn Sie den Mauszeiger über die Sperre bewegen, wird der Name der ausgewählten Organisation angezeigt. Weitere Informationen zu [Richtliniensperren](#policy-locks).
 1. Wählen Sie **[!UICONTROL Ausstehende Änderungen überprüfen]** aus, nachdem Sie die Organisationen bearbeitet haben. Wählen Sie nach der Überprüfung **[!UICONTROL Änderungen übermitteln]** aus, um [auszuführen](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html).
