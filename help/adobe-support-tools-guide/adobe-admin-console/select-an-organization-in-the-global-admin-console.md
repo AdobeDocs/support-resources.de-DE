@@ -4,13 +4,13 @@ description: Erfahren Sie, wie Sie eine Organisation für die Bearbeitung in der
 Feature-set: Experience Cloud Services
 Solution: Admin Console
 Feature: Admin Console
-source-git-commit: 0bc0dbd8c7040e0be7e7bd45945edb0fb24cb7cc
+exl-id: 6a94922a-3343-433d-96e7-0af0f26581a1
+source-git-commit: 976bfc44cdae61376e2da89019f7758518c6fadc
 workflow-type: tm+mt
 source-wordcount: '630'
 ht-degree: 2%
 
 ---
-
 
 # Organisation in der Global Admin Console auswählen
 
@@ -18,7 +18,7 @@ Erfahren Sie, wie Sie eine Organisation für die Bearbeitung in der Global Admin
 
 >[!NOTE]
 >
->Nachdem Sie Zugriff auf die [Global Admin Console](https://helpx.adobe.com/de/enterprise/global-admin-console/adopt-global-administration.html#request-access) haben, können Sie zunächst ein Unternehmen auswählen, um den Namen, die Benutzergruppen, die Produktprofile, die Administratoren und die Organisationsrichtlinien des Unternehmens anzuzeigen und zu verwalten. Um sich bei der Global Admin Console anzumelden, [hier klicken](https://global-admin-console.adobe.com/).
+>Nachdem Sie Zugriff auf die [Global Admin Console](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration#request-access-to-the-global-admin-console) haben, können Sie zunächst ein Unternehmen auswählen, um den Namen, die Benutzergruppen, die Produktprofile, die Administratoren und die Organisationsrichtlinien des Unternehmens anzuzeigen und zu verwalten. Um sich bei der Global Admin Console anzumelden, [hier klicken](https://global-admin-console.adobe.com/).
 
 Der Global Admin Console fungiert als zentraler Management-Hub für Adobe-Ressourcen. Globale Administratoren können:
 
@@ -65,7 +65,7 @@ Wenn eine Organisation in der Hierarchie-Struktur ausgewählt wird, werden die f
 - Angeforderte Domains
 - Richtlinienwerte der Organisation
 
-Zum Anzeigen oder Bearbeiten von Produkten, Benutzergruppen, Administratoren, Domains, Richtlinien oder Richtlinienvorlagen wählen Sie die entsprechende Registerkarte aus. In den meisten Fällen können Sie [!UICONTROL &#x200B; Feld &#x200B;]Suche“ verwenden, um ein bestimmtes Element auf der Registerkarte zu finden.
+Zum Anzeigen oder Bearbeiten von Produkten, Benutzergruppen, Administratoren, Domains, Richtlinien oder Richtlinienvorlagen wählen Sie die entsprechende Registerkarte aus. In den meisten Fällen können Sie [!UICONTROL  Feld ]Suche“ verwenden, um ein bestimmtes Element auf der Registerkarte zu finden.
 
 ![Organisation bearbeiten](/help/adobe-support-tools-guide/assets/edit-an-organization.png)
 
@@ -79,6 +79,6 @@ Alle Administratoren, die einer Organisation hinzugefügt oder daraus entfernt w
 
 - Der Organisations-Pfadname ist eindeutig, der einfache Name ist jedoch nur unter den gleichrangigen Elementen eindeutig. Es kann Organisationen mit demselben einfachen Namen an anderer Stelle in der Organisationshierarchie geben.
 
-- Sie können die Liste der mit der ausgewählten Organisation verknüpften Domains nur über die globale Admin Console anzeigen. Wenn Sie Systemadministrator der ausgewählten Organisation sind, wählen Sie die Option **[!UICONTROL In Admin Console öffnen]** aus, um [Domains zu verwalten](https://helpx.adobe.com/de/enterprise/using/manage-domains-directories.html). Informationen zu den auf der Registerkarte Domains angezeigten Informationen finden Sie unter [Schemata exportieren und importieren](https://helpx.adobe.com/de/enterprise/global-admin-console/export-and-import-data.html#export-and-import-schemas).
+- Sie können die Liste der mit der ausgewählten Organisation verknüpften Domains nur über die globale Admin Console anzeigen. Wenn Sie Systemadministrator der ausgewählten Organisation sind, wählen Sie die Option **[!UICONTROL In Admin Console öffnen]** aus, um [Domains zu verwalten](https://helpx.adobe.com/enterprise/using/manage-domains-directories.html). Informationen zu den auf der Registerkarte Domains angezeigten Informationen finden Sie unter [Schemata exportieren und importieren](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/export-or-import-organization-structure-and-product-allocations#export-and-import-schemas).
 
 - IE 11 wird für den globalen Verwaltungszugriff nicht unterstützt. Verwenden Sie einen anderen Browser oder eine neuere Version von IE Browser.

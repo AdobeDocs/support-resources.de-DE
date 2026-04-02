@@ -5,9 +5,9 @@ Feature-set: Experience Cloud Services
 Solution: Admin Console
 Feature: Admin Console
 exl-id: 6fcf16e3-0408-4961-9981-14d526e1ea28
-source-git-commit: 74d2dd4eb999f91172eec4c3b5690e1e8b8bd293
+source-git-commit: 976bfc44cdae61376e2da89019f7758518c6fadc
 workflow-type: tm+mt
-source-wordcount: '1524'
+source-wordcount: '1527'
 ht-degree: 0%
 
 ---
@@ -18,24 +18,23 @@ Gilt für Unternehmen.
 
 Erfahren Sie, wie globale Administratoren die Hierarchie des Unternehmens in der Global Admin Console verwalten können.
 
-Nachdem Sie [Zugriff auf den [!DNL Global Admin Console]](https://helpx.adobe.com/de/enterprise/global-admin-console/adopt-global-administration.html#request-access) erhalten haben, können Sie neue Organisationen erstellen, bestehende Organisationen zur Hierarchie hinzufügen, Organisationen löschen und eine übergeordnete Organisation ändern.
-[Bei Global Admin Console anmelden](https://global-admin-console.adobe.com/)
+Nachdem Sie [Zugriff auf den [!DNL Global Admin Console]](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration#request-access-to-the-global-admin-console) erhalten haben, können Sie neue Organisationen erstellen, bestehende Organisationen zur Hierarchie hinzufügen, Organisationen löschen und eine übergeordnete Organisation ändern. Hier klicken, um [sich bei der Global Admin Console anzumelden](https://global-admin-console.adobe.com/)
 
-Eine Organisation ist eine Struktur zur Verwaltung von Adobe-Produkten und -Benutzern. Mit dem [[!DNL Adobe Admin Console]](https://helpx.adobe.com/de/enterprise/using/admin-console.html) können Administratoren die Bereitstellung und Konfiguration von Produkten und Benutzern in ihrer Organisation verwalten. Mit dem [[!DNL Global Admin Console]](https://helpx.adobe.com/de/enterprise/global-admin-console/overview.html) können globale Administratoren mehrere Organisationen erstellen, verwalten und löschen.
+Eine Organisation ist eine Struktur zur Verwaltung von Adobe-Produkten und -Benutzern. Mit dem [[!DNL Adobe Admin Console]](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview) können Administratoren die Bereitstellung und Konfiguration von Produkten und Benutzern in ihrer Organisation verwalten. Mit dem [[!DNL Global Admin Console]](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration) können globale Administratoren mehrere Organisationen erstellen, verwalten und löschen.
 
 ## Erstellen einer untergeordneten Organisation
 
-Als [globaler Administrator](https://helpx.adobe.com/de/enterprise/global-admin-console/manage-administrators.html) können Sie untergeordnete Organisationen jeder Organisation in der Hierarchie erstellen und den Namen, das Land, Benutzergruppen, Produkte, Produktprofile, Administratoren und Richtlinien festlegen.
+Als [globaler Administrator](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators) können Sie untergeordnete Organisationen jeder Organisation in der Hierarchie erstellen und den Namen, das Land, Benutzergruppen, Produkte, Produktprofile, Administratoren und Richtlinien festlegen.
 
 Wenn eine neue untergeordnete Organisation erstellt wird, werden automatisch die folgenden Elemente von der direkt übergeordneten Organisation übernommen:
 
-- Einstellungen der Organisation [Richtlinie](https://helpx.adobe.com/de/enterprise/global-admin-console/update-policies.html) (einschließlich Sperren, falls vorhanden).
-- Die Liste der Systemadministratoren (gesteuert durch &quot;**[!UICONTROL bei der Erstellung übernehmen]** [Richtlinie](https://helpx.adobe.com/de/enterprise/global-admin-console/update-policies.html)).
+- Einstellungen der Organisation [Richtlinie](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html) (einschließlich Sperren, falls vorhanden).
+- Die Liste der Systemadministratoren (gesteuert durch &quot;**[!UICONTROL bei der Erstellung übernehmen]** [Richtlinie](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html)).
 Folgendes kann verhindern, dass Systemadministratoren übernommen werden:
-   - Mangel an [Domain-Vertrauen](https://helpx.adobe.com/de/enterprise/using/directory-trust.html).
-   - Benutzertypbeschränkungen (Benutzerrichtlinien für Adobe ID/Enterprise ID/Federated ID hinzufügen). Erfahren Sie mehr über [Richtliniendetails](https://helpx.adobe.com/de/enterprise/global-admin-console/update-policies.html).
-- Zugriff auf [[!DNL Federated ID]] oder [[!DNL Enterprise ID]] Benutzer von Domains aus, auf die die übergeordnete Organisation Zugriff hat. Dadurch werden die Domain-Benutzer im übergeordneten Element in der untergeordneten Organisation verfügbar. Die Vererbung des Benutzerzugriffs wird gesteuert durch **Vererben von Benutzern aus Ordnern, die von der übergeordneten Organisation verwaltet werden** [Richtlinie](https://helpx.adobe.com/de/enterprise/global-admin-console/update-policies.html).
-- Freigaberichtlinie, Passwortrichtlinie und Sicherheitskontakte (gesteuert durch **Einstellungen zur Asset-Freigabe erben, wenn eine untergeordnete Organisation erstellt wird** [Richtlinie](https://helpx.adobe.com/de/enterprise/global-admin-console/update-policies.html)).
+   - Mangel an [Domain-Vertrauen](https://helpx.adobe.com/enterprise/using/directory-trust.html).
+   - Benutzertypbeschränkungen (Benutzerrichtlinien für Adobe ID/Enterprise ID/Federated ID hinzufügen). Erfahren Sie mehr über [Richtliniendetails](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html).
+- Zugriff auf [[!DNL Federated ID]] oder [[!DNL Enterprise ID]] Benutzer von Domains aus, auf die die übergeordnete Organisation Zugriff hat. Dadurch werden die Domain-Benutzer im übergeordneten Element in der untergeordneten Organisation verfügbar. Die Vererbung des Benutzerzugriffs wird gesteuert durch **Vererben von Benutzern aus Ordnern, die von der übergeordneten Organisation verwaltet werden** [Richtlinie](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html).
+- Freigaberichtlinie, Passwortrichtlinie und Sicherheitskontakte (gesteuert durch **Einstellungen zur Asset-Freigabe erben, wenn eine untergeordnete Organisation erstellt wird** [Richtlinie](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html)).
 
 1. Melden Sie sich bei der [Global Admin Console](https://global-admin-console.adobe.com/) an. Wählen Sie auf **[!UICONTROL Registerkarte]** die Organisation aus, der Sie eine untergeordnete Organisation hinzufügen möchten.
 2. Wählen Sie das Symbol **[!UICONTROL Hinzufügen+]** aus.
@@ -44,11 +43,11 @@ Folgendes kann verhindern, dass Systemadministratoren übernommen werden:
    Der einfache Name des Unternehmens muss zwischen 4 und 100 Zeichen lang sein. Die maximale Länge für den Pfadnamen beträgt 255 Zeichen.
    ![Untergeordnete Organisation hinzufügen](/help/adobe-support-tools-guide/assets/add-a-child-organization.png)
 4. Wählen Sie **[!UICONTROL Speichern]** aus.
-5. Wählen **[!UICONTROL Ausstehende Änderungen überprüfen]** aus, nachdem Sie die Organisationen bearbeitet haben. Wählen Sie nach der Überprüfung **[!UICONTROL Änderungen übermitteln]** aus, um [auszuführen](https://helpx.adobe.com/de/enterprise/global-admin-console/execute-jobs.html).
+5. Wählen **[!UICONTROL Ausstehende Änderungen überprüfen]** aus, nachdem Sie die Organisationen bearbeitet haben. Wählen Sie nach der Überprüfung **[!UICONTROL Änderungen übermitteln]** aus, um [auszuführen](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html).
 
 ## Untergeordnete Organisation löschen
 
-Als [globaler Administrator](https://helpx.adobe.com/de/enterprise/global-admin-console/manage-administrators.html) können Sie untergeordnete Organisationen löschen. Der Löschvorgang kann nicht rückgängig gemacht werden, und die Stammorganisation kann nicht gelöscht werden. Die der gelöschten Organisation zugewiesenen Ressourcen werden an die übergeordnete Organisation zurückgegeben. Bevor eine Organisation gelöscht wird, wird ihr übergeordnetes Element automatisch zum übergeordneten Element einer ihrer untergeordneten Organisationen.
+Als [globaler Administrator](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators) können Sie untergeordnete Organisationen löschen. Der Löschvorgang kann nicht rückgängig gemacht werden, und die Stammorganisation kann nicht gelöscht werden. Die der gelöschten Organisation zugewiesenen Ressourcen werden an die übergeordnete Organisation zurückgegeben. Bevor eine Organisation gelöscht wird, wird ihr übergeordnetes Element automatisch zum übergeordneten Element einer ihrer untergeordneten Organisationen.
 
 Eine Organisation kann nur gelöscht werden, wenn die folgenden Kriterien erfüllt sind:
 
@@ -65,13 +64,13 @@ Eine Organisation kann nur gelöscht werden, wenn die folgenden Kriterien erfül
 1. Wählen Sie das Symbol **[!UICONTROL Löschen]** aus.
    ![Organisation löschen](/help/adobe-support-tools-guide/assets/delete-organization.png)
 1. Wählen **[!UICONTROL Dialogfeld „Organisation]**&quot; die Option **[!UICONTROL OK]**.
-1. Wählen **[!UICONTROL Ausstehende Änderungen überprüfen]** aus, nachdem Sie die Organisationen bearbeitet haben. Wählen Sie nach der Überprüfung **[!UICONTROL Änderungen übermitteln]** aus, um [auszuführen](https://helpx.adobe.com/de/enterprise/global-admin-console/execute-jobs.html).
+1. Wählen **[!UICONTROL Ausstehende Änderungen überprüfen]** aus, nachdem Sie die Organisationen bearbeitet haben. Wählen Sie nach der Überprüfung **[!UICONTROL Änderungen übermitteln]** aus, um [auszuführen](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html).
 
 ## Organisation umbenennen
 
 Der Organisationsname ist der offizielle Name Ihres Unternehmens oder Ihrer Institution, der beim Kauf festgelegt wird. Benutzer sehen diesen Namen bei der Auswahl eines Profils während der Anmeldung, insbesondere wenn sie Zugriff auf Adobe-Produkte von mehreren Unternehmen haben oder zwischen einem Geschäfts- und einem Privatprofil wählen müssen.
 
-Als [globaler Administrator](https://helpx.adobe.com/de/enterprise/global-admin-console/manage-administrators.html) können Sie den Namen jeder übergeordneten oder untergeordneten Organisation bearbeiten, um Benutzern zu helfen, das richtige Profil zu identifizieren, wenn sie sich bei [[!DNL Creative Cloud]] Produkten und Services anmelden.
+Als [globaler Administrator](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators) können Sie den Namen jeder übergeordneten oder untergeordneten Organisation bearbeiten, um Benutzern zu helfen, das richtige Profil zu identifizieren, wenn sie sich bei [[!DNL Creative Cloud]] Produkten und Services anmelden.
 
 1. Melden Sie sich bei der [Global Admin Console](https://global-admin-console.adobe.com/) an. Wählen Sie auf **[!UICONTROL Registerkarte]** die Organisation aus, die Sie umbenennen möchten.
 1. Wählen Sie das Symbol **[!UICONTROL Bearbeiten]** aus.
@@ -82,18 +81,18 @@ Als [globaler Administrator](https://helpx.adobe.com/de/enterprise/global-admin-
 >
 >Verwenden Sie einen klaren, erkennbaren Organisationsnamen mit bis zu 255 Zeichen, um Benutzern die Auswahl des richtigen Profils zu erleichtern. Verwenden Sie keine Sonderzeichen und erwägen Sie, Region, Abteilung oder Berechtigung einzuschließen. Vermeiden Sie außerdem ungewöhnliche Akronyme und vage oder ähnliche Namen in Ihrer Unternehmenshierarchie.
 
-Änderungen werden im Administratorprotokoll protokolliert, alle Benutzer werden per E-Mail benachrichtigt und der Name kann 24 Stunden lang nicht erneut aktualisiert werden. [Erfahren Sie, wie Sie Auditprotokolle anzeigen und herunterladen können](https://helpx.adobe.com/de/enterprise/global-admin-console/insights.html).
+Änderungen werden im Administratorprotokoll protokolliert, alle Benutzer werden per E-Mail benachrichtigt und der Name kann 24 Stunden lang nicht erneut aktualisiert werden. [Erfahren Sie, wie Sie Auditprotokolle anzeigen und herunterladen können](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/download-audit-logs-and-export-reports).
 
 ## Ändern des übergeordneten Elements einer Organisation
 
-[[!DNL Global Administrator]](https://helpx.adobe.com/de/enterprise/global-admin-console/manage-administrators.html) können Sie eine Organisation in der Organisationshierarchie mithilfe der Schaltfläche **[!UICONTROL Hierarchie ändern]** neu übergeben.
+[!DNL Global Administrator](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators) können Sie eine Organisation in der Organisationshierarchie mithilfe der Schaltfläche **[!UICONTROL Hierarchie ändern]** neu übergeben.
 
 Das Ändern des übergeordneten Elements einer Organisation hat die folgenden Auswirkungen:
 
 - Durch das Neuerteilen einer Organisation wird der gesamte Unterbaum verschoben, der in der übergeordneten Organisation verwurzelt ist. Die Pfadnamen der übergeordneten Organisation und ihrer untergeordneten Elemente werden aktualisiert, um ihren neuen Speicherort widerzuspiegeln.
-- Organisation [Richtlinien](https://helpx.adobe.com/de/enterprise/global-admin-console/update-policies.html) verschobener Organisationen werden aktualisiert, sodass alle Richtliniensperren von einer Organisation in der neuen Hierarchie verwaltet werden.
+- Organisation [Richtlinien](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html) verschobener Organisationen werden aktualisiert, sodass alle Richtliniensperren von einer Organisation in der neuen Hierarchie verwaltet werden.
 - Durch das Ändern der Position einer Organisation in der Hierarchie können die globalen Administratoren für diese Organisation geändert werden. Globale Administrationsrollen werden in der Hierarchie nach unten übernommen, sodass alle globalen Administratoren der neuen übergeordneten Organisation automatisch zu globalen Administratoren der verschobenen Organisation werden. Ebenso können globale Administratoren ihre Rolle in der verschobenen Organisation verlieren, wenn sie diese Rolle innehatten, da sie ein globaler Administrator des alten Elternteils waren. Die übernommenen globalen Administrationsrollen werden nicht mehr im Adminbereich des Unternehmens aufgeführt.
-- Die Neuzuordnung betrifft auch die verfügbaren Produkte in den verschobenen Organisationen. Wenn möglich, [Produktzuordnungen](https://helpx.adobe.com/de/enterprise/global-admin-console/allocate-products.html) so aktualisiert, dass sie über den neuen übergeordneten Speicherort eingehen.
+- Die Neuzuordnung betrifft auch die verfügbaren Produkte in den verschobenen Organisationen. Wenn möglich, [Produktzuordnungen](https://helpx.adobe.com/enterprise/global-admin-console/allocate-products.html) so aktualisiert, dass sie über den neuen übergeordneten Speicherort eingehen.
 - Wenn Produktzuweisungen nicht so aktualisiert werden können, dass sie von dem neuen übergeordneten Element stammen, werden die Produkte zusammen mit den Produktprofilen dieser Produkte entfernt. Benutzende können infolge dieses Vorgangs den Zugriff verlieren. Damit das Produkt am neuen Speicherort verfügbar ist, muss das Produkt beim nächsten gemeinsamen Vorgänger der alten und neuen Speicherorte verfügbar sein.
 
 >[!WARNING]
@@ -104,17 +103,17 @@ Das Ändern des übergeordneten Elements einer Organisation hat die folgenden Au
 2. Wählen Sie **[!UICONTROL Popup]** Bildschirm, der angezeigt wird, OK aus.
 3. Ziehen Sie zum erneuten Übernehmen die untergeordnete Organisation auf die gewünschte Organisation.
 4. Wählen Sie **[!UICONTROL Speichern]** aus, wenn Sie die Neuzuordnung Ihrer Organisationen abgeschlossen haben.
-5. Wählen **[!UICONTROL Ausstehende Änderungen überprüfen]** aus, nachdem Sie die Organisationen bearbeitet haben. Wählen Sie nach der Überprüfung **[!UICONTROL Änderungen übermitteln]** aus, um [auszuführen](https://helpx.adobe.com/de/enterprise/global-admin-console/execute-jobs.html).
+5. Wählen **[!UICONTROL Ausstehende Änderungen überprüfen]** aus, nachdem Sie die Organisationen bearbeitet haben. Wählen Sie nach der Überprüfung **[!UICONTROL Änderungen übermitteln]** aus, um [auszuführen](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html).
 
-Sobald der Auftrag abgeschlossen ist, können Sie zur Produktzuordnung navigieren und [die Zuweisungswerte ändern](https://helpx.adobe.com/de/enterprise/global-admin-console/allocate-products.html) um die Änderung bei der Zuordnung von Produktressourcen widerzuspiegeln.
+Sobald der Auftrag abgeschlossen ist, können Sie zur Produktzuordnung navigieren und [die Zuweisungswerte ändern](https://helpx.adobe.com/enterprise/global-admin-console/allocate-products.html) um die Änderung bei der Zuordnung von Produktressourcen widerzuspiegeln.
 
 ## Hinzufügen vorhandener Organisationen mithilfe des Organisations-Mappers
 
-Als [globaler Administrator](https://helpx.adobe.com/de/enterprise/global-admin-console/manage-administrators.html) können Sie bestehende Organisationen, die derzeit nicht Teil Ihrer Global Admin Console-Hierarchie sind, zur Organisationshierarchie hinzufügen.
+Als [globaler Administrator](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators) können Sie bestehende Organisationen, die derzeit nicht Teil Ihrer Global Admin Console-Hierarchie sind, zur Organisationshierarchie hinzufügen.
 
 Sie können auch Team-Organisationen zur Organisationshierarchie hinzufügen. Teamorganisationen nehmen nicht an der Produktzuordnung oder dem Produktverwendungsrollup teil, und die Verwaltung von Teamorganisationen in der Global Admin Console ist begrenzt. Sie können sie zur Organisationshierarchie hinzufügen, um sie zu verfolgen und Einblick in die von ihnen gekauften Produkte zu erhalten. Teamorganisationen können keine untergeordneten Organisationen haben und verfügen nicht über viele Funktionen von Unternehmensorganisationen.
 
-Erfahren Sie mehr über [Einschränkungen bei der Produktzuweisung](https://helpx.adobe.com/de/enterprise/global-admin-console/allocate-products.html#limitations).
+Erfahren Sie mehr über [Einschränkungen bei der Produktzuweisung](https://helpx.adobe.com/enterprise/global-admin-console/allocate-products.html#limitations).
 
 >[!WARNING]
 >
@@ -125,13 +124,13 @@ Die Registerkarte **[!UICONTROL Organisationszuordnung]** zeigt Folgendes an:
 1. Eine Dropdown-Liste mit einer Liste möglicher übergeordneter Organisationen, denen Sie eine untergeordnete Organisation hinzufügen können. Dies sind Organisationen, für die Sie ein globaler Administrator sind.
 1. Eine Liste der untergeordneten Organisationen, die unter der in Schritt 1 ausgewählten übergeordneten Organisation hinzugefügt werden können. Hierbei handelt es sich um Organisationen, für die Sie Systemadministrator sind und die noch kein untergeordnetes Element einer anderen Organisation sind.
 
-Wenn eine Organisation zur globalen Administration hinzugefügt wird, bleiben Produkte in den Organisationen, die mit dem Organisations-Mapper hinzugefügt werden, als Käufe erhalten; [Produktzuordnung](https://helpx.adobe.com/de/enterprise/global-admin-console/allocate-products.html) Zahlen werden bei diesen Organisationen nicht mehr aggregiert.
+Wenn eine Organisation zur globalen Administration hinzugefügt wird, bleiben Produkte in den Organisationen, die mit dem Organisations-Mapper hinzugefügt werden, als Käufe erhalten; [Produktzuordnung](https://helpx.adobe.com/enterprise/global-admin-console/allocate-products.html) Zahlen werden bei diesen Organisationen nicht mehr aggregiert.
 
 1. Melden Sie sich bei der [Global Admin Console](https://global-admin-console.adobe.com/) an und navigieren Sie zu **[!UICONTROL Organization Mapper]**.
 2. Wählen Sie in der Dropdown-Liste eine übergeordnete Organisation aus.\
-   Dies sind die Organisationen, denen Sie als globaler Administrator direkt hinzugefügt werden. Wenn in der Dropdown-Liste keine Organisation angezeigt wird, die als übergeordnetes Element verwendet werden soll, wählen Sie eine weiter oben in der Hierarchie aus. Sobald der Vorgang „Organisationszuordnung“ abgeschlossen ist, können Sie mit [Hierarchie ändern](https://helpx.adobe.com/de/enterprise/global-admin-console/set-up-organizations.html#change-the-parent-of-an-organization) die neue Organisation in der Baumstruktur nach unten verschieben, um das übergeordnete Element zu erhalten, das Sie verwenden möchten.
+   Dies sind die Organisationen, denen Sie als globaler Administrator direkt hinzugefügt werden. Wenn in der Dropdown-Liste keine Organisation angezeigt wird, die als übergeordnetes Element verwendet werden soll, wählen Sie eine weiter oben in der Hierarchie aus. Sobald der Vorgang „Organisationszuordnung“ abgeschlossen ist, können Sie mit [Hierarchie ändern](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/set-up-organizations#change-the-parent-of-an-organization) die neue Organisation in der Baumstruktur nach unten verschieben, um das übergeordnete Element zu erhalten, das Sie verwenden möchten.
 3. Wählen Sie die Organisationen aus, die als untergeordnete Elemente der im vorherigen Schritt ausgewählten Organisation hinzugefügt werden sollen.
-4. Wählen **[!UICONTROL Ausstehende Änderungen überprüfen]** aus. Wählen Sie dann **[!UICONTROL Änderungen übermitteln]** aus, um [&#x200B; auszuführen](https://helpx.adobe.com/de/enterprise/global-admin-console/execute-jobs.html).
+4. Wählen **[!UICONTROL Ausstehende Änderungen überprüfen]** aus. Wählen Sie dann **[!UICONTROL Änderungen übermitteln]** aus, um [ auszuführen](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html).
 5. Nachdem Sie die Änderungen ausgeführt haben, können Sie die oben genannten Schritte wiederholen, um weitere untergeordnete Organisationen zu Ihrer Organisationshierarchie hinzuzufügen.
 
 Sobald sich eine Organisation in der Hierarchie befindet, können Sie Organisationsrichtlinien, Administratoren oder andere Einstellungen anpassen, indem Sie zur Registerkarte **[!UICONTROL Organisationen]** navigieren.

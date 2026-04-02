@@ -5,7 +5,7 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 3220086a-4603-465f-a3e3-194193ca10ba
-source-git-commit: 3cd8b197bd1676a54e8496442449f142cacf73b3
+source-git-commit: 063b67cf71db5b2dc4739b6c67623e9223ce1b28
 workflow-type: tm+mt
 source-wordcount: '4430'
 ht-degree: 3%
@@ -18,12 +18,11 @@ ht-degree: 3%
 
 Erfahren Sie, wie globale Administratoren die Organisations- und Produktverwaltung mit Export- und Importfunktionen in der Global Admin Console optimieren können.
 
-Greifen Sie auf die **[!UICONTROL Organisationen]** in der [Global Admin Console zu](https://helpx.adobe.com/de/enterprise/global-admin-console/adopt-global-administration.html) um die Organisationsstruktur zu exportieren oder zu importieren. Gehen Sie zur Registerkarte **[!UICONTROL Produktzuordnung]**, um Zuordnungsdaten anzuzeigen. Wählen Sie das Symbol **[!UICONTROL Weitere Optionen]** (⋮) aus und wählen Sie dann **[!UICONTROL Exportieren]** oder **[!UICONTROL Importieren]**.
-Klicken Sie hier [melden Sie sich bei der Global Admin Console an](https://global-admin-console.adobe.com).
+Greifen Sie auf die **[!UICONTROL Organisationen]** in der [Global Admin Console zu](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration) um die Organisationsstruktur zu exportieren oder zu importieren. Gehen Sie zur Registerkarte **[!UICONTROL Produktzuordnung]**, um Zuordnungsdaten anzuzeigen. Wählen Sie das Symbol **[!UICONTROL Weitere Optionen]** (⋮) aus und wählen Sie dann **[!UICONTROL Exportieren]** oder **[!UICONTROL Importieren]**. Klicken Sie hier [melden Sie sich bei der Global Admin Console an](https://global-admin-console.adobe.com).
 
 ## Exportieren der Organisationsstruktur
 
-Als [globaler Administrator](https://helpx.adobe.com/de/enterprise/global-admin-console/manage-administrators.html) können Sie die Organisationshierarchie exportieren. Sie können eine JSON-, CSV- oder XLSX-Darstellung der gesamten Organisationshierarchie oder einer Untergruppe davon herunterladen. Sie können diese Daten dann zur Analyse oder Änderung verwenden.
+Als [globaler Administrator](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators) können Sie die Organisationshierarchie exportieren. Sie können eine JSON-, CSV- oder XLSX-Darstellung der gesamten Organisationshierarchie oder einer Untergruppe davon herunterladen. Sie können diese Daten dann zur Analyse oder Änderung verwenden.
 
 Das ausgewählte Exportformat wirkt sich auf die Struktur der exportierten Daten aus:
 
@@ -52,7 +51,7 @@ Nach dem Herunterladen der Datei können Sie die Daten bearbeiten und dann wiede
 
 ## Organisationsstruktur importieren
 
-Als [globaler Administrator](https://helpx.adobe.com/de/enterprise/global-admin-console/manage-administrators.html) können Sie potenziell geänderte Daten importieren. Beim Hochladen werden die neuen Daten mit den aktuellen Daten verglichen und alle Änderungen werden auf die Organisationshierarchie angewendet. Alle Importvorgänge werden mit der aktualisierten Kopie der Organisationshierarchie durchgeführt. Wenn Sie ausstehende Änderungen haben, werden die Importänderungen zusätzlich zu den ausstehenden Änderungen in der Hierarchie hinzugefügt.
+Als [globaler Administrator](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators) können Sie potenziell geänderte Daten importieren. Beim Hochladen werden die neuen Daten mit den aktuellen Daten verglichen und alle Änderungen werden auf die Organisationshierarchie angewendet. Alle Importvorgänge werden mit der aktualisierten Kopie der Organisationshierarchie durchgeführt. Wenn Sie ausstehende Änderungen haben, werden importierte Änderungen zusätzlich zu den vorhandenen ausstehenden Änderungen in der Hierarchie hinzugefügt.
 
 ### Importschritte
 
@@ -60,7 +59,7 @@ Als [globaler Administrator](https://helpx.adobe.com/de/enterprise/global-admin-
 2. Wählen Sie das Symbol **[!UICONTROL Weitere Optionen]** **⋮** und dann **[!UICONTROL Importieren]** aus. Je nach Größe und Komplexität der Importdatei kann die Verarbeitung einige Sekunden bis mehrere Minuten dauern.
 3. Wählen Sie **[!UICONTROL Datei auswählen]** und wählen Sie eine JSON-, CSV- oder XLSX-Datei zum Hochladen aus. Bei CSV-Dateien kann jeweils nur ein Organisationsdetail importiert werden, während der Import von Produkten nicht unterstützt wird. Die importierten Änderungen erscheinen so, als hätten Sie die Daten manuell bearbeitet.
 4. Wählen Sie **[!UICONTROL Schließen]** aus.
-5. Wählen **[!UICONTROL Ausstehende Änderungen überprüfen]** aus. Wählen Sie dann **[!UICONTROL Änderungen übermitteln]** aus, um [&#x200B; auszuführen](https://helpx.adobe.com/de/enterprise/global-admin-console/execute-jobs.html). Vor dem Ausführen der Änderungen werden die ausstehenden Aktionen auf dieselbe Weise angezeigt wie bei manuellen Bearbeitungen in der Global Admin Console.
+5. Wählen **[!UICONTROL Ausstehende Änderungen überprüfen]** aus. Wählen Sie dann **[!UICONTROL Änderungen übermitteln]** aus, um [ auszuführen](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html). Vor dem Ausführen der Änderungen werden die ausstehenden Aktionen auf dieselbe Weise angezeigt wie bei manuellen Bearbeitungen in der Global Admin Console.
 
 ## Schemata exportieren und importieren
 
@@ -125,7 +124,7 @@ Eingabedateien ohne oder leeres Operationsfeld werden ignoriert.
     <td>parentOrgId</td>
     <td>
       ID der übergeordneten Organisation. Leer für Stammorganisation.
-      Bei der Aktualisierung gelten erhebliche Einschränkungen, einschließlich der Tatsache, dass sich neue übergeordnete Elemente in derselben Hierarchie befinden und
+      Bei der Aktualisierung gelten erhebliche Einschränkungen, einschließlich der Tatsache, dass sich das neue übergeordnete Element in derselben Hierarchie befindet.
       die Produkte haben, die in der Organisation vorhanden sind.
     </td>
     <td>
@@ -311,7 +310,6 @@ Exporte und Importe von Produktprofilen bestehen aus zwei Teilen: den Produktpro
 - Bei Verwendung von CSV oder XLSX mit Produktprofilen werden die Profile und Ressourcen zu einer Tabelle zusammengefasst. Für das Produktprofil sind mehrere Einträge vorhanden, einer für jede Ressource.
 - Das ausgewählte Feld in der Ressource steuert, ob der Service aktiviert ist.
 - Beim Importieren von Produktprofilen muss es einen Vorgang Erstellen oder Aktualisieren für das Produktprofil selbst und für alle Ressourcenobjekte geben, die aktualisiert oder erstellt werden sollen.
-
 
 <table>
   <tr>
@@ -630,7 +628,7 @@ Das Feld Vorgang für Ressourcen wird ignoriert, wenn für das Produkt, zu dem s
 
 ## Importieren und Exportieren von Produktzuordnungsdaten
 
-Als [globaler Administrator](https://helpx.adobe.com/de/enterprise/global-admin-console/manage-administrators.html) können Sie die Produktzuordnungsdaten als JSON- oder CSV-Datei exportieren. Anschließend können Sie diese Daten bearbeiten und zum Importieren der Änderungen hochladen. Beim Hochladen der potenziell geänderten Daten werden die neuen Daten mit den aktuellen Daten verglichen und alle Änderungen werden auf die Produktzuordnungsdaten angewendet. Sie können dann die ausstehenden Änderungen überprüfen und übermitteln, damit sie wirksam werden.
+Als [globaler Administrator](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators) können Sie die Produktzuordnungsdaten als JSON- oder CSV-Datei exportieren. Anschließend können Sie diese Daten ändern und hochladen, um die Änderungen zu importieren. Beim Hochladen der potenziell geänderten Daten werden die neuen Daten mit den aktuellen Daten verglichen und alle Änderungen werden auf die Produktzuordnungsdaten angewendet. Sie können dann die ausstehenden Änderungen überprüfen und übermitteln, damit sie wirksam werden.
 
 ## Exportieren des Produktzuordnungsmodells
 
@@ -646,7 +644,7 @@ Sie können Daten exportieren, ändern und dann die geänderte Datei importieren
 1. Melden Sie sich bei der [Global Admin Console](https://global-admin-console.adobe.com/) an und navigieren Sie zur Registerkarte **[!UICONTROL Produktzuordnung]** .
 2. Wählen Sie das ⋮ **[!UICONTROL Weitere Optionen]** und dann **[!UICONTROL Importieren]** aus.
 3. JSON- oder CSV-Datei zum Hochladen auswählen.
-4. Wählen **[!UICONTROL Ausstehende Änderungen überprüfen]** aus. Wählen Sie nach Überprüfung der Änderungen **[!UICONTROL Änderungen übermitteln]** aus, um [&#x200B; Änderungen &#x200B;](https://helpx.adobe.com/de/enterprise/global-admin-console/execute-jobs.html).
+4. Wählen **[!UICONTROL Ausstehende Änderungen überprüfen]** aus. Wählen Sie nach Überprüfung der Änderungen **[!UICONTROL Änderungen übermitteln]** aus, um [ Änderungen ](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html).
 
 ## Export- und Importformate für die Produktzuordnung
 

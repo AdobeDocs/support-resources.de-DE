@@ -5,7 +5,7 @@ Feature-set: Experience Cloud Services
 Solution: Admin Console
 Feature: Admin Console
 exl-id: 4da055a9-7cdc-4411-8895-016e24eabb2e
-source-git-commit: a65339ed3314c178f52761aab1efa0fe898607ae
+source-git-commit: f8d59d1d855ed2c564d9a86286e799ab428d8680
 workflow-type: tm+mt
 source-wordcount: '810'
 ht-degree: 0%
@@ -18,11 +18,11 @@ Gilt für Unternehmen.
 
 Erfahren Sie mehr über die Vorteile der Verwendung von Global Admin Console und darüber, wie Sie Zugriff erhalten. [Weitere Informationen](#request-access-to-the-global-admin-console).
 
-Erstellen Sie einen Support-Fall in der Adobe Admin Console, um Zugriff auf eine Global Admin Console anzufordern. Melden Sie sich bei der [Global Admin Console](https://adminconsole.adobe.com/support) an.
+Erstellen Sie einen Support-Fall in der Adobe Admin Console, um Zugriff auf eine Global Admin Console anzufordern. Melden Sie sich bei der [Global Admin Console](https://global-admin-console.adobe.com) an.
 
 ## Einführung
 
-Die [Global Admin Console](https://adminconsole.adobe.com/support) ist für Kunden mit komplexen Organisationsstrukturen, die entweder über viele Admin Consoles verfügen oder ihre Haupt-Admin Console in mehrere Konsolen aufteilen möchten. So etwa multinationale Konzerne, Bildungskonsortien, große Schulbezirke und große staatliche Behörden. Bestehende Admin Consoles werden in einer hierarchischen Struktur verschachtelt, z. B. einem Organigramm, um für Transparenz in einem verteilten Unternehmen zu sorgen.
+Die [Global Admin Console](https://global-admin-console.adobe.com) ist für Kunden mit komplexen Organisationsstrukturen, die entweder über viele Admin Consoles verfügen oder ihre Haupt-Admin Console in mehrere Konsolen aufteilen möchten. So etwa multinationale Konzerne, Bildungskonsortien, große Schulbezirke und große staatliche Behörden. Bestehende Admin Consoles werden in einer hierarchischen Struktur verschachtelt, z. B. einem Organigramm, um für Transparenz in einem verteilten Unternehmen zu sorgen.
 
 Die Global Admin Console ersetzt oder ändert nicht die Funktionalität der bestehenden Admin Consoles. Es funktioniert als Hierarchie mit einer Stammorganisation an der Spitze und allen Konsolen, die unter dieser Stammorganisation verschachtelt sind. Es gibt ein Auswahlkriterium, das auf den Kauf und die Erstellung einer Hierarchiestruktur ausgerichtet ist, in der ein Admin Console als Stammkonsole fungiert.
 
@@ -44,7 +44,7 @@ Im Folgenden finden Sie einige wichtige Vorteile der [!DNL Global Admin Console]
 - Erstellen, Bearbeiten und Löschen von Produktprofilen und Benutzergruppen
 - Exportieren Sie Organisationsinformationen für das Reporting oder die Verwendung in anderen Prozessen.
 - Aktualisierungen an Organisationen und Änderungen an der Organisationshierarchie importieren.
-- Sie erhalten Benachrichtigungen zum ETLA-Vertragsstatus in untergeordneten Organisationen, einschließlich bevorstehender Auslaufverträge, abgelaufener Verträge oder inaktiver Verträge. Weitere Informationen finden Sie in der Dokumentation [Ablauf von Verträgen](https://helpx.adobe.com/de/enterprise/using/contract-expiry.html) .
+- Sie erhalten Benachrichtigungen zum ETLA-Vertragsstatus in untergeordneten Organisationen, einschließlich bevorstehender Auslaufverträge, abgelaufener Verträge oder inaktiver Verträge. Weitere Informationen finden Sie in der Dokumentation [Ablauf von Verträgen](https://helpx.adobe.com/enterprise/using/contract-expiry.html) .
 
 ## Eignungskriterien
 
@@ -61,7 +61,7 @@ Adobe empfiehlt eine globale Administration, wenn Ihr Unternehmen mindestens ein
 
 Um Zugriff auf die [Global Admin Console](https://adminconsole.adobe.com/support/) anzufordern, gehen Sie nach Rücksprache mit Ihrem Adobe-Support-Mitarbeiter wie folgt vor.
 
-1. Navigieren Sie in der {0[Admin Console} zu &#x200B;](https://adminconsole.adobe.com/support/)Support **[!UICONTROL >]** Support-Zusammenfassung **[!UICONTROL .]**
+1. Navigieren Sie in der {0[Admin Console} zu ](https://adminconsole.adobe.com/support/)Support **[!UICONTROL >]** Support-Zusammenfassung **[!UICONTROL .]**
 
    >[!NOTE]
    >
