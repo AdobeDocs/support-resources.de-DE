@@ -59,7 +59,7 @@ Als [globaler Administrator](https://experienceleague.adobe.com/en/docs/support-
 2. Wählen Sie das Symbol **[!UICONTROL Weitere Optionen]** **⋮** und dann **[!UICONTROL Importieren]** aus. Je nach Größe und Komplexität der Importdatei kann die Verarbeitung einige Sekunden bis mehrere Minuten dauern.
 3. Wählen Sie **[!UICONTROL Datei auswählen]** und wählen Sie eine JSON-, CSV- oder XLSX-Datei zum Hochladen aus. Bei CSV-Dateien kann jeweils nur ein Organisationsdetail importiert werden, während der Import von Produkten nicht unterstützt wird. Die importierten Änderungen erscheinen so, als hätten Sie die Daten manuell bearbeitet.
 4. Wählen Sie **[!UICONTROL Schließen]** aus.
-5. Wählen **[!UICONTROL Ausstehende Änderungen überprüfen]** aus. Wählen Sie dann **[!UICONTROL Änderungen übermitteln]** aus, um [ auszuführen](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html). Vor dem Ausführen der Änderungen werden die ausstehenden Aktionen auf dieselbe Weise angezeigt wie bei manuellen Bearbeitungen in der Global Admin Console.
+5. Wählen **[!UICONTROL Ausstehende Änderungen überprüfen]** aus. Wählen Sie dann **[!UICONTROL Änderungen übermitteln]** aus, um [&#x200B; auszuführen](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html). Vor dem Ausführen der Änderungen werden die ausstehenden Aktionen auf dieselbe Weise angezeigt wie bei manuellen Bearbeitungen in der Global Admin Console.
 
 ## Schemata exportieren und importieren
 
@@ -644,7 +644,7 @@ Sie können Daten exportieren, ändern und dann die geänderte Datei importieren
 1. Melden Sie sich bei der [Global Admin Console](https://global-admin-console.adobe.com/) an und navigieren Sie zur Registerkarte **[!UICONTROL Produktzuordnung]** .
 2. Wählen Sie das ⋮ **[!UICONTROL Weitere Optionen]** und dann **[!UICONTROL Importieren]** aus.
 3. JSON- oder CSV-Datei zum Hochladen auswählen.
-4. Wählen **[!UICONTROL Ausstehende Änderungen überprüfen]** aus. Wählen Sie nach Überprüfung der Änderungen **[!UICONTROL Änderungen übermitteln]** aus, um [ Änderungen ](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html).
+4. Wählen **[!UICONTROL Ausstehende Änderungen überprüfen]** aus. Wählen Sie nach Überprüfung der Änderungen **[!UICONTROL Änderungen übermitteln]** aus, um [&#x200B; Änderungen &#x200B;](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html).
 
 ## Export- und Importformate für die Produktzuordnung
 

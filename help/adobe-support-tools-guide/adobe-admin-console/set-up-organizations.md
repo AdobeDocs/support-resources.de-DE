@@ -85,7 +85,7 @@ Als [globaler Administrator](https://experienceleague.adobe.com/en/docs/support-
 
 ## Ändern des übergeordneten Elements einer Organisation
 
-[!DNL Global Administrator](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators) können Sie eine Organisation in der Organisationshierarchie mithilfe der Schaltfläche **[!UICONTROL Hierarchie ändern]** neu übergeben.
+[[!DNL Global Administrator]](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators) können Sie eine Organisation in der Organisationshierarchie mithilfe der Schaltfläche **[!UICONTROL Hierarchie ändern]** neu übergeben.
 
 Das Ändern des übergeordneten Elements einer Organisation hat die folgenden Auswirkungen:
 
@@ -130,7 +130,7 @@ Wenn eine Organisation zur globalen Administration hinzugefügt wird, bleiben Pr
 2. Wählen Sie in der Dropdown-Liste eine übergeordnete Organisation aus.\
    Dies sind die Organisationen, denen Sie als globaler Administrator direkt hinzugefügt werden. Wenn in der Dropdown-Liste keine Organisation angezeigt wird, die als übergeordnetes Element verwendet werden soll, wählen Sie eine weiter oben in der Hierarchie aus. Sobald der Vorgang „Organisationszuordnung“ abgeschlossen ist, können Sie mit [Hierarchie ändern](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/set-up-organizations#change-the-parent-of-an-organization) die neue Organisation in der Baumstruktur nach unten verschieben, um das übergeordnete Element zu erhalten, das Sie verwenden möchten.
 3. Wählen Sie die Organisationen aus, die als untergeordnete Elemente der im vorherigen Schritt ausgewählten Organisation hinzugefügt werden sollen.
-4. Wählen **[!UICONTROL Ausstehende Änderungen überprüfen]** aus. Wählen Sie dann **[!UICONTROL Änderungen übermitteln]** aus, um [ auszuführen](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html).
+4. Wählen **[!UICONTROL Ausstehende Änderungen überprüfen]** aus. Wählen Sie dann **[!UICONTROL Änderungen übermitteln]** aus, um [&#x200B; auszuführen](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html).
 5. Nachdem Sie die Änderungen ausgeführt haben, können Sie die oben genannten Schritte wiederholen, um weitere untergeordnete Organisationen zu Ihrer Organisationshierarchie hinzuzufügen.
 
 Sobald sich eine Organisation in der Hierarchie befindet, können Sie Organisationsrichtlinien, Administratoren oder andere Einstellungen anpassen, indem Sie zur Registerkarte **[!UICONTROL Organisationen]** navigieren.
