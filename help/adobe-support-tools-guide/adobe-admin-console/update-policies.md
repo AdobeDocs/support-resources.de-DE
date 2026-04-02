@@ -27,7 +27,7 @@ Erfahren Sie, wie ein globaler Administrator Richtlinien für eine Organisation 
 
 >[!NOTE]
 >
->Wählen Sie in der [Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html) eine Organisation aus der Hierarchie aus und navigieren Sie zur Registerkarte **Richtlinien**, um die Richtlinien zuzulassen oder zu verbieten oder zu sperren.
+>Wählen Sie in der [Global Admin Console](https://helpx.adobe.com/de/enterprise/global-admin-console/adopt-global-administration.html) eine Organisation aus der Hierarchie aus und navigieren Sie zur Registerkarte **Richtlinien**, um die Richtlinien zuzulassen oder zu verbieten oder zu sperren.
 >
 > [Bei Global Admin Console anmelden](https://global-admin-console.adobe.com/)
 
@@ -38,14 +38,14 @@ Wenn beispielsweise die Richtlinie **Anspruchsdomänen** auf *nicht zulässig* f
 
 Gehen Sie wie folgt vor, um die Richtlinien einer Organisation zu ändern:
 
-1. Wählen Sie in [&#x200B; Global Admin Console eine Organisation aus](https://helpx.adobe.com/enterprise/global-admin-console/overview.html) um sie zu bearbeiten, und navigieren Sie dann zur Registerkarte **[!UICONTROL Richtlinien]**.
-1. Wählen Sie den Umschalter für die entsprechende Richtlinie aus, um sie zuzulassen oder nicht zuzulassen. Sie können auch eine Richtlinie sperren, sodass sie nur von einem globalen Administrator der [ausgewählten Organisation](https://helpx.adobe.com/enterprise/global-admin-console/overview.html) oder der übergeordneten Organisation geändert oder entsperrt werden kann.
+1. Wählen Sie in [&#x200B; Global Admin Console eine Organisation aus](https://helpx.adobe.com/de/enterprise/global-admin-console/overview.html) um sie zu bearbeiten, und navigieren Sie dann zur Registerkarte **[!UICONTROL Richtlinien]**.
+1. Wählen Sie den Umschalter für die entsprechende Richtlinie aus, um sie zuzulassen oder nicht zuzulassen. Sie können auch eine Richtlinie sperren, sodass sie nur von einem globalen Administrator der [ausgewählten Organisation](https://helpx.adobe.com/de/enterprise/global-admin-console/overview.html) oder der übergeordneten Organisation geändert oder entsperrt werden kann.
 1. Um eine Richtlinie zu sperren, wählen Sie das Symbol **[!UICONTROL Sperren]** ![Sperren](./assets/lock.png) aus. Wenn Sie den Mauszeiger über die Sperre bewegen, wird der Name der ausgewählten Organisation angezeigt. Weitere Informationen zu [Richtliniensperren](#policy-locks).
-1. Wählen Sie **[!UICONTROL Ausstehende Änderungen überprüfen]** aus, nachdem Sie die Organisationen bearbeitet haben. Wählen Sie nach der Überprüfung **[!UICONTROL Änderungen übermitteln]** aus, um [auszuführen](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html).
+1. Wählen Sie **[!UICONTROL Ausstehende Änderungen überprüfen]** aus, nachdem Sie die Organisationen bearbeitet haben. Wählen Sie nach der Überprüfung **[!UICONTROL Änderungen übermitteln]** aus, um [auszuführen](https://helpx.adobe.com/de/enterprise/global-admin-console/execute-jobs.html).
 
 ## Richtliniensperren {#policy-locks}
 
-Wenn eine Richtlinie gesperrt ist, kann ihr Wert erst geändert werden, nachdem die Richtlinie entsperrt wurde. Die Global Admin Console speichert die [ausgewählte Organisation](https://helpx.adobe.com/enterprise/global-admin-console/overview.html) in der Organisationsauswahl als die Organisation, für die die Richtlinie gesperrt wurde. Jeder globale Administrator dieser ausgewählten Organisation oder einer Organisation weiter oben in der Struktur hat die Berechtigung, die Richtlinie zu entsperren. Globale Administratoren, deren Umfang kleiner ist als diese Organisation, haben nicht die Berechtigung, Richtlinienwerte zu entsperren und zu ändern.
+Wenn eine Richtlinie gesperrt ist, kann ihr Wert erst geändert werden, nachdem die Richtlinie entsperrt wurde. Die Global Admin Console speichert die [ausgewählte Organisation](https://helpx.adobe.com/de/enterprise/global-admin-console/overview.html) in der Organisationsauswahl als die Organisation, für die die Richtlinie gesperrt wurde. Jeder globale Administrator dieser ausgewählten Organisation oder einer Organisation weiter oben in der Struktur hat die Berechtigung, die Richtlinie zu entsperren. Globale Administratoren, deren Umfang kleiner ist als diese Organisation, haben nicht die Berechtigung, Richtlinienwerte zu entsperren und zu ändern.
 
 Um eine gesperrte Umgebung zu erstellen, legen Sie die gewünschten Richtlinienwerte für Ihre untergeordneten Organisationen fest und sperren Sie sie dann. Globale Administratoren dieser untergeordneten Organisationen können die Richtlinienwerte nicht bearbeiten.
 
