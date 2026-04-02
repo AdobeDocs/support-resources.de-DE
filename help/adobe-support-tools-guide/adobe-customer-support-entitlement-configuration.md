@@ -4,13 +4,13 @@ description: Wie Adobe-Kundinnen und -Kunden Support-Berechtigungen in der Admin
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-source-git-commit: 7f7a394874014fb5333ed9fb39f84b7137562726
+exl-id: 75b0e812-da38-46af-94b6-7b7db8954be3
+source-git-commit: e6379bd22238091d6f6d26d2aa3e515ce7c61e5a
 workflow-type: tm+mt
 source-wordcount: '373'
 ht-degree: 0%
 
 ---
-
 
 # Berechtigungskonfiguration für den Adobe-Kunden-Support
 
@@ -55,4 +55,4 @@ Im Rahmen des Anmeldevorgangs werden Benutzende möglicherweise aufgefordert, ei
 
 ![Bestätigung der Administratorrechte](assets/admin-rights-confirmation.png)
 
-Weitere Informationen finden Sie in den [Anweisungen zur Bearbeitung der Administratorrolle &#x200B;](admin-roles.md#edit-enterprise-admin-role) Unternehmens“ in der Dokumentation zu Administratorrollen. Beachten Sie, dass nur ein Systemadministrator für Ihre Organisation diese Rolle zuweisen kann. Weitere Informationen zur Verwaltungshierarchie finden Sie in der Dokumentation [Administratorrollen](admin-roles.md) .
+Weitere Informationen finden Sie in den [Anweisungen zur Bearbeitung der Administratorrolle ](adobe-admin-console/admin-roles.md#edit-enterprise-admin-role) Unternehmens“ in der Dokumentation zu Administratorrollen. Beachten Sie, dass nur ein Systemadministrator für Ihre Organisation diese Rolle zuweisen kann. Weitere Informationen zur Verwaltungshierarchie finden Sie in der Dokumentation [Administratorrollen](adobe-admin-console/admin-roles.md) .
