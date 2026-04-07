@@ -18,7 +18,7 @@ Diese Funktion gilt für Unternehmen, die die [[!DNL Global Admin Console]](http
    1. **Phase bearbeiten**: Änderungen an Organisationen vornehmen oder Produkte zuordnen.
    2. **Ausführungsphase**: Ausstehende Änderungen überprüfen und ausführen, damit sie wirksam werden.
 
-- Um sicherzustellen, dass alle im [[!DNL Global Admin Console]](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html) vorgenommenen Änderungen implementiert wurden und wirksam werden, wählen Sie die Registerkarte **[!UICONTROL Auftragsausführung]** und fahren Sie mit der Ausführung der ausstehenden Änderungen fort.
+- Um sicherzustellen, dass alle im [[!DNL Global Admin Console]](https://helpx.adobe.com/de/enterprise/global-admin-console/adopt-global-administration.html) vorgenommenen Änderungen implementiert wurden und wirksam werden, wählen Sie die Registerkarte **[!UICONTROL Auftragsausführung]** und fahren Sie mit der Ausführung der ausstehenden Änderungen fort.
 
   Melden Sie sich beim [[!DNL Global Admin Console]](https://global-admin-console.adobe.com/) an.
 
