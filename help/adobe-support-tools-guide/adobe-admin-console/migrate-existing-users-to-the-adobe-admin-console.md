@@ -4,9 +4,10 @@ description: Anleitungen für Organisationen, die Adobe-Abonnementlizenzen verwe
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-source-git-commit: 42ab19551ba5c70712245236ffc7daf687486fb2
+exl-id: aace5ed8-65a6-4cff-8542-bc50e9c765b7
+source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
 workflow-type: tm+mt
-source-wordcount: '1149'
+source-wordcount: '1151'
 ht-degree: 0%
 
 ---
@@ -23,9 +24,9 @@ Dieses Dokument richtet sich an Unternehmen mit bestehenden Creative Cloud-, Doc
 
 Um eine Unterbrechung des Produktzugriffs für Endbenutzer zu vermeiden, müssen Sie Lizenzen in der Adobe Admin Console zuweisen, bevor die bestehende VIP-Abonnementlaufzeit endet.
 
-* Kunden von ETLA sollten eine Produktüberschneidung von mindestens 30 Tagen einräumen. Schließen Sie die Migration vor dem Jubiläumsdatum ab, damit Benutzer weiterhin Zugriff auf Adobe-Apps und -Services haben. Weitere Informationen zum Ablauf von ETLA-Verträgen finden Sie [Automatisierte Ablaufphasen für ETLA-Verträge](https://helpx.adobe.com/de/enterprise/using/contract-expiry.html).
+* Kunden von ETLA sollten eine Produktüberschneidung von mindestens 30 Tagen einräumen. Schließen Sie die Migration vor dem Jubiläumsdatum ab, damit Benutzer weiterhin Zugriff auf Adobe-Apps und -Services haben. Weitere Informationen zum Ablauf von ETLA-Verträgen finden Sie [Automatisierte Ablaufphasen für ETLA-Verträge](https://helpx.adobe.com/enterprise/using/contract-expiry.html).
 * Kaufen Sie für VIP-Kunden Lizenzen vor dem Jubiläumsdatum, und weisen Sie Lizenzen zu, bevor das Verlängerungsfenster zu Ihrer aktuellen VIP-Laufzeit geschlossen wird.
-* CLP- oder TLP-Kunden können mithilfe der Migrationsanweisungen unter „Lizenzierung“ von serialisierten Acrobat- oder Creative Suite-[&#x200B; zu &#x200B;](https://helpx.adobe.com/de/enterprise/using/licensing.html) migrieren.
+* CLP- oder TLP-Kunden können mithilfe der Migrationsanweisungen unter „Lizenzierung“ von serialisierten Acrobat- oder Creative Suite-[ zu ](https://helpx.adobe.com/enterprise/using/licensing.html) migrieren.
 
 >[!NOTE]
 >
@@ -73,7 +74,7 @@ In der Admin Console werden Sie aufgefordert, Lizenzen mithilfe von „Quick Lic
 
    ![Bestätigung der Lizenzzuweisung](assets/migrate-license-assignment.png)
 
-Laden Sie den [Ergebnisbericht](https://helpx.adobe.com/de/enterprise/using/users.html#main-pars_header_1346350355) in die Admin Console herunter, um zu bestätigen, dass alle Lizenzen zugewiesen wurden. Wenn Sie vor dem Datum in Ihrer Bestätigungs-E-Mail fertig sind, sollten Endbenutzer keinen Serviceabbruch erleben.
+Laden Sie den [Ergebnisbericht](https://helpx.adobe.com/enterprise/using/users.html#main-pars_header_1346350355) in die Admin Console herunter, um zu bestätigen, dass alle Lizenzen zugewiesen wurden. Wenn Sie vor dem Datum in Ihrer Bestätigungs-E-Mail fertig sind, sollten Endbenutzer keinen Serviceabbruch erleben.
 
 Planen Sie einen 1:1-Onboarding-Aufruf mit einem Adobe-Onboarding-Spezialisten (falls noch nicht geschehen), um mehr über die Admin Console zu erfahren, einschließlich [Administratorrollen](https://helpx.adobe.com/de/enterprise/using/admin-roles.html) und [Identität](https://helpx.adobe.com/de/enterprise/using/identity.html).
 
@@ -83,23 +84,23 @@ Planen Sie einen 1:1-Onboarding-Aufruf mit einem Adobe-Onboarding-Spezialisten (
 
 ## Massenzuweisung von Lizenzen (VIP an VIP)
 
-Weisen Sie Lizenzen mithilfe einer CSV-Vorlage aus der [!DNL Admin Console] einem Massenvorgang zu. Verwenden Sie diesen Ansatz, wenn:
+Weisen Sie Lizenzen mithilfe einer CSV-Vorlage aus der Admin Console per Massenvorgang zu. Verwenden Sie diesen Ansatz, wenn:
 
 * Sie sind ein VIP-Kunde, der die Anforderungen für die schnelle Lizenzzuweisung nicht erfüllt, oder
 * Sie müssen Lizenzen außerhalb Ihres Verlängerungsfensters zuweisen.
 
-1. Nachdem Sie Zugriff auf die [Adobe Admin Console &#x200B;](https://adminconsole.adobe.com/enterprise) und Ihre Lizenzen hinzugefügt wurden, navigieren Sie zu **[!UICONTROL Benutzer]** > **[!UICONTROL Benutzer]**.
+1. Nachdem Sie Zugriff auf die [Adobe Admin Console ](https://adminconsole.adobe.com/enterprise) und Ihre Lizenzen hinzugefügt wurden, navigieren Sie zu **[!UICONTROL Benutzer]** > **[!UICONTROL Benutzer]**.
 2. Klicken Sie ![Menü &quot;](assets/migrate-more-options.png)&quot; oben rechts auf der Seite **[!UICONTROL Benutzer]** und wählen Sie **[!UICONTROL Benutzerdetails nach CSV bearbeiten]**.
 3. Klicken Sie **[!UICONTROL Dialogfeld Benutzer nach CSV bearbeiten]** auf **[!UICONTROL CSV-Vorlage herunterladen]** und wählen Sie **[!UICONTROL Aktuelle Benutzerliste]** aus.
 
    ![Benutzer durch CSV bearbeiten](assets/migrate-edit-users-by-csv.png)
 
-   Beschreibung der Felder in der heruntergeladenen Datei finden Sie unter [CSV-Dateiformat](https://helpx.adobe.com/de/enterprise/using/users.html#main-pars_header).
+   Beschreibung der Felder in der heruntergeladenen Datei finden Sie unter [CSV-Dateiformat](https://helpx.adobe.com/enterprise/using/users.html#main-pars_header).
 4. Fügen Sie der CSV Lizenzzuweisungen hinzu, ziehen Sie die aktualisierte Datei dann in das Dialogfeld **[!UICONTROL Benutzer nach CSV bearbeiten]** und klicken Sie auf **[!UICONTROL Hochladen]**. Sie erhalten eine E-Mail, wenn der Vorgang abgeschlossen ist.
 
    ![Benutzerbearbeitung abgeschlossen](assets/migrate-user-edit-complete.png)
 
-Laden Sie den [Ergebnisbericht](https://helpx.adobe.com/de/enterprise/using/users.html#main-pars_header_1346350355) herunter, um Zuweisungen zu validieren. Dann planen Sie das Onboarding mit einem Adobe-Onboarding-Spezialisten, um mehr über [Administratorrollen](https://helpx.adobe.com/de/enterprise/using/admin-roles.html) und [Identität](https://helpx.adobe.com/de/enterprise/using/identity.html) zu erfahren.
+Laden Sie den [Ergebnisbericht](https://helpx.adobe.com/enterprise/using/users.html#main-pars_header_1346350355) herunter, um Zuweisungen zu validieren. Dann planen Sie das Onboarding mit einem Adobe-Onboarding-Spezialisten, um mehr über [Administratorrollen](https://helpx.adobe.com/de/enterprise/using/admin-roles.html) und [Identität](https://helpx.adobe.com/de/enterprise/using/identity.html) zu erfahren.
 
 ## Massenzuweisung von Lizenzen (VIP an ETLA)
 
@@ -107,7 +108,7 @@ Wenn Sie über ein VIP-Abonnement verfügen und Benutzer nach ETLA verschieben, 
 
 1. Melden Sie sich bei der [Adobe Admin Console](https://adminconsole.adobe.com/enterprise) an und öffnen Sie die Organisation, die Ihre VIP-Benutzer enthält.
 2. Navigieren Sie **[!UICONTROL Benutzer]** > **[!UICONTROL Benutzer]**.
-3. Klicken Sie ![&#x200B; oben rechts auf &#x200B;](assets/migrate-more-options.png)Menü „Weitere Optionen“ und wählen Sie dann **[!UICONTROL Benutzerliste in CSV exportieren]**.
+3. Klicken Sie ![ oben rechts auf ](assets/migrate-more-options.png)Menü „Weitere Optionen“ und wählen Sie dann **[!UICONTROL Benutzerliste in CSV exportieren]**.
 4. Öffnen Sie die ETLA-Organisation, in der diese Benutzer verwendet werden sollen.
 5. Navigieren Sie **[!UICONTROL Benutzer]** > **[!UICONTROL Benutzer]**.
 6. Klicken Sie **[!UICONTROL Benutzer durch CSV hinzufügen]**.
@@ -118,9 +119,9 @@ Sie erhalten eine E-Mail, wenn Benutzende zur ETLA-Organisation hinzugefügt wer
 
 ![Benutzende wurden nach der Migration von VIP zu ETLA hinzugefügt](assets/migrate-users-added-vip-etla.png)
 
-Laden Sie den [Ergebnisbericht](https://helpx.adobe.com/de/enterprise/using/users.html#main-pars_header_1346350355) herunter, um Zuweisungen zu validieren. Planen Sie das Onboarding mit einem Adobe-Onboarding-Spezialisten für [Administratorrollen](https://helpx.adobe.com/de/enterprise/using/admin-roles.html) und [Identität](https://helpx.adobe.com/de/enterprise/using/identity.html).
+Laden Sie den [Ergebnisbericht](https://helpx.adobe.com/enterprise/using/users.html#main-pars_header_1346350355) herunter, um Zuweisungen zu validieren. Planen Sie das Onboarding mit einem Adobe-Onboarding-Spezialisten für [Administratorrollen](https://helpx.adobe.com/de/enterprise/using/admin-roles.html) und [Identität](https://helpx.adobe.com/de/enterprise/using/identity.html).
 
-Informationen zu Problemen beim Massen-Upload finden Sie [Fehlerbehebung beim Massen-Upload von Benutzern](https://helpx.adobe.com/de/enterprise/kb/troubleshoot-bulk-user-csv-upload.html).
+Informationen zu Problemen beim Massen-Upload finden Sie [Fehlerbehebung beim Massen-Upload von Benutzern](https://helpx.adobe.com/enterprise/kb/troubleshoot-bulk-user-csv-upload.html).
 
 ## Massenzuweisung von Lizenzen (ETLA an VIP)
 
@@ -128,7 +129,7 @@ Wenn Sie über ein ETLA-Abonnement verfügen und Benutzende zu VIP verschieben:
 
 1. Melden Sie sich bei der [Adobe Admin Console](https://adminconsole.adobe.com/enterprise) an und öffnen Sie die Organisation, die Ihre ETLA-Benutzer enthält.
 2. Navigieren Sie **[!UICONTROL Benutzer]** > **[!UICONTROL Benutzer]**.
-3. Klicken Sie ![&#x200B; oben rechts auf &#x200B;](assets/migrate-more-options.png)Menü „Weitere Optionen“ und wählen Sie dann **[!UICONTROL Benutzerliste in CSV exportieren]**.
+3. Klicken Sie ![ oben rechts auf ](assets/migrate-more-options.png)Menü „Weitere Optionen“ und wählen Sie dann **[!UICONTROL Benutzerliste in CSV exportieren]**.
 
    ![Menü Benutzerliste exportieren](assets/migrate-export-user-list.png)
 
@@ -142,8 +143,6 @@ Sie erhalten eine E-Mail, wenn Benutzende zur VIP-Organisation hinzugefügt werd
 
 ![Benutzende wurden nach der Migration von ETLA zu VIP hinzugefügt](assets/migrate-users-added-etla-vip.png)
 
-Laden Sie den [Ergebnisbericht](https://helpx.adobe.com/de/enterprise/using/users.html#main-pars_header_1346350355) herunter, um Zuweisungen zu validieren. Planen Sie das Onboarding mit einem Adobe-Onboarding-Spezialisten für [Administratorrollen](https://helpx.adobe.com/de/enterprise/using/admin-roles.html) und [Identität](https://helpx.adobe.com/de/enterprise/using/identity.html).
+Laden Sie den [Ergebnisbericht](https://helpx.adobe.com/enterprise/using/users.html#main-pars_header_1346350355) herunter, um Zuweisungen zu validieren. Planen Sie das Onboarding mit einem Adobe-Onboarding-Spezialisten für [Administratorrollen](https://helpx.adobe.com/de/enterprise/using/admin-roles.html) und [Identität](https://helpx.adobe.com/de/enterprise/using/identity.html).
 
-Informationen zu Problemen beim Massen-Upload finden Sie [Fehlerbehebung beim Massen-Upload von Benutzern](https://helpx.adobe.com/de/enterprise/kb/troubleshoot-bulk-user-csv-upload.html).
-
-
+Informationen zu Problemen beim Massen-Upload finden Sie [Fehlerbehebung beim Massen-Upload von Benutzern](https://helpx.adobe.com/enterprise/kb/troubleshoot-bulk-user-csv-upload.html).
