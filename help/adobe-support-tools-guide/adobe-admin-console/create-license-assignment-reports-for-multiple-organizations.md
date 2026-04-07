@@ -31,7 +31,7 @@ Berichte zur Lizenzzuweisung helfen Ihnen, die Lizenzbereitstellung proaktiv zu 
    >[!NOTE]
    >
    >**Wissen, warum Sie bestimmte Organisationen nicht auswählen können**:
-   >Wenn eine untergeordnete Organisation keinen Vertrag oder einen separaten Unternehmensvertrag mit demselben Produkt wie die übergeordnete Organisation hat, kann sie keinen Lizenzzuweisungsbericht erstellen. Wenn beispielsweise der Vertrag der übergeordneten Organisation über Adobe Acrobat verfügt und die untergeordnete Organisation denselben Vertrag als Teil eines anderen Vertrags hat, ist das Produkt für die Zuordnung beschränkt. Infolgedessen ist er auch auf die Berichterstellung in der Global Admin Console beschränkt. [Erfahren Sie, wie Sie die Bereitstellung für solche Organisationen mithilfe ihrer jeweiligen Admin Console verfolgen](https://helpx.adobe.com/enterprise/using/assignment-reports.html).
+   >Wenn eine untergeordnete Organisation keinen Vertrag oder einen separaten Unternehmensvertrag mit demselben Produkt wie die übergeordnete Organisation hat, kann sie keinen Lizenzzuweisungsbericht erstellen. Wenn beispielsweise der Vertrag der übergeordneten Organisation über Adobe Acrobat verfügt und die untergeordnete Organisation denselben Vertrag als Teil eines anderen Vertrags hat, ist das Produkt für die Zuordnung beschränkt. Infolgedessen ist er auch auf die Berichterstellung in der Global Admin Console beschränkt. [Erfahren Sie, wie Sie die Bereitstellung für solche Organisationen mithilfe ihrer jeweiligen Admin Console verfolgen](https://helpx.adobe.com/de/enterprise/using/assignment-reports.html).
 
    >[!NOTE]
    >
@@ -42,7 +42,7 @@ Berichte zur Lizenzzuweisung helfen Ihnen, die Lizenzbereitstellung proaktiv zu 
    >[!NOTE]
    >
    >**Wissen, warum Sie bestimmte Produkte nicht auswählen können**:
-   >Produkte, die in der Global Admin Console nicht zugeordnet werden können, sind nicht in die Berichterstellung eingeschlossen. Dazu gehören derzeit einige Digital Experience-Produkte wie Workfront, Adobe Experience Manager und Adobe Experience Platform sowie Produkte wie Adobe Firefly Services, Acrobat Sign und Adobe Stock. [Mit der Adobe Admin Console finden Sie die Lizenzbereitstellungsdaten für diese Produkte](https://helpx.adobe.com/enterprise/using/assignment-reports.html).
+   >Produkte, die in der Global Admin Console nicht zugeordnet werden können, sind nicht in die Berichterstellung eingeschlossen. Dazu gehören derzeit einige Digital Experience-Produkte wie Workfront, Adobe Experience Manager und Adobe Experience Platform sowie Produkte wie Adobe Firefly Services, Acrobat Sign und Adobe Stock. [Mit der Adobe Admin Console finden Sie die Lizenzbereitstellungsdaten für diese Produkte](https://helpx.adobe.com/de/enterprise/using/assignment-reports.html).
 
 1. Wählen Sie aus, ob der Bericht nach Monat oder Jahr aggregiert werden soll.
 1. Wählen Sie einen benutzerdefinierten Datumsbereich aus oder wählen Sie aus den Voreinstellungsoptionen. Sie können ein beliebiges Startdatum vom 18. Juni 2020 bis zum vorherigen Tag auswählen, sofern es nicht vor dem Startdatum Ihres Vertrags liegt.
