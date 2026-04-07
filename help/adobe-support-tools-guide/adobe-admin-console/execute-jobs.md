@@ -32,7 +32,7 @@ Diese Funktion gilt für Unternehmen, die die [[!DNL Global Admin Console]](http
    - werden nach 30 Tagen verworfen.
    - werden gelöscht, wenn die Sitzung beendet wird, z. B. wenn die Browser-Registerkarte oder das Fenster geschlossen wird.
 
-> [!NOTE]
+&#x200B;> [!NOTE]
 > Führen Sie wichtige Änderungen umgehend aus, um sicherzustellen, dass sie erfolgreich angewendet werden.
 
 ### Mehrere Administratoren und Konflikte
@@ -64,16 +64,16 @@ Als globaler Administrator können Sie ausstehende Änderungen auf der Registerk
 Nachdem Sie den Auftrag gesendet haben:
 
 - Der Auftrag gelangt in die Ausführungswarteschlange.
-- Der Status ist [[!UICONTROL Ausstehend] während der Ausführung des Auftrags.
+- Der Status ist &lbrack;[!UICONTROL Ausstehend] während der Ausführung des Auftrags.
 - Adobe empfiehlt, nur jeweils einen Auftrag auszuführen, um die Ausführung vorherzusagen und die Fehlerbehebung zu vereinfachen.
 
-> [!IMPORTANT]
+&#x200B;> [!IMPORTANT]
 > Wenn während der Ausführung ein Fehler auftritt, müssen alle Änderungen, die nicht erfolgreich angewendet wurden, erneut eingegeben und gesendet werden.
 
 ### Langfristige Zuteilungen
 
 Wenn eine Produktzuordnung länger als 12 Stunden dauert:
-- Der Vorgang ist als [[!UICONTROL Fehlgeschlagen] gekennzeichnet.
+- Der Vorgang ist als &lbrack;[!UICONTROL Fehlgeschlagen] gekennzeichnet.
 - Alle nachfolgenden ausstehenden Aufgaben in diesem Auftrag werden nicht ausgeführt.
 
 ![Pending-Jobs](assets/pending-jobs.png)
@@ -93,9 +93,9 @@ Sie können einen aktuell ausgeführten Auftrag über die Registerkarte [[!UICON
 1. Der Vorgang wird am Ende des aktuellen Schritts angehalten.
 2. Der Vorgang endet nicht mitten in einem Schritt.
 3. Einige Schritte können Minuten oder Stunden dauern.
-4. Während dieser Zeit kann der Auftrag im Status [[!UICONTROL Abbrechen] verbleiben.
+4. Während dieser Zeit kann der Auftrag im Status &lbrack;[!UICONTROL Abbrechen] verbleiben.
 
-> [!NOTE]
+&#x200B;> [!NOTE]
 > Planen Sie Abbrüche mit dem Wissen, dass der Abschluss des aktuellen Schritts sich erheblich verzögern kann, wenn der Auftrag beendet wird.
 
 ## Vorgangsverlauf anzeigen
@@ -111,5 +111,5 @@ Sie können einen aktuell ausgeführten Auftrag über die Registerkarte [[!UICON
    - Übermittelt **Vorgangsbefehle**.
    - **Fehler** und **Warnungen** im Zusammenhang mit der Ausführung.
 
-> [!NOTE]
+&#x200B;> [!NOTE]
 > Nachfolgende Umbenennungen oder Löschungen verwandter Objekte **beeinflussen nicht** wie Befehle im Vorgangsverlauf angezeigt werden. Der Verlauf spiegelt den Status zum Zeitpunkt der Übermittlung wider.
