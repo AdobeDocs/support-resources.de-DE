@@ -1,8 +1,11 @@
 ---
 title: Ausstehende Aufträge ausführen
 description: Erfahren Sie, wie Sie ausstehende Aufträge in der Adobe Admin Console ausführen, um sicherzustellen, dass alle Änderungen auf Ihr Unternehmen angewendet werden.
+feature-set: Experience Cloud Services
+solution: Admin Console
+feature: Admin Console
 exl-id: 18549d19-7985-4a45-8894-e69836ddb23c
-source-git-commit: 9085108231aaa46d8417d346686c211ea48f6b81
+source-git-commit: ad324036dbeb2a54855349321b2ba33405d2c075
 workflow-type: tm+mt
 source-wordcount: '498'
 ht-degree: 0%
@@ -18,7 +21,7 @@ Diese Funktion gilt für Unternehmen, die die [[!DNL Global Admin Console]](http
    1. **Phase bearbeiten**: Änderungen an Organisationen vornehmen oder Produkte zuordnen.
    2. **Ausführungsphase**: Ausstehende Änderungen überprüfen und ausführen, damit sie wirksam werden.
 
-- Um sicherzustellen, dass alle im [[!DNL Global Admin Console]](https://helpx.adobe.com/de/enterprise/global-admin-console/adopt-global-administration.html) vorgenommenen Änderungen implementiert wurden und wirksam werden, wählen Sie die Registerkarte **[!UICONTROL Auftragsausführung]** und fahren Sie mit der Ausführung der ausstehenden Änderungen fort.
+- Um sicherzustellen, dass alle im [[!DNL Global Admin Console]](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html) vorgenommenen Änderungen implementiert wurden und wirksam werden, wählen Sie die Registerkarte **[!UICONTROL Auftragsausführung]** und fahren Sie mit der Ausführung der ausstehenden Änderungen fort.
 
   Melden Sie sich beim [[!DNL Global Admin Console]](https://global-admin-console.adobe.com/) an.
 
@@ -31,7 +34,7 @@ Diese Funktion gilt für Unternehmen, die die [[!DNL Global Admin Console]](http
    - werden nach 30 Tagen verworfen.
    - werden gelöscht, wenn die Sitzung beendet wird, z. B. wenn die Browser-Registerkarte oder das Fenster geschlossen wird.
 
-&#x200B;> [!NOTE]
+> [!NOTE]
 >
 > Führen Sie wichtige Änderungen umgehend aus, um sicherzustellen, dass sie erfolgreich angewendet werden.
 
@@ -67,7 +70,7 @@ Nachdem Sie den Auftrag gesendet haben:
 - Der Status ist **[!UICONTROL Ausstehend]** während der Ausführung des Auftrags.
 - Adobe empfiehlt, nur jeweils einen Auftrag auszuführen, um die Ausführung vorherzusagen und die Fehlerbehebung zu vereinfachen.
 
-&#x200B;> [!IMPORTANT]
+> [!IMPORTANT]
 >
 > Wenn während der Ausführung ein Fehler auftritt, müssen alle Änderungen, die nicht erfolgreich angewendet wurden, erneut eingegeben und gesendet werden.
 
@@ -96,7 +99,7 @@ Sie können einen aktuell ausgeführten Auftrag über die Registerkarte **[!UICO
 3. Einige Schritte können Minuten oder Stunden dauern.
 4. Während dieser Zeit kann der Auftrag im Status **[!UICONTROL Abbrechen]** verbleiben.
 
-&#x200B;> [!NOTE]
+> [!NOTE]
 >
 > Planen Sie Abbrüche mit dem Wissen, dass der Abschluss des aktuellen Schritts sich erheblich verzögern kann, wenn der Auftrag beendet wird.
 
@@ -113,6 +116,6 @@ Sie können einen aktuell ausgeführten Auftrag über die Registerkarte **[!UICO
    - Übermittelt **Vorgangsbefehle**.
    - **Fehler** und **Warnungen** im Zusammenhang mit der Ausführung.
 
-&#x200B;> [!NOTE]
+> [!NOTE]
 >
 > Nachfolgende Umbenennungen oder Löschungen verwandter Objekte **beeinflussen nicht** wie Befehle im Vorgangsverlauf angezeigt werden. Der Verlauf spiegelt den Status zum Zeitpunkt der Übermittlung wider.

@@ -4,13 +4,11 @@ description: Erfahren Sie, wie globale Administratoren Richtlinienvorlagen direk
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-product_v2:
-  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2:
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: cf30f2a656ccb28b678ea6fcd8e4d56d7c8a8fb4
+product_v2: id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+exl-id: e4dc5c35-1323-4894-bd47-b31c61a864bc
+source-git-commit: ad324036dbeb2a54855349321b2ba33405d2c075
 workflow-type: tm+mt
 source-wordcount: 705
 ht-degree: 0%
@@ -25,7 +23,7 @@ Erfahren Sie, wie globale Administratoren Richtlinienvorlagen direkt oder indire
 
 >[!NOTE]
 >
->Wählen Sie in der [Global Admin Console](https://helpx.adobe.com/de/enterprise/global-admin-console/adopt-global-administration.html) eine Organisation aus, die bearbeitet werden soll, und navigieren Sie zur Registerkarte **Richtlinienvorlagen**, um die Einrichtung zu optimieren und eine unternehmensübergreifende konsistente Richtlinienverwaltung zu erleichtern.
+>Wählen Sie in der [Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html) eine Organisation aus, die bearbeitet werden soll, und navigieren Sie zur Registerkarte **Richtlinienvorlagen**, um die Einrichtung zu optimieren und eine unternehmensübergreifende konsistente Richtlinienverwaltung zu erleichtern.
 >
 > [Bei Global Admin Console anmelden](https://global-admin-console.adobe.com/)
 
@@ -43,7 +41,7 @@ Wenn der Benutzer, der die Vorlage anwendet, berechtigt ist, die Richtlinie zu e
 
 >[!NOTE]
 >
->Im Gegensatz zu anderen Änderungen, die in Global Admin Console vorgenommen wurden, werden Änderungen an Richtlinienvorlagen sofort wirksam, ohne den Prozess **[!UICONTROL Ausstehende Änderungen überprüfen - Übermitteln]** müssen. Um ausstehende Änderungen in Organisationen zu implementieren, auf die die Richtlinienvorlage angewendet wird, ist jedoch [Übermittlung](https://helpx.adobe.com/de/enterprise/global-admin-console/execute-jobs.html) erforderlich.
+>Im Gegensatz zu anderen Änderungen, die in Global Admin Console vorgenommen wurden, werden Änderungen an Richtlinienvorlagen sofort wirksam, ohne den Prozess **[!UICONTROL Ausstehende Änderungen überprüfen - Übermitteln]** müssen. Um ausstehende Änderungen in Organisationen zu implementieren, auf die die Richtlinienvorlage angewendet wird, ist jedoch [Übermittlung](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html) erforderlich.
 
 ## Erstellen einer Richtlinienvorlage
 
@@ -54,13 +52,13 @@ Wenn der Benutzer, der die Vorlage anwendet, berechtigt ist, die Richtlinie zu e
 1. Geben **[!UICONTROL im Dialogfeld]** Richtlinienvorlage erstellen“ den **Namen** und **Beschreibung** für die Richtlinienvorlage ein.<br>Der Name der Richtlinienvorlage darf maximal 100 Zeichen lang sein.
 1. Wählen Sie die Richtlinien aus, die in die Vorlage aufgenommen werden sollen.
 1. Legen Sie Werte für die ausgewählten Richtlinien fest (siehe [Festlegen von Richtlinienwerten](#setting-policy-values) unten).
-1. Wählen Sie **Speichern** aus.
+1. Wählen Sie **[!UICONTROL Speichern]** aus.
 
 ### Festlegen von Richtlinienwerten {#setting-policy-values}
 
 Konfigurieren Sie für jede in der Vorlage enthaltene Richtlinie zwei Einstellungen:
 
-* **Erlaubt/Nicht erlaubt** Stellen Sie den Schieberegler auf den gewünschten Wert ein. Weitere Informationen [Richtliniendetails](https://helpx.adobe.com/de/enterprise/global-admin-console/update-policies.html#policy-details).
+* **Erlaubt/Nicht erlaubt** Stellen Sie den Schieberegler auf den gewünschten Wert ein. Weitere Informationen [Richtliniendetails](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html#policy-details).
 * **Wert sperren** Ändern Sie den Sperrstatus der Richtlinie mithilfe einer der folgenden Optionen:
    * **lock** - Die Richtlinie wird nach Anwendung der Vorlage gesperrt.
    * **Entsperren** - Die Richtlinie wird nach Anwendung der Vorlage entsperrt.
@@ -78,7 +76,7 @@ Konfigurieren Sie für jede in der Vorlage enthaltene Richtlinie zwei Einstellun
    ![pic4](./assets/DXSKB-3209-4-bulk-apply-template.png)
    <br>
 1. Wählen Sie **[!UICONTROL Vorlage anwenden]** aus.
-1. Um ausstehende Änderungen in Organisationen zu implementieren, auf die die Richtlinienvorlage angewendet wird, wählen Sie **[!UICONTROL Ausstehende Änderungen überprüfen]**. Wählen Sie nach der Überprüfung **[!UICONTROL Änderungen übermitteln]** aus, um [auszuführen](https://helpx.adobe.com/de/enterprise/global-admin-console/execute-jobs.html).
+1. Um ausstehende Änderungen in Organisationen zu implementieren, auf die die Richtlinienvorlage angewendet wird, wählen Sie **[!UICONTROL Ausstehende Änderungen überprüfen]**. Wählen Sie nach der Überprüfung **[!UICONTROL Änderungen übermitteln]** aus, um [auszuführen](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html).
 
 Wenn alle Richtlinienwerte in den von Ihnen ausgewählten Organisationen bereits mit den Werten in der Vorlage übereinstimmen, wird eine Meldung angezeigt, die besagt, dass keine Änderungen vorgenommen wurden. Außerdem wird **[!UICONTROL Ausstehende Änderungen überprüfen]** nicht aktiviert, wenn keine anderen ausstehenden Änderungen vorhanden sind.
 
@@ -89,7 +87,7 @@ Wenn alle Richtlinienwerte in den von Ihnen ausgewählten Organisationen bereits
    ![pic5](./assets/DXSKB-3209-5-ga_15-1.png)
    <br>
 1. Aktualisieren Sie die Richtlinienvorlage und wählen Sie **[!UICONTROL Jetzt aktualisieren]**.
-1. Um ausstehende Änderungen in Organisationen zu implementieren, auf die die Richtlinienvorlage angewendet wird, wählen Sie **[!UICONTROL Ausstehende Änderungen überprüfen]**. Wählen Sie nach der Überprüfung **[!UICONTROL Änderungen übermitteln]** aus, um [auszuführen](https://helpx.adobe.com/de/enterprise/global-admin-console/execute-jobs.html).
+1. Um ausstehende Änderungen in Organisationen zu implementieren, auf die die Richtlinienvorlage angewendet wird, wählen Sie **[!UICONTROL Ausstehende Änderungen überprüfen]**. Wählen Sie nach der Überprüfung **[!UICONTROL Änderungen übermitteln]** aus, um [auszuführen](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html).
 
 ## Löschen einer Vorlage
 
