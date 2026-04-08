@@ -3,7 +3,7 @@ title: Experience League Support - Versionshinweise
 description: Die neuesten Versionsinformationen zur Experience League-Unterstützung.
 feature: Release Notes
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
-source-git-commit: 2d3eefd7816fbd25898549b20a0ae913b8b51391
+source-git-commit: 7d0f54c6a5d43fc9155a7d17fca2eefa3238179e
 workflow-type: tm+mt
 source-wordcount: '489'
 ht-degree: 4%
@@ -18,7 +18,7 @@ Diese Versionshinweise enthalten Aktualisierungen zur Experience League-Unterst�
 ![Fehlerbehebung](../adobe-support-tools-guide/assets/fix.svg) Fehlerbehebungen und Verbesserungen
 ![Bug](../adobe-support-tools-guide/assets/bug.svg) Bekannte Probleme
 
-## &#x200B;9. April 2026 - Erweiterung der Callback-Funktion
+## &#x200B;8. April 2026 - Erweiterung der Callback-Funktion
 
 Die Rückrufanfrage-Funktion ist jetzt für Benutzende von Marketo-Produkten verfügbar.
 
