@@ -19,7 +19,7 @@ Eine umfassende lösungsübergreifende Checkliste und Best Practices für die Vo
 
 **Planung und Schätzung des Traffic**
 
-Wir empfehlen allen Adobe Commerce-Händlern in unserer Cloud-[ (verwenden Sie diese Reihe von Empfehlungen zur Schätzung des Traffics in der Spitzensaison](https://business.adobe.com/blog/how-to/the-5-ps-of-peak-season-performance-a-guide-to-preparing-your-infrastructure-for-high-traffic) für die Spitzenumsatzsaison an Feiertagen jedes Jahr.
+Wir empfehlen allen Adobe Commerce-Händlern in unserer Cloud-[&#x200B; (verwenden Sie diese Reihe von Empfehlungen zur Schätzung des Traffics in der Spitzensaison](https://business.adobe.com/blog/how-to/the-5-ps-of-peak-season-performance-a-guide-to-preparing-your-infrastructure-for-high-traffic) für die Spitzenumsatzsaison an Feiertagen jedes Jahr.
 
 Nachdem Sie die empfohlene Schätzung abgeschlossen haben und ein Datum gefunden haben, an dem Sie zusätzliche Kapazität benötigen, fahren Sie mit dem nächsten Schritt fort, um Informationen zum Anfordern von Spitzenkapazität zu erhalten.
 
@@ -36,7 +36,7 @@ Für jede Größenänderungsanfrage stehen die folgenden Informationen zur Verf�
 
 **Überspannungskapazität anfordern**
 
-Adobe Commerce-Händler in unserer Cloud-Infrastruktur, die davon ausgehen, dass während der Urlaubszeit zusätzliche Kapazität benötigt wird, sollten [ein Ticket zur Unterstützung der Kapazitätssteigerung ](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/how-to-request-temporary-magento-upsize.html) unserem Hilfezentrum einreichen, in dem die Daten und der erwartete Kapazitätsbedarf innerhalb des Tickets angegeben sind. Bitte beachten Sie, dass eine höhere Kapazität die Nutzung Ihrer lizenzierten Überschusskapazität erfordert.
+Adobe Commerce-Händler in unserer Cloud-Infrastruktur, die davon ausgehen, dass während der Urlaubszeit zusätzliche Kapazität benötigt wird, sollten [ein Ticket zur Unterstützung der Kapazitätssteigerung &#x200B;](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/how-to-request-temporary-magento-upsize.html) unserem Hilfezentrum einreichen, in dem die Daten und der erwartete Kapazitätsbedarf innerhalb des Tickets angegeben sind. Bitte beachten Sie, dass eine höhere Kapazität die Nutzung Ihrer lizenzierten Überschusskapazität erfordert.
 
 **Wir empfehlen, diese Tickets mindestens 48 Geschäftsstunden vor dem Zeitpunkt einzureichen, an dem die Kapazität benötigt wird. Darüber hinaus empfehlen wir, Anfragen für die Black Friday / Cyber Monday Periode so weit wie möglich im Voraus zu stellen, da die Kapazität in diesem Zeitraum begrenzt ist.**
 
