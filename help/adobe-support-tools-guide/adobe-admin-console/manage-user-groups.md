@@ -16,13 +16,13 @@ ht-degree: 0%
 
 Erstellen, verwalten und teilen Sie Benutzergruppen in der Global Admin Console, um die Benutzerverwaltung zu optimieren, indem Sie Benutzende mit denselben Berechtigungen gruppieren, Zeit sparen und Konsistenz sicherstellen.
 
-Wählen Sie in der {0[Global Admin Console} eine Organisation aus und navigieren Sie zu ](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)Benutzergruppen **[!UICONTROL .]** Geben Sie Gruppen über mehrere Organisationen hinweg mithilfe einer einzigen Benutzerverwaltungsquelle frei, um Benutzer und Gruppen zu synchronisieren. Klicken Sie hier [melden Sie sich bei der Global Admin Console an](https://global-admin-console.adobe.com).
+Wählen Sie in der {0[Global Admin Console} eine Organisation aus und navigieren Sie zu &#x200B;](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)Benutzergruppen **[!UICONTROL .]** Geben Sie Gruppen über mehrere Organisationen hinweg mithilfe einer einzigen Benutzerverwaltungsquelle frei, um Benutzer und Gruppen zu synchronisieren. Klicken Sie hier [melden Sie sich bei der Global Admin Console an](https://global-admin-console.adobe.com).
 
 
 
 ## Erstellen von Benutzergruppen
 
-Sie können [Benutzergruppen](https://helpx.adobe.com/de/enterprise/using/user-groups.html) einzeln, in großen Mengen oder [direkt synchronisieren) aus einer etablierten Azure-Anzeige ](https://helpx.adobe.com/enterprise/using/add-azure-sync.html) einem Federated Directory in der Adobe Admin Console erstellen. In der Global Admin Console können Sie Benutzergruppen mit entsprechenden Produktprofilen definieren, denen die Benutzergruppen-Administrierenden später mithilfe der Admin Console Benutzende hinzufügen können.
+Sie können [Benutzergruppen](https://helpx.adobe.com/de/enterprise/using/user-groups.html) einzeln, in großen Mengen oder [direkt synchronisieren) aus einer etablierten Azure-Anzeige &#x200B;](https://helpx.adobe.com/enterprise/using/add-azure-sync.html) einem Federated Directory in der Adobe Admin Console erstellen. In der Global Admin Console können Sie Benutzergruppen mit entsprechenden Produktprofilen definieren, denen die Benutzergruppen-Administrierenden später mithilfe der Admin Console Benutzende hinzufügen können.
 
 1. Melden Sie sich bei der [Global Admin Console](https://global-admin-console.adobe.com/) an, wählen Sie eine zu bearbeitende Organisation aus und navigieren Sie dann zur Registerkarte **[!UICONTROL Benutzergruppen]** .
 
@@ -41,11 +41,11 @@ Sie können [Benutzergruppen](https://helpx.adobe.com/de/enterprise/using/user-g
 
 4. Wählen Sie **[!UICONTROL Speichern]** aus.
 
-5. Wählen **[!UICONTROL Ausstehende Änderungen überprüfen]**, um die Aktualisierungen zu überprüfen. Wählen Sie dann **[!UICONTROL Änderungen übermitteln]** aus, um [ auszuführen](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/execute-jobs).
+5. Wählen **[!UICONTROL Ausstehende Änderungen überprüfen]**, um die Aktualisierungen zu überprüfen. Wählen Sie dann **[!UICONTROL Änderungen übermitteln]** aus, um [&#x200B; auszuführen](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/execute-jobs).
 
    >[!NOTE]
    >
-   >Globale Administrierende können [ Benutzergruppen mithilfe der Global Admin Console ](#review-user-groups) Produktprofile und Benutzergruppen-Administrierende zuweisen. Mithilfe der Adobe Admin Console können System- und Benutzergruppenadministrierende der Benutzergruppe [Benutzende hinzufügen und ](https://helpx.adobe.com/de/enterprise/using/user-groups.html) und Produktprofile zuweisen“.
+   >Globale Administrierende können [&#x200B; Benutzergruppen mithilfe der Global Admin Console &#x200B;](#review-user-groups) Produktprofile und Benutzergruppen-Administrierende zuweisen. Mithilfe der Adobe Admin Console können System- und Benutzergruppenadministrierende der Benutzergruppe [Benutzende hinzufügen und &#x200B;](https://helpx.adobe.com/de/enterprise/using/user-groups.html) und Produktprofile zuweisen“.
 
 
 
@@ -82,7 +82,7 @@ Mit der Gruppenprojektion können Sie Benutzergruppen und die mit ihnen verknüp
    - **[!UICONTROL Nur hinzufügen]**: Führen Sie die Benutzergruppen zusammen, indem Sie neue Benutzer zu den vorhandenen Benutzergruppen hinzufügen, ohne Benutzer zu entfernen.
    - **[!UICONTROL Mirrorgruppe]**: Passen Sie die Gruppen der Zielorganisation an die freigegebene Gruppe an, indem Sie Benutzer hinzufügen oder entfernen.
 
-8. Wählen **[!UICONTROL Ausstehende Änderungen überprüfen]**, um die Aktualisierungen zu überprüfen. Wählen Sie dann **[!UICONTROL Änderungen übermitteln]** aus, um [ auszuführen](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/execute-jobs).
+8. Wählen **[!UICONTROL Ausstehende Änderungen überprüfen]**, um die Aktualisierungen zu überprüfen. Wählen Sie dann **[!UICONTROL Änderungen übermitteln]** aus, um [&#x200B; auszuführen](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/execute-jobs).
 
    Gruppenprojektionsereignisse werden zu Ihrer Referenz protokolliert. Erfahren Sie [Anzeigen und Herunterladen von Auditprotokollen](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/download-audit-logs-and-export-reports).
 
@@ -109,7 +109,7 @@ Wenn Sie eine Benutzergruppe freigeben, werden die Gruppe und ihre Benutzer der 
 
 6. Wählen Sie **[!UICONTROL Zugriff widerrufen]** aus.
 
-7. Wählen **[!UICONTROL Ausstehende Änderungen überprüfen]**, um die Aktualisierungen zu überprüfen. Wählen Sie dann **[!UICONTROL Änderungen übermitteln]** aus, um [ auszuführen](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/execute-jobs).
+7. Wählen **[!UICONTROL Ausstehende Änderungen überprüfen]**, um die Aktualisierungen zu überprüfen. Wählen Sie dann **[!UICONTROL Änderungen übermitteln]** aus, um [&#x200B; auszuführen](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/execute-jobs).
 
 
 
@@ -133,7 +133,7 @@ Wenn Sie eine Benutzergruppe freigeben, werden die Gruppe und ihre Benutzer der 
    >
    >Im **[!UICONTROL Benutzergruppe bearbeiten]** können Sie Administratorrollen nur Benutzern zuweisen, denen in dieser Organisation bereits eine Administratorrolle zugewiesen wurde. Erfahren Sie, wie [neue Administratoren hinzufügen](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators).
 
-4. Wählen **[!UICONTROL Ausstehende Änderungen überprüfen]**, um die Aktualisierungen zu überprüfen. Wählen Sie dann **[!UICONTROL Änderungen übermitteln]** aus, um [ auszuführen](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/execute-jobs).
+4. Wählen **[!UICONTROL Ausstehende Änderungen überprüfen]**, um die Aktualisierungen zu überprüfen. Wählen Sie dann **[!UICONTROL Änderungen übermitteln]** aus, um [&#x200B; auszuführen](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/execute-jobs).
 
    >[!NOTE]
    >
@@ -157,4 +157,4 @@ Wenn Sie eine Benutzergruppe freigeben, werden die Gruppe und ihre Benutzer der 
    >
    >Das Löschen einer Benutzergruppe kann sich auf die Benutzenden auswirken. Stellen Sie sicher, dass beim Löschen der Benutzergruppe keine Zugriffsrechte oder Informationen verloren gehen.
 
-4. Nachdem Sie die Organisationen bearbeitet haben, wählen Sie **[!UICONTROL Ausstehende Änderungen überprüfen]** aus, um sie zu überprüfen. Wählen Sie dann **[!UICONTROL Änderungen übermitteln]** aus, um [ auszuführen](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/execute-jobs).
+4. Nachdem Sie die Organisationen bearbeitet haben, wählen Sie **[!UICONTROL Ausstehende Änderungen überprüfen]** aus, um sie zu überprüfen. Wählen Sie dann **[!UICONTROL Änderungen übermitteln]** aus, um [&#x200B; auszuführen](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/execute-jobs).
