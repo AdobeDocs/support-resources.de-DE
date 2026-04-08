@@ -4,9 +4,9 @@ title: Adobe Experience Cloud Customer One for Enterprise
 description: Adobe Customer Support Experience
 seo-description: Adobe Customer Support Experience
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 384eb0727671b25258d74ada42c6a775dcfc0cb8
+source-git-commit: 2d3eefd7816fbd25898549b20a0ae913b8b51391
 workflow-type: tm+mt
-source-wordcount: '1431'
+source-wordcount: '1432'
 ht-degree: 0%
 
 ---
@@ -15,17 +15,17 @@ ht-degree: 0%
 
 ## Experience League Support-Tickets
 
-Support-Tickets können jetzt über [Experience League gesendet &#x200B;](https://experienceleague.adobe.com/home?lang=de#support). Anweisungen zum Senden eines Support-Tickets finden Sie im Abschnitt zu [Senden eines Support-Tickets](#create-a-support-ticket-with-experience-league).
+Support-Tickets können jetzt über [Experience League gesendet ](https://experienceleague.adobe.com/home#support). Anweisungen zum Senden eines Support-Tickets finden Sie im Abschnitt zu [Senden eines Support-Tickets](#create-a-support-ticket-with-experience-league).
 
 Wir arbeiten daran, die Interaktion mit dem Adobe-Kunden-Support zu verbessern. Unser Ziel ist es, das Support-Erlebnis mithilfe von Experience League zu optimieren, indem wir zu einem einzigen Einstiegspunkt wechseln. Nach der Live-Schaltung kann Ihr Unternehmen problemlos auf den Adobe-Kunden-Support zugreifen, den Service-Verlauf über ein produktübergreifendes gemeinsames System besser einsehen und über ein einziges Portal Hilfe per Telefon, Internet und Chat anfordern.
 
-Wenn Sie ein Adobe Commerce-Benutzer sind, lesen Sie [Senden eines Support-Falls](https://experienceleague.adobe.com/de/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) im Experience League Support-Benutzerhandbuch für Adobe Commerce.
+Wenn Sie ein Adobe Commerce-Benutzer sind, lesen Sie [Senden eines Support-Falls](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) im Experience League Support-Benutzerhandbuch für Adobe Commerce.
 
 ## Support für berechtigte Rollen, die für die Fallübermittlung benötigt werden {#submit-ticket}
 
-Um ein Support-Ticket in [Experience League](https://experienceleague.adobe.com/home?lang=de#support) senden zu können, muss Ihnen von einem Systemadministrator die Rolle „Support-Admin“ zugewiesen worden sein. Diese Rolle kann nur einem Systemadministrator in Ihrer Organisation zugewiesen werden. Produkt-, Produktprofil- und andere Administratorrollen können die Support-Administratorrolle nicht zuweisen und können die Option **[!UICONTROL Fall erstellen]** zum Senden eines Support-Tickets nicht anzeigen. Weitere Informationen zu den verschiedenen Arten von Administratorrollen und deren Berechtigungen finden Sie unter [Administratorrollen](adobe-admin-console/admin-roles.md).
+Um ein Support-Ticket in [Experience League](https://experienceleague.adobe.com/home#support) senden zu können, muss Ihnen von einem Systemadministrator die Rolle „Support-Admin“ zugewiesen worden sein. Diese Rolle kann nur einem Systemadministrator in Ihrer Organisation zugewiesen werden. Produkt-, Produktprofil- und andere Administratorrollen können die Support-Administratorrolle nicht zuweisen und können die Option **[!UICONTROL Fall erstellen]** zum Senden eines Support-Tickets nicht anzeigen. Weitere Informationen zu den verschiedenen Arten von Administratorrollen und deren Berechtigungen finden Sie unter [Administratorrollen](adobe-admin-console/admin-roles.md).
 
-Wenn Sie Commerce verwenden, funktioniert der Prozess der Freigabe des Zugriffs für die Arbeit mit Support-Fällen anders. Weitere Informationen finden Sie unter [Freigegebener Zugriff: anderen Benutzern Berechtigungen für den Zugriff auf Ihr Konto gewähren](https://experienceleague.adobe.com/de/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access) im Experience League Support-Benutzerhandbuch für Adobe Commerce.
+Wenn Sie Commerce verwenden, funktioniert der Prozess der Freigabe des Zugriffs für die Arbeit mit Support-Fällen anders. Weitere Informationen finden Sie unter [Freigegebener Zugriff: anderen Benutzern Berechtigungen für den Zugriff auf Ihr Konto gewähren](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access) im Experience League Support-Benutzerhandbuch für Adobe Commerce.
 
 ### Hinzufügen von Support-Berechtigungsrollen zu einer Organisation
 
@@ -76,13 +76,13 @@ Weitere Informationen finden Sie in den Anweisungen [Enterprise-Administratorrol
 
 Experience League ist ein Selfservice-Support-Portal, das berechtigten Kunden personalisierte Hilfe und ein benutzerfreundliches Erlebnis bietet.
 
-1. Um ein Ticket in [Experience League](https://experienceleague.adobe.com/home?lang=de#support) zu erstellen, wählen Sie die Registerkarte **[!UICONTROL Support]** in der oberen Navigationsleiste aus.
+1. Um ein Ticket in [Experience League](https://experienceleague.adobe.com/home#support) zu erstellen, wählen Sie die Registerkarte **[!UICONTROL Support]** in der oberen Navigationsleiste aus.
 
    ![Registerkarte „Experience League-Support“](./assets/experience-league-support-tab.png)
 
 1. Über das **[!UICONTROL Startseite]**-Menü können Sie **[!UICONTROL Support-Ticket öffnen]**, **[!UICONTROL Ihre Fälle anzeigen und verwalten]**, **[!UICONTROL einen Callback anfordern]** oder auf zusätzliche Lernressourcen zugreifen.
 
-   Mit **[!UICONTROL Option „Callback anfordern]** können Sie Web-Meetings mit Bildschirmfreigabe planen, was eine schnellere und effizientere Problembehebung ermöglicht. Es ist für Adobe Experience Manager, Campaign und Workfront verfügbar. Meetings können nach Wunsch des Kunden geplant werden und sofortige Einladungen werden bereitgestellt. Bei Adobe Experience Manager P1-Fällen werden sofortige Callbacks sichergestellt, um bei kritischen Problemen ein schnelles Eingreifen zu ermöglichen und Ausfallzeiten und geschäftliche Auswirkungen zu minimieren.
+   Mit **[!UICONTROL Option „Callback anfordern]** können Sie Web-Meetings mit Bildschirmfreigabe planen, was eine schnellere und effizientere Problembehebung ermöglicht. Es ist für Adobe Experience Manager, Campaign, Marketo und Workfront verfügbar. Meetings können nach Wunsch des Kunden geplant werden und sofortige Einladungen werden bereitgestellt. Bei Adobe Experience Manager P1-Fällen werden sofortige Callbacks sichergestellt, um bei kritischen Problemen ein schnelles Eingreifen zu ermöglichen und Ausfallzeiten und geschäftliche Auswirkungen zu minimieren.
 
    ![Experience League-Startmenü](./assets/home-menu.png)
 
@@ -116,8 +116,8 @@ Gehen Sie wie folgt vor, um ein Support-Ticket zu erstellen:
 
    Beinhalten Details wie:
 
-   * Was Sie zu tun versuchen
-   * Was nicht erwartungsgemäß funktioniert
+   * Was du zu tun versuchst
+   * Was funktioniert nicht erwartungsgemäß?
    * Schritte, die Sie bereits unternommen haben
    * Ob das Problem reproduzierbar ist
 
@@ -157,7 +157,7 @@ Gehen Sie wie folgt vor, um ein Support-Ticket zu erstellen:
 
    ![Experience League-Priorität und geschäftliche Auswirkungen](./assets/priority-business-impact.png)
 
-   Weitere Informationen dazu, wie sich die Priorität von Fällen und die geschäftlichen Auswirkungen auf die Support-Antwortzeiten auswirken, finden Sie [Gezielte anfängliche Antwortzeiten für den Support](https://experienceleague.adobe.com/de/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support) in der Dokumentation zu den Ressourcen für Erfolgspläne.
+   Weitere Informationen dazu, wie sich die Priorität von Fällen und die geschäftlichen Auswirkungen auf die Support-Antwortzeiten auswirken, finden Sie [Gezielte anfängliche Antwortzeiten für den Support](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support) in der Dokumentation zu den Ressourcen für Erfolgspläne.
 
 1. Wählen Sie **[!UICONTROL Abschnitt „Kontaktinformationen und]**&quot; die Zeitzone aus, geben Sie Ihre Telefonnummer ein, fügen Sie Beobachter hinzu, fügen Sie bei Bedarf Dateien hinzu und klicken Sie dann auf **[!UICONTROL Weiter]**.
 

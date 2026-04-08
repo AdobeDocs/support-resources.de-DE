@@ -2,13 +2,13 @@
 title: Experience League Support - Versionshinweise
 description: Die neuesten Versionsinformationen zur Experience League-Unterstützung.
 feature: Release Notes
-source-git-commit: 25bfd2450594c3fbb361cb80fe16e1a438f73b89
+exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
+source-git-commit: 2d3eefd7816fbd25898549b20a0ae913b8b51391
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '489'
 ht-degree: 4%
 
 ---
-
 
 # Experience League Support - Versionshinweise
 
@@ -17,6 +17,10 @@ Diese Versionshinweise enthalten Aktualisierungen zur Experience League-Unterst�
 ![Neu](../adobe-support-tools-guide/assets/new.svg) Neue Funktionen
 ![Fehlerbehebung](../adobe-support-tools-guide/assets/fix.svg) Fehlerbehebungen und Verbesserungen
 ![Bug](../adobe-support-tools-guide/assets/bug.svg) Bekannte Probleme
+
+## &#x200B;9. April 2026 - Erweiterung der Callback-Funktion
+
+Die Rückrufanfrage-Funktion ist jetzt für Benutzende von Marketo-Produkten verfügbar.
 
 ## &#x200B;30. März 2026 - Verbessertes Antragsformular
 
@@ -78,6 +82,7 @@ Diese Versionshinweise enthalten Aktualisierungen zur Experience League-Unterst�
 ## &#x200B;18. März 2026 - Erweiterung der Funktion „Request for Callback“
 
 Experience League bietet jetzt die Option „Callback anfordern“, die eine Self-Service-Planung von Web-Meetings mit Funktionen zur Bildschirmfreigabe ermöglicht, um die Problembehebung zu beschleunigen.
+
 - Diese Funktion ist für Adobe Experience Manager, Campaign und Workfront verfügbar.
 - Kunden können Meetings nach Bedarf planen und sofort Einladungen erhalten.
 - Bei Adobe Experience Manager P1-Fällen sorgen sofortige Callbacks für eine schnellere Interaktion bei kritischen Problemen und tragen so zur Minimierung von Ausfallzeiten und geschäftlichen Auswirkungen bei.
