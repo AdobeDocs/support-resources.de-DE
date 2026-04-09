@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: bdfcda00d58f8583ab6562c4702f335193ee4a45
+source-git-commit: 1bb51424aef3dcf0a918f8eee7d0b74bf59c85e8
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '330'
 ht-degree: 2%
 
 ---
@@ -38,6 +38,7 @@ ht-degree: 2%
    - [Verwalten von Richtlinienvorlagen in der Global Admin Console](adobe-admin-console/manage-policy-templates.md)
    - [Organisationsstruktur und Produktzuordnungen exportieren oder importieren](adobe-admin-console/export-or-import-organization-structure-and-product-allocations.md)
    - [Erzwingen des Kennwortablaufs in der Admin Console](adobe-admin-console/enforce-password-expiration-in-the-admin-console.md)
+   - [Einrichten von Identität und Single Sign-on](adobe-admin-console/adobe-set-up-identity-and-sso.md)
    - [Adobe Admin Console-Benutzer](adobe-admin-console/adobe-admin-console-users.md)
    - [Identitätsübersicht](adobe-admin-console/adobe-identity-overview.md)
    - [Produktzugriff nach IP-Adressen einschränken](adobe-admin-console/adobe-ip-based-access.md)
