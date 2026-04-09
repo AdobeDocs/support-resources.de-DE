@@ -48,13 +48,13 @@ Ein Identitätsanbieter (IdP) ist der Identitätsanbieter Ihres Unternehmens, z.
 
 ### Adobe ID
 
-Wird vom Endbenutzer erstellt, erworben und verwaltet. Adobe führt die Authentifizierung durch, und der Endbenutzer verwaltet die Identität. Je nach [Speichermodell](https://helpx.adobe.com/enterprise/using/storage-for-business.html) behalten Benutzer oder Unternehmen die Kontrolle über Dateien und Daten.
+Wird vom Endbenutzer erstellt, erworben und verwaltet. Adobe führt die Authentifizierung durch, und der Endbenutzer verwaltet die Identität. Je nach [Speichermodell](https://helpx.adobe.com/de/enterprise/using/storage-for-business.html) behalten Benutzer oder Unternehmen die Kontrolle über Dateien und Daten.
 
 Für Organisationen, die auf das Speichermodell des Unternehmens aktualisiert wurden, werden Assets und Daten von der Organisation gesteuert. Für Organisationen, die nicht aktualisiert wurden, ist die Person für Adobe ID-Assets verantwortlich und kontrolliert diese.
 
 ### Enterprise ID
 
-Wird von einer Organisation erstellt, verwaltet und befindet sich im Besitz einer Organisation. Adobe hostet die Enterprise ID und führt die Authentifizierung durch, das Unternehmen verwaltet jedoch die Enterprise ID. Administratoren erstellen eine Enterprise ID und stellen sie einem Benutzer aus. Administratoren können den Zugriff auf Produkte und Services sperren, indem sie das Konto übernehmen oder die Enterprise ID löschen, um den Zugriff auf zugehörige Daten dauerhaft zu blockieren. Um mehr zu erfahren, klicken Sie [hier](https://helpx.adobe.com/enterprise/using/setup-enterprise-id.html).
+Wird von einer Organisation erstellt, verwaltet und befindet sich im Besitz einer Organisation. Adobe hostet die Enterprise ID und führt die Authentifizierung durch, das Unternehmen verwaltet jedoch die Enterprise ID. Administratoren erstellen eine Enterprise ID und stellen sie einem Benutzer aus. Administratoren können den Zugriff auf Produkte und Services sperren, indem sie das Konto übernehmen oder die Enterprise ID löschen, um den Zugriff auf zugehörige Daten dauerhaft zu blockieren. Um mehr zu erfahren, klicken Sie [hier](https://helpx.adobe.com/de/enterprise/using/setup-enterprise-id.html).
 
 ### Federated ID
 
@@ -72,7 +72,7 @@ Sie können Adobe ID oder Enterprise ID verwenden, wenn Ihr Unternehmen SSO derz
 
 ## Verwenden von Adobe ID
 
-Adobe aktualisiert alle Unternehmen auf das [Speichermodell für Unternehmen](https://helpx.adobe.com/enterprise/using/storage-for-business.html). Dadurch erhält Ihr Unternehmen mehr Kontrolle über die Assets und Daten Ihrer Benutzer.
+Adobe aktualisiert alle Unternehmen auf das [Speichermodell für Unternehmen](https://helpx.adobe.com/de/enterprise/using/storage-for-business.html). Dadurch erhält Ihr Unternehmen mehr Kontrolle über die Assets und Daten Ihrer Benutzer.
 
 Erste Schritte mit dem [Hinzufügen von Benutzern](https://helpx.adobe.com/de/enterprise/using/users.html) zur Admin Console.
 
@@ -80,7 +80,7 @@ Erste Schritte mit dem [Hinzufügen von Benutzern](https://helpx.adobe.com/de/en
 
 Sie können ein Enterprise ID-Verzeichnis einrichten, wenn Sie ohne SSO mehr Kontrolle über die Daten Ihrer Benutzer haben möchten. Nur Administratoren erstellen eine Enterprise ID und stellen sie einem Benutzer aus.
 
-Unter [Einrichten einer Organisation mit Enterprise ID](https://helpx.adobe.com/enterprise/using/setup-enterprise-id.html) finden Sie die Anforderungen und Schritte zum Erstellen von Enterprise ID-Verzeichnissen.
+Unter [Einrichten einer Organisation mit Enterprise ID](https://helpx.adobe.com/de/enterprise/using/setup-enterprise-id.html) finden Sie die Anforderungen und Schritte zum Erstellen von Enterprise ID-Verzeichnissen.
 
 ## Einrichten der Identität mit Single Sign-on
 
@@ -96,11 +96,11 @@ Federated IDs werden empfohlen, wenn:
 
 Sie können gängige Identitätsanbieter wie Microsoft Azure AD, Google oder andere SAML-basierte IDs verwenden, um SSO zwischen Ihrem Unternehmen und Adobe-Produkten einzurichten.
 
-**Azure AD** (empfohlen) - [Einrichten von SSO und Benutzersynchronisierung mit dem Azure AD-Connector](https://helpx.adobe.com/enterprise/using/sso-setup-azure.html)
+**Azure AD** (empfohlen) - [Einrichten von SSO und Benutzersynchronisierung mit dem Azure AD-Connector](https://helpx.adobe.com/de/enterprise/using/sso-setup-azure.html)
 
-**Other SAML IdP** - [Einrichten von SSO mit anderen SAML-Anbietern](https://helpx.adobe.com/enterprise/using/create-directory.html)
+**Other SAML IdP** - [Einrichten von SSO mit anderen SAML-Anbietern](https://helpx.adobe.com/de/enterprise/using/create-directory.html)
 
-**Google** (empfohlen) - [Einrichten von SSO und Benutzersynchronisierung mit dem Google-Connector](https://helpx.adobe.com/enterprise/using/setup-sso-google.html)
+**Google** (empfohlen) - [Einrichten von SSO und Benutzersynchronisierung mit dem Google-Connector](https://helpx.adobe.com/de/enterprise/using/setup-sso-google.html)
 
 ## Vorhandenes SSO-Setup verwalten
 
@@ -109,15 +109,15 @@ Nachdem SSO zwischen Ihrem Unternehmen und Adobe eingerichtet wurde, können Sie
 Erfahren Sie, wie Sie Ihre Domains und Verzeichnisse verwalten:
 
 - [Verwalten von &#x200B;](https://helpx.adobe.com/de/enterprise/using/users.html) und [Gruppen](https://helpx.adobe.com/enterprise/using/user-groups..HTML)
-- [Verknüpfen von Domains mit &#x200B;](https://helpx.adobe.com/enterprise/using/add-domains-directories.html#link-domains-to-directoies), um den Benutzerzugriff auf Apps, Services und Einstellungen zu steuern
-- [Verzeichnisvertrauen verwalten](https://helpx.adobe.com/enterprise/using/directory-trust.html) um Domains zu verwenden, die von einer anderen Organisation beansprucht werden
+- [Verknüpfen von Domains mit &#x200B;](https://helpx.adobe.com/de/enterprise/using/add-domains-directories.html#link-domains-to-directoies), um den Benutzerzugriff auf Apps, Services und Einstellungen zu steuern
+- [Verzeichnisvertrauen verwalten](https://helpx.adobe.com/de/enterprise/using/directory-trust.html) um Domains zu verwenden, die von einer anderen Organisation beansprucht werden
 
 Erfahren Sie, wie Sie Ihren Identitätsanbieter ändern:
 
-- [Ändern des &#x200B;](https://helpx.adobe.com/enterprise/using/migrate-authentication-provider.html), ohne die Arbeit der Benutzer zu stören
-- [Verschieben von Domains über Verzeichnisse hinweg](https://helpx.adobe.com/enterprise/using/manage-domains-directories.html#move-domains-across-directories)
-- [Ältere Verzeichnisbenutzer entfernen](https://helpx.adobe.com/enterprise/using/manage-directory-users.html)
-- [Löschen alter/nicht beanspruchter Domains und leerer Ordner](https://helpx.adobe.com/enterprise/using/manage-domains-directories.html#delete)
+- [Ändern des &#x200B;](https://helpx.adobe.com/de/enterprise/using/migrate-authentication-provider.html), ohne die Arbeit der Benutzer zu stören
+- [Verschieben von Domains über Verzeichnisse hinweg](https://helpx.adobe.com/de/enterprise/using/manage-domains-directories.html#move-domains-across-directories)
+- [Ältere Verzeichnisbenutzer entfernen](https://helpx.adobe.com/de/enterprise/using/manage-directory-users.html)
+- [Löschen alter/nicht beanspruchter Domains und leerer Ordner](https://helpx.adobe.com/de/enterprise/using/manage-domains-directories.html#delete)
 
 ## Fehler und häufige Fragen
 
@@ -127,37 +127,37 @@ Lösungen für häufige Fragen und Fehler beim Einrichten und Verwalten von SSO:
 
 #### Häufig gestellte Fragen (FAQ)
 
-- [Häufig gestellte Fragen zum Azure AD-Connector](https://helpx.adobe.com/enterprise/using/azure-ad-connector-faq.html)
-- [Löschen von Verzeichnissen und Domains](https://helpx.adobe.com/enterprise/using/sso-setup-azure.html#Deletedirectoriesandremovedomains)
+- [Häufig gestellte Fragen zum Azure AD-Connector](https://helpx.adobe.com/de/enterprise/using/azure-ad-connector-faq.html)
+- [Löschen von Verzeichnissen und Domains](https://helpx.adobe.com/de/enterprise/using/sso-setup-azure.html#Deletedirectoriesandremovedomains)
 
 #### Fehlerbehebung
 
-- [Benutzern wurde der Zugriff verweigert](https://helpx.adobe.com/enterprise/using/sso-setup-azure.html#sync-issues)
-- [Synchronisierungsprobleme](https://helpx.adobe.com/enterprise/using/sso-setup-azure.html#sync-issues)
+- [Benutzern wurde der Zugriff verweigert](https://helpx.adobe.com/de/enterprise/using/sso-setup-azure.html#sync-issues)
+- [Synchronisierungsprobleme](https://helpx.adobe.com/de/enterprise/using/sso-setup-azure.html#sync-issues)
 
 ### Andere SAML-IDs - Häufig gestellte Fragen und Fehlerbehebung
 
 #### Häufig gestellte Fragen (FAQ)
 
-[Häufig gestellte Fragen zur SAML-Integration](https://helpx.adobe.com/enterprise/using/sso-faq.html)
+[Häufig gestellte Fragen zur SAML-Integration](https://helpx.adobe.com/de/enterprise/using/sso-faq.html)
 
 #### Fehlerbehebung
 
-- [Allgemeine SSO-](https://helpx.adobe.com/enterprise/kb/tshoot-fed-id.html)
-- [&#x200B; Fehler „Zugriff verweigert“](https://helpx.adobe.com/enterprise/kb/tshoot-fed-id.html#Error_Access_Denied_logging_in)
-- [&#x200B; Fehler „Ein anderer Benutzer ist derzeit angemeldet“](https://helpx.adobe.com/enterprise/kb/tshoot-fed-id.html#ErrorAnotheruseriscurrentlyloggedin)
-- [Durchführen einer SAML-Verfolgung](https://helpx.adobe.com/enterprise/kb/perform-a-saml-trace.html)
+- [Allgemeine SSO-](https://helpx.adobe.com/de/enterprise/kb/tshoot-fed-id.html)
+- [&#x200B; Fehler „Zugriff verweigert“](https://helpx.adobe.com/de/enterprise/kb/tshoot-fed-id.html#Error_Access_Denied_logging_in)
+- [&#x200B; Fehler „Ein anderer Benutzer ist derzeit angemeldet“](https://helpx.adobe.com/de/enterprise/kb/tshoot-fed-id.html#ErrorAnotheruseriscurrentlyloggedin)
+- [Durchführen einer SAML-Verfolgung](https://helpx.adobe.com/de/enterprise/kb/perform-a-saml-trace.html)
 
 ### Google - Häufig gestellte Fragen
 
-- [Häufig gestellte Fragen zum Google-Connector](https://helpx.adobe.com/enterprise/using/google-federation-faq.html)
-- [Löschen von Verzeichnissen und Domains](https://helpx.adobe.com/enterprise/using/setup-sso-google.html#Deletedirectoriesandremovedomains)
+- [Häufig gestellte Fragen zum Google-Connector](https://helpx.adobe.com/de/enterprise/using/google-federation-faq.html)
+- [Löschen von Verzeichnissen und Domains](https://helpx.adobe.com/de/enterprise/using/setup-sso-google.html#Deletedirectoriesandremovedomains)
 
 ## Reden Sie mit
 
-Um mit anderen Administratoren zusammenzuarbeiten, Fragen zu stellen und mit ihnen zu chatten, verwenden Sie die [Enterprise und Teams Community](https://www.adobe.com/go/entcom).
+Um mit anderen Administratoren zusammenzuarbeiten, Fragen zu stellen und mit ihnen zu chatten, verwenden Sie die [Enterprise und Teams Community](https://www.adobe.com/go/entcom_de).
 
 ## Rechtliche Hinweise und Datenschutz
 
-- [Rechtliche Hinweise](https://helpx.adobe.com/legal/legal-notices.html)
+- [Rechtliche Hinweise](https://helpx.adobe.com/de/legal/legal-notices.html)
 - [Online-Datenschutzrichtlinie](https://www.adobe.com/de/privacy.html)
