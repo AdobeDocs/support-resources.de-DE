@@ -17,7 +17,7 @@ ht-degree: 1%
 
 Erfahren Sie, wie Sie in der Adobe Admin Console eine Identität einrichten. Vergleichen Sie Adobe ID, Enterprise ID und Federated ID und konfigurieren Sie Single Sign-On (SSO) für einen sicheren Zugriff auf Adobe-Apps.
 
-Konfigurieren Sie die Identität und richten Sie Single Sign-On (SSO) ein, damit sich [ Mitarbeiter mit ](https://adminconsole.adobe.com/settings/) Unternehmensanmeldedaten anmelden können.
+Konfigurieren Sie die Identität und richten Sie Single Sign-On (SSO) ein, damit sich [&#x200B; Mitarbeiter mit &#x200B;](https://adminconsole.adobe.com/settings/) Unternehmensanmeldedaten anmelden können.
 
 Im Folgenden finden Sie das Video-Tutorial zum Einrichten [Identity and SSO (YouTube)](https://youtu.be/V57lU4zaSBs).
 
@@ -108,13 +108,13 @@ Nachdem SSO zwischen Ihrem Unternehmen und Adobe eingerichtet wurde, können Sie
 
 Erfahren Sie, wie Sie Ihre Domains und Verzeichnisse verwalten:
 
-- [Verwalten von ](https://helpx.adobe.com/de/enterprise/using/users.html) und [Gruppen](https://helpx.adobe.com/enterprise/using/user-groups..HTML)
-- [Verknüpfen von Domains mit ](https://helpx.adobe.com/enterprise/using/add-domains-directories.html#link-domains-to-directoies), um den Benutzerzugriff auf Apps, Services und Einstellungen zu steuern
+- [Verwalten von &#x200B;](https://helpx.adobe.com/de/enterprise/using/users.html) und [Gruppen](https://helpx.adobe.com/enterprise/using/user-groups..HTML)
+- [Verknüpfen von Domains mit &#x200B;](https://helpx.adobe.com/enterprise/using/add-domains-directories.html#link-domains-to-directoies), um den Benutzerzugriff auf Apps, Services und Einstellungen zu steuern
 - [Verzeichnisvertrauen verwalten](https://helpx.adobe.com/enterprise/using/directory-trust.html) um Domains zu verwenden, die von einer anderen Organisation beansprucht werden
 
 Erfahren Sie, wie Sie Ihren Identitätsanbieter ändern:
 
-- [Ändern des ](https://helpx.adobe.com/enterprise/using/migrate-authentication-provider.html), ohne die Arbeit der Benutzer zu stören
+- [Ändern des &#x200B;](https://helpx.adobe.com/enterprise/using/migrate-authentication-provider.html), ohne die Arbeit der Benutzer zu stören
 - [Verschieben von Domains über Verzeichnisse hinweg](https://helpx.adobe.com/enterprise/using/manage-domains-directories.html#move-domains-across-directories)
 - [Ältere Verzeichnisbenutzer entfernen](https://helpx.adobe.com/enterprise/using/manage-directory-users.html)
 - [Löschen alter/nicht beanspruchter Domains und leerer Ordner](https://helpx.adobe.com/enterprise/using/manage-domains-directories.html#delete)
@@ -144,8 +144,8 @@ Lösungen für häufige Fragen und Fehler beim Einrichten und Verwalten von SSO:
 #### Fehlerbehebung
 
 - [Allgemeine SSO-](https://helpx.adobe.com/enterprise/kb/tshoot-fed-id.html)
-- [ Fehler „Zugriff verweigert“](https://helpx.adobe.com/enterprise/kb/tshoot-fed-id.html#Error_Access_Denied_logging_in)
-- [ Fehler „Ein anderer Benutzer ist derzeit angemeldet“](https://helpx.adobe.com/enterprise/kb/tshoot-fed-id.html#ErrorAnotheruseriscurrentlyloggedin)
+- [&#x200B; Fehler „Zugriff verweigert“](https://helpx.adobe.com/enterprise/kb/tshoot-fed-id.html#Error_Access_Denied_logging_in)
+- [&#x200B; Fehler „Ein anderer Benutzer ist derzeit angemeldet“](https://helpx.adobe.com/enterprise/kb/tshoot-fed-id.html#ErrorAnotheruseriscurrentlyloggedin)
 - [Durchführen einer SAML-Verfolgung](https://helpx.adobe.com/enterprise/kb/perform-a-saml-trace.html)
 
 ### Google - Häufig gestellte Fragen
