@@ -5,7 +5,7 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 2dfe1f68-9b93-47cd-8030-ac9e113b66b2
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+source-git-commit: 427a4498448adc3e1160e3638076f62c99670a9b
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 1%
@@ -24,7 +24,7 @@ Die Barrierefreiheitsfunktionen vieler häufig verwendeter Betriebssysteme könn
 
 ## Tastaturunterstützung
 
-Die meisten interaktiven Inhalte auf der Admin Console können nur mit der Tastatur navigiert und bedient werden. Sie können beispielsweise „Tab **&#x200B;**&#x200B;oder **[!UICONTROL Umschalt]** + **[!UICONTROL Tab]** für Navigation und Steuerung verwenden. Sobald Sie zum richtigen Link oder zur richtigen Schaltfläche navigiert sind, drücken Sie die **[!UICONTROL Eingabetaste]** oder **[!UICONTROL Zurück]**, um ihn auszuwählen. Es können noch einige Ausnahmen vorhanden sein, wie im [Konformitätsbericht zur Barrierefreiheit](https://www.adobe.com/accessibility/compliance.html) (nur _)_.
+Die meisten interaktiven Inhalte auf der Admin Console können nur mit der Tastatur navigiert und bedient werden. Sie können beispielsweise „Tab **&#x200B;**&#x200B;oder **[!UICONTROL Umschalt]** + **[!UICONTROL Tab]** für Navigation und Steuerung verwenden. Sobald Sie zum richtigen Link oder zur richtigen Schaltfläche navigiert sind, drücken Sie die **[!UICONTROL Eingabetaste]** oder **[!UICONTROL Zurück]**, um ihn auszuwählen. Es können noch einige Ausnahmen vorhanden sein, wie im [Konformitätsbericht zur Barrierefreiheit](https://www.adobe.com/accessibility/compliance.html) (nur *)*.
 
 ## Unterstützung der Hilfstechnologien
 
