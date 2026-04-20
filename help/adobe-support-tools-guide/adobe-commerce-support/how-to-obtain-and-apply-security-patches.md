@@ -2,9 +2,9 @@
 title: Abrufen und Anwenden von [!UICONTROL Sicherheits-Patch]
 description: Dieser Artikel enthält Anweisungen zum Abrufen und Anwenden eines [!UICONTROL Sicherheits-Patches], der veröffentlicht wurde, aber keine Anweisungen verfügbar sind.
 exl-id: 6764d60e-5088-4a85-90fa-4372570b065b
-source-git-commit: eee15976f3dd402e84774ec5b769d952259c8dff
+source-git-commit: 90775dd524d52669067794469efdd5462af53fc0
 workflow-type: tm+mt
-source-wordcount: '569'
+source-wordcount: '530'
 ht-degree: 0%
 
 ---
@@ -23,13 +23,11 @@ Adobe Commerce On-Premise und Cloud-Infrastruktur - alle unterstützten Versione
 
 ## Ursache
 
-Die meisten [!UICONTROL Sicherheits]Patches) werden ohne irgendeinen isolierten Patch oder Hotfix veröffentlicht und erfordern ein Upgrade auf die [!UICONTROL Sicherheits-Patch]-Version.
+Für Adobe Commerce-Sicherheitsbulletins stellt Adobe nur dann eine separate isolierte Patch-Datei oder einen Hotfix bereit, wenn dieses Artefakt explizit als Teil des Bulletins veröffentlicht wird. Wenn kein(e) isolierte(r) Patch- oder Hotfix veröffentlicht oder im Bulletin-Material referenziert wird, erstellt Adobe anschließend keinen separaten eigenständigen Patch.
 
-Für Adobe Commerce-Sicherheitsbulletins stellt Adobe nur dann eine separate physische Patch-/Hotfix-Datei bereit, wenn diese explizit im Rahmen der Bulletin-Version veröffentlicht bzw. erwähnt wird. Wenn das Bulletin kein isoliertes Patch-/Hotfix-Paket enthält (oder darauf verweist), können wir kein solches Paket im Nachhinein erzeugen und bereitstellen.
+Dies liegt daran, dass die Sicherheitskorrekturen zusammen als Teil der unterstützten Sicherheitsversion für die entsprechende Versionszeile entwickelt, validiert und veröffentlicht werden.
 
-Dies liegt daran, dass die Sicherheitskorrekturen als Teil der unterstützten Sicherheitsversion (z. B. einer Patch-Version) entwickelt, getestet und zusammen ausgeliefert werden und nicht so konzipiert sind, dass sie sauber in einzelne CVE-Patch-Dateien aufgeteilt/entkoppelt werden, ohne das Risiko einer unvollständigen Abdeckung oder von Regressionen einzugehen.
-
-Der unterstützte Korrekturpfad wendet weiterhin das offizielle Sicherheitsupdate für Ihre Versionszeile an (oder das Upgrade auf eine Version, die die Fehlerbehebungen enthält).
+Dementsprechend besteht der unterstützte Behebungspfad darin, das offizielle Sicherheitsupdate für die betroffene Versionszeile anzuwenden oder auf eine Version zu aktualisieren, die bereits die Fehlerbehebung enthält.
 
 ## Lösung
 
