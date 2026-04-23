@@ -3,9 +3,9 @@ title: Experience League Support - Versionshinweise
 description: Die neuesten Versionsinformationen zur Experience League-Unterstützung.
 feature: Release Notes
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
-source-git-commit: 7d0f54c6a5d43fc9155a7d17fca2eefa3238179e
+source-git-commit: 534325e6f8932b3a23a6701474f70675f8c681d6
 workflow-type: tm+mt
-source-wordcount: '489'
+source-wordcount: '514'
 ht-degree: 4%
 
 ---
@@ -17,6 +17,10 @@ Diese Versionshinweise enthalten Aktualisierungen zur Experience League-Unterst�
 ![Neu](../adobe-support-tools-guide/assets/new.svg) Neue Funktionen
 ![Fehlerbehebung](../adobe-support-tools-guide/assets/fix.svg) Fehlerbehebungen und Verbesserungen
 ![Bug](../adobe-support-tools-guide/assets/bug.svg) Bekannte Probleme
+
+## &#x200B;23. April 2026 - Erweiterung der Callback-Funktion
+
+Die Rückrufanfrage-Funktion ist jetzt für Benutzende von Analytics-, Admin Console-, Audience Manager- und Target-Produkten verfügbar.
 
 ## &#x200B;8. April 2026 - Erweiterung der Callback-Funktion
 
