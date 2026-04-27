@@ -1,9 +1,9 @@
 ---
 title: Eskalations-Management
 description: Eskalations-Management bietet Self-Service-Optionen im Experience League-Support, um Fallzusammenfassungen anzuzeigen, Callbacks anzufordern, Fehlerbehebungssitzungen zu planen, die Dringlichkeit von Fällen zu aktualisieren und Support-Eskalationen zu verwalten.
-source-git-commit: aac3642cab7b1dc0bba8ba8fef28d6dff25398fb
+source-git-commit: d41e987c8778849311922d1b9438c2c74fb60138
 workflow-type: tm+mt
-source-wordcount: '1152'
+source-wordcount: '1148'
 ht-degree: 1%
 
 ---
@@ -144,13 +144,13 @@ Gehen Sie wie folgt vor, um die Dringlichkeit eines Problems zu ändern:
 1. Ein Inline-Textfeld wird angezeigt. Beschreiben Sie vor Ort klar, was sich geändert hat oder warum das Problem jetzt sofortige Aufmerksamkeit erfordert.
 1. Klicken Sie auf **[!UICONTROL Dringlichkeit des Problems aktualisieren]**, um die Anfrage zu senden, oder klicken Sie auf **[!UICONTROL Abbrechen]**, um den Vorgang zu beenden, ohne Änderungen vorzunehmen.
 
-Nach dem Senden der Anfrage wird der Bestätigungsbildschirm angezeigt:
+   Nach dem Senden der Anfrage wird der Bestätigungsbildschirm angezeigt:
 
-- Ausgewähltes Produkt
-- Priorität
-- Fall-ID
+   - Ausgewähltes Produkt
+   - Priorität
+   - Fall-ID
 
-Klicken Sie **[!UICONTROL Zurück zum Formular]**, um zum Fall zurückzukehren.
+1. Klicken Sie **[!UICONTROL Zurück zum Formular]**, um zum Fall zurückzukehren.
 
 ### Ich habe ein Problem, das nicht aufgelistet ist
 
@@ -163,17 +163,17 @@ Führen Sie die folgenden Schritte aus, um zu eskalieren, falls Ihre Probleme ni
    - **[!UICONTROL Warum möchten Sie diesen Fall eskalieren?]**
    - **[!UICONTROL Wir können Ihnen mit detaillierten Informationen besser helfen.]**
 1. Wählen Sie in der Dropdown-Liste einen Eskalationsgrund aus:
-   - [!UICONTROL Zeit bis zur Auflösung]
-   - [!UICONTROL -Entschließung entsprach nicht den Erwartungen]
-   - [!UICONTROL Agent-Kommunikationsfähigkeiten]
-   - [!UICONTROL Agent - Technisches Wissen]
+   - [!UICONTROL Zeit bis zur Behebung]
+   - [!UICONTROL Die Entschließung entsprach nicht den Erwartungen]
+   - [!UICONTROL Kommunikationsfähigkeiten von Agenten]
+   - [!UICONTROL technische Kenntnisse des Agenten]
 1. Geben Sie im Freitextfeld zusätzlichen Kontext zur Eskalation an.
 1. Klicken Sie **[!UICONTROL Fall eskalieren]**, um die Eskalation zu senden, oder klicken Sie auf **[!UICONTROL Abbrechen]**, um den Vorgang ohne Senden zu beenden.
 
-Nach Übermittlung der Eskalation wird der Bestätigungsbildschirm angezeigt:
+   Nach Übermittlung der Eskalation wird der Bestätigungsbildschirm angezeigt:
 
-- Ausgewähltes Produkt
-- Priorität
-- Fall-ID
+   - Ausgewähltes Produkt
+   - Priorität
+   - Fall-ID
 
-Klicken Sie **[!UICONTROL Zurück zum Formular]**, um zum Fall zurückzukehren.
+1. Klicken Sie **[!UICONTROL Zurück zum Formular]**, um zum Fall zurückzukehren.

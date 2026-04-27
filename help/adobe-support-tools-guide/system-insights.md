@@ -1,10 +1,10 @@
 ---
 title: Systemeinblicke
 description: Systemeinblicke identifizieren proaktiv potenzielle Probleme in Adobe Commerce-Umgebungen. Die Überprüfung der Erkenntnisse während der Erstellung von Fällen verkürzt die Problembehebungszeit, hilft Ausfälle zu verhindern und unterstützt eine stabile und sichere Bereitstellung.
-source-git-commit: 4172c364c9bfffaae13759da882d03daa15d0754
+source-git-commit: d41e987c8778849311922d1b9438c2c74fb60138
 workflow-type: tm+mt
-source-wordcount: '741'
-ht-degree: 0%
+source-wordcount: '738'
+ht-degree: 1%
 
 ---
 
@@ -34,7 +34,7 @@ Die regelmäßige Überprüfung der Systemeinblicke hilft, Probleme frühzeitig 
 
 Systemeinblicke sind derzeit nur für Adobe Commerce verfügbar. Diese Erkenntnisse werden während der Fallerstellung im Experience League Support angezeigt und sind auch über das [Site-Wide Analysis Tool (SWAT) verfügbar](https://experienceleague.adobe.com/de/docs/commerce-operations/tools/site-wide-analysis-tool/intro).
 
-> [ !NHinweis]
+>[ !NHinweis]
 >
 >System Insights zeigt Daten nur für Produktionsumgebungen an.
 
@@ -56,9 +56,9 @@ Um vollständige insight-Details anzuzeigen, wählen Sie eine insight-Karte aus 
 - Insight-Name
 - Adobe-Produkt, auf dem insight gekennzeichnet ist
 - Insight-Typ, kategorisiert als:
-   - [!UICONTROL -Funktion]
-   - [!UICONTROL -Leistung]
-   - [!UICONTROL -]
+   - [!UICONTROL Funktionalität]
+   - [!UICONTROL Leistung]
+   - [!UICONTROL Sicherheit]
 - [!UICONTROL Risikostufe] gibt den Schweregrad an
 - [!UICONTROL Letzter Prüflauf] gibt an, wann der Fund erkannt wurde.
 - [!UICONTROL Insight Source], bereitgestellt vom Site-Wide Analysis Tool (SWAT)
