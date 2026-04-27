@@ -3,10 +3,10 @@ title: Experience League Support - Versionshinweise
 description: Die neuesten Versionsinformationen zur Experience League-Unterstützung.
 feature: Release Notes
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
-source-git-commit: 534325e6f8932b3a23a6701474f70675f8c681d6
+source-git-commit: 26a20998811059cf66d8609c0ae7ac2816df3337
 workflow-type: tm+mt
-source-wordcount: '514'
-ht-degree: 4%
+source-wordcount: '917'
+ht-degree: 1%
 
 ---
 
@@ -17,6 +17,37 @@ Diese Versionshinweise enthalten Aktualisierungen zur Experience League-Unterst�
 ![Neu](../adobe-support-tools-guide/assets/new.svg) Neue Funktionen
 ![Fehlerbehebung](../adobe-support-tools-guide/assets/fix.svg) Fehlerbehebungen und Verbesserungen
 ![Bug](../adobe-support-tools-guide/assets/bug.svg) Bekannte Probleme
+
+
+## &#x200B;27. April 2026 - Verbesserungen bei Eskalationsmanagement und System Insights für Adobe Commerce
+
+### Eskalations-Management
+
+1. Das Eskalations-Management für den Experience League-Support bietet eine Reihe neuer Self-Service-Funktionen, mit denen Sie Ihre Support-Fälle mit einem optimierten, systemgesteuerten Workflow, der auf Ihre Anforderungen zugeschnitten ist, besser einsehen können.
+
+1. Erhalten Sie sofort einen KI-gestützten Überblick über Ihren Support-Fall, einschließlich des aktuellen Status, der nächsten Schritte, wichtiger Updates und einer vollständigen Fallzusammenfassung, ohne den gesamten Fallverlauf lesen zu müssen.
+
+1. Eine neue **[!UICONTROL Hilfe anfordern]**-Option bietet Kunden ein zentralisiertes Erlebnis für die nahtlose Zusammenarbeit mit Support-Teams, einschließlich Fehlerbehebung, Callback-Anfragen, Self-Service-dringenden Updates für Probleme und Anfragen an das Management.
+
+1. **[!UICONTROL Sofortigen Anruf anfordern]** - In P1-kritischen Fällen fordern Sie einen sofortigen Rückruf von einem Mitarbeiter des technischen Supports direkt aus Ihrer Vorgangsliste an. Geben Sie einfach Ihre Telefonnummer und eine kurze Beschreibung Ihres Problems an. Ein Support-Mitarbeiter wird sich melden, sobald er verfügbar ist.
+
+1. **[!UICONTROL Geplanten Anruf anfordern]** - Planen Sie in Fällen mit P2-Dringlichkeit und P3-Wichtigkeit ein Web-Meeting mit einem Mitarbeiter des technischen Supports zu einem für Sie geeigneten Zeitpunkt. Bei der Buchung wird eine Microsoft Teams-Bildschirmfreigabesitzung mit allen Besprechungsdetails bestätigt.
+
+1. **[!UICONTROL Änderung der Dringlichkeit von Problemen]** - Bei Fällen mit dem Schweregrad „P3-wichtig“ und „P4-Gering“ können Sie die Priorität Ihrer Fälle durch Self-Service von „P4-Gering“ auf „P2-Dringend“ erhöhen, indem Sie eine kurze Begründung angeben. Eine Änderung der Prioritätsanfrage kann erfolgen, ohne dass das Ticket zu einer Neuzuweisung führt.
+
+1. **[!UICONTROL Ich habe ein Problem nicht aufgeführt]** - Erhöhen Sie für alle Prioritäten eine Eskalation für alle Szenarien, die nicht von den oben genannten Optionen abgedeckt werden, wie **[!UICONTROL Zeit bis zur Behebung]**, **[!UICONTROL Behebung entsprach nicht den Erwartungen]**, **[!UICONTROL Kommunikationsfähigkeiten von Agenten]** oder **[!UICONTROL technisches Wissen von Agenten]**.
+
+### Systemeinblicke bei der Erstellung von Fällen für Adobe Commerce
+
+1. System Insights zeigt automatisch erkannte Probleme in Ihrer Umgebung an. Dazu gehören Leistungseinbußen, Sicherheitsrisiken und Fehlkonfigurationen mithilfe von Telemetriedaten aus APIs, New Relic und [!DNL Splunk]. So können Sie Probleme schneller identifizieren und beheben.
+
+1. System Insights ist derzeit während des Prozesses der Fallerstellung exklusiv für Adobe Commerce on Experience League Support verfügbar.
+
+1. Erkenntnisse werden auf Ihre spezifische Projektinstanz angewandt, um sicherzustellen, dass die angezeigten Informationen für Ihre Umgebung relevant sind.
+
+1. Zu den Insights gehören eine detaillierte Beschreibung, Lösungsschritte, Ursachenanalyse und Links zur entsprechenden Dokumentation zu Adobe.
+
+1. Anwender können Feedback zu individuellen Einblicken senden, damit Adobe die Genauigkeit und Relevanz von System Insights kontinuierlich verbessern kann.
 
 ## &#x200B;23. April 2026 - Erweiterung der Callback-Funktion
 
@@ -39,7 +70,7 @@ Die Rückrufanfrage-Funktion ist jetzt für Benutzende von Marketo-Produkten ver
 
 ![Neu](../adobe-support-tools-guide/assets/new.svg) Es wurde eine automatische Titelgenerierung auf der Grundlage von **[!UICONTROL Problembeschreibung]** hinzugefügt, sodass der Titel automatisch generiert werden kann, während Benutzenden weiterhin die Möglichkeit gegeben wird, ihn vor dem Senden der Anfrage zu bearbeiten.
 
-![Neu](../adobe-support-tools-guide/assets/new.svg) Ein **[!UICONTROL „Ist das Problem reproduzierbar?“ wurde hinzugefügt.]** Option zur Verbesserung der Fehlerbehebung. Wenn Benutzer **[!UICONTROL Ja]** auswählen, werden sie aufgefordert, die Schritte zur Reproduktion des Problems anzugeben. Wenn *Nein* ausgewählt ist, können Benutzer mit der Fallübermittlung fortfahren.
+![Neu](../adobe-support-tools-guide/assets/new.svg) Ein **[!UICONTROL hinzugefügt„Ist das Problem reproduzierbar?“]** Option zur Verbesserung der Fehlerbehebung. Wenn Benutzer **[!UICONTROL Ja]** auswählen, werden sie aufgefordert, die Schritte zur Reproduktion des Problems anzugeben. Wenn *Nein* ausgewählt ist, können Benutzer mit der Fallübermittlung fortfahren.
 
 ![Neu](../adobe-support-tools-guide/assets/new.svg) Es wurde eine Option hinzugefügt, die angibt, ob kürzlich Änderungen an der Umgebung oder Instanz vorgenommen wurden. Wenn **[!UICONTROL Ja]** ausgewählt ist, werden Benutzer aufgefordert, zusätzliche Details zu den Änderungen anzugeben.
 
@@ -81,7 +112,7 @@ Die Rückrufanfrage-Funktion ist jetzt für Benutzende von Marketo-Produkten ver
 
 ![Korrigieren](../adobe-support-tools-guide/assets/fix.svg) Das Feld „Fallbeschreibung“ wurde in &quot;*[!UICONTROL &quot; umbenannt, um]* Klarheit zu verbessern.
 
-![Korrigieren](../adobe-support-tools-guide/assets/fix.svg) Es wurde ein Sternchen (*) als obligatorische Feldindikatoren hinzugefügt, um die Vollständigkeit sicherzustellen und Fehler bei der Übermittlung zu reduzieren.
+![Korrigieren](../adobe-support-tools-guide/assets/fix.svg) Es wurden Sternchen (*) als obligatorische Feldindikatoren hinzugefügt, um die Vollständigkeit sicherzustellen und Fehler bei der Übermittlung zu reduzieren.
 
 ## &#x200B;18. März 2026 - Erweiterung der Funktion „Request for Callback“
 
