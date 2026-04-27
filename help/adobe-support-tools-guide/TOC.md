@@ -16,7 +16,7 @@ ht-degree: 2%
 # Support- und Tools-Handbuch für Adobe {#adobe-support-tools-guide}
 
 - [Übersicht über Support und Tools für Adobe](/help/adobe-support-tools-guide/adobe-support-tools-guide-overview.md)
-- [Experience League Support - Versionshinweise](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/release-notes)
+- [Experience League Support - Versionshinweise](https://experienceleague.adobe.com/de/docs/support-resources/adobe-support-tools-guide/release-notes)
 - [Adobe Customer Support Experience](adobe-customer-support-experience.md)
 - [Berechtigungskonfiguration für den Adobe-Kunden-Support](adobe-customer-support-entitlement-configuration.md)
 - [Aktualisierung der Telefonnummer des Supports](phone-numbers.md)
