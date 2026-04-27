@@ -34,7 +34,7 @@ Die regelmäßige Überprüfung der Systemeinblicke hilft, Probleme frühzeitig 
 
 Systemeinblicke sind derzeit nur für Adobe Commerce verfügbar. Diese Erkenntnisse werden während der Fallerstellung im Experience League Support angezeigt und sind auch über das [Site-Wide Analysis Tool (SWAT) verfügbar](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/site-wide-analysis-tool/intro).
 
-> [!NHinweis]
+> [ !NHinweis]
 >
 >System Insights zeigt Daten nur für Produktionsumgebungen an.
 
@@ -56,9 +56,9 @@ Um vollständige insight-Details anzuzeigen, wählen Sie eine insight-Karte aus 
 - Insight-Name
 - Adobe-Produkt, auf dem insight gekennzeichnet ist
 - Insight-Typ, kategorisiert als:
-   - [UICONTROL-Funktion]
-   - [UICONTROL-Leistung]
-   - [UICONTROL-]
+   - [!UICONTROL -Funktion]
+   - [!UICONTROL -Leistung]
+   - [!UICONTROL -]
 - [!UICONTROL Risikostufe] gibt den Schweregrad an
 - [!UICONTROL Letzter Prüflauf] gibt an, wann der Fund erkannt wurde.
 - [!UICONTROL Insight Source], bereitgestellt vom Site-Wide Analysis Tool (SWAT)

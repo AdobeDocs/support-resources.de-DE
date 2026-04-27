@@ -163,10 +163,10 @@ Führen Sie die folgenden Schritte aus, um zu eskalieren, falls Ihre Probleme ni
    - **[!UICONTROL Warum möchten Sie diesen Fall eskalieren?]**
    - **[!UICONTROL Wir können Ihnen mit detaillierten Informationen besser helfen.]**
 1. Wählen Sie in der Dropdown-Liste einen Eskalationsgrund aus:
-   - [UICONTROL Zeit bis zur Auflösung]
-   - [UICONTROL-Entschließung entsprach nicht den Erwartungen]
-   - [UICONTROL Agent-Kommunikationsfähigkeiten]
-   - [UICONTROL Agent - Technisches Wissen]
+   - [!UICONTROL Zeit bis zur Auflösung]
+   - [!UICONTROL -Entschließung entsprach nicht den Erwartungen]
+   - [!UICONTROL Agent-Kommunikationsfähigkeiten]
+   - [!UICONTROL Agent - Technisches Wissen]
 1. Geben Sie im Freitextfeld zusätzlichen Kontext zur Eskalation an.
 1. Klicken Sie **[!UICONTROL Fall eskalieren]**, um die Eskalation zu senden, oder klicken Sie auf **[!UICONTROL Abbrechen]**, um den Vorgang ohne Senden zu beenden.
 
