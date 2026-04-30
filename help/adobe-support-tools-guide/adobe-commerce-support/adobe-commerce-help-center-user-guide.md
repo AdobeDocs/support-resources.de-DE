@@ -5,9 +5,9 @@ feature: Support, Roles/Permissions, Tools and External Services, Admin Workspac
 feature-set: Commerce
 solution: Commerce
 exl-id: a7833d47-1d4b-4c10-9d2e-42fa43f8513c
-source-git-commit: 4f8b8e20e9edab31b2db3c90087acc4feccc3537
+source-git-commit: f0cf10d8d97b8e2c2925999061c115f6a5d3c81e
 workflow-type: tm+mt
-source-wordcount: '3310'
+source-wordcount: '3618'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,7 @@ In diesem Handbuch erfahren Sie, wie Sie ein Support-Ticket an den [Experience L
 
    * [Adobe Experience League-Startseite](#experience-league-start-page)
    * [Adobe Commerce-Kontoseite](#submit-case-adobe-commerce-account-page)
-   * [*Überprüfen Sie Ihre E-Mail-Adresse*](#verify-email-address-error)
+   * [*E-Mail-Adresse überprüfen* Fehler auf der Adobe Commerce-Kontoseite](#verify-email-address-error)
 
 * [Support-Fälle tracken](#track-support-cases)
 * [Kommentare in Ihrem Fall](#comments-in-your-case)
@@ -116,7 +116,7 @@ Informationen zum Senden eines neuen Support-Tickets über die Startseite von Ad
 
 >[!NOTE]
 >
->Wenn Sie ein Ticket mit &quot;**[!DNL Commerce]in der Cloud-Infrastruktur** als Produkt senden und die Organisation mehrere Projekte aufgelistet hat, werden Sie aufgefordert, die entsprechende **[!UICONTROL Projekt-ID“]**. Wenn Sie die gewünschte „Projekt **[!UICONTROL ID“ nicht finden können]** fügen Sie dem Ticket unbedingt einen Hinweis hinzu, dass Sie Unterstützung für ein anderes „Projekt X“ benötigen.<br>Wenn Sie ein Ticket &quot;**[!DNL Commerce]on Managed Services**&quot; einreichen möchten und **[!DNL Commerce]in der Cloud-** sind, **[!DNL Commerce]jedoch nicht in der Cloud-Infrastruktur**: <br>1. Geben Sie in „Anfragentitel“ einen Betreff für **[!UICONTROL Anfrage]**.<br>2. Geben Sie in „Fallbeschreibung“ eine Beschreibung **[!UICONTROL Problems]**.<br>3. Nachdem Sie diese beiden Elemente eingegeben haben, wird unten das Feld **[!UICONTROL Cloud-Projekt]** angezeigt.
+>Wenn Sie ein Ticket mit &quot;**[!DNL Commerce]in der Cloud-Infrastruktur** als Produkt senden und die Organisation mehrere Projekte aufgelistet hat, werden Sie aufgefordert, die entsprechende **[!UICONTROL Projekt-ID“]**. Wenn Sie die gewünschte **[!UICONTROL Projekt-ID]** nicht finden können, fügen Sie dem Ticket einen Hinweis hinzu, dass Sie Unterstützung bei einem anderen „Projekt X“ benötigen.<br>Wenn Sie ein Ticket &quot;**[!DNL Commerce]on Managed Services**&quot; senden möchten und **[!DNL Commerce]in der Cloud-Infrastruktur**, aber **[!DNL Commerce]nicht in der Cloud-Infrastruktur** als verfügbares Produkt anzeigen:<br>1. Geben Sie einen Betreff für Ihr Problem in **[!UICONTROL Anfragetitel]**.<br>2 ein. Geben Sie unter „Fallbeschreibung“ eine Beschreibung **[!UICONTROL Problems]**.<br>3 ein. Nachdem Sie diese beiden Elemente eingegeben haben, wird unten das Feld **[!UICONTROL Cloud-Projekt]** angezeigt.
 
 >[!IMPORTANT]
 >
@@ -209,10 +209,6 @@ Sie können die von Ihnen übermittelten Commerce-Anfragen anzeigen, indem Sie *
 
 ![view-support-cases](/help/adobe-support-tools-guide/assets/view_support_cases.png)
 
-#### Historische Anfragen im Adobe Commerce-Hilfezentrum anzeigen
-
-Erfahren Sie mehr darüber, wie Sie **Ihre historischen Fälle anzeigen** im Adobe Commerce Help Center in [Stilllegung des Adobe Commerce Help Centers](https://experienceleague.adobe.com/de/docs/commerce-knowledge-base/kb/announcements/news/decommissioning-of-adobe-commerce-help-center) in unserer Adobe Commerce Knowledge Base.
-
 #### Überwachte Fälle anzeigen
 
 Sie können die Commerce-Fälle anzeigen, zu *Sie als Beobachter hinzugefügt wurden* indem Sie **[!UICONTROL Fälle meiner Organisation]** im Menü links klicken.
@@ -230,7 +226,7 @@ Um Fälle zu finden, geben Sie Ihre Suchanfrage in das Feld *[!UICONTROL Suche]*
 
 Wenn Sie der Meinung sind, dass ein Fall weitere Aufmerksamkeit erfordert und unsere anfängliche Reaktionszeit verstrichen ist, können Sie den Fall eskalieren. Gehen Sie dazu folgendermaßen vor:
 
-1. Klicken Sie unten **[!UICONTROL rechts im Bedienfeld]** Falldetails *[!UICONTROL auf der rechten Seite des Bildschirms auf]* An Verwaltung weiterleiten“.
+1. Klicken Sie unten **[!UICONTROL rechts im Bedienfeld *[!UICONTROL Falldetails]* auf der rechten Seite des Bildschirms auf]** An Verwaltung weiterleiten“.
 
    ![Eskalieren an das Management](/help/adobe-support-tools-guide/assets/escalate_to_management.png)
 
@@ -280,7 +276,7 @@ Um Ihren Fall zu schließen, klicken Sie **[!UICONTROL Fall schließen]** unten 
 
 >[!NOTE]
 >
->**Sie können einen Fall nur innerhalb von 14 Tagen nach seiner Schließung erneut öffnen.** Wenn Sie mehr als 14 Tage nach Abschluss des Falles verbringen, aber dennoch Hilfe zu einem Problem anfordern möchten, müssen Sie einen neuen Fall eröffnen.<br>Weitere Informationen zum Schließen und erneuten Öffnen von Fällen finden Sie im [Video zum Hinzufügen und Entfernen von Beobachtern, Schließen und erneuten Öffnen von Tickets](https://experienceleague.adobe.com/de/docs/commerce-learn/tutorials/help-and-support/add-remove-watchers-close-reopen-support-ticket).
+>**Sie können einen Fall nur innerhalb von 14 Tagen nach seinem Abschluss erneut öffnen.** Wenn Sie mehr als 14 Tage nach Abschluss des Falles verbringen, aber dennoch Hilfe zu einem Problem anfordern möchten, müssen Sie einen neuen Fall eröffnen.<br>Weitere Informationen zum Schließen und erneuten Öffnen von Fällen finden Sie im [Video zum Hinzufügen und Entfernen von Beobachtern, Schließen und erneuten Öffnen von Tickets](https://experienceleague.adobe.com/de/docs/commerce-learn/tutorials/help-and-support/add-remove-watchers-close-reopen-support-ticket).
 
 >[!NOTE]
 >

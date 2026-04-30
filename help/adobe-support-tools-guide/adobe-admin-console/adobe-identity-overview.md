@@ -4,13 +4,13 @@ description: Identitätstypen (Federated ID, Enterprise ID, Adobe ID und Persona
 Feature-set: Experience Cloud Services
 Solution: Admin Console
 Feature: Admin Console
-source-git-commit: c066e95c05f8e8a0953daecda9a220268d325f98
+exl-id: e53ded7c-1ba3-4d98-bc20-792a252618ac
+source-git-commit: f20f8cfe6f9f31af953c089b9c5f4e76d0573f84
 workflow-type: tm+mt
-source-wordcount: '723'
+source-wordcount: '840'
 ht-degree: 5%
 
 ---
-
 
 # Identitätsübersicht
 
@@ -41,7 +41,7 @@ Die folgende Tabelle führt Sie bei der Auswahl des Identitätsmodells, das am b
   Enterprise ID
 </th>
 <th scope="col" style="text-align: center;">
-  <img src="./assets/adobe-id.png" alt="Adobe ID"><br>
+  <img src="./assets/adobe-id.png" alt="Adobe ID"><br>
   Adobe ID
 </th>
 </tr>
@@ -147,7 +147,7 @@ Adobe aktualisiert alle Teams und Unternehmenskunden auf das Enterprise-Speicher
 <th scope="col">Identitätstyp</th>
 </th>
 <th scope="col" style="text-align: center;">
-  <img src="./assets/personal-adobe-id.png" alt="Adobe ID"><br>
+  <img src="./assets/personal-adobe-id.png" alt="Adobe ID"><br>
   Personal Adobe ID
 </th>
 </tr>
@@ -167,7 +167,7 @@ Adobe aktualisiert alle Teams und Unternehmenskunden auf das Enterprise-Speicher
 </tr>
 <tr>
 <th scope="row"><strong>Passwort zurücksetzen</strong></th>
-<td><a href="https://helpx.adobe.com/de/manage-account/using/change-or-reset-password.html">Setzen Sie Ihr Kontokennwort zurück.</a> Siehe Nummer 2 im folgenden Abschnitt.</td>
+<td><a href="https://helpx.adobe.com/de/manage-account/using/change-or-reset-password.html">Setzen Sie Ihr Kontokennwort zurück.</a>  Siehe Nummer 2 im folgenden Abschnitt.</td>
 </tr>
 <tr>
 <th scope="row"><strong>Creative Cloud für Unternehmen und Document Cloud für Unternehmen</strong></th>
@@ -204,8 +204,8 @@ Adobe aktualisiert alle Teams und Unternehmenskunden auf das Enterprise-Speicher
 
 ## Ähnliche Themen
 
-- [Identität einrichten](https://helpx.adobe.com/de/enterprise/using/set-up-identity.html)
+- [Einrichten der Identität](https://helpx.adobe.com/de/enterprise/using/set-up-identity.html)
 - [Benutzeridentität wechseln](https://helpx.adobe.com/de/enterprise/using/switch-user-identity.html)
-- [Übersicht über Admin Console](https://helpx.adobe.com/enterprise/using/admin-console-overview.html)
-- [Häufig gestellte Fragen zu Schulungen](https://helpx.adobe.com/enterprise/using/education-faq.html)
-- [Benutzer hinzufügen und verwalten](https://helpx.adobe.com/de/enterprise/using/users.html)
+- [Übersicht über Admin Console](https://experienceleague.adobe.com/de/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview)
+- [Häufig gestellte Fragen zu Schulungen](https://helpx.adobe.com/de/x-productkb/policy-pricing/education-faq.html)
+- [Hinzufügen und Verwalten von Benutzern](https://helpx.adobe.com/de/enterprise/using/users.html)
