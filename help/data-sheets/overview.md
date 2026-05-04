@@ -3,10 +3,10 @@ title: Adobe-Erfolgspläne – Übersicht
 description: Dieser Artikel enthält eine Zusammenfassung der Support-Optionen für Adobe Experience Cloud, Adobe Document Cloud und Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
 hide: true
-source-git-commit: 1cf43efd9effb8436f4bff7a6e89d4a497b3f35b
+source-git-commit: 521217db5c864fe63289b268d691dafa22d91f45
 workflow-type: tm+mt
-source-wordcount: '1833'
-ht-degree: 100%
+source-wordcount: '1822'
+ht-degree: 98%
 
 ---
 
@@ -19,8 +19,8 @@ Adobe-Erfolgspläne gehen über die reaktive Problemlösung hinaus, um Ihnen ein
 |  | Erfolgsplan „Expert“ | Erfolgsplan „Ultimate“ |
 |--- |--- |--- |
 |  | Mit dem Erfolgsplan „Expert“ können Sie **rund um die Uhr auf kompetenten Support zugreifen**, um technische Fehlerbehebungen und Anleitungen zu wichtigen Geschäftsproblemen zu erhalten. Sie können auch schnell Lösungen finden, indem Sie auf unsere Selbsthilferessourcen (außer Best Practices) und eine Online-Community mit Adobe-Fachleuten und Gleichgesinnten zurückgreifen. <p> *In allen Adobe Experience Cloud-Lizenzen enthalten.* | Mit dem Erfolgsplan „Ultimate“ erhalten Sie **strategische Beratung und proaktive technische Gesundheit zur Bereitstellung leistungsstarker digitaler Erlebnisse**. Ihre Adobe-Umgebung wird von einem Experten-Team unterstützt, das mit Ihrem Unternehmen vertraut ist und sich auf die Durchführung eines Aktionsplans konzentriert, der auf Ihre Ziele und Prioritäten für den geschäftlichen Erfolg ausgerichtet ist. |
-| **Erfolgs-Team** | Gepooltes Team aus Support-Fachleuten | Umfasst: <ul><li> designierten Technical Account Manager </li><li> designierten Customer Success Manager </li><li> designierten Support Services Manager</li><li> Pool von Technikerinnen und Technikern sowie strategischen Fachleuten für die Bereitstellung von Erfolgsbeschleunigern </li><li> Gepooltes Team aus Support-Fachleuten </li></ul> |
-| **Proaktive technische und operative Unterstützung** | ![Symbol „Nicht enthalten“](assets/Cross_red_circle.svg){width="20"} Nicht enthalten | Umfasst: <ul><li>Upgrade- und Migrationsprüfungen, Vorbereitung für neue Versionen </li><li>Bewertungen von Produkt-Aktionsplänen</li><li> aufeinander abgestimmte technische und strategische Aktionspläne</li><li>Vorbereitung und Planung von wichtigen Ereignissen</li><li>Planung für relevante und rechtzeitige Aktivierung</li><li>Technische Best Practices und Branchenleitfäden</li><li>Fürsprache/Abstimmung mit Produkt-Teams</li><li>einheitlicher Plan zur Erreichung der wichtigsten Unternehmensziele – Mutual Action Plan (MAP)</li></ul> |
+| **Erfolgs-Team** | Gepooltes Team aus Support-Fachleuten | Umfasst: <ul><li> designierten Technical Account Manager </li><li> designierten Customer Success Manager </li><li> Team der Support Service Manager in einem Pool </li><li> Pool von Technikerinnen und Technikern sowie strategischen Fachleuten für die Bereitstellung von Erfolgsbeschleunigern </li><li> Gepooltes Team aus Support-Fachleuten </li></ul> |
+| **Proaktive technische und operative Unterstützung** | ![Symbol „Nicht enthalten“](assets/Cross_red_circle.svg){width="20"} Nicht enthalten | Umfasst: <ul><li>Upgrade- und Migrationsprüfungen, Vorbereitung für neue Versionen </li><li>Bewertungen von Produkt-Aktionsplänen</li><li> aufeinander abgestimmte technische und strategische Aktionspläne</li><li>Vorbereitung und Planung von wichtigen Ereignissen</li><li>Planung für relevante und rechtzeitige Aktivierung</li><li>Technische Best Practices und Branchenleitfäden</li><li>Fürsprache/Abstimmung mit Produkt-Teams</li><li>einheitlicher Plan zur Erreichung der wichtigsten Unternehmensziele – Mutual Action Plan (MAP)</li><li>KI- und Agentenbereitschaftsanleitung</li></ul> |
 | **Technischer Support** | Umfasst: <ul><li>**P1**: Support rund um die Uhr</li><li>**P2, P3, P4**: Support während der Geschäftszeiten</li><li>Standardmäßiges Ausfall-Management</li><li>Gepooltes Eskalations-Management</li></ul> | Umfasst: <ul><li>**P1**: Support rund um die Uhr</li><li>**P2/P3**: Support rund um die Uhr während der Woche</li><li>**P4**: Support während der Geschäftszeiten</li><li>Priorisiertes Ausfall-Management</li><li>Designiertes fachkundiges Eskalations-Management</li></ul> |
 | **Erfolgsbeschleuniger** | ![Symbol „Nicht enthalten“](assets/Cross_red_circle.svg){width="20"} Nicht enthalten | Erfolgsbeschleuniger, die regelmäßig vom TAM und CSM geplant werden<p>*(Weitere Informationen finden Sie im Erfolgsbeschleuniger-Katalog)* |
 | **Support-Kanäle** | Online, Telefon, Experience League, Foren | Personalisiertes Online-Portal, priorisierter Telefon-Support, Experience League, Foren |
@@ -31,11 +31,9 @@ Adobe-Erfolgspläne gehen über die reaktive Problemlösung hinaus, um Ihnen ein
 
 | Add-ons | Erfolgsplan „Expert“ | Erfolgsplan „Ultimate“ |
 |--- |--- |--- |
-| **Add-on „Ereignis-Management“**<br> Durchgängige Führung und Unterstützung, die für das Management des gesamten Lebenszyklus wichtiger Ereignisse erforderlich sind | ![Symbol „Verfügbar“](assets/Plus_blue.svg){width="20"} Verfügbar | ![Symbol „Verfügbar“](assets/Plus_blue.svg){width="20"} Verfügbar |
+| **Ereignis-Management**<br> Bietet End-to-End-Führung und Unterstützung, die für das Management des gesamten Lebenszyklus wichtiger Ereignisse erforderlich sind | ![Symbol „Nicht verfügbar“](assets/Cross_red_circle.svg){width="20"} Nicht verfügbar | ![Symbol „Nicht verfügbar“](assets/Cross_red_circle.svg){width="20"} Nicht verfügbar |
 | **Add-on „Technical Account Director“**<br> Die führende technische Ressource, die die leitende Aufsicht übernimmt, für die Interaktion mit Führungskräften verantwortlich ist und Governance sicherstellt, um Geschäftsergebnisse zu maximieren. | ![Symbol „Nicht verfügbar“](assets/Cross_red_circle.svg){width="20"} Nicht verfügbar | ![Symbol „Verfügbar“](assets/Plus_blue.svg){width="20"} Verfügbar |
 | **Add-on „Erweiterter Cloud-Support“**<br> Erstklassige Betreuung und Wertversicherung für Kundinnen und Kunden von Adobe Experience Manager as a Cloud Service | ![Symbol „Verfügbar“](assets/Plus_blue.svg){width="20"} Verfügbar | ![Symbol „Verfügbar“](assets/Plus_blue.svg){width="20"} Verfügbar |
-| **Add-on „Mentor Sessions“**<br> Bietet kompetentes Lernen mit einer Just-in-time-Schulungsmethode | ![Symbol „Nicht verfügbar“](assets/Cross_red_circle.svg){width="20"} Nicht verfügbar | ![Symbol „Verfügbar“](assets/green_checkmark.svg){width="20"} Enthalten |
-| **Add-on „Developer Boost“**<br> Ermöglicht Zugang zu technischen Expertinnen bzw. Experten im Außendienst, die bei Reparaturanfragen helfen können. | ![Symbol „Nicht verfügbar“](assets/Cross_red_circle.svg){width="20"} Nicht verfügbar | ![Symbol „Enthalten“](assets/green_checkmark.svg){width="20"} Enthalten |
 | **Add-on „Priority Queue Bundle“**<br> Bietet schnellere Reaktionszeiten, einen zentralen Kontaktpunkt für Support-Aktivitäten und Zugriff auf Erfolgsbeschleuniger. | ![Symbol „Verfügbar“](assets/Plus_blue.svg){width="20"} Verfügbar | ![Symbol „Enthalten“](assets/green_checkmark.svg){width="20"} Enthalten |
 
 {style="table-layout:fixed"}
@@ -114,14 +112,14 @@ Standard-Support für Produkte von Adobe Commerce: Managed Services, die vom Kun
 
 | Priorität | Definition | Angestrebte anfängliche Antwortzeit | Kundeninteraktion |
 |---|---|---|---|
-| P1 | **Kritische Geschäftsauswirkungen:** <br>Die Produktionsfunktionen im Unternehmen des Kunden sind ausgefallen oder weisen einen erheblichen Datenverlust oder eine Beeinträchtigung des Services auf und ein sofortiges Eingreifen ist nötig, um Funktionalität und Nutzbarkeit wiederherzustellen. | 30 Minuten | Der Kunde verpflichtet sich zur kontinuierlichen, rund um die Uhr stattfindenden Interaktion mit dem Adobe-Kunden-Support bis zur Lösung. Wenn der Adobe-Kunden-Support keine kritischen Informationen zur Verwaltung der Support-Antwort von benannten Support-Kontakten erhalten kann, kann Adobe eine P1-Service-Anfrage auf eine niedrigere Prioritätsstufe herabstufen. |
-| P2 | **Erhebliche Geschäftsauswirkungen:** <br>Die Unternehmensfunktionen des Kunden weisen eine erhebliche Beeinträchtigung des Services oder möglichen Datenverlust auf oder eine zentrale Funktion ist betroffen. | 1 Stunde während der normalen Geschäftszeiten von Adobe | Der Adobe-Support kontaktiert nur während der Geschäftszeiten von Adobe die benannten Support-Kontakte. Wenn der Adobe-Kunden-Support keine kritischen Informationen zur Verwaltung einer Support-Antwort von benannten Support-Kontakten erhalten kann, kann Adobe eine P2-Service-Anfrage auf eine niedrigere Prioritätsstufe herabstufen. |
-| P3 | **Minimale Geschäftsauswirkungen:** <br>Die Unternehmensfunktionen des Kunden weisen eine geringfügige Beeinträchtigung des Services auf, es gibt jedoch eine Lösung/Problemumgehung, mit der die Unternehmensfunktionen weiterhin normal genutzt werden können. | 2 Stunden während der normalen Geschäftszeiten von Adobe | Der Adobe-Kunden-Support kontaktiert nur während der Geschäftszeiten von Adobe die benannten Support-Kontakte. |
+| P1 | **Kritische Geschäftsauswirkungen:** <br>Die Produktionsfunktionen im Unternehmen des Kunden sind ausgefallen oder weisen einen erheblichen Datenverlust oder eine Beeinträchtigung des Service auf und ein sofortiges Eingreifen ist nötig, um Funktionalität und Nutzbarkeit wiederherzustellen. | 30 Minuten | Der Kunde verpflichtet sich zur kontinuierlichen, rund um die Uhr stattfindenden Interaktion mit dem Adobe-Kunden-Support bis zur Lösung. Wenn der Adobe-Kunden-Support keine kritischen Informationen zur Verwaltung der Support-Antwort von benannten Support-Kontakten erhalten kann, kann Adobe eine P1-Service-Anfrage auf eine niedrigere Prioritätsstufe herabstufen. |
+| P2 | **Erhebliche Geschäftsauswirkungen:** <br>Die Unternehmensfunktionen des Kunden weisen eine erhebliche Beeinträchtigung des Service oder möglichen Datenverlust auf oder eine zentrale Funktion ist betroffen. | 1 Stunde während der normalen Geschäftszeiten von Adobe | Der Adobe-Support kontaktiert nur während der Geschäftszeiten von Adobe die benannten Support-Kontakte. Wenn der Adobe-Kunden-Support keine kritischen Informationen zur Verwaltung einer Support-Antwort von benannten Support-Kontakten erhalten kann, kann Adobe eine P2-Service-Anfrage auf eine niedrigere Prioritätsstufe herabstufen. |
+| P3 | **Minimale Geschäftsauswirkungen:** <br>Die Unternehmensfunktionen des Kunden weisen eine geringfügige Beeinträchtigung des Service auf, es gibt jedoch eine Lösung/Problemumgehung, mit der die Unternehmensfunktionen weiterhin normal genutzt werden können. | 2 Stunden während der normalen Geschäftszeiten von Adobe | Der Adobe-Kunden-Support kontaktiert nur während der Geschäftszeiten von Adobe die benannten Support-Kontakte. |
 | P4 | **Keine Geschäftsauswirkungen:** <br>Allgemeine Frage zur aktuellen Produktfunktionalität oder Anfrage zu einer Erweiterung. | 1 Werktag | Der Adobe-Kunden-Support kontaktiert nur während der Geschäftszeiten von Adobe die benannten Support-Kontakte. |
 
 {style="table-layout:auto"}
 
-## Launch Advisory Services – Schrittweise proaktive Aktivitäten
+## Erfolgsbeschleuniger - Schrittweise proaktive Aktivitäten
 
 <table>
 <tbody>
