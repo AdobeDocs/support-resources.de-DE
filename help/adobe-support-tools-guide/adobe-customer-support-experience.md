@@ -1,12 +1,12 @@
 ---
 keywords: Experience Platform-Support;Plattform-Support;Intelligent Services-Support;Kunden-KI-Support;Attributions-KI-Support;RTCDP-Support;Support-Ticket einreichen;Kunden-Support
-title: Adobe Experience Cloud Customer One for Enterprise
+title: Adobe Experience Cloud Customer One für Unternehmen
 description: Adobe Customer Support Experience
 seo-description: Adobe Customer Support Experience
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 534325e6f8932b3a23a6701474f70675f8c681d6
+source-git-commit: 062166aa0fff76e070826855cba9aa57332baae8
 workflow-type: tm+mt
-source-wordcount: '1438'
+source-wordcount: '1499'
 ht-degree: 0%
 
 ---
@@ -41,7 +41,7 @@ So fügen Sie einen Administrator hinzu oder laden ihn ein:
 
    ![Administrator hinzufügen](assets/admin-console-add-admin.png)
 
-1. Klicken Sie **[!UICONTROL Weiter]**. Eine Liste mit Administratorrollen wird angezeigt.
+1. Klicken Sie auf **[!UICONTROL Weiter]**. Eine Liste mit Administratorrollen wird angezeigt.
 
 So weisen Sie einem Benutzer die Rolle Support-Administrator zu (damit ein Benutzer den Support kontaktieren kann):
 
@@ -82,9 +82,9 @@ Experience League ist ein Selfservice-Support-Portal, das berechtigten Kunden pe
 
 1. Über das **[!UICONTROL Startseite]**-Menü können Sie **[!UICONTROL Support-Ticket öffnen]**, **[!UICONTROL Ihre Fälle anzeigen und verwalten]**, **[!UICONTROL einen Callback anfordern]** oder auf zusätzliche Lernressourcen zugreifen.
 
-   Mit **[!UICONTROL Option „Callback anfordern]** können Sie Web-Meetings mit Bildschirmfreigabe planen, was eine schnellere und effizientere Problembehebung ermöglicht. Es ist für Adobe Experience Manager, Admin Console, Analytics, Audience Manager, Campaign, Marketo, Target und Workfront verfügbar. Meetings können nach Wunsch des Kunden geplant werden und sofortige Einladungen werden bereitgestellt. Bei Adobe Experience Manager P1-Fällen werden sofortige Callbacks sichergestellt, um bei kritischen Problemen ein schnelles Eingreifen zu ermöglichen und Ausfallzeiten und geschäftliche Auswirkungen zu minimieren.
+Mit der Option **[!UICONTROL Callback anfordern]** können Sie Web-Meetings mit Bildschirmfreigabe für P2- und P3-Fälle planen, was eine schnellere und effizientere Problembehebung ermöglicht. Sie ist für Adobe Experience Manager, Admin Console, Analytics, Audience Manager, Campaign, Commerce, GenStudio, Marketo, Target und Workfront verfügbar. Meetings können nach Wunsch des Kunden geplant werden. Es bietet auch sofortige Telefonrückrufe für P1-Fälle in allen oben genannten Produkten, mit Ausnahme von Adobe Commerce.
 
-   ![Experience League-Startmenü](./assets/home-menu.png)
+![Experience League-Startmenü](./assets/home-menu.png)
 
 1. Um einen Fall einzureichen, wählen Sie **[!UICONTROL Support-Ticket öffnen]** aus. Sie können auch das **[!UICONTROL Ticket öffnen]** im Seitenleistenmenü auswählen.
 
