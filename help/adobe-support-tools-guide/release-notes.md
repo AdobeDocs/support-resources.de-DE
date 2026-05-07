@@ -3,9 +3,9 @@ title: Experience League Support - Versionshinweise
 description: Die neuesten Versionsinformationen zur Experience League-Unterstützung.
 feature: Release Notes
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
-source-git-commit: 26a20998811059cf66d8609c0ae7ac2816df3337
+source-git-commit: eb474379539945e0bbfca35e9f83f1ece61a16b6
 workflow-type: tm+mt
-source-wordcount: '917'
+source-wordcount: '973'
 ht-degree: 1%
 
 ---
@@ -18,6 +18,9 @@ Diese Versionshinweise enthalten Aktualisierungen zur Experience League-Unterst�
 ![Fehlerbehebung](../adobe-support-tools-guide/assets/fix.svg) Fehlerbehebungen und Verbesserungen
 ![Bug](../adobe-support-tools-guide/assets/bug.svg) Bekannte Probleme
 
+## &#x200B;7. Mai 2026 - Erweiterung der Funktion „Request for Callback“
+
+Die Funktion „Rückruf anfordern“ ist jetzt sowohl für Adobe Commerce als auch für Adobe GenStudio verfügbar. Adobe Commerce-Kunden können einen Callback bequem zu einem Zeitpunkt planen, der für sie am besten geeignet ist, während Adobe GenStudio-Kunden die Möglichkeit haben, entweder einen sofortigen oder einen geplanten Callback anzufordern.
 
 ## &#x200B;27. April 2026 - Verbesserungen bei Eskalationsmanagement und System Insights für Adobe Commerce
 
