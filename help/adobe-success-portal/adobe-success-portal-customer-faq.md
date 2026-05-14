@@ -3,9 +3,14 @@ title: '[!DNL Adobe Success]-Portal: Kunden und Kundinnen – häufig gestellte
 description: Dieser Artikel beantwortet häufig gestellte Fragen zum [!DNL Adobe Success] -Portal.
 exl-id: fff82b90-4077-4669-8cd5-5105cd0c7307
 TQID: https://experienceleague.adobe.com/sIIr9uo3-K1N44AG-k0uhHcfwb9J93r0RbzVz0NRMhk
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
 source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
 source-wordcount: 661
@@ -16,6 +21,7 @@ ht-degree: 93%
 # [!DNL Adobe Success]-Portal: Kunden und Kundinnen – häufig gestellte Fragen
 
  
+
 ## Welchen Umfang hat das [!DNL Adobe Success]-Portal?
 
 Das [!DNL Adobe Success]-Portal ist die neue zentralisierte, kundenorientierte Plattform von Adobe, die dazu dient, das Post-Sales-Erlebnis in Bezug auf Support, Erfolg und Interaktion zu vereinheitlichen. Die Alpha-Version konzentriert sich auf die Bereitstellung eines kohärenten Erlebnisses, das Tools und Workflows konsolidiert, die zuvor auf mehrere Plattformen verteilt waren (z. B. Support-Portal, manuelle Ultimate Success-Artefakte). Ziel ist es, die Interaktion von Kunden und Kundinnen mit Adobe während ihres gesamten Lebenszyklus zu optimieren – vom Onboarding bis zur Verlängerung – und gleichzeitig Transparenz, Self-Service und Wertschöpfung zu verbessern.
