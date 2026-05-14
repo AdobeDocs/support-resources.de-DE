@@ -4,9 +4,16 @@ description: Die folgenden häufig gestellten Fragen sollen Händlern, Entwickle
 feature: Best Practices, Compliance, Console
 solution: Commerce
 feature-set: Commerce
-source-git-commit: 267c52f4c769bed8910ace25c604c2d6c84b6302
+exl-id: d86356e7-863f-4da0-bd7e-5ea4ac38e3a3
+TQID: https://experienceleague.adobe.com/wq3cHAM0iXukRpSigq8-erSJ9wZBHfDRFaNefMFZsIE
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: b5f00040-57a0-4a6d-a39e-383b1936c2c9id: ba9e5be9-7de1-4f71-a5d2-baead0e425eeid: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+subfeature_v2: id: f2261633-201d-46c5-8a66-999e70527a83
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '1733'
+source-wordcount: 1808
 ht-degree: 0%
 
 ---
@@ -19,7 +26,7 @@ Die folgenden häufig gestellten Fragen sollen Händlern, Entwicklern und Partne
 
 ### Wo finde ich die Softwaresupportdaten für alle Versionen von Adobe Commerce?
 
-Die Adobe Commerce-Software-Lebenszyklusrichtlinie und die Daten für den Software-Support finden Sie in der [Adobe Commerce-Software-Lebenszyklusrichtlinie](https://www.adobe.com/content/dam/cc/en/legal/terms/enterprise/pdfs/Adobe-Commerce-Software-Lifecycle-Policy.pdf). Wir veröffentlichen auch Daten zum Ende der Unterstützung (End of Support, EOS) auf unserer [Entwicklerdokumentationsseite](https://experienceleague.adobe.com/de/docs/commerce-operations/release/versions).
+Die Adobe Commerce-Software-Lebenszyklusrichtlinie und die Daten für den Software-Support finden Sie in der [Adobe Commerce-Software-Lebenszyklusrichtlinie](https://www.adobe.com/content/dam/cc/en/legal/terms/enterprise/pdfs/Adobe-Commerce-Software-Lifecycle-Policy.pdf). Wir veröffentlichen auch Daten zum Ende der Unterstützung (End of Support, EOS) auf unserer [Entwicklerdokumentationsseite](https://experienceleague.adobe.com/en/docs/commerce-operations/release/versions).
 
 ### Was bedeutet es, wenn Adobe den Support für eine Version der Adobe Commerce-Software beendet?
 
@@ -69,9 +76,9 @@ Es gibt mehrere Möglichkeiten, wie Sie erheblich davon profitieren, Ihre Adobe 
 
 Ihre Commerce-Plattform ist ein wichtiges Geschäftssystem für Ihr Unternehmen. Die kontinuierliche Investition in Ihr Unternehmen ist von entscheidender Bedeutung, wenn Sie auf dem neuesten Stand und aktuell bleiben. Die neuesten Technologie- und Sicherheitsaktualisierungen für Ihre digitale Storefront sind auf vielen Ebenen wichtig und können Innovationen und Wachstum fördern.
 
-Die Umstellung auf die neueste Version der Adobe Commerce-Software kann Zeit und Ressourcen in Anspruch nehmen, um gut ausgeführt zu werden. Es empfiehlt sich, so weit wie möglich vor dem Ende des Support-Zeitraums zu planen, um sicherzustellen, dass Sie über ausreichend Zeit und Ressourcen verfügen, um Ihre strategischen Ziele planmäßig und innerhalb des Budgets zu erreichen. Um Sie bei Ihrem nächsten Upgrade zu unterstützen, hat Adobe das Upgrade-Handbuch [2.4 veröffentlicht](https://experienceleague.adobe.com/docs/commerce-operations/assets/adobe-commerce-2-4-upgrade-guide.pdf?lang=de) das die Best Practices und technischen Schritte sowie die Tools und Ressourcen enthält, die bei der Durchführung des Upgrades verwendet werden müssen.
+Die Umstellung auf die neueste Version der Adobe Commerce-Software kann Zeit und Ressourcen in Anspruch nehmen, um gut ausgeführt zu werden. Es empfiehlt sich, so weit wie möglich vor dem Ende des Support-Zeitraums zu planen, um sicherzustellen, dass Sie über ausreichend Zeit und Ressourcen verfügen, um Ihre strategischen Ziele planmäßig und innerhalb des Budgets zu erreichen. Um Sie bei Ihrem nächsten Upgrade zu unterstützen, hat Adobe das Upgrade-Handbuch [2.4 veröffentlicht](https://experienceleague.adobe.com/docs/commerce-operations/assets/adobe-commerce-2-4-upgrade-guide.pdf) das die Best Practices und technischen Schritte sowie die Tools und Ressourcen enthält, die bei der Durchführung des Upgrades verwendet werden müssen.
 
-Ein weiterer wichtiger Gesichtspunkt ist, Entwickler- und Partnerressourcen so früh wie möglich zu reservieren. Die Zeit und die Ressourcen der Partner werden häufig deutlich vor dem Ende des Support-Datums gebucht, was zu einer deutlich geringeren Ressourcenausstattung für die Unterstützung von Migrationsprojekten führt. Es wird empfohlen, einen rollierenden Dreijahresplan zu verwenden, den Sie mindestens einmal jährlich besprechen und sicherstellen, dass das nächste Jahr geplant und budgetiert wird. Verwenden Sie den Veröffentlichungskalender von [Adobe](https://experienceleague.adobe.com/de/docs/commerce-operations/release/planning/schedule) um die Veröffentlichungstermine zu verfolgen.
+Ein weiterer wichtiger Gesichtspunkt ist, Entwickler- und Partnerressourcen so früh wie möglich zu reservieren. Die Zeit und die Ressourcen der Partner werden häufig deutlich vor dem Ende des Support-Datums gebucht, was zu einer deutlich geringeren Ressourcenausstattung für die Unterstützung von Migrationsprojekten führt. Es wird empfohlen, einen rollierenden Dreijahresplan zu verwenden, den Sie mindestens einmal jährlich besprechen und sicherstellen, dass das nächste Jahr geplant und budgetiert wird. Verwenden Sie den Veröffentlichungskalender von [Adobe](https://experienceleague.adobe.com/en/docs/commerce-operations/release/planning/schedule) um die Veröffentlichungstermine zu verfolgen.
 
 ### Kann ich einen externen Dienstleister für den Software-Support verwenden, wenn der Adobe Commerce-Support eingestellt wird?
 
@@ -95,7 +102,7 @@ Nach Ablauf Ihrer Adobe Commerce-Lizenz müssen Sie die Verwendung der Adobe Com
 
 ### Werden Support-Tickets, die vor dem Ende des Support-Datums einer Softwareversion geöffnet wurden, auch nach Ablauf des Support-Datums weiterhin bearbeitet, um eine Lösung zu finden?
 
-Ja, Support-Tickets, die vor dem Ende des Support-Datums einer Softwareversion geöffnet wurden, werden weiterhin bearbeitet und aufgelöst, selbst wenn das Ende des Support-Datums für diese Softwareversion verstrichen ist. Die Lösung von Support-Tickets kann jedoch davon abhängen, ob die Auflösung von Komponenten abhängt, die außerhalb der Kontrolle von Adobe Commerce liegen (z. B. PHP, jQuery usw.) und deren Support abgelaufen ist oder das Ende der Unterstützung erreicht hat. In diesen Fällen kann das Support-Ticket aufgelöst werden, indem Sie angewiesen werden, auf die neueste Version zu aktualisieren.
+Ja, Support-Tickets, die vor dem Ende des Support-Datums einer Softwareversion geöffnet wurden, werden weiterhin bearbeitet und aufgelöst, selbst wenn das Ende des Support-Datums für diese Softwareversion verstrichen ist. Die Lösung von Support-Tickets kann jedoch davon abhängen, ob die Auflösung von Komponenten abhängt, die außerhalb der Kontrolle von Adobe Commerce liegen (z. B. PHP, jQuery usw.) die abgelaufen sind oder das Ende der Unterstützung erreicht haben. In diesen Fällen kann das Support-Ticket aufgelöst werden, indem Sie angewiesen werden, auf die neueste Version zu aktualisieren.
 
 ### Wenn ich ein Ticket für eine Softwareversion öffne, bei der der Software-Support bald abläuft, hat Adobe dann eine Priorität für diese Tickets, damit sie vor dem Ende des Support-Datums gelöst werden?
 

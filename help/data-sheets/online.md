@@ -2,10 +2,13 @@
 title: Online Support
 description: Adobe Experience Cloud Online Support Services bieten eingeschränkten Zugriff auf telefonischen Support.
 exl-id: ea7eb128-9d7a-486f-9ce2-7d1330749c9a
-source-git-commit: 2e5fce70cdce85bfa694152919b333b0e60c519b
+TQID: https://experienceleague.adobe.com/eaI-iDJEaAM5WNfN8wH7mZ4NHcQD99neOiONYevP79I
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+topic_v2: id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: c1579802-ddd4-4214-8a91-97b2066abe11
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: 791
+ht-degree: 100%
 
 ---
 
@@ -120,7 +123,7 @@ Adobe Experience Cloud Online Support Services bieten eingeschränkten Zugriff a
     <td>✔</td>
   </tr>
   <tr>
-    <td>Umgebungsbewertung, -wartung und -überwachung</td>
+    <td>Umgebungsbewertung, -wartung und -Monitoring</td>
     <td></td>
     <td></td>
     <td></td>
@@ -165,7 +168,7 @@ Adobe Experience Cloud Online Support Services bieten eingeschränkten Zugriff a
 | <b>PRIORITÄT 1</b><br>Die Produktionsfunktionen im Unternehmen des Kunden sind ausgefallen oder weisen einen erheblichen Datenverlust oder eine Beeinträchtigung des Service auf und ein sofortiges Eingreifen ist nötig, um Funktionalität und Nutzbarkeit wiederherzustellen. | 24x7/<br>1 Stunde | 24x7/<br>1 Stunde | 24x7/<br>30 Minuten | 24x7/<br>15 Minuten |
 | <b>PRIORITÄT 2</b><br>Die Unternehmensfunktionen des Kunden weisen eine erhebliche Beeinträchtigung des Service oder möglichen Datenverlust auf oder eine zentrale Funktion ist betroffen. | Geschäftszeiten/<br>4 Stunden | Geschäftszeiten/<br>2 Stunden | 24x5/<br>1 Stunde | 24x5/<br>30 Minuten |
 | <b>PRIORITÄT 3</b><br>Die Unternehmensfunktionen des Kunden weisen eine geringfügige Beeinträchtigung des Service auf, es gibt jedoch eine Lösung/Problemumgehung, mit der die Unternehmensfunktionen weiterhin normal genutzt werden können. | Geschäftszeiten/<br>6 Stunden | Geschäftszeiten/<br>4 Stunden | Geschäftszeiten/<br>2 Stunden | 24x5/<br>1 Stunde |
-| <b>PRIORITÄT 4</b><br>Allgemeine Frage zur aktuellen Produktfunktionalität oder Anfrage zu einer Erweiterung. | Geschäftstage/<br>3 Tage | Geschäftstag/<br>1 Tag | Geschäftstag/<br>1 Tag | Geschäftstag/<br>1 Tag |
+| <b>PRIORITÄT 4</b><br>Allgemeine Frage zur aktuellen Produktfunktionalität oder Anfrage zu einer Erweiterung. | Geschäftstage/<br>3 Tage | Werktag/<br>1 Tag | Geschäftstag/<br>1 Tag | Geschäftstag/<br>1 Tag |
 
 {style="table-layout:auto"}
 
@@ -235,9 +238,9 @@ Der Adobe-Support bietet Zugriff auf Online-Ressourcen für Dokumentation, Inter
 
 | Ressource | Beschreibung |
 |--- |--- |
-| [Experience League](https://experienceleague.adobe.com/de?lang=de) | Mit der Experience League unterstützt Adobe Unternehmen dabei, mit ihren Investitionen in Adobe optimale Ergebnisse zu erzielen. An diesem zentralen Ort können Kunden auf einem personalisierten Weg zum Erfolg lernen, Kontakte knüpfen und sich weiterentwickeln. Dafür nutzen sie Selbsthilfe-Tutorials, Produktdokumentation, von Kursleitern geführte Schulungen, Community und technischen Support. |
+| [Experience League](https://experienceleague.adobe.com/?lang=de) | Mit der Experience League unterstützt Adobe Unternehmen dabei, mit ihren Investitionen in Adobe optimale Ergebnisse zu erzielen. An diesem zentralen Ort können Kunden auf einem personalisierten Weg zum Erfolg lernen, Kontakte knüpfen und sich weiterentwickeln. Dafür nutzen sie Selbsthilfe-Tutorials, Produktdokumentation, von Kursleitern geführte Schulungen, Community und technischen Support. |
 | [Training](https://training.adobe.com/training/) | Adobe Digital Learning Services-Kurse sind über die Experience League verfügbar. Das Angebot umfasst sowohl On-Demand- als auch von Kursleiter geführte Schulungen. Hier können Sie Kompetenzen erwerben, die auf dem Markt anerkannt sind und den Erfolg im Unternehmen vorantreiben. |
-| [Produktionsprobleme und Systemausfälle](https://status.adobe.com/de-de/) | Status.adobe.com übermittelt die Statusinformationen sämtlicher Adobe-Produkte und -Services, die in Umgebungen mit mehreren Mandanten bereitgestellt sind. Kunden können Voreinstellungen für ihr Abonnement auswählen und E-Mail-Benachrichtigungen erhalten, wenn Adobe ein Produktereignis erstellt, aktualisiert oder löst. Dies kann geplante Wartungen oder Service-Probleme unterschiedlichen Schweregrads umfassen. |
+| [Produktionsprobleme und Systemausfälle](https://status.adobe.com/de) | Status.adobe.com übermittelt die Statusinformationen sämtlicher Adobe-Produkte und -Services, die in Umgebungen mit mehreren Mandanten bereitgestellt sind. Kunden können Voreinstellungen für ihr Abonnement auswählen und E-Mail-Benachrichtigungen erhalten, wenn Adobe ein Produktereignis erstellt, aktualisiert oder löst. Dies kann geplante Wartungen oder Service-Probleme unterschiedlichen Schweregrads umfassen. |
 | [Geschäftsbedingungen](https://helpx.adobe.com/de/support/programs/support-policies-terms-conditions.html) | Allgemeine Geschäftsbedingungen mit detaillierten Informationen zu den angebotenen Support-Services. |
 
 ## Regionales Support-Angebot von Adobe, örtliche Geschäftszeiten und unterstützte Sprachen

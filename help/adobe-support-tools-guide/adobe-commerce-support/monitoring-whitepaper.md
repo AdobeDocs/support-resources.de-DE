@@ -1,13 +1,17 @@
 ---
 title: Factsheet zur Überwachung für [!DNL Adobe Commerce on cloud pro infrastructure]
 description: Dieses Dokument enthält Informationen zur Überwachung der Adobe Commerce-Infrastruktur und zu Benachrichtigungen.
-source-git-commit: a04a7a5669938aeea7e994df5f5700c084650851
+exl-id: 0dd3239f-de10-48df-b3f4-ac2b8cbc6c72
+TQID: https://experienceleague.adobe.com/H7CvXHTRGGHEh079EB2rOZV2yc7BoFMQgdq5-yLkjF4
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '458'
-ht-degree: 1%
+source-wordcount: 511
+ht-degree: 0%
 
 ---
-
 
 # Factsheet zur Überwachung für [!DNL Adobe Commerce on cloud pro infrastructure]
 
@@ -30,11 +34,11 @@ Die folgenden Ereignisse werden überwacht und das Adobe Commerce-Team unternimm
 | Site-Verfügbarkeit | Beschreibung |
 |------------|------------|
 | **Überwachungsziel** | Zur Nachverfolgung der Site-Verfügbarkeit. |
-| **Instrumentiert am** | Für hohe [!DNL URL] [!DNL SLA] ausgewählt. |
+| **Instrumentiert am** | Für hohe [!DNL SLA] [!DNL URL] ausgewählt. |
 | **Beschreibung** | Die Verfügbarkeit der Site wird anhand der Schwellenwerte bestimmt, die für die -Metrik konfiguriert wurden. Eine Benachrichtigung über einen Site-Ausfall wird ausgelöst, wenn die Prüfung 10 Minuten lang fehlschlägt und keine aktive Bereitstellung in Bearbeitung ist. |
 | **Benachrichtigungsempfänger** | Händler/Partner und Adobe. |
 | **Aktion von Adobe** | Verantwortlich für die Klassifizierung und Behebung, wenn das Problem die Adobe Commerce-Infrastruktur betrifft. |
-| **Aktion des Händlers** | Verantwortlich für die Behebung des Problems, wenn es durch Änderungen oder benutzerdefinierten Code verursacht wird, der von Händler/Partner eingeführt wurde. Informationen zur Fehlerbehebung finden Sie unter: [Site-Down-](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/site-down-or-unresponsive/magento-site-down-troubleshooter.html?lang=de). |
+| **Aktion des Händlers** | Verantwortlich für die Behebung des Problems, wenn es durch Änderungen oder benutzerdefinierten Code verursacht wird, der von Händler/Partner eingeführt wurde. Informationen zur Fehlerbehebung finden Sie unter: [Site-Down-](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/site-down-or-unresponsive/magento-site-down-troubleshooter.html). |
 
 ## Überwachung des Festplattenspeichers
 
@@ -46,4 +50,4 @@ Die folgenden Ereignisse werden überwacht und das Adobe Commerce-Team unternimm
 | **Beschreibung** | Die Benachrichtigung wird basierend auf den Schwellenwerten gesendet, die für den freien Speicherplatz des Hosts konfiguriert wurden. Zusätzliche Speicherkapazität wird automatisch einmal zur entsprechenden Bereitstellung ([!DNL MySQL] oder Medien) hinzugefügt, um einen Standortausfall zu verhindern und dem Händler Zeit zu geben, Speicherplatz freizugeben und/oder Code oder Protokolle zu identifizieren und aufzulösen, die zu einer raschen Zunahme der Festplattenauslastung führen. |
 | **Benachrichtigungsempfänger** | Händler/Partner und Adobe. |
 | **Aktion von Adobe** | Das Support-Ticket automatisch anheben, und der entsprechenden Halterung ([!DNL MySQL] oder Medium) wird automatisch zusätzlicher Speicherplatz hinzugefügt, um einen Ausfall der Site zu verhindern. |
-| **Aktion des Händlers** | Informationen zum Empfang von Warnmeldungen bezüglich des aktuellen Festplattenspeicherplatzes finden Sie unter: <ul><li>[[!DNL Managed alerts for Adobe Commerce]: Warnhinweis bezüglich Festplatte](https://experienceleague.adobe.com/de/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-for-magento-commerce-disk-warning-alert)</li><li>[[!DNL Managed alerts for Adobe Commerce]: Kritischer Warnhinweis auf Festplatte](https://experienceleague.adobe.com/de/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-for-magento-commerce-disk-critical-alert) </li></ul> |
+| **Aktion des Händlers** | Informationen zum Empfang von Warnmeldungen bezüglich des aktuellen Festplattenspeicherplatzes finden Sie unter: <ul><li>[[!DNL Managed alerts for Adobe Commerce]: Warnhinweis bezüglich Festplatte](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-for-magento-commerce-disk-warning-alert)</li><li>[[!DNL Managed alerts for Adobe Commerce]: Kritischer Warnhinweis auf Festplatte](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-for-magento-commerce-disk-critical-alert) </li></ul> |

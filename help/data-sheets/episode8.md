@@ -2,13 +2,15 @@
 title: Adobe Crux Podcasts
 description: Folge 8 der CRUX Podcast-Serie
 exl-id: 5929b12e-00fd-41b8-b042-4bde9f868037
-source-git-commit: 06aa435f34911cc5adf7cf40c8c8e15693178bda
-workflow-type: ht
-source-wordcount: '15'
+TQID: https://experienceleague.adobe.com/mcJyAflrK1kupcigPd1fgikRQEz2S1w-vHkpL78PDiQ
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+workflow-type: tm+mt
+source-wordcount: 16
 ht-degree: 100%
 
 ---
 
 # Der Ultimate Success-Podcast – Folge 8
 
->[!VIDEO](https://video.tv.adobe.com/v/3453794?quality=12learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3429404?quality=12learn=on)

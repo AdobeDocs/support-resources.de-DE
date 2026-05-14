@@ -2,10 +2,13 @@
 title: Business Support für Creative Cloud und Adobe Document Cloud
 description: Adobe bietet eine umfassende Palette technischer Ressourcen, die Sie im Rahmen Ihres Adobe Enterprise-Abonnements zur Unterstützung Ihres Unternehmens nutzen können. Diese Unterstützung wird durch den BUSINESS-Support-Plan optimiert. BUSINESS Support beinhaltet die vorrangige Weiterleitung von Fällen, um schneller Kontakt zu erfahreneren Support-Ressourcen herzustellen.
 exl-id: d2042be3-46af-4863-8f37-491a61ae3b0b
-source-git-commit: 3b6cd95d8ec96fd28c62fd4aa40b45e3214af471
+TQID: https://experienceleague.adobe.com/jYFjKBCdJyMEpfRufkgr6mYLpQLxjvIEh3cOFXEEWhs
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+topic_v2: id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: 835
+ht-degree: 100%
 
 ---
 
@@ -15,7 +18,7 @@ ht-degree: 0%
 
 Adobe bietet eine umfassende Palette technischer Ressourcen, die Sie im Rahmen Ihres Adobe Enterprise-Abonnements zur Unterstützung Ihres Unternehmens nutzen können. Diese Unterstützung wird durch den BUSINESS-Support-Plan optimiert. BUSINESS Support beinhaltet die vorrangige Weiterleitung von Fällen, um schneller Kontakt zu erfahreneren Support-Ressourcen herzustellen.
 
-BUSINESS-Kunden profitieren außerdem von der Möglichkeit, unsere technischen Supportteams über das Telefon oder das Support-Web-Portal wegen beliebiger Produktanfragen zu kontaktieren, sodass ihr Unternehmen in kritischen Situationen optimal unterstützt werden kann. BUSINESS-Kunden steht ein Account Support Lead zum Eskalations-Management von Support-Fällen zur Seite. Sie erhalten außerdem regelmäßige Mitteilungen und Aktualisierungen für kritische Support-Anfragen.
+BUSINESS-Kunden profitieren außerdem von der Möglichkeit, unsere technischen Supportteams über das Telefon oder das Support-Web-Portal wegen beliebiger Produktabfragen zu kontaktieren, sodass ihr Unternehmen in kritischen Situationen optimal unterstützt werden kann. BUSINESS-Kunden steht ein Account Support Lead zum Eskalations-Management von Support-Fällen zur Seite. Sie erhalten außerdem regelmäßige Mitteilungen und Aktualisierungen für kritische Support-Anfragen.
 
 [PDF-Version anzeigen](assets/DMeBusinessSupportDatasheet_2022.pdf)
 
@@ -83,7 +86,7 @@ BUSINESS-Kunden profitieren außerdem von der Möglichkeit, unsere technischen S
     <td></td>
     <td>✔</td>
   </tr>
-    <td>Proaktive Fallüberwachung</td>
+    <td>Proaktives Fall-Monitoring</td>
     <td></td>
     <td></td>
   </tr>
@@ -141,7 +144,7 @@ BUSINESS-Kunden profitieren außerdem von der Möglichkeit, unsere technischen S
 <thead>
   <tr>
     <th>Priorität</th>
-    <th>Standard-Support</th>
+    <th>Standard Support</th>
     <th>Business Support</th>
     <th>Enterprise Support</th>
     <th>Elite Support</th>
@@ -259,7 +262,7 @@ BUSINESS-Kunden profitieren außerdem von der Möglichkeit, unsere technischen S
 |--- |--- |
 | [Enterprise: Lernen und Support](https://helpx.adobe.com/de/enterprise.html) | Im Enterprise-Abschnitt „Lernen und Support“ finden Adobe-Kunden Selbsthilfe-Tutorials, die Produktdokumentation, von Schulungsleitern geführte Schulungen, eine Community-Seite sowie Support für ausgewählte Adobe Creative Cloud- und Document-Produkte. |
 | [Adobe Support Community](https://community.adobe.com/?profile.language=de) | In der Adobe Support Community können Sie Fragen stellen, Antworten finden, von Experten lernen und Ihr Wissen austauschen. |
-| [Produktionsprobleme und Systemausfälle](https://status.adobe.com/de-de/) | Status.adobe.com übermittelt die Statusinformationen sämtlicher Adobe-Produkte und -Services, die in Umgebungen mit mehreren Mandanten bereitgestellt sind. Kunden können Voreinstellungen für ihr Abonnement auswählen und E-Mail-Benachrichtigungen erhalten, wenn Adobe ein Produktereignis erstellt, aktualisiert oder löst. Dies kann geplante Wartungen oder Service-Probleme unterschiedlichen Schweregrads umfassen. |
+| [Produktionsprobleme und Systemausfälle](https://status.adobe.com/de) | Status.adobe.com übermittelt die Statusinformationen sämtlicher Adobe-Produkte und -Services, die in Umgebungen mit mehreren Mandanten bereitgestellt sind. Kunden können Voreinstellungen für ihr Abonnement auswählen und E-Mail-Benachrichtigungen erhalten, wenn Adobe ein Produktereignis erstellt, aktualisiert oder löst. Dies kann geplante Wartungen oder Service-Probleme unterschiedlichen Schweregrads umfassen. |
 | [Geschäftsbedingungen](https://helpx.adobe.com/de/support/programs/support-policies-terms-conditions.html) | Allgemeine Geschäftsbedingungen mit detaillierten Informationen zu den angebotenen Support-Services. |
 
 {style="table-layout:auto"}
