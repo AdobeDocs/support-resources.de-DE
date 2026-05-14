@@ -2,9 +2,22 @@
 title: Elite Support
 description: Adobe Experience Cloud Elite Support Services bieten erstklassige Service Level Targets (SLTs), proaktive Unterstützung und Partnerschaft mit einem Technical Account Manager und einem spezifischen Support-Mitarbeiter.
 exl-id: 46a0f6bb-dccb-4554-a811-de1384db2747
-source-git-commit: eab88ea8d66a5ae104369655137c389822671e0f
+TQID: https://experienceleague.adobe.com/iF7FcpFJB-kViSwkHmyGYF9fnUKAOdV0s6BcnLpvXWQ
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2:
+  - id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+  - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '1386'
+source-wordcount: 1406
 ht-degree: 100%
 
 ---
@@ -94,7 +107,7 @@ Adobe Experience Cloud Elite Support Services bieten erstklassige Service Level 
     <td>✔</td>
   </tr>
   <tr>
-    <td>Umgebungsbewertung, -wartung und -überwachung</td>
+    <td>Umgebungsbewertung, -wartung und -Monitoring</td>
     <td></td>
     <td>✔</td>
   </tr>
@@ -129,7 +142,7 @@ Adobe Experience Cloud Elite Support Services bieten erstklassige Service Level 
 | <b>PRIORITÄT 1</b><br>Die Produktionsfunktionen im Unternehmen des Kunden sind ausgefallen oder weisen einen erheblichen Datenverlust oder eine Beeinträchtigung des Service auf und ein sofortiges Eingreifen ist nötig, um Funktionalität und Nutzbarkeit wiederherzustellen. | 24x7/<br>1 Stunde | 24x7/<br>15 Minuten |
 | <b>PRIORITÄT 2</b><br>Die Unternehmensfunktionen des Kunden weisen eine erhebliche Beeinträchtigung des Service oder möglichen Datenverlust auf oder eine zentrale Funktion ist betroffen. | Geschäftszeiten/<br>4 Stunden | 24x5/<br>30 Minuten |
 | <b>PRIORITÄT 3</b><br>Die Unternehmensfunktionen des Kunden weisen eine geringfügige oder gar keine Beeinträchtigung des Service auf, es gibt jedoch eine Lösung/Problemumgehung, mit der die Unternehmensfunktionen weiterhin normal genutzt werden können. | Geschäftszeiten/<br>6 Stunden | 24x5/<br>1 Stunde |
-| <b>PRIORITÄT 4</b><br>Allgemeine Frage zur aktuellen Produktfunktionalität oder Anfrage zu einer Erweiterung. | Geschäftstage/<br>3 Tage | Geschäftstag/<br>1 Tag |
+| <b>PRIORITÄT 4</b><br>Allgemeine Frage zur aktuellen Produktfunktionalität oder Anfrage zu einer Erweiterung. | Geschäftstage/<br>3 Tage | Werktag/<br>1 Tag |
 
 {style="table-layout:auto"}
 
@@ -198,9 +211,9 @@ Adobe Experience Cloud Elite Support Services bieten erstklassige Service Level 
     </div>
   </td>
   <td>
-    <img alt="Wartung und Überwachung" src="assets/MaintenanceMonitoring.png"/>
+    <img alt="Wartung und Monitoring" src="assets/MaintenanceMonitoring.png"/>
     <div>
-    <p><b>Wartung und Überwachung</b></p>
+    <p><b>Wartung und Monitoring</b></p>
     <p>Sie erhalten Best Practices für die Wartung und aktuelle Fehlerbehebungen (SPs, MR, Patches, FPs), damit Sie bei allen Wartungsprüfungen auf dem neuesten Stand sind.</p>
     </div>
   </td>
@@ -339,7 +352,7 @@ Launch Advisory orientiert sich anhand gängiger Milestones (Kickoff, Definition
 
 ## Außendienstaktivitäten
 
-Der Außendienst sorgt für **schnelle Problemlösung**, fokussierten Kundenerfolg und beschleunigte **Time-to-Value**. Wenn Launch Advisory aktiv ist, gibt es **im ersten Jahr keinen Außendienst** für Lösungsprodukte, die unter einen Adobe Support-Vertrag fallen.
+Der Außendienst sorgt für **schnelle Problemlösung**, fokussierten Customer Success und beschleunigte **Time-to-Value**. Wenn Launch Advisory aktiv ist, gibt es **im ersten Jahr keinen Außendienst** für Lösungsprodukte, die unter einen Adobe Support-Vertrag fallen.
 
 Als Elite-Kunde können Sie **vier Aktivitäten pro Jahr** aus dem **technischen Track** und/oder dem **strategischen Track** nutzen.
 
@@ -369,7 +382,7 @@ Verfügbare strategische Aktivitäten:
 |--- |--- |
 | [Experience League](https://experienceleague.adobe.com/de?lang=de) | Mit der Experience League unterstützt Adobe Unternehmen dabei, mit ihren Investitionen in Adobe optimale Ergebnisse zu erzielen. An diesem zentralen Ort können Kunden auf einem personalisierten Weg zum Erfolg lernen, Kontakte knüpfen und sich weiterentwickeln. Dafür nutzen sie Selbsthilfe-Tutorials, Produktdokumentation, von Kursleitern geführte Schulungen, Community und technischen Support. |
 | [Training](https://training.adobe.com/training/) | Adobe Digital Learning Services-Kurse sind über die Experience League verfügbar. Das Angebot umfasst sowohl On-Demand- als auch von Kursleiter geführte Schulungen. Hier können Sie Kompetenzen erwerben, die auf dem Markt anerkannt sind und den Erfolg im Unternehmen vorantreiben. |
-| [Produktionsprobleme und Systemausfälle](https://status.adobe.com/de-de/) | Status.adobe.com übermittelt die Statusinformationen sämtlicher Adobe-Produkte und -Services, die in Umgebungen mit mehreren Mandanten bereitgestellt sind. Kunden können Voreinstellungen für ihr Abonnement auswählen und E-Mail-Benachrichtigungen erhalten, wenn Adobe ein Produktereignis erstellt, aktualisiert oder löst. Dies kann geplante Wartungen oder Service-Probleme unterschiedlichen Schweregrads umfassen. |
+| [Produktionsprobleme und Systemausfälle](https://status.adobe.com/de) | Status.adobe.com übermittelt die Statusinformationen sämtlicher Adobe-Produkte und -Services, die in Umgebungen mit mehreren Mandanten bereitgestellt sind. Kunden können Voreinstellungen für ihr Abonnement auswählen und E-Mail-Benachrichtigungen erhalten, wenn Adobe ein Produktereignis erstellt, aktualisiert oder löst. Dies kann geplante Wartungen oder Service-Probleme unterschiedlichen Schweregrads umfassen. |
 | [Geschäftsbedingungen](https://helpx.adobe.com/de/support/programs/support-policies-terms-conditions.html) | Allgemeine Geschäftsbedingungen mit detaillierten Informationen zu den angebotenen Support-Services. |
 
 ## Regionales Support-Angebot von Adobe, örtliche Geschäftszeiten und unterstützte Sprachen

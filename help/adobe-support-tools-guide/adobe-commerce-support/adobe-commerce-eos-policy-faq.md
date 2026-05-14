@@ -4,9 +4,24 @@ description: Die folgenden häufig gestellten Fragen sollen Händlern, Entwickle
 feature: Best Practices, Compliance, Console
 solution: Commerce
 feature-set: Commerce
-source-git-commit: 267c52f4c769bed8910ace25c604c2d6c84b6302
+exl-id: d86356e7-863f-4da0-bd7e-5ea4ac38e3a3
+TQID: https://experienceleague.adobe.com/wq3cHAM0iXukRpSigq8-erSJ9wZBHfDRFaNefMFZsIE
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: b5f00040-57a0-4a6d-a39e-383b1936c2c9
+  - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+  - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+subfeature_v2:
+  - id: f2261633-201d-46c5-8a66-999e70527a83
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '1733'
+source-wordcount: 1808
 ht-degree: 0%
 
 ---
@@ -95,7 +110,7 @@ Nach Ablauf Ihrer Adobe Commerce-Lizenz müssen Sie die Verwendung der Adobe Com
 
 ### Werden Support-Tickets, die vor dem Ende des Support-Datums einer Softwareversion geöffnet wurden, auch nach Ablauf des Support-Datums weiterhin bearbeitet, um eine Lösung zu finden?
 
-Ja, Support-Tickets, die vor dem Ende des Support-Datums einer Softwareversion geöffnet wurden, werden weiterhin bearbeitet und aufgelöst, selbst wenn das Ende des Support-Datums für diese Softwareversion verstrichen ist. Die Lösung von Support-Tickets kann jedoch davon abhängen, ob die Auflösung von Komponenten abhängt, die außerhalb der Kontrolle von Adobe Commerce liegen (z. B. PHP, jQuery usw.) und deren Support abgelaufen ist oder das Ende der Unterstützung erreicht hat. In diesen Fällen kann das Support-Ticket aufgelöst werden, indem Sie angewiesen werden, auf die neueste Version zu aktualisieren.
+Ja, Support-Tickets, die vor dem Ende des Support-Datums einer Softwareversion geöffnet wurden, werden weiterhin bearbeitet und aufgelöst, selbst wenn das Ende des Support-Datums für diese Softwareversion verstrichen ist. Die Lösung von Support-Tickets kann jedoch davon abhängen, ob die Auflösung von Komponenten abhängt, die außerhalb der Kontrolle von Adobe Commerce liegen (z. B. PHP, jQuery usw.) die abgelaufen sind oder das Ende der Unterstützung erreicht haben. In diesen Fällen kann das Support-Ticket aufgelöst werden, indem Sie angewiesen werden, auf die neueste Version zu aktualisieren.
 
 ### Wenn ich ein Ticket für eine Softwareversion öffne, bei der der Software-Support bald abläuft, hat Adobe dann eine Priorität für diese Tickets, damit sie vor dem Ende des Support-Datums gelöst werden?
 

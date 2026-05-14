@@ -2,29 +2,39 @@
 title: '[!DNL Adobe Success]-Portal: Kunden und Kundinnen – häufig gestellte Fragen'
 description: Dieser Artikel beantwortet häufig gestellte Fragen zum [!DNL Adobe Success] -Portal.
 exl-id: fff82b90-4077-4669-8cd5-5105cd0c7307
-source-git-commit: 8f0527bbd009aeb4b3e524f18576180722f23993
-workflow-type: ht
-source-wordcount: '594'
-ht-degree: 100%
+TQID: https://experienceleague.adobe.com/sIIr9uo3-K1N44AG-k0uhHcfwb9J93r0RbzVz0NRMhk
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+workflow-type: tm+mt
+source-wordcount: 661
+ht-degree: 93%
 
 ---
 
 # [!DNL Adobe Success]-Portal: Kunden und Kundinnen – häufig gestellte Fragen
 
  
+
 ## Welchen Umfang hat das [!DNL Adobe Success]-Portal?
 
 Das [!DNL Adobe Success]-Portal ist die neue zentralisierte, kundenorientierte Plattform von Adobe, die dazu dient, das Post-Sales-Erlebnis in Bezug auf Support, Erfolg und Interaktion zu vereinheitlichen. Die Alpha-Version konzentriert sich auf die Bereitstellung eines kohärenten Erlebnisses, das Tools und Workflows konsolidiert, die zuvor auf mehrere Plattformen verteilt waren (z. B. Support-Portal, manuelle Ultimate Success-Artefakte). Ziel ist es, die Interaktion von Kunden und Kundinnen mit Adobe während ihres gesamten Lebenszyklus zu optimieren – vom Onboarding bis zur Verlängerung – und gleichzeitig Transparenz, Self-Service und Wertschöpfung zu verbessern.
 
 **Wichtigste Funktionen in Alpha**
-Der Alpha-Umfang umfasst einen kuratierten Funktionssatz, der auf die Ultimate-Kundschaft zugeschnitten ist, mit zwei primären Erlebnis-Tracks:
+Der Alpha-Umfang umfasst einen Satz kuratierter, auf Ultimate-Kunden zugeschnittener Funktionen mit zwei primären Erlebnisspuren:
 1. Ultimate Success-Funktionen
-Diese sind für strategische Geschäftsbenutzende konzipiert und umfassen:
+Diese sind für strategische Geschäftsanwender konzipiert und umfassen:
    * **[!UICONTROL Wichtige Geschäftsziele]** – Repository und Fortschritts-Tracking
    * Den **[!UICONTROL Aktionsplan]**, der den Status und Fortschritt der Aktivitäten verfolgt, die von Ihrem Accountteam geplant wurden, um Ihre Geschäftsziele zu erreichen
    * Den **[!UICONTROL Value Tracker]**, um den Fortschritt der identifizierten und in Ihren Adobe-Lösungen bereitgestellten Anwendungsfälle zu demonstrieren, um Ihre Geschäftsziele zu fördern
    * Den **[!UICONTROL Interaktionsplan]**, um die Möglichkeiten zur Interaktion mit Ihrem Accountteam und anderen Adobe-Ressourcen zu ermitteln
-1. Funktionen unter [!UICONTROL Support und Erkenntnisse]
+1. [!UICONTROL Support und Einblicke] Funktionen
 Diese sind für technische Benutzende konzipiert und umfassen:
    * Fall-Management (Fälle öffnen, verwalten und überprüfen)
    * Echtzeit-Systemerkenntnisse und proaktive Umgebungsüberprüfung

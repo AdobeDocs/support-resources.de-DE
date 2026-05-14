@@ -1,12 +1,20 @@
 ---
 title: Versionshinweise zum Adobe Success-Portal
-description: 'Die neusten Versionsinformationen für das [!DNL Adobe Success portal]. '
+description: Die neusten Versionsinformationen für das [!DNL Adobe Success portal].
 feature: Release Notes
 exl-id: be268e05-8298-4f21-8f2f-f66c52d76fe3
-source-git-commit: 2894190b3171228e9c14a7cdef5bb2d92b97a6ec
+TQID: https://experienceleague.adobe.com/LSmHwDaQ39QEnzOcHgHLlr7g8OhoO3CQTsiFlceM8AA
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '595'
-ht-degree: 83%
+source-wordcount: 597
+ht-degree: 81%
 
 ---
 
@@ -14,9 +22,9 @@ ht-degree: 83%
 
 Diese Versionshinweise enthalten Aktualisierungen am [!DNL Adobe Success portal] und umfassen Folgendes:
 
-![Neu](../adobe-success-portal/assets/new.svg) – Neue Funktionen
-![Fehlerbehebung](../adobe-success-portal/assets/fix.svg) – Fehlerbehebungen und Verbesserungen
-![Fehler](../adobe-success-portal/assets/bug.svg) – Bekannte Probleme
+![Neu](../adobe-success-portal/assets/new.svg) - Neue Funktionen
+![Fehlerbehebung](../adobe-success-portal/assets/fix.svg) - Fehlerbehebungen und Verbesserungen
+![Bug](../adobe-success-portal/assets/bug.svg) - Bekannte Probleme
 
 ## 4,0
 
@@ -26,7 +34,7 @@ _11. November 2025_
 
 ![Korrigieren](../adobe-success-portal/assets/fix.svg) Die Falldetails wurden aktualisiert, sodass beim Öffnen in einer neuen Registerkarte mithilfe von **Strg+Klicken**/**Befehl+Klicken** die Schaltfläche „Zurück“ ordnungsgemäß deaktiviert ist, um Navigationsfehler zu vermeiden.
 
-![Fehler](../adobe-success-portal/assets/bug.svg) Es wurde ein Problem behoben, bei dem falsche Status-, Regions- oder Zeitzonendetails für **[!UICONTROL Adobe-Status]**-Warnhinweise in **[!UICONTROL Support und Einblicke]** angezeigt wurden.
+![Fehler](../adobe-success-portal/assets/bug.svg) Es wurde ein Problem behoben, bei dem falsche Status-, Regions- oder Zeitzonendetails für **[!UICONTROL Adobe Status]**-Warnhinweise in **[!UICONTROL Support und Einblicke]** angezeigt wurden.
 
 ![Bug](../adobe-success-portal/assets/bug.svg) Es wurden Anzeigeprobleme mit **[!UICONTROL Accelerators]** und **[!UICONTROL Aktivitäten]** in Verbindung mit **[!UICONTROL Strategic Partners]** behoben.
 
@@ -58,7 +66,7 @@ _9. Oktober 2025_
 
 ![Fehlerbehebung](../adobe-success-portal/assets/fix.svg) Es werden alle **[!UICONTROL strategischen Partner]** angezeigt, die einem Konto zugeordnet sind, mit Hinweisen zu primären Kontakten.
 
-![Behebung](../adobe-success-portal/assets/fix.svg) Es wurde ein Problem behoben, bei dem die Zeitzonen in **[!UICONTROL Warnhinweise und Adobe-Status]** das Profil des angemeldeten Benutzers nicht korrekt widerspiegelten.
+![Behebung](../adobe-success-portal/assets/fix.svg) Es wurde ein Problem behoben, bei dem die Zeitzonen in **[!UICONTROL Warnhinweise und Adobe Status]** das Profil des angemeldeten Benutzers nicht korrekt widerspiegelten.
 
 ![Fehlerbehebung](../adobe-success-portal/assets/fix.svg) Es wurde ein Problem behoben, bei dem Filter in **[!UICONTROL Warnhinweise und Adobe-Status]** nicht wie erwartet funktionierten.
 

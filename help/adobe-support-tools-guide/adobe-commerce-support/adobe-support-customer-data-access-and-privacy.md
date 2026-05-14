@@ -2,13 +2,21 @@
 title: Adobe unterstützt den Zugriff auf Kundendaten und den Datenschutz
 description: Der technische Support von Adobe benötigt möglicherweise Zugriff auf Ihre Adobe Commerce-bezogenen Daten, um Support zu bieten. Die Autorisierung kann nur vom primären Adobe Commerce-Kontoinhaber in den Datenschutzeinstellungen seines Adobe Commerce-Kontos bereitgestellt werden, wenn er sich dafür entscheidet. Wenn Sie diesen Zugriff vor der Erstellung von Support-Anfragen zulassen, wird sichergestellt, dass das Problem ordnungsgemäß untersucht werden kann, und/oder die Geschwindigkeit der Lösung erhöht. Bitte beachten Sie, dass der „Projektbesitzer“ eines Adobe Commerce-Cloud-Projekts möglicherweise nicht der primäre Adobe Commerce-Kontoinhaber ist.
 solution: Commerce
-source-git-commit: e1d8ce29eb1c0487f7f9ec9d2baacb6e5a49c517
+exl-id: ab8f406d-e86c-498c-8cce-0e56c1d26a33
+TQID: https://experienceleague.adobe.com/pXFc4bwBBZtXkcP2DmnK0x2MDxcVlQDrvgPVEgrh4I8
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2:
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '458'
-ht-degree: 0%
+source-wordcount: 472
+ht-degree: 1%
 
 ---
-
 
 # Adobe unterstützt den Zugriff auf Kundendaten und den Datenschutz
 

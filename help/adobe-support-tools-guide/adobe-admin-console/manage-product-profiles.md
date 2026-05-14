@@ -11,9 +11,10 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 exl-id: 6a0b2d9f-9e02-428c-a2be-bc457230f7e0
-source-git-commit: 976bfc44cdae61376e2da89019f7758518c6fadc
+TQID: https://experienceleague.adobe.com/lG0ZmW8ynu7tKpYa0JWoSeBDpeR1TaenUMNNCLcPSOI
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: 579
+source-wordcount: 758
 ht-degree: 1%
 
 ---
@@ -80,10 +81,10 @@ Um Produktprofile zu verwalten, wählen Sie ein Produkt aus. Die Steuerelemente 
 
 ## Verwandtes Lesen
 
-- [Übernahme globaler Verwaltung](https://experienceleague.adobe.com/de/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)
+- [Übernahme der globalen Verwaltung](https://experienceleague.adobe.com/de/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)
 - [Verwalten von Administratoren](https://experienceleague.adobe.com/de/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators)
-- [Benutzergruppen verwalten](https://experienceleague.adobe.com/de/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-user-groups)
+- [Verwalten von Benutzergruppen](https://experienceleague.adobe.com/de/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-user-groups)
 - [Zuweisen von Produkten zu untergeordneten Organisationen](https://experienceleague.adobe.com/de/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/allocate-products)
 - [Ausstehende Aufträge ausführen](https://helpx.adobe.com/de/enterprise/global-admin-console/execute-jobs.html)
-- [Dienste aktivieren/deaktivieren](https://helpx.adobe.com/de/enterprise/using/enable-disable-services.html)
+- [Aktivieren/Deaktivieren von Diensten](https://helpx.adobe.com/de/enterprise/using/enable-disable-services.html)
 - [Übersicht über Admin Console](https://experienceleague.adobe.com/de/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview)
