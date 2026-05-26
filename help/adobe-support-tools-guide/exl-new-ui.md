@@ -1,8 +1,7 @@
 ---
 title: Experience League Support-Portal - Neue Benutzeroberfläche
 description: Neu gestaltetes Experience League Support-Portal, das Support-Workflows, Fallkenntnisse und Produktüberwachung mit verbesserter Navigation, Analysen und Schnellaktionen optimiert und nahtlos zum aktuellen Portal für Fallmanagement wechselt.
-hold: true
-source-git-commit: 66bfb45f44f79681278b77a528c0c5000504b293
+source-git-commit: c40672aed3df1f842cfd032b5a653b8fbf70876e
 workflow-type: tm+mt
 source-wordcount: '898'
 ht-degree: 2%
@@ -92,7 +91,7 @@ Wählen Sie eine **[!UICONTROL Fall-ID]** aus, um die Falldetails im aktuellen E
 
 ## Warnhinweise zum Produktstatus
 
-In diesem Abschnitt wird der aktuelle Betriebsstatus der Adobe-Produkte angezeigt, die dem Unternehmen zugewiesen sind. Der Status **[!UICONTROL Verfügbar]** bedeutet, dass das Produkt voll funktionsfähig ist und keine aktiven Ausfälle auftreten. Wenn ein oder mehrere Probleme vorhanden sind, wird die Gesamtzahl der aktiven Probleme auf der Produktkarte angezeigt. Wählen Sie eine Produktkarte aus, um weitere Details zur Adobe-[&#x200B; (Status-Site](https://status.adobe.com/de/) anzuzeigen.
+In diesem Abschnitt wird der aktuelle Betriebsstatus der Adobe-Produkte angezeigt, die dem Unternehmen zugewiesen sind. Der Status **[!UICONTROL Verfügbar]** bedeutet, dass das Produkt voll funktionsfähig ist und keine aktiven Ausfälle auftreten. Wenn ein oder mehrere Probleme vorhanden sind, wird die Gesamtzahl der aktiven Probleme auf der Produktkarte angezeigt. Wählen Sie eine Produktkarte aus, um weitere Details zur Adobe-[ (Status-Site](https://status.adobe.com/de/) anzuzeigen.
 
 ![Abschnitt „Warnhinweise zum Produktstatus“](/help/adobe-support-tools-guide/assets/product-status-alerts.png)
 
