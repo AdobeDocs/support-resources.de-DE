@@ -11,9 +11,9 @@ role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: 7570e35edc9099a15556ce94a50904d4b402c042
+source-git-commit: bff5962913571b7bc192e634346c124985dc3609
 workflow-type: tm+mt
-source-wordcount: 973
+source-wordcount: 1177
 ht-degree: 1%
 
 ---
@@ -25,6 +25,24 @@ Diese Versionshinweise enthalten Aktualisierungen zur Experience League-Unterst�
 ![Neu](../adobe-support-tools-guide/assets/new.svg) Neue Funktionen
 ![Fehlerbehebung](../adobe-support-tools-guide/assets/fix.svg) Fehlerbehebungen und Verbesserungen
 ![Bug](../adobe-support-tools-guide/assets/bug.svg) Bekannte Probleme
+
+## &#x200B;26. Mai 2026 - Aktualisierung der Benutzeroberfläche des Experience League-Support-Portals
+
+1. Eine neue zentralisierte Startseite bietet eine übersichtliche Ansicht der Support-Aktivitäten, einschließlich der Anzahl der Fälle nach Priorität, der Fälle, die auf Ihre Antwort warten, des Echtzeit-Produktstatus und der Systemwarnungen in einem einzigen Dashboard.
+
+1. Mit **[!UICONTROL Organisationswechsel]** oben links können Sie zwischen Organisationen wechseln. Das Portal aktualisiert automatisch Falldaten, den Produktstatus und Support-Informationen für die ausgewählte Organisation.
+
+1. Mit einem Umschalter für das Portal können Sie jederzeit zwischen dem neu gestalteten Portal und dem aktuellen Experience League-Support-Portal wechseln. Beide Erlebnisse bleiben vollständig synchronisiert, sodass Ihre Falldaten auf dem neuesten Stand bleiben.
+
+1. Sie können den Live-Betriebsstatus für alle Adobe-Produkte überwachen, die zu Ihrem Unternehmen berechtigt sind, und Systemwarnungen nach Ereignistyp filtern, einschließlich Wichtig, Gering, Potenziell, Wartung und Ankündigungen.
+
+1. Ultimate Success plan-Kunden haben jetzt Zugriff auf eine dedizierte Seite **[!UICONTROL Mein Erfolg]** mit Details zu ihrem Erfolgsteam und Ressourcen, die sie bei ihrer Interaktion mit Adobe unterstützen.
+
+1. Das neu gestaltete Support-Portal ist für alle Produkte außer Adobe Commerce verfügbar.
+
+>[!NOTE]
+>
+>Aktualisierungen der Seiten zur Fallerstellung, zu den Falldetails und zu „Meine Fälle“ sind für eine zukünftige Version geplant. Bis dahin bleiben diese Seiten im aktuellen Experience League Support-Portal verfügbar.
 
 ## &#x200B;7. Mai 2026 - Erweiterung der Funktion „Request for Callback“
 
