@@ -7,7 +7,7 @@ feature: Admin Console
 exl-id: 4da055a9-7cdc-4411-8895-016e24eabb2e
 source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
 workflow-type: tm+mt
-source-wordcount: '813'
+source-wordcount: '847'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ Im Folgenden finden Sie einige wichtige Vorteile der Global Admin Console:
 - Erstellen, Bearbeiten und Löschen von Produktprofilen und Benutzergruppen
 - Exportieren Sie Organisationsinformationen für das Reporting oder die Verwendung in anderen Prozessen.
 - Aktualisierungen an Organisationen und Änderungen an der Organisationshierarchie importieren.
-- Sie erhalten Benachrichtigungen zum ETLA-Vertragsstatus in untergeordneten Organisationen, einschließlich bevorstehender Auslaufverträge, abgelaufener Verträge oder inaktiver Verträge. Weitere Informationen finden Sie in der Dokumentation [Ablauf von Verträgen](https://helpx.adobe.com/de/enterprise/using/contract-expiry.html) .
+- Sie erhalten Benachrichtigungen zum ETLA-Vertragsstatus in untergeordneten Organisationen, einschließlich bevorstehender Auslaufverträge, abgelaufener Verträge oder inaktiver Verträge. Weitere Informationen finden Sie in der Dokumentation [Ablauf von Verträgen](https://helpx.adobe.com/enterprise/using/contract-expiry.html) .
 
 ## Eignungskriterien
 
@@ -61,7 +61,7 @@ Adobe empfiehlt eine globale Administration, wenn Ihr Unternehmen mindestens ein
 
 Um Zugriff auf die [Global Admin Console](https://global-admin-console.adobe.com) anzufordern, gehen Sie nach Rücksprache mit Ihrem Adobe-Support-Mitarbeiter wie folgt vor.
 
-1. Navigieren Sie in der {0[Admin Console} zu &#x200B;](https://adminconsole.adobe.com/support/)Support **[!UICONTROL >]** Support-Zusammenfassung **[!UICONTROL .]**
+1. Navigieren Sie in der {0](https://adminconsole.adobe.com/support/)Admin Console} zu **[!UICONTROL Support]** > **[!UICONTROL Support-Zusammenfassung]**.[
 
    >[!NOTE]
    >
