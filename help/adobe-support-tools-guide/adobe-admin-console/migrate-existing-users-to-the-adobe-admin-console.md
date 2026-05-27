@@ -24,9 +24,9 @@ Dieses Dokument richtet sich an Unternehmen mit bestehenden Creative Cloud-, Doc
 
 Um eine Unterbrechung des Produktzugriffs für Endbenutzer zu vermeiden, müssen Sie Lizenzen in der Adobe Admin Console zuweisen, bevor die bestehende VIP-Abonnementlaufzeit endet.
 
-* Kunden von ETLA sollten eine Produktüberschneidung von mindestens 30 Tagen einräumen. Schließen Sie die Migration vor dem Jubiläumsdatum ab, damit Benutzer weiterhin Zugriff auf Adobe-Apps und -Services haben. Weitere Informationen zum Ablauf von ETLA-Verträgen finden Sie [Automatisierte Ablaufphasen für ETLA-Verträge](https://helpx.adobe.com/enterprise/using/contract-expiry.html).
+* Kunden von ETLA sollten eine Produktüberschneidung von mindestens 30 Tagen einräumen. Schließen Sie die Migration vor dem Jubiläumsdatum ab, damit Benutzer weiterhin Zugriff auf Adobe-Apps und -Services haben. Weitere Informationen zum Ablauf von ETLA-Verträgen finden Sie [Automatisierte Ablaufphasen für ETLA-Verträge](https://helpx.adobe.com/de/enterprise/using/contract-expiry.html).
 * Kaufen Sie für VIP-Kunden Lizenzen vor dem Jubiläumsdatum, und weisen Sie Lizenzen zu, bevor das Verlängerungsfenster zu Ihrer aktuellen VIP-Laufzeit geschlossen wird.
-* CLP- oder TLP-Kunden können mithilfe der Migrationsanweisungen unter „Lizenzierung“ von serialisierten Acrobat- oder Creative Suite-[&#x200B; zu &#x200B;](https://helpx.adobe.com/enterprise/using/licensing.html) migrieren.
+* CLP- oder TLP-Kunden können mithilfe der Migrationsanweisungen unter „Lizenzierung“ von serialisierten Acrobat- oder Creative Suite-[&#x200B; zu &#x200B;](https://helpx.adobe.com/de/enterprise/using/licensing.html) migrieren.
 
 >[!NOTE]
 >
@@ -74,7 +74,7 @@ In der Admin Console werden Sie aufgefordert, Lizenzen mithilfe von „Quick Lic
 
    ![Bestätigung der Lizenzzuweisung](assets/migrate-license-assignment.png)
 
-Laden Sie den [Ergebnisbericht](https://helpx.adobe.com/enterprise/using/users.html#main-pars_header_1346350355) in die Admin Console herunter, um zu bestätigen, dass alle Lizenzen zugewiesen wurden. Wenn Sie vor dem Datum in Ihrer Bestätigungs-E-Mail fertig sind, sollten Endbenutzer keinen Serviceabbruch erleben.
+Laden Sie den [Ergebnisbericht](https://helpx.adobe.com/de/enterprise/using/users.html#main-pars_header_1346350355) in die Admin Console herunter, um zu bestätigen, dass alle Lizenzen zugewiesen wurden. Wenn Sie vor dem Datum in Ihrer Bestätigungs-E-Mail fertig sind, sollten Endbenutzer keinen Serviceabbruch erleben.
 
 Planen Sie einen 1:1-Onboarding-Aufruf mit einem Adobe-Onboarding-Spezialisten (falls noch nicht geschehen), um mehr über die Admin Console zu erfahren, einschließlich [Administratorrollen](https://helpx.adobe.com/de/enterprise/using/admin-roles.html) und [Identität](https://helpx.adobe.com/de/enterprise/using/identity.html).
 
@@ -95,12 +95,12 @@ Weisen Sie Lizenzen mithilfe einer CSV-Vorlage aus der Admin Console per Massenv
 
    ![Benutzer durch CSV bearbeiten](assets/migrate-edit-users-by-csv.png)
 
-   Beschreibung der Felder in der heruntergeladenen Datei finden Sie unter [CSV-Dateiformat](https://helpx.adobe.com/enterprise/using/users.html#main-pars_header).
+   Beschreibung der Felder in der heruntergeladenen Datei finden Sie unter [CSV-Dateiformat](https://helpx.adobe.com/de/enterprise/using/users.html#main-pars_header).
 4. Fügen Sie der CSV Lizenzzuweisungen hinzu, ziehen Sie die aktualisierte Datei dann in das Dialogfeld **[!UICONTROL Benutzer nach CSV bearbeiten]** und klicken Sie auf **[!UICONTROL Hochladen]**. Sie erhalten eine E-Mail, wenn der Vorgang abgeschlossen ist.
 
    ![Benutzerbearbeitung abgeschlossen](assets/migrate-user-edit-complete.png)
 
-Laden Sie den [Ergebnisbericht](https://helpx.adobe.com/enterprise/using/users.html#main-pars_header_1346350355) herunter, um Zuweisungen zu validieren. Dann planen Sie das Onboarding mit einem Adobe-Onboarding-Spezialisten, um mehr über [Administratorrollen](https://helpx.adobe.com/de/enterprise/using/admin-roles.html) und [Identität](https://helpx.adobe.com/de/enterprise/using/identity.html) zu erfahren.
+Laden Sie den [Ergebnisbericht](https://helpx.adobe.com/de/enterprise/using/users.html#main-pars_header_1346350355) herunter, um Zuweisungen zu validieren. Dann planen Sie das Onboarding mit einem Adobe-Onboarding-Spezialisten, um mehr über [Administratorrollen](https://helpx.adobe.com/de/enterprise/using/admin-roles.html) und [Identität](https://helpx.adobe.com/de/enterprise/using/identity.html) zu erfahren.
 
 ## Massenzuweisung von Lizenzen (VIP an ETLA)
 
@@ -119,9 +119,9 @@ Sie erhalten eine E-Mail, wenn Benutzende zur ETLA-Organisation hinzugefügt wer
 
 ![Benutzende wurden nach der Migration von VIP zu ETLA hinzugefügt](assets/migrate-users-added-vip-etla.png)
 
-Laden Sie den [Ergebnisbericht](https://helpx.adobe.com/enterprise/using/users.html#main-pars_header_1346350355) herunter, um Zuweisungen zu validieren. Planen Sie das Onboarding mit einem Adobe-Onboarding-Spezialisten für [Administratorrollen](https://helpx.adobe.com/de/enterprise/using/admin-roles.html) und [Identität](https://helpx.adobe.com/de/enterprise/using/identity.html).
+Laden Sie den [Ergebnisbericht](https://helpx.adobe.com/de/enterprise/using/users.html#main-pars_header_1346350355) herunter, um Zuweisungen zu validieren. Planen Sie das Onboarding mit einem Adobe-Onboarding-Spezialisten für [Administratorrollen](https://helpx.adobe.com/de/enterprise/using/admin-roles.html) und [Identität](https://helpx.adobe.com/de/enterprise/using/identity.html).
 
-Informationen zu Problemen beim Massen-Upload finden Sie [Fehlerbehebung beim Massen-Upload von Benutzern](https://helpx.adobe.com/enterprise/kb/troubleshoot-bulk-user-csv-upload.html).
+Informationen zu Problemen beim Massen-Upload finden Sie [Fehlerbehebung beim Massen-Upload von Benutzern](https://helpx.adobe.com/de/enterprise/kb/troubleshoot-bulk-user-csv-upload.html).
 
 ## Massenzuweisung von Lizenzen (ETLA an VIP)
 
@@ -143,6 +143,6 @@ Sie erhalten eine E-Mail, wenn Benutzende zur VIP-Organisation hinzugefügt werd
 
 ![Benutzende wurden nach der Migration von ETLA zu VIP hinzugefügt](assets/migrate-users-added-etla-vip.png)
 
-Laden Sie den [Ergebnisbericht](https://helpx.adobe.com/enterprise/using/users.html#main-pars_header_1346350355) herunter, um Zuweisungen zu validieren. Planen Sie das Onboarding mit einem Adobe-Onboarding-Spezialisten für [Administratorrollen](https://helpx.adobe.com/de/enterprise/using/admin-roles.html) und [Identität](https://helpx.adobe.com/de/enterprise/using/identity.html).
+Laden Sie den [Ergebnisbericht](https://helpx.adobe.com/de/enterprise/using/users.html#main-pars_header_1346350355) herunter, um Zuweisungen zu validieren. Planen Sie das Onboarding mit einem Adobe-Onboarding-Spezialisten für [Administratorrollen](https://helpx.adobe.com/de/enterprise/using/admin-roles.html) und [Identität](https://helpx.adobe.com/de/enterprise/using/identity.html).
 
-Informationen zu Problemen beim Massen-Upload finden Sie [Fehlerbehebung beim Massen-Upload von Benutzern](https://helpx.adobe.com/enterprise/kb/troubleshoot-bulk-user-csv-upload.html).
+Informationen zu Problemen beim Massen-Upload finden Sie [Fehlerbehebung beim Massen-Upload von Benutzern](https://helpx.adobe.com/de/enterprise/kb/troubleshoot-bulk-user-csv-upload.html).
