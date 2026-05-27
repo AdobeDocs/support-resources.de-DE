@@ -44,7 +44,7 @@ Im Folgenden finden Sie einige wichtige Vorteile der Global Admin Console:
 - Erstellen, Bearbeiten und Löschen von Produktprofilen und Benutzergruppen
 - Exportieren Sie Organisationsinformationen für das Reporting oder die Verwendung in anderen Prozessen.
 - Aktualisierungen an Organisationen und Änderungen an der Organisationshierarchie importieren.
-- Sie erhalten Benachrichtigungen zum ETLA-Vertragsstatus in untergeordneten Organisationen, einschließlich bevorstehender Auslaufverträge, abgelaufener Verträge oder inaktiver Verträge. Weitere Informationen finden Sie in der Dokumentation [Ablauf von Verträgen](https://helpx.adobe.com/enterprise/using/contract-expiry.html) .
+- Sie erhalten Benachrichtigungen zum ETLA-Vertragsstatus in untergeordneten Organisationen, einschließlich bevorstehender Auslaufverträge, abgelaufener Verträge oder inaktiver Verträge. Weitere Informationen finden Sie in der Dokumentation [Ablauf von Verträgen](https://helpx.adobe.com/de/enterprise/using/contract-expiry.html) .
 
 ## Eignungskriterien
 
