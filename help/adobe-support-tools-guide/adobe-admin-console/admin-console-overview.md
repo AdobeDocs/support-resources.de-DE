@@ -45,7 +45,7 @@ Wenn Sie Administrator für mehrere Organisationen sind, können Sie mithilfe de
 
 Wenn das Unternehmen Teil einer Global Admin Console ist, wird neben dem Namen des Unternehmens ein Hierarchie -Symbol angezeigt. Sie können auch den Pfad der Organisation anzeigen und die Platzierung der Organisation innerhalb der Hierarchie bestimmen. Im Screenshot ist der Administrator beispielsweise Mitglied von Organisation B und der Global Admin Console-Pfad dieser Organisation lautet A > B, wobei B ein untergeordnetes Element von Organisation A ist.
 
-![Admin Console - Wählen Sie die ](assets/admin-console-select-your-org-hierarchy.png " Ihrer untergeordneten Organisation in der Hierarchie einer Global Admin Console aus")
+![Admin Console - Wählen Sie die &#x200B;](assets/admin-console-select-your-org-hierarchy.png " Ihrer untergeordneten Organisation in der Hierarchie einer Global Admin Console aus")
 
 Wenn Sie über eine komplexe Organisationsstruktur mit vielen Admin Consoles verfügen oder Ihre Haupt-Admin Console in mehrere Konsolen aufteilen möchten, können Sie [Global Admin Console übernehmen](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration). So etwa multinationale Konzerne, Bildungskonsortien, große Schulbezirke und große staatliche Behörden. Global Admin Console verschachtelt bestehende Admin Consoles in einer hierarchischen Struktur, z. B. einem Organigramm, um für Transparenz in einem verteilten Unternehmen zu sorgen.
 
@@ -106,9 +106,9 @@ Wer kann diese Registerkarte sehen: Systemadministratoren.
 
 **[!UICONTROL Auditprotokoll]** hilft bei der Sicherstellung der kontinuierlichen Compliance, dem Schutz vor unangemessenem Systemzugriff und der Prüfung verdächtiger Verhaltensweisen innerhalb Ihrer Organisation.
 
-Als Systemadministrator haben Sie vollständige Sichtbarkeit der Änderungen, die in der [Admin Console vorgenommen ](https://adminconsole.adobe.com/). Sie können das Auditprotokoll nach dem Typ der Aktionen, dem Zeitpunkt und der Person, die sie durchgeführt hat, durchsuchen.
+Als Systemadministrator haben Sie vollständige Sichtbarkeit der Änderungen, die in der [Admin Console vorgenommen &#x200B;](https://adminconsole.adobe.com/). Sie können das Auditprotokoll nach dem Typ der Aktionen, dem Zeitpunkt und der Person, die sie durchgeführt hat, durchsuchen.
 
-Zeigen Sie diese Berichte dann an und laden Sie sie zur weiteren Analyse herunter. Weitere Informationen: [Verwenden Sie Auditprotokoll, um Benutzerzuweisungen und Ereignisse zu ](https://helpx.adobe.com/enterprise/using/audit-logs.html).
+Zeigen Sie diese Berichte dann an und laden Sie sie zur weiteren Analyse herunter. Weitere Informationen: [Verwenden Sie Auditprotokoll, um Benutzerzuweisungen und Ereignisse zu &#x200B;](https://helpx.adobe.com/enterprise/using/audit-logs.html).
 
 ### [!UICONTROL Arbeitsauftragsberichte]
 
@@ -118,7 +118,7 @@ Weitere Informationen: [Lizenzzuweisungsberichte für Enterprise-Produkte](https
 
 ## [!UICONTROL Speicher] {#storage}
 
-Wer kann diese Registerkarte anzeigen: System- und Speicheradministratoren (nur für Kunden, die zum [Speichermodell im Pool“ migriert ](https://helpx.adobe.com/enterprise/using/manage-adobe-storage.html)).
+Wer kann diese Registerkarte anzeigen: System- und Speicheradministratoren (nur für Kunden, die zum [Speichermodell im Pool“ migriert &#x200B;](https://helpx.adobe.com/enterprise/using/manage-adobe-storage.html)).
 
 Die **[!UICONTROL Speicherseite]** in der [Admin Console](https://adminconsole.adobe.com) bietet Ihnen einen Überblick über den Speicher in Ihren Creative Cloud-Programmen. Die Speicherkontingente sind für Endbenutzer bis zu der von der Organisation erworbenen Speichermenge flexibel.
 
@@ -133,10 +133,10 @@ Wer kann diese Registerkarte sehen: Systemadministratoren und Bereitstellungsadm
 Die **[!UICONTROL Pakete]** in der [Admin Console](https://adminconsole.adobe.com) bietet die folgenden Funktionen. Verwenden Sie sie, wenn Sie Desktop-Programme für Endbenutzer in Ihrer Organisation bereitstellen möchten.
 
 - Herunterladen vorkonfigurierter Pakete mithilfe von [Adobe-Vorlagen](https://helpx.adobe.com/enterprise/using/package-templates.html).
-- Erstellen Sie [ Packager für ](https://helpx.adobe.com/enterprise/using/create-nul-packages.html)Named User Licensing[ oder Shared Device](https://helpx.adobe.com/enterprise/using/create-sdl-packages.html)-Lizenzen (für Bildungseinrichtungen) mit der Konfiguration und den Anwendungen, die Ihre Endbenutzenden haben sollen.
+- Erstellen Sie [&#x200B; Packager für &#x200B;](https://helpx.adobe.com/enterprise/using/create-nul-packages.html)Named User Licensing[&#x200B; oder Shared Device](https://helpx.adobe.com/enterprise/using/create-sdl-packages.html)-Lizenzen (für Bildungseinrichtungen) mit der Konfiguration und den Anwendungen, die Ihre Endbenutzenden haben sollen.
 - Aktivieren Sie E-Mail-Benachrichtigungen, damit Sie benachrichtigt werden, wenn neue Produktversionen verfügbar werden.
 - Zeigen Sie frühere Pakete an, die Sie oder andere Administratoren in Ihrer Organisation erstellt haben. Zeigen Sie außerdem Details zu einem bestimmten Paket an und verfolgen Sie verfügbare Aktualisierungen für die Apps im Paket.
-- Laden Sie IT-Tools wie [Remote Update Manager](https://helpx.adobe.com/enterprise/using/using-remote-update-manager.html) und das [Adobe Update Server Setup-Tool ](https://helpx.adobe.com/enterprise/using/update-server-setup-tool.html).
+- Laden Sie IT-Tools wie [Remote Update Manager](https://helpx.adobe.com/enterprise/using/using-remote-update-manager.html) und das [Adobe Update Server Setup-Tool &#x200B;](https://helpx.adobe.com/enterprise/using/update-server-setup-tool.html).
 - Laden Sie das Adobe Extension Manager-Befehlszeilen-Tool zum [Installieren von Erweiterungen und Plug-ins](https://helpx.adobe.com/enterprise/using/manage-extensions.html) aus dem ZXP-Datei-Container-Format herunter.
 
 Weitere Informationen finden Sie unter [Verpacken von Apps über die Admin Console](https://helpx.adobe.com/enterprise/using/package-apps-admin-console.html).
@@ -163,7 +163,7 @@ Wählen Sie eine standardmäßige E-Mail-Sprache für Ihr Unternehmen aus, um E-
 
 ## [!UICONTROL Inhaltsprotokolle]
 
-Als Administrator können Sie detaillierte Berichte über die Arbeit der Endbenutzer mit Unternehmens-Assets wie Ordnern, Dateien und Bibliotheken herunterladen. Diese Berichte werden als [Inhaltsprotokolle“ ](https://helpx.adobe.com/enterprise/using/content-logs.html).
+Als Administrator können Sie detaillierte Berichte über die Arbeit der Endbenutzer mit Unternehmens-Assets wie Ordnern, Dateien und Bibliotheken herunterladen. Diese Berichte werden als [Inhaltsprotokolle“ &#x200B;](https://helpx.adobe.com/enterprise/using/content-logs.html).
 
 ## Domain-Durchsetzung
 

@@ -61,7 +61,7 @@ Adobe empfiehlt eine globale Administration, wenn Ihr Unternehmen mindestens ein
 
 Um Zugriff auf die [Global Admin Console](https://global-admin-console.adobe.com) anzufordern, gehen Sie nach Rücksprache mit Ihrem Adobe-Support-Mitarbeiter wie folgt vor.
 
-1. Navigieren Sie in der {0](https://adminconsole.adobe.com/support/)Admin Console} zu **[!UICONTROL Support]** > **[!UICONTROL Support-Zusammenfassung]**.[
+1. Navigieren Sie in der {0[&#128279;](https://adminconsole.adobe.com/support/)Admin Console} zu **[!UICONTROL Support]** > **[!UICONTROL Support-Zusammenfassung]**.
 
    >[!NOTE]
    >

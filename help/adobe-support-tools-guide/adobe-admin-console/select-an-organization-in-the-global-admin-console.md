@@ -65,7 +65,7 @@ Wenn eine Organisation in der Hierarchie-Struktur ausgewählt wird, werden die f
 - Angeforderte Domains
 - Richtlinienwerte der Organisation
 
-Zum Anzeigen oder Bearbeiten von Produkten, Benutzergruppen, Administratoren, Domains, Richtlinien oder Richtlinienvorlagen wählen Sie die entsprechende Registerkarte aus. In den meisten Fällen können Sie [!UICONTROL  Feld ]Suche“ verwenden, um ein bestimmtes Element auf der Registerkarte zu finden.
+Zum Anzeigen oder Bearbeiten von Produkten, Benutzergruppen, Administratoren, Domains, Richtlinien oder Richtlinienvorlagen wählen Sie die entsprechende Registerkarte aus. In den meisten Fällen können Sie [!UICONTROL &#x200B; Feld &#x200B;]Suche“ verwenden, um ein bestimmtes Element auf der Registerkarte zu finden.
 
 ![Organisation bearbeiten](/help/adobe-support-tools-guide/assets/edit-an-organization.png)
 
