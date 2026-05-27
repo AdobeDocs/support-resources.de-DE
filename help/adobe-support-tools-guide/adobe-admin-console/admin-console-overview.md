@@ -7,8 +7,8 @@ feature: Admin Console
 exl-id: 34be803e-da0f-4968-bb54-171be200a875
 source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
 workflow-type: tm+mt
-source-wordcount: '1742'
-ht-degree: 2%
+source-wordcount: '1963'
+ht-degree: 4%
 
 ---
 
@@ -60,7 +60,7 @@ Die **[!UICONTROL Produkte]** in der [Admin Console](https://adminconsole.adobe.
 Weitere Informationen finden Sie unter:
 
 - [Produkte verwalten](https://helpx.adobe.com/de/enterprise/using/manage-products.html)
-- [Verwalten von Produktprofilen](https://experienceleague.adobe.com/de/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-product-profiles)
+- [Produktprofile verwalten](https://experienceleague.adobe.com/de/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-product-profiles)
 
 **Teams**
 
@@ -79,8 +79,8 @@ Auf **[!UICONTROL Seite]** Benutzer“ in der [Admin Console](https://adminconso
 
 Weitere Informationen finden Sie unter:
 
-- [Benutzer verwalten](https://helpx.adobe.com/de/enterprise/using/users.html)
-- [Benutzergruppen verwalten](https://helpx.adobe.com/de/enterprise/using/user-groups.html)
+- [Verwalten von Benutzenden](https://helpx.adobe.com/de/enterprise/using/users.html)
+- [Verwalten von Benutzergruppen](https://helpx.adobe.com/de/enterprise/using/user-groups.html)
 
 ## [!UICONTROL Konto] {#account}
 
@@ -126,7 +126,7 @@ Sie können auch anzeigen, wie viel Kontingent von einzelnen Benutzern verwendet
 
 Weitere Informationen: [Verwalten des Adobe-Speichers](https://helpx.adobe.com/de/enterprise/using/manage-adobe-storage.html).
 
-## [!UICONTROL Packages] {#packages}
+## [!UICONTROL Pakete] {#packages}
 
 Wer kann diese Registerkarte sehen: Systemadministratoren und Bereitstellungsadministratoren.
 

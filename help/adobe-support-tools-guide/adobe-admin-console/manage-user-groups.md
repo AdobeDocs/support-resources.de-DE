@@ -7,8 +7,8 @@ feature: Admin Console
 exl-id: 1e20362a-0974-4b83-a083-9edaab04c255
 source-git-commit: ad324036dbeb2a54855349321b2ba33405d2c075
 workflow-type: tm+mt
-source-wordcount: '1333'
-ht-degree: 0%
+source-wordcount: '1505'
+ht-degree: 1%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Erstellen, verwalten und teilen Sie Benutzergruppen in der Global Admin Console, um die Benutzerverwaltung zu optimieren, indem Sie Benutzende mit denselben Berechtigungen gruppieren, Zeit sparen und Konsistenz sicherstellen.
 
-Wählen Sie in der {0[Global Admin Console} eine Organisation aus und navigieren Sie zu &#x200B;](https://experienceleague.adobe.com/de/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)Benutzergruppen **[!UICONTROL .]** Geben Sie Gruppen über mehrere Organisationen hinweg mithilfe einer einzigen Benutzerverwaltungsquelle frei, um Benutzer und Gruppen zu synchronisieren. Klicken Sie hier [melden Sie sich bei der Global Admin Console an](https://global-admin-console.adobe.com).
+Wählen Sie in der {0[&#128279;](https://experienceleague.adobe.com/de/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration)Global Admin Console} eine Organisation aus und navigieren Sie zu **[!UICONTROL Benutzergruppen]**. Geben Sie Gruppen über mehrere Organisationen hinweg mithilfe einer einzigen Benutzerverwaltungsquelle frei, um Benutzer und Gruppen zu synchronisieren. Klicken Sie hier [melden Sie sich bei der Global Admin Console an](https://global-admin-console.adobe.com).
 
 
 

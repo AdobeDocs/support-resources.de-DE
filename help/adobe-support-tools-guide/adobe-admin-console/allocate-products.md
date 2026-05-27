@@ -7,7 +7,7 @@ feature: Admin Console
 exl-id: de6e785d-8965-40d5-ac78-7fbb2cd7afc7
 source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
 workflow-type: tm+mt
-source-wordcount: '1050'
+source-wordcount: '1177'
 ht-degree: 0%
 
 ---
@@ -101,7 +101,7 @@ Sie können keine Produkte aus einem abgelaufenen ETLA-Vertrag einer untergeordn
 
 ![Produktzuordnung](/help/adobe-support-tools-guide/assets/product-allocation.png)
 
->[ !IWichtig]
+>[ !Iwichtig]
 >
 >Sobald ein ETLA-Vertrag, der Teil der Hierarchie ist, inaktiv ist, werden die Produkte aus den Seiten **[!UICONTROL Übersicht]** und **[!UICONTROL Produktzuordnung]** entfernt.
 
