@@ -6,11 +6,8 @@ solution: Admin Console
 feature: Admin Console
 exl-id: 75b0e812-da38-46af-94b6-7b7db8954be3
 TQID: https://experienceleague.adobe.com/HW1x4D7Ha06777wNq6j2gISGc7mNKt6Yohhi2GP66XU
-product_v2:
-  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+product_v2: id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
 source-wordcount: 376
@@ -61,4 +58,4 @@ Im Rahmen des Anmeldevorgangs werden Benutzende möglicherweise aufgefordert, ei
 
 ![Bestätigung der Administratorrechte](assets/admin-rights-confirmation.png)
 
-Weitere Informationen finden Sie in den [Anweisungen zur Bearbeitung der Administratorrolle &#x200B;](adobe-admin-console/admin-roles.md#edit-enterprise-admin-role) Unternehmens“ in der Dokumentation zu Administratorrollen. Beachten Sie, dass nur ein Systemadministrator für Ihre Organisation diese Rolle zuweisen kann. Weitere Informationen zur Verwaltungshierarchie finden Sie in der Dokumentation [Administratorrollen](adobe-admin-console/admin-roles.md) .
+Weitere Informationen finden Sie in den [Anweisungen zur Bearbeitung der Administratorrolle ](adobe-admin-console/admin-roles.md#edit-enterprise-admin-role) Unternehmens“ in der Dokumentation zu Administratorrollen. Beachten Sie, dass nur ein Systemadministrator für Ihre Organisation diese Rolle zuweisen kann. Weitere Informationen zur Verwaltungshierarchie finden Sie in der Dokumentation [Administratorrollen](adobe-admin-console/admin-roles.md) .

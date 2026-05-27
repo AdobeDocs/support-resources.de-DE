@@ -3,10 +3,8 @@ title: Enterprise Support für Creative Cloud und Adobe Document Cloud
 description: Adobe bietet eine umfassende Palette technischer Ressourcen, die Sie im Rahmen Ihres Adobe Enterprise-Abonnements zur Unterstützung Ihres Unternehmens nutzen können. Diese Unterstützung wird durch den ENTERPRISE-Support-Plan optimiert.
 exl-id: 38467d5a-02b8-496f-ac2b-4d54ac3c5ffc
 TQID: https://experienceleague.adobe.com/-kPhYGpfGdZIP8Is1A-WWfHq6uJzSLNwCei4D8TO8A4
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-topic_v2:
-  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+topic_v2: id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
 source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
 source-wordcount: 958
