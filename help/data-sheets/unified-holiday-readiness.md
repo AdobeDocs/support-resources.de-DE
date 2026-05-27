@@ -9,8 +9,8 @@ index: true
 exl-id: 7a36a281-98d0-4b1f-afc5-dbcde10fddaf
 source-git-commit: bbc1d3c0a0436a36d55adac14bb354fe0ecf96da
 workflow-type: tm+mt
-source-wordcount: '3827'
-ht-degree: 2%
+source-wordcount: '4803'
+ht-degree: 3%
 
 ---
 
@@ -71,8 +71,8 @@ Um innerhalb der betrieblichen Grenzen zu bleiben und Service-Unterbrechungen zu
 
 * [Best Practices für Streaming-Durchsatz](https://experienceleague.adobe.com/de/docs/experience-platform/landing/license/capacity#suggestions)
 * [Schutzmaßnahmen bei der Datenaufnahme](https://experienceleague.adobe.com/de/docs/experience-platform/ingestion/guardrails)
-* [Standardleitlinien für Echtzeit-Kundenprofildaten und Segmentierung](https://experienceleague.adobe.com/de/docs/experience-platform/profile/guardrails)
-* [AEP-Blueprints: Leitplanken](https://experienceleague.adobe.com/de/docs/blueprints-learn/architecture/architecture-overview/guardrails)
+* [Standardmäßige Leitplanken für Echtzeit-Kundenprofildaten und Segmentierung](https://experienceleague.adobe.com/de/docs/experience-platform/profile/guardrails)
+* [AEP Blueprints: Leitplanken](https://experienceleague.adobe.com/de/docs/blueprints-learn/architecture/architecture-overview/guardrails)
 
 ### Sicherheit und Governance
 
@@ -145,7 +145,7 @@ Siehe [Best Practices für AJO Experimentation Accelerator](https://experiencele
 ### Sicherheit und Governance
 
 * Stellen Sie sicher, dass Zugriffssteuerung und Berechtigungen so konfiguriert sind, dass nur erforderliche Benutzende Journey bereitstellen oder Geschäftsregeln ändern können.
-* Überwachen und Erzwingen der API-Aufruf-/Verbindungs-Begrenzung: Siehe z. B. die [Begrenzungs-API | Adobe Journey Optimizer](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/connect-systems/external-systems/capping)-Artikel.
+* Überwachen und Erzwingen der API-Aufruf-/Verbindungs-Begrenzung: Beispiel finden Sie im Artikel [Begrenzungs-API | Adobe Journey Optimizer](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/connect-systems/external-systems/capping) .
 * Verwenden Sie saubere First-Party-Daten und stellen Sie eine ordnungsgemäße Identitätszuordnung sicher, sodass Messaging nicht dupliziert/falsch ausgerichtet wird.
 * Um sicherzustellen, dass Zustellbarkeits-Domains erwärmt werden, sind Anti-Spam-Maßnahmen vorhanden, insbesondere für Sendungen mit hohem Versandvolumen.
 * Überprüfen Sie Auditprotokolle und Journey-Änderungen häufig in der Hauptsaison, um Fehler oder fehlerhafte Journey frühzeitig zu erkennen.
@@ -293,7 +293,7 @@ Bevor Sie auf **[!UICONTROL Senden]** klicken, stellen Sie sicher, dass Ihre E-M
    * Senden Sie schnell und einfach eine direkte E-Mail an Ihre Testdatensätze, um zu sehen, wie Ihre E-Mail auf verschiedenen Clients/Geräten angezeigt wird. Siehe den [Ausführen eines einzelnen Flussschritts aus einer Smart-Liste](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list).
    * Für [!DNL Litmus] ist es jetzt einfacher denn je, Ihr Konto zu integrieren und Rendering-Tests direkt über den E-Mail-Editor zu starten. Siehe den Artikel [Testen von E-Mail-Rendering mit [!DNL Litmus]](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/email-marketing/email-designer/test-email-rendering).
 * Sehen Sie sich die Funktion E-Mail-Spam-Bericht an, die in [!DNL SpamAssassin] integriert ist, um den Inhalt Ihrer E-Mail zu überprüfen und einen Wert dafür zuzuweisen, mit welcher Wahrscheinlichkeit sie den Posteingang erreicht oder als *Spam“* wird. Siehe den Artikel [E-Mail-Spam](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/email-marketing/email-designer/spam-report)Bericht.
-* Behalten Sie die [!UICONTROL Kampagnenwarteschlange“ im Auge] um zu überprüfen, ob Ihre Kampagnen Objekte mit hoher Dringlichkeit korrekt verarbeitet und priorisiert werden. Siehe [Läuft meine Kampagne?Artikel &#x200B;](https://nation.marketo.com/t5/knowledgebase/is-my-campaign-running/ta-p/248662).
+* Behalten Sie die [!UICONTROL Kampagnenwarteschlange“ im Auge] um zu überprüfen, ob Ihre Kampagnen Objekte mit hoher Dringlichkeit korrekt verarbeitet und priorisiert werden. Siehe [Läuft meine Kampagne?](https://nation.marketo.com/t5/knowledgebase/is-my-campaign-running/ta-p/248662) Artikel.
 
 ### Optimieren Sie Ihr Support-Erlebnis
 
@@ -322,10 +322,10 @@ So sorgen Sie während der Feiertage für reibungslosen Support:
 
 Bleiben Sie über Workfront-Versionen auf dem Laufenden und testen Sie neue Funktionen in Sandbox-Umgebungen:
 
-* [Vorbereiten auf eine Adobe Workfront-Version](https://experienceleague.adobe.com/de/docs/workfront/using/product-announcements/product-releases/release-readiness)
-* Archiv mit Versionshinweisen zu [Workfront](https://experienceleague.adobe.com/de/docs/workfront/using/product-announcements/product-releases/product-releases)
-* Übersicht über die Version [1. Quartal 2025](https://experienceleague.adobe.com/de/docs/workfront/using/product-announcements/product-releases/release-25-q1/25-q1-release-overview)
-* Aufzeichnung von Webinaren der [Workfront-Version](https://experienceleague.adobe.com/de/docs/events/workfront-recordings/releases/25-1-release-webinar)
+* [Vorbereiten einer Adobe Workfront-Version](https://experienceleague.adobe.com/de/docs/workfront/using/product-announcements/product-releases/release-readiness)
+* [Workfront-Archiv mit Versionshinweisen](https://experienceleague.adobe.com/de/docs/workfront/using/product-announcements/product-releases/product-releases)
+* [Übersicht über die Version 1. Quartal 2025](https://experienceleague.adobe.com/de/docs/workfront/using/product-announcements/product-releases/release-25-q1/25-q1-release-overview)
+* [Aufzeichnung von Webinaren der Workfront-Version](https://experienceleague.adobe.com/de/docs/events/workfront-recordings/releases/25-1-release-webinar)
 
 ### Best Practices
 
@@ -385,7 +385,7 @@ Um während der Feiertage ein schnelles und zuverlässiges Reporting zu gewährl
 
 * [Optimieren der Analysis Workspace-Leistung](https://experienceleague.adobe.com/de/docs/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance)
 * [Fehlerbehebung und Best Practices für Report Builder: Empfehlungen zur Anforderungsoptimierung](https://experienceleague.adobe.com/de/docs/analytics/analyze/legacy-report-builder/troubleshoot#section_33EF919255BF46CD97105D8ACB43573F)
-* [Analytics-Komponentenhandbuch: Warteschlange für terminierte Berichte](https://experienceleague.adobe.com/de/docs/analytics/components/scheduled-reports-admin)
+* [Analytics-Komponentenhandbuch: Warteschlange für geplante Berichte](https://experienceleague.adobe.com/de/docs/analytics/components/scheduled-reports-admin)
 
 ### Urlaubsplanung
 

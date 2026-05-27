@@ -4,7 +4,7 @@ description: Adobe bietet eine umfassende Palette technischer Ressourcen, die Si
 exl-id: 2ce6a990-1dbc-4f08-a29b-357e3e03a6d6
 source-git-commit: ddaeba7f5e8c2e6d4c7fc2112425ee83ee7eccd3
 workflow-type: tm+mt
-source-wordcount: '777'
+source-wordcount: '756'
 ht-degree: 100%
 
 ---
@@ -181,7 +181,7 @@ Auf <https://www.adobe.com> stehen Ihnen unsere ausführliche technische Produkt
 <thead>
   <tr>
     <th>Priorität</th>
-    <th>Standard-Support</th>
+    <th>Standard Support</th>
     <th>Business Support</th>
     <th>Enterprise Support</th>
     <th>Elite Support</th>
