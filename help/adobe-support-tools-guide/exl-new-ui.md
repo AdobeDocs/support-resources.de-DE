@@ -1,7 +1,7 @@
 ---
 title: Experience League Support-Portal - Neue Benutzeroberfläche
 description: Neu gestaltetes Experience League Support-Portal, das Support-Workflows, Fallkenntnisse und Produktüberwachung mit verbesserter Navigation, Analysen und Schnellaktionen optimiert und nahtlos zum aktuellen Portal für Fallmanagement wechselt.
-source-git-commit: c40672aed3df1f842cfd032b5a653b8fbf70876e
+source-git-commit: 693c4ee7852623006acd388d905b43bccab27730
 workflow-type: tm+mt
 source-wordcount: '898'
 ht-degree: 2%
@@ -22,7 +22,7 @@ Das neu gestaltete Experience League Support-Portal bietet ein einheitliches und
 
 Die **[!UICONTROL Startseite]** dient als zentraler Knotenpunkt für Support-Aktivitäten. Es bietet einen Überblick über die Support-Umgebung und schnellen Zugriff auf wichtige Funktionen.
 
-![Startseite für die neue EXL-Benutzeroberfläche](/help/adobe-support-tools-guide/assets/home-page-new-ui.png)
+![Startseite für die neue EXL-Benutzeroberfläche](/help/adobe-support-tools-guide/assets/home-page-new-ui-1.png)
 
 Das linke Navigationsfenster bietet Zugriff auf die folgenden Abschnitte:
 
@@ -60,7 +60,7 @@ Die folgenden Schnellaktionen sind oben auf der Seite &quot;**[!UICONTROL &quot;
 
 Der **[!UICONTROL Service Analytics]**-Abschnitt enthält eine Zusammenfassung der Aktivitäten mit Support-Fällen. Wechseln Sie zwischen den Ansichten **[!UICONTROL Meine Fälle]** und **[!UICONTROL Meine Organisationsfälle]**. Die Ansicht **[!UICONTROL Meine Fälle]** zeigt Fallstatistiken für den jeweiligen Kontakt an, während die Ansicht **[!UICONTROL Meine Organisationsfälle]** Fallstatistiken für das gesamte Unternehmen anzeigt.
 
-![Abschnitt „Service-Analyse“](/help/adobe-support-tools-guide/assets/service-analytics.png)
+![Abschnitt „Service-Analyse“](/help/adobe-support-tools-guide/assets/service-analytics-1.png)
 
 Die folgenden Metriken sind verfügbar:
 
@@ -71,7 +71,7 @@ Die folgenden Metriken sind verfügbar:
 
 In diesem Abschnitt wird eine visuelle Aufschlüsselung der Support-Fälle nach Prioritätsstufe angezeigt.
 
-![Anzahl der Fälle nach Prioritätsabschnitt](/help/adobe-support-tools-guide/assets/case-count-by-priority.png)
+![Anzahl der Fälle nach Prioritätsabschnitt](/help/adobe-support-tools-guide/assets/case-count-by-priority-1.png)
 
 Die Auswahl **[!UICONTROL Meine Fälle]** und **[!UICONTROL Meine Organisation]** gilt für dieses Diagramm und ermöglicht die Anzeige auf individueller oder organisatorischer Ebene.
 
@@ -85,7 +85,7 @@ In diesem Abschnitt werden die drei letzten Support-Fälle angezeigt, darunter:
 - Unterbreitungsdatum
 - Status
 
-![Abschnitt „Meine gesendeten Anfragen“](/help/adobe-support-tools-guide/assets/my-submitted-case.png)
+![Abschnitt „Meine gesendeten Anfragen“](/help/adobe-support-tools-guide/assets/my-submitted-case-1.png)
 
 Wählen Sie eine **[!UICONTROL Fall-ID]** aus, um die Falldetails im aktuellen Experience League-Support-Portal anzuzeigen. Wählen Sie **[!UICONTROL Alle Anfragen anzeigen]**, um die vollständige Liste der Anfragen anzuzeigen.
 
@@ -93,7 +93,7 @@ Wählen Sie eine **[!UICONTROL Fall-ID]** aus, um die Falldetails im aktuellen E
 
 In diesem Abschnitt wird der aktuelle Betriebsstatus der Adobe-Produkte angezeigt, die dem Unternehmen zugewiesen sind. Der Status **[!UICONTROL Verfügbar]** bedeutet, dass das Produkt voll funktionsfähig ist und keine aktiven Ausfälle auftreten. Wenn ein oder mehrere Probleme vorhanden sind, wird die Gesamtzahl der aktiven Probleme auf der Produktkarte angezeigt. Wählen Sie eine Produktkarte aus, um weitere Details zur Adobe-[&#x200B; (Status-Site](https://status.adobe.com/de/) anzuzeigen.
 
-![Abschnitt „Warnhinweise zum Produktstatus“](/help/adobe-support-tools-guide/assets/product-status-alerts.png)
+![Abschnitt „Warnhinweise zum Produktstatus“](/help/adobe-support-tools-guide/assets/product-status-alerts-1.png)
 
 ## Ihr Systemstatus-Warnhinweise
 
@@ -115,7 +115,7 @@ Und jeder Warnhinweis enthält:
 
 Wählen Sie einen Warnhinweis aus, um ihn zu erweitern und zusätzliche Details anzuzeigen.
 
-![Ihr Abschnitt Systemstatus-Warnungen](/help/adobe-support-tools-guide/assets/system-status-alerts.png)
+![Ihr Abschnitt Systemstatus-Warnungen](/help/adobe-support-tools-guide/assets/system-status-alerts-1.png)
 
 Wählen Sie **[!UICONTROL Abonnements verwalten]** aus, um Benachrichtigungseinstellungen für Ihre Adobe-Produkte auf der Adobe-[Status-Site](https://status.adobe.com/de) zu konfigurieren.
 
@@ -131,7 +131,7 @@ Die Seite **[!UICONTROL Mein Erfolg]** bietet eine personalisierte Ansicht der I
 >  
 >Diese Seite steht nur Kunden mit dem Plan **[!UICONTROL Ultimate Success]** zur Verfügung.
 
-![Meine Erfolgsseite](/help/adobe-support-tools-guide/assets/my-success-page.png)
+![Meine Erfolgsseite](/help/adobe-support-tools-guide/assets/my-success-page-1.png)
 
 Die Seite enthält:
 
@@ -148,4 +148,4 @@ Es bietet außerdem Zugriff auf Lernressourcen wie Experience League, die Experi
 
 In diesem Abschnitt wird Ihr dediziertes Adobe Success-Team angezeigt. Wählen **[!UICONTROL Kontakt]** neben einem Teammitglied aus, um eine E-Mail zu senden.
 
-![Abschnitt &quot;Adobe Success Team“](/help/adobe-support-tools-guide/assets/adobe-success-team.png)
+![Abschnitt &quot;Adobe Success Team“](/help/adobe-support-tools-guide/assets/adobe-success-team-1.png)
