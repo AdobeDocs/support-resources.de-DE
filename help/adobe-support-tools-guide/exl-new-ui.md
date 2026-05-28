@@ -1,7 +1,7 @@
 ---
 title: Experience League Support-Portal - Neue Benutzeroberfläche
 description: Neu gestaltetes Experience League Support-Portal, das Support-Workflows, Fallkenntnisse und Produktüberwachung mit verbesserter Navigation, Analysen und Schnellaktionen optimiert und nahtlos zum aktuellen Portal für Fallmanagement wechselt.
-source-git-commit: 693c4ee7852623006acd388d905b43bccab27730
+source-git-commit: 06859737ce72b5350543f8e02c30a721884e2464
 workflow-type: tm+mt
 source-wordcount: '898'
 ht-degree: 2%
@@ -40,7 +40,7 @@ Beim Wechsel der Organisation werden Falldaten, Produktstatus und Support-Inform
 
 Verwenden Sie den Umschalter im -Portal, um zwischen dem neu gestalteten Experience League-Supportportal und dem aktuellen Portal zu wechseln.
 
-![Neue Benutzeroberfläche](/help/adobe-support-tools-guide/assets/new-toggle.png)
+![Neue Benutzeroberfläche](/help/adobe-support-tools-guide/assets/new-toggle-1.png)
 
 Beide Portale bleiben synchronisiert, sodass Falldaten und Support-Informationen erlebnisübergreifend konsistent bleiben.
 
@@ -91,7 +91,7 @@ Wählen Sie eine **[!UICONTROL Fall-ID]** aus, um die Falldetails im aktuellen E
 
 ## Warnhinweise zum Produktstatus
 
-In diesem Abschnitt wird der aktuelle Betriebsstatus der Adobe-Produkte angezeigt, die dem Unternehmen zugewiesen sind. Der Status **[!UICONTROL Verfügbar]** bedeutet, dass das Produkt voll funktionsfähig ist und keine aktiven Ausfälle auftreten. Wenn ein oder mehrere Probleme vorhanden sind, wird die Gesamtzahl der aktiven Probleme auf der Produktkarte angezeigt. Wählen Sie eine Produktkarte aus, um weitere Details zur Adobe-[&#x200B; (Status-Site](https://status.adobe.com/de/) anzuzeigen.
+In diesem Abschnitt wird der aktuelle Betriebsstatus der Adobe-Produkte angezeigt, die dem Unternehmen zugewiesen sind. Der Status **[!UICONTROL Verfügbar]** bedeutet, dass das Produkt voll funktionsfähig ist und keine aktiven Ausfälle auftreten. Wenn ein oder mehrere Probleme vorhanden sind, wird die Gesamtzahl der aktiven Probleme auf der Produktkarte angezeigt. Wählen Sie eine Produktkarte aus, um weitere Details zur Adobe-[ (Status-Site](https://status.adobe.com/de/) anzuzeigen.
 
 ![Abschnitt „Warnhinweise zum Produktstatus“](/help/adobe-support-tools-guide/assets/product-status-alerts-1.png)
 
