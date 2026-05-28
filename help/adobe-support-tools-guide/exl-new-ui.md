@@ -1,7 +1,7 @@
 ---
 title: Experience League Support-Portal - Neue Benutzeroberfläche
 description: Neu gestaltetes Experience League Support-Portal, das Support-Workflows, Fallkenntnisse und Produktüberwachung mit verbesserter Navigation, Analysen und Schnellaktionen optimiert und nahtlos zum aktuellen Portal für Fallmanagement wechselt.
-source-git-commit: 693c4ee7852623006acd388d905b43bccab27730
+source-git-commit: 06859737ce72b5350543f8e02c30a721884e2464
 workflow-type: tm+mt
 source-wordcount: '898'
 ht-degree: 2%
@@ -40,7 +40,7 @@ Beim Wechsel der Organisation werden Falldaten, Produktstatus und Support-Inform
 
 Verwenden Sie den Umschalter im -Portal, um zwischen dem neu gestalteten Experience League-Supportportal und dem aktuellen Portal zu wechseln.
 
-![Neue Benutzeroberfläche](/help/adobe-support-tools-guide/assets/new-toggle.png)
+![Neue Benutzeroberfläche](/help/adobe-support-tools-guide/assets/new-toggle-1.png)
 
 Beide Portale bleiben synchronisiert, sodass Falldaten und Support-Informationen erlebnisübergreifend konsistent bleiben.
 
