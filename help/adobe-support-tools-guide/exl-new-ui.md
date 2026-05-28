@@ -2,10 +2,16 @@
 title: Experience League Support-Portal - Neue Benutzeroberfläche
 description: Neu gestaltetes Experience League Support-Portal, das Support-Workflows, Fallkenntnisse und Produktüberwachung mit verbesserter Navigation, Analysen und Schnellaktionen optimiert und nahtlos zum aktuellen Portal für Fallmanagement wechselt.
 TQID: 'https://experienceleague.adobe.com/-pTlo6TkAlBDt4-xPwcU-I7yWtUinu2avTCoJVXK2bs'
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: 2efca23d4302f4c6caf580a9ae3d3ffde70bfa36
 workflow-type: tm+mt
 source-wordcount: 898
@@ -96,7 +102,7 @@ Wählen Sie eine **[!UICONTROL Fall-ID]** aus, um die Falldetails im aktuellen E
 
 ## Warnhinweise zum Produktstatus
 
-In diesem Abschnitt wird der aktuelle Betriebsstatus der Adobe-Produkte angezeigt, die dem Unternehmen zugewiesen sind. Der Status **[!UICONTROL Verfügbar]** bedeutet, dass das Produkt voll funktionsfähig ist und keine aktiven Ausfälle auftreten. Wenn ein oder mehrere Probleme vorhanden sind, wird die Gesamtzahl der aktiven Probleme auf der Produktkarte angezeigt. Wählen Sie eine Produktkarte aus, um weitere Details zur Adobe-[ (Status-Site](https://status.adobe.com/de/) anzuzeigen.
+In diesem Abschnitt wird der aktuelle Betriebsstatus der Adobe-Produkte angezeigt, die dem Unternehmen zugewiesen sind. Der Status **[!UICONTROL Verfügbar]** bedeutet, dass das Produkt voll funktionsfähig ist und keine aktiven Ausfälle auftreten. Wenn ein oder mehrere Probleme vorhanden sind, wird die Gesamtzahl der aktiven Probleme auf der Produktkarte angezeigt. Wählen Sie eine Produktkarte aus, um weitere Details zur Adobe-[&#x200B; (Status-Site](https://status.adobe.com/de/) anzuzeigen.
 
 ![Abschnitt „Warnhinweise zum Produktstatus“](/help/adobe-support-tools-guide/assets/product-status-alerts-1.png)
 
