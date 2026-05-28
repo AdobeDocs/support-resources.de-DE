@@ -4,16 +4,12 @@ description: Die neuesten Versionsinformationen zur Experience League-Unterstüt
 feature: Release Notes
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
 TQID: https://experienceleague.adobe.com/deGe04hNuc2gsMLHx49aIihzTqQoUbFYCYiReOgzowk
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-topic_v2:
-  - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: bff5962913571b7bc192e634346c124985dc3609
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11
+source-git-commit: a279aba612b6a6c61e4df38ee42b76fca90d20ea
 workflow-type: tm+mt
-source-wordcount: 1177
+source-wordcount: 1209
 ht-degree: 1%
 
 ---
@@ -25,6 +21,10 @@ Diese Versionshinweise enthalten Aktualisierungen zur Experience League-Unterst�
 ![Neu](../adobe-support-tools-guide/assets/new.svg) Neue Funktionen
 ![Fehlerbehebung](../adobe-support-tools-guide/assets/fix.svg) Fehlerbehebungen und Verbesserungen
 ![Bug](../adobe-support-tools-guide/assets/bug.svg) Bekannte Probleme
+
+## &#x200B;28. Mai 2026 - Erweiterung der Funktion [!UICONTROL Callback anfordern]
+
+Die **[!UICONTROL Callback anfordern]**-Funktion ist jetzt für Benutzende von Adobe Journey Optimizer-, Customer Journey Analytics- und Real-Time Customer Data Platform-Produkten verfügbar.
 
 ## &#x200B;26. Mai 2026 - Aktualisierung der Benutzeroberfläche des Experience League-Support-Portals
 
@@ -44,7 +44,7 @@ Diese Versionshinweise enthalten Aktualisierungen zur Experience League-Unterst�
 >
 >Aktualisierungen der Seiten zur Fallerstellung, zu den Falldetails und zu „Meine Fälle“ sind für eine zukünftige Version geplant. Bis dahin bleiben diese Seiten im aktuellen Experience League Support-Portal verfügbar.
 
-## &#x200B;7. Mai 2026 - Erweiterung der Funktion „Request for Callback“
+## &#x200B;7. Mai 2026 - Erweiterung der Funktion [!UICONTROL Callback anfordern]
 
 Die Funktion „Rückruf anfordern“ ist jetzt sowohl für Adobe Commerce als auch für Adobe GenStudio verfügbar. Adobe Commerce-Kunden können einen Callback bequem zu einem Zeitpunkt planen, der für sie am besten geeignet ist, während Adobe GenStudio-Kunden die Möglichkeit haben, entweder einen sofortigen oder einen geplanten Callback anzufordern.
 
@@ -78,13 +78,13 @@ Die Funktion „Rückruf anfordern“ ist jetzt sowohl für Adobe Commerce als a
 
 1. Anwender können Feedback zu individuellen Einblicken senden, damit Adobe die Genauigkeit und Relevanz von System Insights kontinuierlich verbessern kann.
 
-## &#x200B;23. April 2026 - Erweiterung der Callback-Funktion
+## &#x200B;23. April 2026 - Erweiterung der Funktion [!UICONTROL Callback anfordern]
 
-Die Rückrufanfrage-Funktion ist jetzt für Benutzende von Analytics-, Admin Console-, Audience Manager- und Target-Produkten verfügbar.
+Die Funktion **[!UICONTROL Callback anfordern]** ist jetzt für Benutzende von Analytics-, Admin Console-, Audience Manager- und Target-Produkten verfügbar.
 
-## &#x200B;8. April 2026 - Erweiterung der Callback-Funktion
+## &#x200B;8. April 2026 - Erweiterung der Funktion [!UICONTROL Callback anfordern]
 
-Die Rückrufanfrage-Funktion ist jetzt für Benutzende von Marketo-Produkten verfügbar.
+Die **[!UICONTROL Callback anfordern]**-Funktion ist jetzt für Benutzende von Marketo-Produkten verfügbar.
 
 ## &#x200B;30. März 2026 - Verbessertes Antragsformular
 
@@ -143,9 +143,9 @@ Die Rückrufanfrage-Funktion ist jetzt für Benutzende von Marketo-Produkten ver
 
 ![Korrigieren](../adobe-support-tools-guide/assets/fix.svg) Es wurden Sternchen (*) als obligatorische Feldindikatoren hinzugefügt, um die Vollständigkeit sicherzustellen und Fehler bei der Übermittlung zu reduzieren.
 
-## &#x200B;18. März 2026 - Erweiterung der Funktion „Request for Callback“
+## &#x200B;18. März 2026 - Erweiterung der Funktion [!UICONTROL Callback anfordern]
 
-Experience League bietet jetzt die Option „Callback anfordern“, die eine Self-Service-Planung von Web-Meetings mit Funktionen zur Bildschirmfreigabe ermöglicht, um die Problembehebung zu beschleunigen.
+Experience League bietet jetzt die Option **[!UICONTROL Callback anfordern]**, die eine Self-Service-Planung von Web-Meetings mit Funktionen zur Bildschirmfreigabe für eine schnellere Problembehebung ermöglicht.
 
 - Diese Funktion ist für Adobe Experience Manager, Campaign und Workfront verfügbar.
 - Kunden können Meetings nach Bedarf planen und sofort Einladungen erhalten.
