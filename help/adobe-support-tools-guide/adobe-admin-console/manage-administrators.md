@@ -5,9 +5,9 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 41c00379-98ee-4922-8eba-cc373c23a019
-source-git-commit: e3179d567660c4960ce398062629ed1f695eab49
+source-git-commit: 174cc3f37780e28d7de9359071ebfebbf7f063da
 workflow-type: tm+mt
-source-wordcount: '1211'
+source-wordcount: '1244'
 ht-degree: 2%
 
 ---
@@ -18,8 +18,7 @@ ht-degree: 2%
 
 Erfahren Sie mehr über die Funktionen globaler Administratoren und darüber, wie Sie die Verwaltung von Benutzern, Produktlizenzen und Gruppen an Administratoren bzw. Administratorinnen für jede einzelne Organisation delegieren und verteilen.
 
-In der Global Admin Console können Sie ein Unternehmen auswählen und zur Registerkarte **[!UICONTROL Administratoren]** navigieren, um Administratorrechte hinzuzufügen, zu bearbeiten oder zu entfernen. Weitere Informationen finden Sie unter [Globale Administration übernehmen](https://experienceleague.adobe.com/de/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration). Klicken Sie hier [melden Sie sich bei der Admin Console an](https://adminconsole.adobe.com).
-
+In der Global Admin Console können Sie ein Unternehmen auswählen und zur Registerkarte **[!UICONTROL Administratoren]** navigieren, um Administratorrechte hinzuzufügen, zu bearbeiten oder zu entfernen. Jedes Unternehmen in der Hierarchie ist eine Adobe Admin Console. Informationen [&#x200B; Gruppierung dieser Konsolen durch die Global Admin Console finden &#x200B;](https://experienceleague.adobe.com/de/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration) unter „Globale Administration übernehmen“. Melden Sie sich bei der [Global Admin Console](https://global-admin-console.adobe.com) für hierarchieübergreifende Aufgaben an oder bei der [Adobe Admin Console](https://adminconsole.adobe.com) für Aufgaben innerhalb einer einzelnen Organisation.
 
 Mit der Global Admin Console wird eine Rolle als globaler Administrator eingeführt. Diese Rolle unterscheidet sich von der eines Systemadministrators und ermöglicht Ihnen Folgendes:
 

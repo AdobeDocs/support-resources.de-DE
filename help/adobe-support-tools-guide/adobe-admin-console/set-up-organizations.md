@@ -5,9 +5,9 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 6fcf16e3-0408-4961-9981-14d526e1ea28
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+source-git-commit: e4d473130a577a7673aba981a42bcb7ac352c18c
 workflow-type: tm+mt
-source-wordcount: '1834'
+source-wordcount: '1872'
 ht-degree: 0%
 
 ---
@@ -20,9 +20,13 @@ Erfahren Sie, wie globale Administratoren die Hierarchie des Unternehmens in der
 
 Nachdem Sie [Zugriff auf die Global Admin Console](https://experienceleague.adobe.com/de/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration#request-access-to-the-global-admin-console) erhalten haben, können Sie neue Organisationen erstellen, bestehende Organisationen zur Hierarchie hinzufügen, Organisationen löschen und eine übergeordnete Organisation ändern. Klicken Sie hier [melden Sie sich bei der Global Admin Console an](https://global-admin-console.adobe.com/).
 
-Eine Organisation ist eine Struktur zur Verwaltung von Adobe-Produkten und -Benutzern. Mit der [Adobe Admin Console](https://experienceleague.adobe.com/de/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview) können Admins die Bereitstellung und Konfiguration von Produkten und Benutzenden in ihrem Unternehmen verwalten. Mit der [Global Admin Console](https://experienceleague.adobe.com/de/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration) können globale Administratoren mehrere Organisationen erstellen, verwalten und löschen.
+In der Global Admin Console ist ein Unternehmen eine Adobe Admin Console - eine Struktur zum Verwalten von Adobe-Produkten und -Benutzern für eine Einheit in Ihrem Unternehmen. Mit der [Adobe Admin Console](https://experienceleague.adobe.com/de/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview) können Systemadministratoren Bereitstellung, Benutzer und Lizenzen in dieser Konsole verwalten. Mit der [Global Admin Console](https://experienceleague.adobe.com/de/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration) können globale Administratoren untergeordnete Admin Consoles (untergeordnete Organisationen) in der Hierarchie erstellen, neu übergeben und löschen sowie Produkte von übergeordneten zu untergeordneten Konsolen zuweisen.
 
 ## Erstellen einer untergeordneten Organisation
+
+>[!NOTE]
+>
+> Eine untergeordnete Organisation ist eine untergeordnete Adobe Admin Console. Durch die Erstellung einer neuen Konsole wird Ihrer Global Admin Console-Hierarchie eine neue Konsole hinzugefügt.
 
 Als [globaler Administrator](https://experienceleague.adobe.com/de/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators) können Sie untergeordnete Organisationen jeder Organisation in der Hierarchie erstellen und den Namen, das Land, Benutzergruppen, Produkte, Produktprofile, Administratoren und Richtlinien festlegen.
 

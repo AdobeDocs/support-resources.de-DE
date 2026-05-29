@@ -5,10 +5,10 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 6a94922a-3343-433d-96e7-0af0f26581a1
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+source-git-commit: d1ef19b7858bb0f7b81b88cdf5b72eddc2647ada
 workflow-type: tm+mt
-source-wordcount: '689'
-ht-degree: 2%
+source-wordcount: '705'
+ht-degree: 1%
 
 ---
 
@@ -20,11 +20,11 @@ Erfahren Sie, wie Sie eine Organisation für die Bearbeitung in der Global Admin
 >
 >Nachdem Sie Zugriff auf die [Global Admin Console](https://experienceleague.adobe.com/de/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration#request-access-to-the-global-admin-console) haben, können Sie zunächst ein Unternehmen auswählen, um den Namen, die Benutzergruppen, die Produktprofile, die Administratoren und die Organisationsrichtlinien des Unternehmens anzuzeigen und zu verwalten. Um sich anzumelden, navigieren Sie zur [Global Admin Console](https://global-admin-console.adobe.com/).
 
-Der Global Admin Console fungiert als zentraler Management-Hub für Adobe-Ressourcen. Globale Administratoren können:
+Die Global Admin Console gruppiert Adobe Admin Consoles hierarchisch. Jedes ausgewählte Unternehmen ist ein Adobe Admin Console. Globale Administratoren können:
 
-- Erstellen von untergeordneten Organisationen unter ihrer Organisation
-- Systemadministratoren zuweisen, um sie zu verwalten
-- Verteilen von Ressourcen an untergeordnete Organisationen zur Verwaltung und Zuweisung an Benutzer in diesen Organisationen
+- Erstellen von untergeordneten Admin Consoles (untergeordneten Organisationen) unter ihrer Organisation
+- Weisen Sie Systemadministratoren zu, um jede untergeordnete Konsole zu verwalten
+- Weisen Sie den untergeordneten Admin Consoles unterstützte Produktressourcen/Lizenzen zu, damit Systemadministratoren sie Benutzern in diesen Konsolen zuweisen können.
 
 >[!NOTE]
 >

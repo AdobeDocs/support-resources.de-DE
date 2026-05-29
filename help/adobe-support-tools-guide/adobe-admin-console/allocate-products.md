@@ -5,9 +5,9 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: de6e785d-8965-40d5-ac78-7fbb2cd7afc7
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+source-git-commit: 174cc3f37780e28d7de9359071ebfebbf7f063da
 workflow-type: tm+mt
-source-wordcount: '1177'
+source-wordcount: '1100'
 ht-degree: 0%
 
 ---
@@ -16,9 +16,9 @@ ht-degree: 0%
 
 Gilt für Unternehmen.
 
-Erfahren Sie, wie globale Administratoren Ressourcen an untergeordnete Organisationen verteilen können, um eine effektive Ressourcenverwaltung und Benutzerzuweisung innerhalb jeder Organisation zu ermöglichen.
+Erfahren Sie, wie globale Administratoren Ressourcen an untergeordnete Organisationen (untergeordnete Admin Consoles in Ihrer Hierarchie) verteilen können, sodass Systemadministratoren in jeder Konsole Lizenzen Benutzern zuweisen können.
 
-Wechseln Sie in der [Global Admin Console](https://experienceleague.adobe.com/de/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration) zur Registerkarte **[!UICONTROL Produktzuordnung]** und wählen Sie dann ein Produkt aus, das untergeordneten Organisationen zugeordnet werden soll.
+Wechseln Sie in der [Global Admin Console](https://experienceleague.adobe.com/de/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration) zur Registerkarte **[!UICONTROL Produktzuordnung]** und wählen Sie dann ein Produkt aus, das untergeordneten Organisationen zugeordnet werden soll. Globale Administratoren ordnen Produkte hierarchisch nach unten zu. Endbenutzern werden keine Lizenzen zugewiesen, da diese in jeder untergeordneten Adobe Admin Console bleiben.
 
 Melden Sie sich bei der [Global Admin Console](https://global-admin-console.adobe.com) an.
 
