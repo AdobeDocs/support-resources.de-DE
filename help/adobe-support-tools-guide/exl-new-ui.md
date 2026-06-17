@@ -12,10 +12,10 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 2efca23d4302f4c6caf580a9ae3d3ffde70bfa36
+source-git-commit: cb188c0e7ac012dbe9ef83d805b1b5df7a1c69db
 workflow-type: tm+mt
-source-wordcount: 898
-ht-degree: 2%
+source-wordcount: 1083
+ht-degree: 1%
 
 ---
 
@@ -69,26 +69,37 @@ Die folgenden Schnellaktionen sind oben auf der Seite &quot;**[!UICONTROL &quot;
 
 ## Analytics-Service
 
-Der **[!UICONTROL Service Analytics]**-Abschnitt enthält eine Zusammenfassung der Aktivitäten mit Support-Fällen. Wechseln Sie zwischen den Ansichten **[!UICONTROL Meine Fälle]** und **[!UICONTROL Meine Organisationsfälle]**. Die Ansicht **[!UICONTROL Meine Fälle]** zeigt Fallstatistiken für den jeweiligen Kontakt an, während die Ansicht **[!UICONTROL Meine Organisationsfälle]** Fallstatistiken für das gesamte Unternehmen anzeigt.
+Im **[!UICONTROL Service Analytics]** wird eine Zusammenfassung der Aktivität von Support-Fällen angezeigt. Verwenden Sie den Ansichtsselektor, um zwischen &quot;**[!UICONTROL Anfragen“]** &quot;**[!UICONTROL Organisation“]**:
 
-![Abschnitt „Service-Analyse“](/help/adobe-support-tools-guide/assets/service-analytics-1.png)
+- **[!UICONTROL Meine Fälle]** - Zeigt Fallstatistiken speziell für den Kontakt an.
+- **[!UICONTROL Meine Organisationsfälle]** - Zeigt Fallstatistiken für die ausgewählte Organisation an.
 
-Die folgenden Metriken sind verfügbar:
+Die ausgewählte Ansicht gilt für alle Metriken und Diagramme in diesem Abschnitt, einschließlich der Abschnitte [[!UICONTROL Anzahl der Fälle nach Priorität]](#cases-count-by-priority) und [[!UICONTROL Meine gesendeten &#x200B;]](#my-submitted-cases)&quot;.
 
-**[!UICONTROL Ausstehende Antwortfälle]** - Anzahl der Fälle, die derzeit auf eine Antwort warten
-**[!UICONTROL Eingereichte Fälle]** - Gesamtzahl der eingereichten Fälle
+![Service-Analyse](/help/adobe-support-tools-guide/assets/service-analytics-1.png)
+
+Der **[!UICONTROL Service Analytics]** Abschnitt enthält die folgenden Metriken:
+
+- **[!UICONTROL Ausstehende Antwortfälle]** - Zeigt die Anzahl der Fälle an, die auf eine Antwort warten.
+- **[!UICONTROL Gesendete Fälle]** - Zeigt die Gesamtzahl der gesendeten Fälle an.
 
 ## Fälle nach Priorität zählen
 
 In diesem Abschnitt wird eine visuelle Aufschlüsselung der Support-Fälle nach Prioritätsstufe angezeigt.
 
-![Anzahl der Fälle nach Prioritätsabschnitt](/help/adobe-support-tools-guide/assets/case-count-by-priority-1.png)
+![Anzahl der Fälle nach Priorität](/help/adobe-support-tools-guide/assets/case-count-by-priority-1.png)
 
-Die Auswahl **[!UICONTROL Meine Fälle]** und **[!UICONTROL Meine Organisation]** gilt für dieses Diagramm und ermöglicht die Anzeige auf individueller oder organisatorischer Ebene.
+Die Auswahl **[!UICONTROL Meine Fälle]** und **[!UICONTROL Meine Organisation]** im Abschnitt **[!UICONTROL Service Analytics]** gilt für dieses Diagramm und ermöglicht die Anzeige auf Einzel- oder Organisationsebene.
+
+Bewegen Sie den Mauszeiger über ein Prioritätssegment, um eine QuickInfo anzuzeigen, die Folgendes enthält:
+
+- Gesamtzahl der Fälle für diese Prioritätsstufe
+- Anzahl offener Fälle
+- Anzahl abgeschlossener Fälle
 
 ## Meine eingereichten Anfragen
 
-In diesem Abschnitt werden die drei letzten Support-Fälle angezeigt, darunter:
+In diesem Abschnitt werden die drei zuletzt eingereichten Support-Fälle angezeigt, darunter:
 
 - Fall-ID
 - Anwaltsbezeichnung
@@ -96,15 +107,38 @@ In diesem Abschnitt werden die drei letzten Support-Fälle angezeigt, darunter:
 - Unterbreitungsdatum
 - Status
 
-![Abschnitt „Meine gesendeten Anfragen“](/help/adobe-support-tools-guide/assets/my-submitted-case-1.png)
+![Meine eingereichten Anfragen](/help/adobe-support-tools-guide/assets/my-submitted-case-1.png)
 
-Wählen Sie eine **[!UICONTROL Fall-ID]** aus, um die Falldetails im aktuellen Experience League-Support-Portal anzuzeigen. Wählen Sie **[!UICONTROL Alle Anfragen anzeigen]**, um die vollständige Liste der Anfragen anzuzeigen.
+Wenn **[!UICONTROL Meine Fälle]** ausgewählt ist, werden in diesem Abschnitt die drei zuletzt gesendeten Fälle angezeigt. Wenn **[!UICONTROL Meine Organisation Anfragen]** im Abschnitt **[!UICONTROL Service Analytics]** ausgewählt ist, werden die drei zuletzt gesendeten Anfragen im gesamten Unternehmen angezeigt.
+
+![Meine Fälle](/help/adobe-support-tools-guide/assets/my-case.png)
+
+Wählen Sie eine **[!UICONTROL Fall-ID]** aus, um die Falldetails im aktuellen Experience League-Support-Portal anzuzeigen.
+
+![Fall-ID auswählen](/help/adobe-support-tools-guide/assets/select-case-id.png)
+
+Wählen Sie **[!UICONTROL Alle Anfragen anzeigen]**, um die Seite **[!UICONTROL Meine Anfragen]** im aktuellen Experience League-Support-Portal zu öffnen.
+
+![Alle Anfragen anzeigen](/help/adobe-support-tools-guide/assets/view-all-cases.png)
+
+Wenn **[!UICONTROL Meine Fälle]** in **[!UICONTROL Service Analytics]** ausgewählt ist, wird **[!UICONTROL Meine Fälle (Alle)]** vorausgewählt und im Experience League Support-Portal geöffnet. Wenn **[!UICONTROL Meine Organisationsfälle]** ausgewählt ist, wird **[!UICONTROL Die Fälle (alle)]** meiner Organisation im Experience League-Support-Portal vorausgewählt.
 
 ## Warnhinweise zum Produktstatus
 
-In diesem Abschnitt wird der aktuelle Betriebsstatus der Adobe-Produkte angezeigt, die dem Unternehmen zugewiesen sind. Der Status **[!UICONTROL Verfügbar]** bedeutet, dass das Produkt voll funktionsfähig ist und keine aktiven Ausfälle auftreten. Wenn ein oder mehrere Probleme vorhanden sind, wird die Gesamtzahl der aktiven Probleme auf der Produktkarte angezeigt. Wählen Sie eine Produktkarte aus, um weitere Details zur Adobe-[&#x200B; (Status-Site](https://status.adobe.com/de/) anzuzeigen.
+In diesem Abschnitt wird der aktuelle Betriebsstatus der dem Unternehmen zugewiesenen Adobe-Produkte angezeigt.
 
-![Abschnitt „Warnhinweise zum Produktstatus“](/help/adobe-support-tools-guide/assets/product-status-alerts-1.png)
+![Warnhinweis zum Produktstatus](/help/adobe-support-tools-guide/assets/product-status-alerts-1.png)
+
+Der Status **[!UICONTROL Verfügbar]** bedeutet, dass das Produkt voll funktionsfähig ist und keine aktiven Ausfälle auftreten. Wenn ein oder mehrere Probleme vorhanden sind, wird die Gesamtzahl der aktiven Probleme auf der Produktkarte angezeigt.
+
+Produkte werden in der folgenden Reihenfolge angezeigt:
+
+1. Produkte mit aktiven Problemen
+1. Verbleibende Produkte in alphabetischer Reihenfolge
+
+Diese Priorisierung hilft dabei, Produkte, die Aufmerksamkeit erfordern, schnell zu identifizieren und zu priorisieren. Sie können eine oder mehrere Produktkarten auswählen, um Warnhinweise in **[!UICONTROL Ihre Systemstatus-Warnhinweise]** auf der **[!UICONTROL -]** zu filtern.
+
+![Warnhinweisfilter](/help/adobe-support-tools-guide/assets/select-more-products.png)
 
 ## Ihr Systemstatus-Warnhinweise
 
@@ -151,7 +185,7 @@ Die Seite enthält:
 - Wichtigste Bestandteile des Plans, darunter:
    - **[!UICONTROL Erfolgsteam]**
    - **[!UICONTROL Erfolgsbeschleuniger]**
-   - **[!UICONTROL Gegenseitiger Aktionsplan]**
+   - **[!UICONTROL Mutual Action Plan]**
 
 Es bietet außerdem Zugriff auf Lernressourcen wie Experience League, die Experience League-Community und Premium-Lernabonnements.
 
