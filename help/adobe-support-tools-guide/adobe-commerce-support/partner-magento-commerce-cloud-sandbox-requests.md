@@ -5,10 +5,10 @@ feature: Cloud
 solution: Commerce
 feature-set: Commerce
 exl-id: 844e7e59-15f2-43f8-a8ea-b5ba2ee41f02
-source-git-commit: ad8c171204cedc16c2cadd794998f53b01d01894
+source-git-commit: 35ed6ef84423367f4e0ba3be7b17e68ab9db70ae
 workflow-type: tm+mt
-source-wordcount: '355'
-ht-degree: 0%
+source-wordcount: '423'
+ht-degree: 2%
 
 ---
 
@@ -36,8 +36,7 @@ Siehe [Fehlerbehebung bei der Bereitstellung](https://experienceleague.adobe.com
 
 Partner mit einem Partner-Sandbox-Cloud-Projekt können keine Tickets für Sandbox-bezogene Probleme über den [Support-Abschnitt von Experience League](https://experienceleague.adobe.com/de/support?support-tab=home#home) einreichen. Bitte verwenden Sie kein Händlerkonto, um diese Tickets einzureichen, da dies in ihrem Namen eingereicht werden kann und Verwirrung stiften kann.
 
-> **Beispiel:**
-> Während sich dieser Abschnitt auf Adobe Commerce Cloud-Sandbox-Konten bezieht, gilt dieselbe Anforderung, wenn Partner in internen Umgebungen arbeiten und nicht für einen bestimmten Kunden. Partner dürfen keine Support-Anfragen unter einer Kundenorganisation einreichen, es sei denn, sie werden im Namen dieses Kunden aktiv engagiert.
+Diese Anforderung gilt auch, wenn Partner in internen Umgebungen und nicht für einen bestimmten Kunden arbeiten. Partner dürfen keine Support-Anfragen unter einer Kundenorganisation einreichen, es sei denn, sie werden im Namen dieses Kunden aktiv engagiert.
 
 Wenn Sie ein Ticket im Namen eines Händlers einreichen, dem kein gemeinsamer Zugriff gewährt wurde, fordern Sie den Zugriff vom Kontoinhaber an. Anweisungen zum Anfordern von Zugriff finden Sie unter [Freigegebener Zugriff: Gewähren von Berechtigungen für andere Benutzer zum Zugriff auf Ihr Konto](https://experienceleague.adobe.com/de/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access).
 
