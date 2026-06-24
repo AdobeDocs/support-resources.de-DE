@@ -2,7 +2,8 @@
 title: Systemeinblicke
 description: Systemeinblicke identifizieren proaktiv potenzielle Probleme in Adobe Commerce-Umgebungen. Die Überprüfung der Erkenntnisse während der Erstellung von Fällen verkürzt die Problembehebungszeit, hilft Ausfälle zu verhindern und unterstützt eine stabile und sichere Bereitstellung.
 hide: true
-source-git-commit: f9a38443243d230c76d968ca7a67c4ba29d07a26
+hold: true
+source-git-commit: d72c704d44f675d40c9c5b0ce2132957d5129df9
 workflow-type: tm+mt
 source-wordcount: '738'
 ht-degree: 1%
@@ -33,15 +34,15 @@ Die regelmäßige Überprüfung der Systemeinblicke hilft, Probleme frühzeitig 
 
 ## Verfügbarkeit und Umfang
 
-Systemeinblicke sind derzeit nur für Adobe Commerce verfügbar. Diese Erkenntnisse werden während der Fallerstellung im Experience League Support angezeigt und sind auch über das [Site-Wide Analysis Tool (SWAT) verfügbar](https://experienceleague.adobe.com/de/docs/commerce-operations/tools/site-wide-analysis-tool/intro).
+Systemeinblicke sind derzeit nur für Adobe Commerce verfügbar. Diese Erkenntnisse werden während der Fallerstellung im Experience League Support angezeigt und sind auch über das [Site-Wide Analysis Tool (SWAT) verfügbar](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/site-wide-analysis-tool/intro).
 
->[ !NHinweis]
+>[!NHinweis]
 >
 >System Insights zeigt Daten nur für Produktionsumgebungen an.
 
 ## Zugriff auf Systemeinblicke
 
-Systemeinblicke werden während des gesamten Arbeitsablaufs für die Fallerstellung angezeigt. Wenn Sie Problemdetails eingeben, wird **[!UICONTROL Bedienfeld &quot;]** Insights“ auf der rechten Bildschirmseite unter dem Abschnitt KI-gestützte Empfehlungen angezeigt. Weitere Informationen zu KI-gestützten Empfehlungen finden Sie unter [Support-Ticket ausfüllen](https://experienceleague.adobe.com/de/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#fill-out-the-support-ticket) im Artikel Adobe-Kundensupporterlebnis .
+Systemeinblicke werden während des gesamten Arbeitsablaufs für die Fallerstellung angezeigt. Wenn Sie Problemdetails eingeben, wird **[!UICONTROL Bedienfeld &quot;]** Insights“ auf der rechten Bildschirmseite unter dem Abschnitt KI-gestützte Empfehlungen angezeigt. Weitere Informationen zu KI-gestützten Empfehlungen finden Sie unter [Support-Ticket ausfüllen](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#fill-out-the-support-ticket) im Artikel Adobe-Kundensupporterlebnis .
 
 Das Bedienfeld zeigt eine scrollbare Liste von Einblicken an, die sich auf die jeweilige Projektinstanz beziehen. Die Berechnung basiert auf den im Feld **[!UICONTROL Projekt-URL]** eingegebenen Informationen. Geben Sie die **[!UICONTROL Projekt-URL]** genau ein, um sicherzustellen, dass die Insights die richtige Umgebung widerspiegeln.
 
