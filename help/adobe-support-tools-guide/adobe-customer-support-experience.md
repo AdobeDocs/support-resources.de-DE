@@ -14,9 +14,9 @@ topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 08be6152d1f6395647c7eb04e39ed448dac86bba
+source-git-commit: 8631501b570117aec52510142df2d9594366c00c
 workflow-type: tm+mt
-source-wordcount: 1510
+source-wordcount: 2033
 ht-degree: 0%
 
 ---
@@ -196,3 +196,78 @@ Nach der Übermittlung:
 >[!NOTE]
 >
 > Wenn das Problem zu Ausfällen oder schwerwiegenden Unterbrechungen des Produktionssystems führt, wird eine Telefonnummer bereitgestellt, um sofortige Hilfe zu leisten.
+
+### KI-Chat bei der Fallerstellung
+
+Der Experience League-Support bietet eine KI-gestützte Chat-Oberfläche als alternative Möglichkeit zum Erstellen und Verwalten von Support-Fällen. Das KI-Chat-Erlebnis ist Opt-in und ersetzt nicht den klassischen Workflow zur Erstellung von Fällen.
+
+>[!NOTE]
+>
+> KI-Chat ist derzeit als Beta-Funktion verfügbar. Das klassische Formular zur Fallerstellung steht Ihnen jederzeit vollständig zur Verfügung.
+
+Gehen Sie wie folgt vor, um auf den KI-Chat zuzugreifen:
+
+1. Navigieren Sie zu **[!UICONTROL Startseite]** und wählen Sie **[!UICONTROL Support-Ticket öffnen]**. Sie können auch das **[!UICONTROL Ticket öffnen]** im Seitenleistenmenü auswählen.
+
+   ![Experience League - Produkt auswählen](./assets/product-selection.png)
+
+1. Klicken Sie auf den Produktnamen, um das betroffene Produkt auszuwählen, und klicken Sie dann auf **[!UICONTROL Weiter]**.
+1. Klicken Sie oben rechts auf **[!UICONTROL KI-Chat]**.
+
+   ![AI-Chat](./assets/ai-chat.png)
+
+Um zwischen **[!UICONTROL klassischem Formular]** und **[!UICONTROL KI-Chat]** zu wechseln, verwenden Sie den Umschalter in der oberen rechten Ecke. Sie werden den aktuellen Fortschritt beim Wechsel nicht übertragen, aber abgeschlossene Fälle oder Aktionen bleiben davon unberührt.
+
+### Erste Schritte mit dem KI-Chat
+
+Wenn Sie den KI-Chat öffnen, sehen Sie die folgenden Optionen:
+
+* **[!UICONTROL Frage stellen]**
+* **[!UICONTROL Bearbeitung eines vorhandenen Falls]**
+* **[!UICONTROL Eröffnen Sie einen neuen Fall]**
+
+  ![Chat mit uns](./assets/chat-with-us.png)
+
+Sie können das Problem beschreiben, indem Sie in das Textfeld eingeben oder Sprache-zu-Text verwenden.
+
+#### Frage stellen
+
+Wählen Sie **[!UICONTROL Frage stellen]** aus, um direkt im Chat Antworten auf Fragen zu Produkten, Adobe-Services und Support zu erhalten, ohne dass Sie einen Support-Fall öffnen müssen.
+
+Die KI greift auf die Adobe-Wissensdatenbank zurück, um basierend auf Ihrer Abfrage relevante Antworten, Dokumentations-Links und bekannte Lösungen bereitzustellen.
+
+Wenn die KI Ihre Abfrage nicht direkt im Chat lösen kann, werden Sie zum Öffnen eines neuen Support-Falls weitergeleitet, um sich mit dem Adobe-Support-Team zu verbinden.
+
+#### Bearbeitung eines vorhandenen Falls
+
+Wählen Sie **[!UICONTROL Mit einem vorhandenen Fall arbeiten]** aus, um Ihre vorhandenen Support-Fälle direkt im Chat zu verwalten und zu aktualisieren.
+
+Die KI zeigt eine Liste Ihrer offenen Fälle an. Sie können einen Fall anhand seiner Position in der Liste oder seiner Fallnummer referenzieren, um den Fall auszuwählen, den Sie bearbeiten möchten.
+
+Nachdem Sie einen Fall ausgewählt haben, können Sie:
+
+* Zusammenfassung anfordern
+* Nach Aktualisierungen suchen
+* Führen Sie Folgeaktionen durch, z. B. die Eskalation des Falls oder die Anforderung eines Rückrufs innerhalb desselben Chat-Erlebnisses.
+
+#### Neuen Fall öffnen
+
+Wählen Sie **[!UICONTROL Neuen Fall öffnen]**, um Ihr Problem in Ihren eigenen Worten zu beschreiben, anstatt strukturierte Formularfelder auszufüllen.
+
+Die KI führt Sie durch den Prozess der Fallerstellung, indem sie gezielte Folgefragen stellt, um die erforderlichen Details zu sammeln und den Fluss basierend auf Ihren Antworten dynamisch anzupassen.
+
+Die KI erfasst erforderliche Informationen wie:
+
+* Produktdetails
+* Anfragetyp
+* Reproduktionsschritte
+
+Optionale Felder können übersprungen werden, wenn die Informationen zum Zeitpunkt der Übermittlung nicht ohne Weiteres verfügbar sind.
+
+Sobald ausreichende Informationen erfasst wurden, generiert die KI automatisch eine strukturierte Fallzusammenfassung, die auf Ihrer Konversation basiert, einschließlich:
+
+* Anfragenbezeichnung
+* Beschreibung
+* Reproduktionsschritte
+
+Sie können den Entwurf vor dem Senden überprüfen, um sicherzustellen, dass alle Details korrekt sind, und Sie können Anhänge, Protokolle, Screenshots und andere zusätzliche Details jederzeit während oder nach der Konversation zur Fallerstellung hinzufügen, um dem Support-Team den vollständigen Kontext zu bieten, den es benötigt.
