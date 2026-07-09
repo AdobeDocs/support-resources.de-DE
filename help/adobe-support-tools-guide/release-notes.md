@@ -15,9 +15,9 @@ level_v2:
 topic_v2:
   - id: d00e9f03-e50b-4162-b143-0c0817c937c2
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 3f934873bc3e6a2c81b8173b1f63333a5151af9a
+source-git-commit: 2c6c6384b7bbe59f477278b984d0a7ba5efe6682
 workflow-type: tm+mt
-source-wordcount: 1386
+source-wordcount: 1686
 ht-degree: 1%
 
 ---
@@ -30,6 +30,28 @@ Diese Versionshinweise enthalten Aktualisierungen zur Experience League-Unterst�
 ![Neu](../adobe-support-tools-guide/assets/new.svg) Neue Funktionen
 ![Fehlerbehebung](../adobe-support-tools-guide/assets/fix.svg) Fehlerbehebungen und Verbesserungen
 ![Bug](../adobe-support-tools-guide/assets/bug.svg) Bekannte Probleme
+
+## &#x200B;9. Juli 2026 - Experience League Support AI-Chat
+
+1. Auf dem Experience League-Support ist jetzt eine neue KI-Chat-Oberfläche als Opt-in-Alternative zum klassischen Formular zur Fallerstellung verfügbar, sodass Kunden ihr Problem im Gespräch beschreiben können, anstatt strukturierte Felder auszufüllen. Das klassische Formular bleibt vollständig verfügbar und wird durch dieses Erlebnis nicht ersetzt.
+
+1. Der KI-Chat unterstützt sowohl Eingabe als auch Sprache in Text und ermöglicht eine Freisprechfunktion für ein barrierefreies und flexibleres Erlebnis bei der Fallerstellung.
+
+1. Der KI-Chat führt Kunden durch die Erstellung von Fällen, indem er gezielte Folgefragen stellt, um erforderliche Details wie Reproduktionsschritte zu sammeln und den Gesprächsfluss basierend auf den Antworten der Benutzer dynamisch anzupassen.
+
+1. Bevor Sie einen Fall erstellen, zeigt der KI-Chat proaktiv relevante Wissensdatenbank-Artikel und bekannte Lösungen basierend auf der Problembeschreibung an, wodurch eine schnellere Self-Service-Lösung ermöglicht wird. Wenn keine Lösung gefunden wird, wird der KI-Chat nahtlos in Richtung Fallerstellung fortgesetzt.
+
+1. Sobald ausreichende Informationen gesammelt wurden, generiert AI Chat automatisch einen strukturierten Fallentwurf, einschließlich des Titels, der Beschreibung und der Reproduktionsschritte, damit der Kunde ihn vor der Übermittlung überprüfen kann.
+
+1. Alle Fälle, die über den KI-Chat übermittelt werden, werden über dieselben Backend-Workflows verarbeitet wie Fälle, die über das klassische Formular übermittelt werden. So wird sichergestellt, dass sich die Art und Weise, wie Support-Teams Fälle empfangen oder behandeln, nicht ändert.
+
+1. Kunden können bestehende Support-Fälle im Gespräch verwalten, einschließlich des Abrufs von Fallzusammenfassungen, der Überprüfung des Status und der Priorität, der Anzeige offener Fälle nach Prioritätsstufe und der Anforderung von Folgemaßnahmen wie Eskalationen oder Callbacks.
+
+1. Alle im klassischen Portal verfügbaren Support-Aktionen, einschließlich Eskalationen und Callback-Anfragen, sind über Dialogbefehle im KI-Chat zugänglich.
+
+>[!NOTE]
+>
+>Dies ist eine frühe Beta-Version von AI Chat. Sie ist für alle verfügbar, aber KI-Antworten und Gesprächsflüsse können zwischen den Sitzungen geringfügig variieren, während konsistente Datenerfassungsziele beibehalten werden. Bitte überprüfen Sie alle KI-generierten Antworten, bevor Sie sie bearbeiten.
 
 ## &#x200B;17. Juni 2026 - Aktualisierungen im überarbeiteten Experience League Support-Portal
 
