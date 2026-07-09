@@ -3,16 +3,10 @@ title: Systemeinblicke
 description: Systemeinblicke identifizieren proaktiv potenzielle Probleme in Adobe Commerce-Umgebungen. Die Überprüfung der Erkenntnisse während der Erstellung von Fällen verkürzt die Problembehebungszeit, hilft Ausfälle zu verhindern und unterstützt eine stabile und sichere Bereitstellung.
 autotag-review: '2026-07-06T16:24:45.881Z'
 TQID: 'https://experienceleague.adobe.com/jSV4V0a4G9gPqbFSURQSP2ctdKob7eu71JB7am0ZwSo'
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-topic_v2:
-  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: ada6c0ec0c6814e3176d3b6c953455be019bc703
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+topic_v2: id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: d095671a-1355-40aa-8b5f-06c33c68080bid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 3da0095b5ae5b72334482acddb2f092db447bfc0
 workflow-type: tm+mt
 source-wordcount: 738
 ht-degree: 1%
@@ -43,15 +37,15 @@ Die regelmäßige Überprüfung der Systemeinblicke hilft, Probleme frühzeitig 
 
 ## Verfügbarkeit und Umfang
 
-Systemeinblicke sind derzeit nur für Adobe Commerce verfügbar. Diese Erkenntnisse werden während der Fallerstellung im Experience League Support angezeigt und sind auch über das [Site-Wide Analysis Tool (SWAT) verfügbar](https://experienceleague.adobe.com/de/docs/commerce-operations/tools/site-wide-analysis-tool/intro).
+Systemeinblicke sind derzeit nur für Adobe Commerce verfügbar. Diese Erkenntnisse werden während der Fallerstellung im Experience League Support angezeigt und sind auch über das [Site-Wide Analysis Tool (SWAT) verfügbar](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/site-wide-analysis-tool/intro).
 
->[ !NHinweis]
+>[!NHinweis]
 >
 >System Insights zeigt Daten nur für Produktionsumgebungen an.
 
 ## Zugriff auf Systemeinblicke
 
-Systemeinblicke werden während des gesamten Arbeitsablaufs für die Fallerstellung angezeigt. Wenn Sie Problemdetails eingeben, wird **[!UICONTROL Bedienfeld &quot;]** Insights“ auf der rechten Bildschirmseite unter dem Abschnitt KI-gestützte Empfehlungen angezeigt. Weitere Informationen zu KI-gestützten Empfehlungen finden Sie unter [Support-Ticket ausfüllen](https://experienceleague.adobe.com/de/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#fill-out-the-support-ticket) im Artikel Adobe-Kundensupporterlebnis .
+Systemeinblicke werden während des gesamten Arbeitsablaufs für die Fallerstellung angezeigt. Wenn Sie Problemdetails eingeben, wird **[!UICONTROL Bedienfeld &quot;]** Insights“ auf der rechten Bildschirmseite unter dem Abschnitt KI-gestützte Empfehlungen angezeigt. Weitere Informationen zu KI-gestützten Empfehlungen finden Sie unter [Support-Ticket ausfüllen](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#fill-out-the-support-ticket) im Artikel Adobe-Kundensupporterlebnis .
 
 Das Bedienfeld zeigt eine scrollbare Liste von Einblicken an, die sich auf die jeweilige Projektinstanz beziehen. Die Berechnung basiert auf den im Feld **[!UICONTROL Projekt-URL]** eingegebenen Informationen. Geben Sie die **[!UICONTROL Projekt-URL]** genau ein, um sicherzustellen, dass die Insights die richtige Umgebung widerspiegeln.
 
@@ -118,3 +112,4 @@ Feedback geben:
    - **Daumen runter** Symbol, wenn die insight nicht hilfreich war
 5. (Optional) Geben Sie zusätzliche Kommentare ein.
 6. Wählen Sie **[!UICONTROL Senden]**, um Feedback zu senden, oder **[!UICONTROL Verwerfen]**, um den Feedback-Abschnitt ohne Senden zu schließen.
+
