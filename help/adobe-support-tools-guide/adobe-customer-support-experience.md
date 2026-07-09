@@ -5,18 +5,12 @@ description: Adobe Customer Support Experience
 seo-description: Adobe Customer Support Experience
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 TQID: https://experienceleague.adobe.com/cGHwAzUXOUNouNknfl84ix4Gi7t8koCJVICt1zJWRp8
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-topic_v2:
-  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-  - id: c1579802-ddd4-4214-8a91-97b2066abe11
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 08be6152d1f6395647c7eb04e39ed448dac86bba
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: c1579802-ddd4-4214-8a91-97b2066abe11id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: 8631501b570117aec52510142df2d9594366c00c
 workflow-type: tm+mt
-source-wordcount: 1510
+source-wordcount: 2033
 ht-degree: 0%
 
 ---
@@ -25,17 +19,17 @@ ht-degree: 0%
 
 ## Experience League Support-Tickets
 
-Support-Tickets können jetzt über [Experience League gesendet &#x200B;](https://experienceleague.adobe.com/home?lang=de#support). Anweisungen zum Senden eines Support-Tickets finden Sie im Abschnitt zu [Senden eines Support-Tickets](#create-a-support-ticket-with-experience-league).
+Support-Tickets können jetzt über [Experience League gesendet ](https://experienceleague.adobe.com/home#support). Anweisungen zum Senden eines Support-Tickets finden Sie im Abschnitt zu [Senden eines Support-Tickets](#create-a-support-ticket-with-experience-league).
 
 Wir arbeiten daran, die Interaktion mit dem Adobe-Kunden-Support zu verbessern. Unser Ziel ist es, das Support-Erlebnis mithilfe von Experience League zu optimieren, indem wir zu einem einzigen Einstiegspunkt wechseln. Nach der Live-Schaltung kann Ihr Unternehmen problemlos auf den Adobe-Kunden-Support zugreifen, den Service-Verlauf über ein produktübergreifendes gemeinsames System besser einsehen und über ein einziges Portal Hilfe per Telefon, Internet und Chat anfordern.
 
-Wenn Sie ein Adobe Commerce-Benutzer sind, lesen Sie [Senden eines Support-Falls](https://experienceleague.adobe.com/de/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) im Experience League Support-Benutzerhandbuch für Adobe Commerce.
+Wenn Sie ein Adobe Commerce-Benutzer sind, lesen Sie [Senden eines Support-Falls](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) im Experience League Support-Benutzerhandbuch für Adobe Commerce.
 
 ## Support für berechtigte Rollen, die für die Fallübermittlung benötigt werden {#submit-ticket}
 
-Um ein Support-Ticket in [Experience League](https://experienceleague.adobe.com/home?lang=de#support) senden zu können, muss Ihnen von einem Systemadministrator die Rolle „Support-Admin“ zugewiesen worden sein. Diese Rolle kann nur einem Systemadministrator in Ihrer Organisation zugewiesen werden. Produkt-, Produktprofil- und andere Administratorrollen können die Support-Administratorrolle nicht zuweisen und können die Option **[!UICONTROL Fall erstellen]** zum Senden eines Support-Tickets nicht anzeigen. Weitere Informationen zu den verschiedenen Arten von Administratorrollen und deren Berechtigungen finden Sie unter [Administratorrollen](adobe-admin-console/admin-roles.md).
+Um ein Support-Ticket in [Experience League](https://experienceleague.adobe.com/home#support) senden zu können, muss Ihnen von einem Systemadministrator die Rolle „Support-Admin“ zugewiesen worden sein. Diese Rolle kann nur einem Systemadministrator in Ihrer Organisation zugewiesen werden. Produkt-, Produktprofil- und andere Administratorrollen können die Support-Administratorrolle nicht zuweisen und können die Option **[!UICONTROL Fall erstellen]** zum Senden eines Support-Tickets nicht anzeigen. Weitere Informationen zu den verschiedenen Arten von Administratorrollen und deren Berechtigungen finden Sie unter [Administratorrollen](adobe-admin-console/admin-roles.md).
 
-Wenn Sie Commerce verwenden, funktioniert der Prozess der Freigabe des Zugriffs für die Arbeit mit Support-Fällen anders. Weitere Informationen finden Sie unter [Freigegebener Zugriff: anderen Benutzern Berechtigungen für den Zugriff auf Ihr Konto gewähren](https://experienceleague.adobe.com/de/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access) im Experience League Support-Benutzerhandbuch für Adobe Commerce.
+Wenn Sie Commerce verwenden, funktioniert der Prozess der Freigabe des Zugriffs für die Arbeit mit Support-Fällen anders. Weitere Informationen finden Sie unter [Freigegebener Zugriff: anderen Benutzern Berechtigungen für den Zugriff auf Ihr Konto gewähren](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#shared-access) im Experience League Support-Benutzerhandbuch für Adobe Commerce.
 
 ### Hinzufügen von Support-Berechtigungsrollen zu einer Organisation
 
@@ -86,7 +80,7 @@ Weitere Informationen finden Sie in den Anweisungen [Enterprise-Administratorrol
 
 Experience League ist ein Selfservice-Support-Portal, das berechtigten Kunden personalisierte Hilfe und ein benutzerfreundliches Erlebnis bietet.
 
-1. Um ein Ticket in [Experience League](https://experienceleague.adobe.com/home?lang=de#support) zu erstellen, wählen Sie die Registerkarte **[!UICONTROL Support]** in der oberen Navigationsleiste aus.
+1. Um ein Ticket in [Experience League](https://experienceleague.adobe.com/home#support) zu erstellen, wählen Sie die Registerkarte **[!UICONTROL Support]** in der oberen Navigationsleiste aus.
 
    ![Registerkarte „Experience League-Support“](./assets/experience-league-support-tab.png)
 
@@ -167,7 +161,7 @@ Gehen Sie wie folgt vor, um ein Support-Ticket zu erstellen:
 
    ![Experience League-Priorität und geschäftliche Auswirkungen](./assets/priority-business-impact.png)
 
-   Weitere Informationen dazu, wie sich die Priorität von Fällen und die geschäftlichen Auswirkungen auf die Support-Antwortzeiten auswirken, finden Sie [Gezielte anfängliche Antwortzeiten für den Support](https://experienceleague.adobe.com/de/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support) in der Dokumentation zu den Ressourcen für Erfolgspläne.
+   Weitere Informationen dazu, wie sich die Priorität von Fällen und die geschäftlichen Auswirkungen auf die Support-Antwortzeiten auswirken, finden Sie [Gezielte anfängliche Antwortzeiten für den Support](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support) in der Dokumentation zu den Ressourcen für Erfolgspläne.
 
 1. Wählen Sie **[!UICONTROL Abschnitt „Kontaktinformationen und]**&quot; die Zeitzone aus, geben Sie Ihre Telefonnummer ein, fügen Sie Beobachter hinzu, fügen Sie bei Bedarf Dateien hinzu und klicken Sie dann auf **[!UICONTROL Weiter]**.
 
@@ -196,3 +190,78 @@ Nach der Übermittlung:
 >[!NOTE]
 >
 > Wenn das Problem zu Ausfällen oder schwerwiegenden Unterbrechungen des Produktionssystems führt, wird eine Telefonnummer bereitgestellt, um sofortige Hilfe zu leisten.
+
+### KI-Chat bei der Fallerstellung
+
+Der Experience League-Support bietet eine KI-gestützte Chat-Oberfläche als alternative Möglichkeit zum Erstellen und Verwalten von Support-Fällen. Das KI-Chat-Erlebnis ist Opt-in und ersetzt nicht den klassischen Workflow zur Erstellung von Fällen.
+
+>[!NOTE]
+>
+> KI-Chat ist derzeit als Beta-Funktion verfügbar. Das klassische Formular zur Fallerstellung steht Ihnen jederzeit vollständig zur Verfügung.
+
+Gehen Sie wie folgt vor, um auf den KI-Chat zuzugreifen:
+
+1. Navigieren Sie zu **[!UICONTROL Startseite]** und wählen Sie **[!UICONTROL Support-Ticket öffnen]**. Sie können auch das **[!UICONTROL Ticket öffnen]** im Seitenleistenmenü auswählen.
+
+   ![Experience League - Produkt auswählen](./assets/product-selection.png)
+
+1. Klicken Sie auf den Produktnamen, um das betroffene Produkt auszuwählen, und klicken Sie dann auf **[!UICONTROL Weiter]**.
+1. Klicken Sie oben rechts auf **[!UICONTROL KI-Chat]**.
+
+   ![AI-Chat](./assets/ai-chat.png)
+
+Um zwischen **[!UICONTROL klassischem Formular]** und **[!UICONTROL KI-Chat]** zu wechseln, verwenden Sie den Umschalter in der oberen rechten Ecke. Sie werden den aktuellen Fortschritt beim Wechsel nicht übertragen, aber abgeschlossene Fälle oder Aktionen bleiben davon unberührt.
+
+### Erste Schritte mit dem KI-Chat
+
+Wenn Sie den KI-Chat öffnen, sehen Sie die folgenden Optionen:
+
+* **[!UICONTROL Frage stellen]**
+* **[!UICONTROL Bearbeitung eines vorhandenen Falls]**
+* **[!UICONTROL Eröffnen Sie einen neuen Fall]**
+
+  ![Chat mit uns](./assets/chat-with-us.png)
+
+Sie können das Problem beschreiben, indem Sie in das Textfeld eingeben oder Sprache-zu-Text verwenden.
+
+#### Frage stellen
+
+Wählen Sie **[!UICONTROL Frage stellen]** aus, um direkt im Chat Antworten auf Fragen zu Produkten, Adobe-Services und Support zu erhalten, ohne dass Sie einen Support-Fall öffnen müssen.
+
+Die KI greift auf die Adobe-Wissensdatenbank zurück, um basierend auf Ihrer Abfrage relevante Antworten, Dokumentations-Links und bekannte Lösungen bereitzustellen.
+
+Wenn die KI Ihre Abfrage nicht direkt im Chat lösen kann, werden Sie zum Öffnen eines neuen Support-Falls weitergeleitet, um sich mit dem Adobe-Support-Team zu verbinden.
+
+#### Bearbeitung eines vorhandenen Falls
+
+Wählen Sie **[!UICONTROL Mit einem vorhandenen Fall arbeiten]** aus, um Ihre vorhandenen Support-Fälle direkt im Chat zu verwalten und zu aktualisieren.
+
+Die KI zeigt eine Liste Ihrer offenen Fälle an. Sie können einen Fall anhand seiner Position in der Liste oder seiner Fallnummer referenzieren, um den Fall auszuwählen, den Sie bearbeiten möchten.
+
+Nachdem Sie einen Fall ausgewählt haben, können Sie:
+
+* Zusammenfassung anfordern
+* Nach Aktualisierungen suchen
+* Führen Sie Folgeaktionen durch, z. B. die Eskalation des Falls oder die Anforderung eines Rückrufs innerhalb desselben Chat-Erlebnisses.
+
+#### Neuen Fall öffnen
+
+Wählen Sie **[!UICONTROL Neuen Fall öffnen]**, um Ihr Problem in Ihren eigenen Worten zu beschreiben, anstatt strukturierte Formularfelder auszufüllen.
+
+Die KI führt Sie durch den Prozess der Fallerstellung, indem sie gezielte Folgefragen stellt, um die erforderlichen Details zu sammeln und den Fluss basierend auf Ihren Antworten dynamisch anzupassen.
+
+Die KI erfasst erforderliche Informationen wie:
+
+* Produktdetails
+* Anfragetyp
+* Reproduktionsschritte
+
+Optionale Felder können übersprungen werden, wenn die Informationen zum Zeitpunkt der Übermittlung nicht ohne Weiteres verfügbar sind.
+
+Sobald ausreichende Informationen erfasst wurden, generiert die KI automatisch eine strukturierte Fallzusammenfassung, die auf Ihrer Konversation basiert, einschließlich:
+
+* Anfragenbezeichnung
+* Beschreibung
+* Reproduktionsschritte
+
+Sie können den Entwurf vor dem Senden überprüfen, um sicherzustellen, dass alle Details korrekt sind, und Sie können Anhänge, Protokolle, Screenshots und andere zusätzliche Details jederzeit während oder nach der Konversation zur Fallerstellung hinzufügen, um dem Support-Team den vollständigen Kontext zu bieten, den es benötigt.
