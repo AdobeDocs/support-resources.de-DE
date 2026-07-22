@@ -3,7 +3,8 @@ title: Erstellen und Verwalten von Support-Fällen
 description: Erfahren Sie, wie Sie Support-Fälle im neu gestalteten Experience League Support-Portal erstellen, anzeigen und verwalten.
 autotag-review: '2026-07-22T11:27:24.736Z'
 TQID: 'https://experienceleague.adobe.com/vmb2kfbBn3vgPgTQC1W3vf4CodiDfR6lzJNB0EBz71A'
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
 hold: true
 source-git-commit: 850462d9daa57f4e3c15b1d04f0a4c582040c2bd
 workflow-type: tm+mt
@@ -78,7 +79,7 @@ Gehen Sie wie folgt vor, um ein Support-Ticket im klassischen Formular zu erstel
 
    ![Schritt zur Problembeschreibung](/help/adobe-support-tools-guide/assets/create-support-ticket-helpful-resources.png)
 
-   Wählen Sie **[!UICONTROL Klassisches Formular]** oder **[!UICONTROL KI-Chat]** in der oberen rechten Ecke aus, um die Erstellung der Anfrage zu ändern. Weitere Informationen zum KI-Chat finden [ unter „KI-Chat bei der Erstellung von Fällen](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#ai-chat-in-the-case-creation-experience).
+   Wählen Sie **[!UICONTROL Klassisches Formular]** oder **[!UICONTROL KI-Chat]** in der oberen rechten Ecke aus, um die Erstellung der Anfrage zu ändern. Weitere Informationen zum KI-Chat finden [&#x200B; unter „KI-Chat bei der Erstellung von Fällen](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#ai-chat-in-the-case-creation-experience).
 
    ![AI-Chat](/help/adobe-support-tools-guide/assets/create-support-ticket-ai-chat.png)
 
