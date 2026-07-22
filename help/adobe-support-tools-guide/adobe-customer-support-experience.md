@@ -14,9 +14,10 @@ topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 3da0095b5ae5b72334482acddb2f092db447bfc0
+hold: true
+source-git-commit: dee6ae400f5e35467f27bf6c666e4894ed72af9d
 workflow-type: tm+mt
-source-wordcount: 2033
+source-wordcount: 2077
 ht-degree: 0%
 
 ---
@@ -83,6 +84,10 @@ Weitere Informationen finden Sie in den Anweisungen [Enterprise-Administratorrol
 >[!NOTE]
 >
 > Bevor Sie ein Support-Ticket senden, überprüfen Sie die Leistung, Verfügbarkeit und die bekannten Probleme des Adobe-Systems auf der Website [Adobe-Status](https://status.adobe.com/de).
+
+>[!NOTE]
+>
+>Wenn Sie das neu gestaltete Experience League-Support-Portal verwenden, um ein Ticket für den technischen Support zu öffnen, finden Sie weitere Informationen unter [Erstellen und Verwalten von Support-Fällen](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/exl-new-ui-support-cases). In den folgenden Schritten wird die aktuelle (veraltete) Portalschnittstelle beschrieben.
 
 Experience League ist ein Selfservice-Support-Portal, das berechtigten Kunden personalisierte Hilfe und ein benutzerfreundliches Erlebnis bietet.
 
