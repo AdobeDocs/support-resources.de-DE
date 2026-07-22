@@ -2,19 +2,14 @@
 title: Experience League Support-Portal - Neue Benutzeroberfläche
 description: Neu gestaltetes Experience League Support-Portal, das Support-Workflows, Fallkenntnisse und Produktüberwachung mit verbesserter Navigation, Analysen und Schnellaktionen optimiert und nahtlos zum aktuellen Portal für Fallmanagement wechselt.
 TQID: 'https://experienceleague.adobe.com/-pTlo6TkAlBDt4-xPwcU-I7yWtUinu2avTCoJVXK2bs'
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2:
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: cac9b6e8d4058de8bbd474481a9f47eaedb093fe
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+hold: true
+source-git-commit: 850462d9daa57f4e3c15b1d04f0a4c582040c2bd
 workflow-type: tm+mt
-source-wordcount: 1084
+source-wordcount: 1061
 ht-degree: 1%
 
 ---
@@ -27,7 +22,7 @@ Das neu gestaltete Experience League Support-Portal bietet ein einheitliches und
 
 >[!NOTE]
 >
->**[!UICONTROL Fallerstellung]**, **[!UICONTROL Meine Fälle]** und **[!UICONTROL Falldetails]** sind im neu gestalteten Portal nicht verfügbar. Wechseln Sie zum aktuellen Experience League Support-Portal , um Fälle zu erstellen und zu verwalten. Beide Portale bleiben synchronisiert, um sicherzustellen, dass Falldaten erlebnisübergreifend auf dem neuesten Stand bleiben.
+>Informationen zum Erstellen und Verwalten von Support-Fällen im neu gestalteten Portal finden Sie unter [Erstellen und Verwalten von Support-Fällen](exl-new-ui-support-cases.md).
 
 ## Startseite
 
@@ -38,7 +33,8 @@ Die **[!UICONTROL Startseite]** dient als zentraler Knotenpunkt für Support-Akt
 Das linke Navigationsfenster bietet Zugriff auf die folgenden Abschnitte:
 
 - **[!UICONTROL Startseite]** wird als standardmäßige Landingpage geöffnet und zeigt eine zentrale Ansicht der Support-Aktivität an.
-- **[!UICONTROL Offener Fall]** und **[!UICONTROL Meine Fälle]** werden zum aktuellen Experience League Support-Portal weitergeleitet, um Fälle zu erstellen und zu verwalten.
+- **[!UICONTROL Fall öffnen]** öffnet den Workflow zur Erstellung von Fällen im neu gestalteten Portal. Siehe [Erstellen und Verwalten von Support-Fällen](exl-new-ui-support-cases.md).
+- **[!UICONTROL Meine Fälle]** öffnet die Liste der Fälle im neu gestalteten Portal. Siehe [Erstellen und Verwalten von Support-Fällen](exl-new-ui-support-cases.md).
 - **[!UICONTROL My Success]** ist nur für Ultimate Success plan-Kunden verfügbar.
 
 ## Wechselnde Organisationen
@@ -61,11 +57,11 @@ Die Startseite enthält ein personalisiertes Willkommensbanner mit einer globale
 
 Die folgenden Schnellaktionen sind oben auf der Seite &quot;**[!UICONTROL &quot;]**:
 
-1. **[!UICONTROL Support-Fall öffnen]** - Leitet zum Modul **[!UICONTROL Ticket öffnen]** im aktuellen Experience League-Support-Portal weiter, um einen neuen Fall zu erstellen. Klicken Sie auf **[!UICONTROL Get Started]**.
+1. **[!UICONTROL Support-Fall öffnen]** - Öffnet den Workflow zur Erstellung von Fällen im neu gestalteten Portal. Wählen Sie **[!UICONTROL Erste Schritte]** aus.
 
-2. **[!UICONTROL Fälle anzeigen und verwalten]** - Leitet zum Modul **[!UICONTROL Meine Fälle]** im aktuellen Experience League Support-Portal weiter. Wählen Sie **[!UICONTROL Jetzt gehen]** aus, um darauf zuzugreifen.
+1. **[!UICONTROL Fälle anzeigen und verwalten]** - Öffnet die Seite **[!UICONTROL Meine Fälle]** im neu gestalteten Portal. Wählen Sie **[!UICONTROL Jetzt starten]** aus.
 
-3. **[!UICONTROL Callback anfordern]** - Planen Sie einen Anruf zu diesem Fall mit einem Adobe-Experten. Fordern Sie in P1-Fällen (kritisch) einen sofortigen Callback an. Planen Sie für P2- und P3-Fälle ein Web-Meeting mit einem Support-Techniker zu einem passenden Zeitpunkt. Wählen Sie **[!UICONTROL Jetzt anfordern]** um zu beginnen.
+1. **[!UICONTROL Callback anfordern]** - Planen Sie einen Anruf zu diesem Fall mit einem Adobe-Experten. Fordern Sie in P1-Fällen (kritisch) einen sofortigen Callback an. Planen Sie für P2- und P3-Fälle ein Web-Meeting mit einem Support-Techniker zu einem passenden Zeitpunkt. Wählen Sie **[!UICONTROL Jetzt anfordern]** um zu beginnen.
 
 ## Analytics-Service
 
@@ -74,7 +70,7 @@ Im **[!UICONTROL Service Analytics]** wird eine Zusammenfassung der Aktivität v
 - **[!UICONTROL Meine Fälle]** - Zeigt Fallstatistiken speziell für den Kontakt an.
 - **[!UICONTROL Meine Organisationsfälle]** - Zeigt Fallstatistiken für die ausgewählte Organisation an.
 
-Die ausgewählte Ansicht gilt für alle Metriken und Diagramme in diesem Abschnitt, einschließlich der Abschnitte [[!UICONTROL Anzahl der Fälle nach Priorität]](#cases-count-by-priority) und [[!UICONTROL Meine gesendeten &#x200B;]](#my-submitted-cases)&quot;.
+Die ausgewählte Ansicht gilt für alle Metriken und Diagramme in diesem Abschnitt, einschließlich der Abschnitte [[!UICONTROL Anzahl der Fälle nach Priorität]](#cases-count-by-priority) und [[!UICONTROL Meine gesendeten ]](#my-submitted-cases)&quot;.
 
 ![Service-Analyse](/help/adobe-support-tools-guide/assets/service-analytics-1.png)
 
@@ -109,15 +105,15 @@ In diesem Abschnitt werden die drei zuletzt eingereichten Support-Fälle angezei
 
 ![Meine eingereichten Anfragen](/help/adobe-support-tools-guide/assets/my-submitted-case-1.png)
 
-Wenn **[!UICONTROL Meine Fälle]** ausgewählt ist, werden in diesem Abschnitt die drei zuletzt gesendeten Fälle angezeigt. Wenn **[!UICONTROL Meine Organisation Anfragen]** im Abschnitt **[!UICONTROL Service Analytics]** ausgewählt ist, werden die drei zuletzt gesendeten Anfragen im gesamten Unternehmen angezeigt.
+Wenn **[!UICONTROL Meine Fälle]** in **[!UICONTROL Service Analytics]** ausgewählt ist, werden in diesem Abschnitt die drei zuletzt gesendeten Fälle angezeigt. Wenn **[!UICONTROL Meine Organisation Anfragen]** im Abschnitt **[!UICONTROL Service Analytics]** ausgewählt ist, werden die drei zuletzt gesendeten Anfragen im gesamten Unternehmen angezeigt.
 
 ![Meine Fälle](/help/adobe-support-tools-guide/assets/my-case.png)
 
-Wählen Sie eine **[!UICONTROL Fall-ID]** aus, um die Falldetails im aktuellen Experience League-Support-Portal anzuzeigen.
+Wählen Sie eine **[!UICONTROL Fall-ID]** aus, um die Falldetails im neu gestalteten Experience League-Support-Portal anzuzeigen.
 
 ![Fall-ID auswählen](/help/adobe-support-tools-guide/assets/select-case-id.png)
 
-Wählen Sie **[!UICONTROL Alle Anfragen anzeigen]**, um die Seite **[!UICONTROL Meine Anfragen]** im aktuellen Experience League-Support-Portal zu öffnen.
+Wählen Sie **[!UICONTROL Alle Anfragen anzeigen]** aus, um die Seite **[!UICONTROL Meine Anfragen]** im neu gestalteten Experience League-Support-Portal zu öffnen.
 
 ![Alle Anfragen anzeigen](/help/adobe-support-tools-guide/assets/view-all-cases.png)
 
@@ -183,9 +179,9 @@ Die Seite enthält:
 - Eine willkommene Nachricht, die erläutert, wie Ultimate Success durch strategische Führung und proaktive technische Unterstützung im Gesundheitswesen leistungsstarke digitale Erlebnisse bereitstellt
 - Eine Option **[!UICONTROL Video ansehen]**, um mehr über den Plan zu erfahren
 - Wichtigste Bestandteile des Plans, darunter:
-   - **[!UICONTROL Erfolgsteam]**
-   - **[!UICONTROL Erfolgsbeschleuniger]**
-   - **[!UICONTROL Mutual Action Plan]**
+  - **[!UICONTROL Erfolgsteam]**
+  - **[!UICONTROL Erfolgsbeschleuniger]**
+  - **[!UICONTROL Mutual Action Plan]**
 
 Es bietet außerdem Zugriff auf Lernressourcen wie Experience League, die Experience League-Community und Premium-Lernabonnements.
 
