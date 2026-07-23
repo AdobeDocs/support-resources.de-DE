@@ -15,10 +15,10 @@ level_v2:
 topic_v2:
   - id: d00e9f03-e50b-4162-b143-0c0817c937c2
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 2c6c6384b7bbe59f477278b984d0a7ba5efe6682
+source-git-commit: d76226eb8ff1eecca20a67ef3ce9f62955152be1
 workflow-type: tm+mt
-source-wordcount: 1686
-ht-degree: 1%
+source-wordcount: 1757
+ht-degree: 0%
 
 ---
 
@@ -30,6 +30,14 @@ Diese Versionshinweise enthalten Aktualisierungen zur Experience League-Unterst�
 ![Neu](../adobe-support-tools-guide/assets/new.svg) Neue Funktionen
 ![Fehlerbehebung](../adobe-support-tools-guide/assets/fix.svg) Fehlerbehebungen und Verbesserungen
 ![Bug](../adobe-support-tools-guide/assets/bug.svg) Bekannte Probleme
+
+## &#x200B;23. Juli 2026 - Persistent Portal Preference im neu gestalteten Experience League Support Portal
+
+1. Die Portalvoreinstellung wird jetzt basierend auf Ihrer letzten Auswahl **[!UICONTROL Neue Homepage ausprobieren]** automatisch gespeichert.
+
+2. Wenn der Umschalter während der letzten Sitzung aktiviert war, werden Sie bei Ihrer nächsten Anmeldung direkt zum neu gestalteten Portal weitergeleitet, und das alte Portal wird nicht geladen.
+
+3. Wenn der Umschalter deaktiviert war, landen Sie wie gewohnt auf dem alten Portal.
 
 ## &#x200B;9. Juli 2026 - Experience League Support AI-Chat
 
@@ -51,7 +59,7 @@ Diese Versionshinweise enthalten Aktualisierungen zur Experience League-Unterst�
 
 >[!NOTE]
 >
->Dies ist eine frühe Beta-Version von AI Chat. Sie ist für alle verfügbar, aber KI-Antworten und Gesprächsflüsse können zwischen den Sitzungen geringfügig variieren, während konsistente Datenerfassungsziele beibehalten werden. Bitte überprüfen Sie alle KI-generierten Antworten, bevor Sie sie bearbeiten.
+>Dieser KI-Chat ist eine frühe Beta-Version. Sie ist für alle verfügbar, aber KI-Antworten und Gesprächsflüsse können zwischen den Sitzungen geringfügig variieren, während konsistente Datenerfassungsziele beibehalten werden. Überprüfen Sie alle KI-generierten Antworten, bevor Sie sie bearbeiten.
 
 ## &#x200B;17. Juni 2026 - Aktualisierungen im überarbeiteten Experience League Support-Portal
 
@@ -149,30 +157,30 @@ Die **[!UICONTROL Callback anfordern]**-Funktion ist jetzt für Benutzende von M
 ![Neu](../adobe-support-tools-guide/assets/new.svg) Hinzugefügt **Zusätzliche Felder [!UICONTROL Umgebungskontext] für** Produkte zur Erfassung kritischer Details:
 
 - **Marketo**
-   - Munchkin-ID
+  - Munchkin-ID
 - **Adobe Target**
-   - Aktivitätsname
-   - Site-URL (Eigenschaftsname für Tags)
+  - Aktivitätsname
+  - Site-URL (Eigenschaftsname für Tags)
 - **Adobe Analytics**
-   - RSID
-   - Site-URL (Eigenschaftsname für Tags) / cURL
-   - Workspace-Kurzlink
+  - RSID
+  - Site-URL (Eigenschaftsname für Tags) / cURL
+  - Workspace-Kurzlink
 - **Adobe Journey Optimizer (AJO)**
-   - Journey-ID oder URL/Kampagnen-ID oder URL/Kanal-ID oder URL/Offer Decisioning-ID oder URL
-   - Beispielprofil
-   - Sandbox-Name
+  - Journey-ID oder URL/Kampagnen-ID oder URL/Kanal-ID oder URL/Offer Decisioning-ID oder URL
+  - Beispielprofil
+  - Sandbox-Name
 - **Real-Time Customer Data Platform (RTCDP)**
-   - Betroffene Komponenten-ID (Ziel-ID/Zielgruppen-ID/Datensatz-ID/Datenfluss-ID/Zusammenführungsrichtlinien-ID/Schema-ID/Source-ID/Batch-ID)
-   - Beispielprofil
-   - Sandbox-Name
+  - Betroffene Komponenten-ID (Ziel-ID/Zielgruppen-ID/Datensatz-ID/Datenfluss-ID/Zusammenführungsrichtlinien-ID/Schema-ID/Source-ID/Batch-ID)
+  - Beispielprofil
+  - Sandbox-Name
 - **Adobe Experience Platform (AEP)**
-   - Betroffene Komponenten-ID (Ziel-ID/Zielgruppen-ID/Datensatz-ID/Datenfluss-ID/Zusammenführungsrichtlinien-ID/Schema-ID/Source-ID/Batch-ID)
-   - Beispielprofil
-   - Sandbox-Name
+  - Betroffene Komponenten-ID (Ziel-ID/Zielgruppen-ID/Datensatz-ID/Datenfluss-ID/Zusammenführungsrichtlinien-ID/Schema-ID/Source-ID/Batch-ID)
+  - Beispielprofil
+  - Sandbox-Name
 - **Customer Journey Analytics (CJA)**
-   - Workspace-Projekt-URL
-   - Verbindungs-ID/Fehlermeldung/Code
-   - Datenansichts-ID
+  - Workspace-Projekt-URL
+  - Verbindungs-ID/Fehlermeldung/Code
+  - Datenansichts-ID
 
 ![Neu](../adobe-support-tools-guide/assets/new.svg) Es wurde ein **KI-gesteuertes [!UICONTROL Recommendations-Bedienfeld]** hinzugefügt, um hilfreiche Anleitungen anzuzeigen, ohne den Prozess zur Fallerstellung zu unterbrechen.
 

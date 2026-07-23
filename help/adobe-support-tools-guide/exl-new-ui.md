@@ -12,10 +12,9 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-hold: true
-source-git-commit: 850462d9daa57f4e3c15b1d04f0a4c582040c2bd
+source-git-commit: 671678370c8a941c9644d0623bf713b9a4e056e1
 workflow-type: tm+mt
-source-wordcount: 1061
+source-wordcount: 1070
 ht-degree: 1%
 
 ---
@@ -26,10 +25,6 @@ ht-degree: 1%
 
 Das neu gestaltete Experience League Support-Portal bietet ein einheitliches und intuitives Erlebnis für die Verwaltung von Adobe Support-Aktivitäten. Sie bietet schnelleren Zugriff auf wichtige Funktionen, einschließlich der Verfolgung von Support-Fällen, der Überwachung des Produktstatus, des Zugriffs auf Fallerkenntnisse und der Verbindung mit dem Success-Team.
 
->[!NOTE]
->
->Informationen zum Erstellen und Verwalten von Support-Fällen im neu gestalteten Portal finden Sie unter [Erstellen und Verwalten von Support-Fällen](exl-new-ui-support-cases.md).
-
 ## Startseite
 
 Die **[!UICONTROL Startseite]** dient als zentraler Knotenpunkt für Support-Aktivitäten. Es bietet einen Überblick über die Support-Umgebung und schnellen Zugriff auf wichtige Funktionen.
@@ -39,8 +34,8 @@ Die **[!UICONTROL Startseite]** dient als zentraler Knotenpunkt für Support-Akt
 Das linke Navigationsfenster bietet Zugriff auf die folgenden Abschnitte:
 
 - **[!UICONTROL Startseite]** wird als standardmäßige Landingpage geöffnet und zeigt eine zentrale Ansicht der Support-Aktivität an.
-- **[!UICONTROL Fall öffnen]** öffnet den Workflow zur Erstellung von Fällen im neu gestalteten Portal. Siehe [Erstellen und Verwalten von Support-Fällen](exl-new-ui-support-cases.md).
-- **[!UICONTROL Meine Fälle]** öffnet die Liste der Fälle im neu gestalteten Portal. Siehe [Erstellen und Verwalten von Support-Fällen](exl-new-ui-support-cases.md).
+- **[!UICONTROL Anfrage öffnen]** Öffnet den Workflow zur Erstellung von Anfragen im aktuellen Experience League-Support-Portal.
+- **[!UICONTROL Meine Anfragen]** öffnet die Liste der Anfragen im aktuellen Experience League Support-Portal.
 - **[!UICONTROL My Success]** ist nur für Ultimate Success plan-Kunden verfügbar.
 
 ## Wechselnde Organisationen
@@ -59,13 +54,17 @@ Beide Portale bleiben synchronisiert, sodass Falldaten und Support-Informationen
 
 ![Alte Benutzeroberfläche](/help/adobe-support-tools-guide/assets/old-ui.png)
 
+>[!NOTE]
+>
+>Portaleinstellungen werden automatisch gespeichert. Das Portal, das Sie zuletzt verwendet haben, wird zu Ihrem Standardportal für zukünftige Anmeldungen. Wenn Sie das neu gestaltete Portal zuletzt verwendet haben, wird es direkt geöffnet, ohne dass das alte Portal geladen wird. Wenn Sie das alte Portal zuletzt verwendet haben, öffnet das System das alte Portal.
+
 Die Startseite enthält ein personalisiertes Willkommensbanner mit einer globalen Suchleiste, mit der Sie das Experience League Support-Portal durchsuchen können.
 
 Die folgenden Schnellaktionen sind oben auf der Seite &quot;**[!UICONTROL &quot;]**:
 
-1. **[!UICONTROL Support-Fall öffnen]** - Öffnet den Workflow zur Erstellung von Fällen im neu gestalteten Portal. Wählen Sie **[!UICONTROL Erste Schritte]** aus.
+1. **[!UICONTROL Support-Anfrage öffnen]** - Öffnet den Workflow zur Erstellung von Anfragen im alten Support-Portal. Wählen Sie **[!UICONTROL Erste Schritte]** aus.
 
-1. **[!UICONTROL Fälle anzeigen und verwalten]** - Öffnet die Seite **[!UICONTROL Meine Fälle]** im neu gestalteten Portal. Wählen Sie **[!UICONTROL Jetzt starten]** aus.
+1. **[!UICONTROL Anfragen anzeigen und verwalten]** - Öffnet die Seite **[!UICONTROL Meine Anfragen]** im alten Support-Portal. Wählen Sie **[!UICONTROL Jetzt starten]** aus.
 
 1. **[!UICONTROL Callback anfordern]** - Planen Sie einen Anruf zu diesem Fall mit einem Adobe-Experten. Fordern Sie in P1-Fällen (kritisch) einen sofortigen Callback an. Planen Sie für P2- und P3-Fälle ein Web-Meeting mit einem Support-Techniker zu einem passenden Zeitpunkt. Wählen Sie **[!UICONTROL Jetzt anfordern]** um zu beginnen.
 
@@ -115,11 +114,11 @@ Wenn **[!UICONTROL Meine Fälle]** in **[!UICONTROL Service Analytics]** ausgew�
 
 ![Meine Fälle](/help/adobe-support-tools-guide/assets/my-case.png)
 
-Wählen Sie eine **[!UICONTROL Fall-ID]** aus, um die Falldetails im neu gestalteten Experience League-Support-Portal anzuzeigen.
+Wählen Sie eine **[!UICONTROL Fall-ID]** aus, um die Falldetails im aktuellen Experience League-Support-Portal anzuzeigen.
 
 ![Fall-ID auswählen](/help/adobe-support-tools-guide/assets/select-case-id.png)
 
-Wählen Sie **[!UICONTROL Alle Anfragen anzeigen]** aus, um die Seite **[!UICONTROL Meine Anfragen]** im neu gestalteten Experience League-Support-Portal zu öffnen.
+Wählen Sie **[!UICONTROL Alle Anfragen anzeigen]**, um die Seite **[!UICONTROL Meine Anfragen]** im aktuellen Experience League-Support-Portal zu öffnen.
 
 ![Alle Anfragen anzeigen](/help/adobe-support-tools-guide/assets/view-all-cases.png)
 
@@ -164,8 +163,6 @@ Wählen Sie einen Warnhinweis aus, um ihn zu erweitern und zusätzliche Details 
 
 ![Ihr Abschnitt Systemstatus-Warnungen](/help/adobe-support-tools-guide/assets/system-status-alerts-1.png)
 
-Wählen Sie **[!UICONTROL Abonnements verwalten]** aus, um Benachrichtigungseinstellungen für Ihre Adobe-Produkte auf der Adobe-[Status-Site](https://status.adobe.com/de) zu konfigurieren.
-
 ## Ihre Plandaten
 
 In diesem Abschnitt werden wichtige Details zum Support-Plan (Ultimate Success plan und Expert Success plan) und zu den verfügbaren Vorteilen angezeigt. Wählen Sie **[!UICONTROL Weitere Informationen]** aus, um das gesamte Angebot an Planungsangeboten zu erkunden.
@@ -189,7 +186,7 @@ Die Seite enthält:
   - **[!UICONTROL Erfolgsbeschleuniger]**
   - **[!UICONTROL Mutual Action Plan]**
 
-Es bietet außerdem Zugriff auf Lernressourcen wie Experience League, die Experience League-Community und Premium-Lernabonnements.
+Es bietet außerdem Zugriff auf die Lernressourcen wie Experience League, die Experience League-Community und Premium-Lernabonnements.
 
 ### Adobe Success-Team
 

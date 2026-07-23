@@ -6,9 +6,10 @@ TQID: 'https://experienceleague.adobe.com/vmb2kfbBn3vgPgTQC1W3vf4CodiDfR6lzJNB0E
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
 hold: true
-source-git-commit: df632069c153ca8215fcc75c9c73f7a67c11b0c6
+hide: true
+source-git-commit: 498f5c828603a24aaaaf8565941b0badbe0c405b
 workflow-type: tm+mt
-source-wordcount: 1168
+source-wordcount: 1170
 ht-degree: 0%
 
 ---
@@ -143,9 +144,7 @@ Zu den Filteroptionen gehören:
 - **[!UICONTROL Produkt]** - Produkte, die Ihrem Unternehmen zugewiesen sind
 - **[!UICONTROL Priorität]** — P4 - Gering, P3 - Wichtig, P2 - Dringend, P1 - Kritisch
 
-Die Falltabelle zeigt die offenen Fälle, die Fallnummer, den Falltitel, den Status, das Produkt, die Priorität, den Antragsteller, den Abschluss, die letzte Aktualisierung, die Fallzusammenfassung und zusätzliche Hilfe an. Wählen Sie **[!UICONTROL Anzeigen]** in der Spalte **[!UICONTROL Fallzusammenfassung]** aus, um eine KI-generierte Fallzusammenfassung zu öffnen. Wählen Sie **[!UICONTROL Hilfe anfordern]**, um weitere Unterstützung zu einem Fall zu erhalten.
-
-Wählen Sie eine **[!UICONTROL Fallnummer]**, um die Seite mit den Falldetails zu öffnen.
+Die Falltabelle zeigt die offenen Fälle, die Fallnummer, den Falltitel, den Status, das Produkt, die Priorität, den Antragsteller, den Abschluss, die letzte Aktualisierung, die Fallzusammenfassung und zusätzliche Hilfe an. Wählen Sie **[!UICONTROL Anzeigen]** in der Spalte **[!UICONTROL Fallzusammenfassung]** aus, um eine KI-generierte Fallzusammenfassung zu öffnen. Wählen Sie **[!UICONTROL Hilfe anfordern]**, um weitere Unterstützung zu einem Fall zu erhalten. Sie können eine **[!UICONTROL Fallnummer“ auswählen]** um die Seite mit den Falldetails zu öffnen.
 
 ![Fallzusammenfassung](/help/adobe-support-tools-guide/assets/case-summary-1.png)
 
