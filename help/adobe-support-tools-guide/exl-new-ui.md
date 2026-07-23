@@ -2,10 +2,16 @@
 title: Experience League Support-Portal - Neue Benutzeroberfläche
 description: Neu gestaltetes Experience League Support-Portal, das Support-Workflows, Fallkenntnisse und Produktüberwachung mit verbesserter Navigation, Analysen und Schnellaktionen optimiert und nahtlos zum aktuellen Portal für Fallmanagement wechselt.
 TQID: 'https://experienceleague.adobe.com/-pTlo6TkAlBDt4-xPwcU-I7yWtUinu2avTCoJVXK2bs'
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 hold: true
 source-git-commit: 167da98ed4e537d0e354fa5344d23c6e15f15bb6
 workflow-type: tm+mt
@@ -74,7 +80,7 @@ Im **[!UICONTROL Service Analytics]** wird eine Zusammenfassung der Aktivität v
 - **[!UICONTROL Meine Fälle]** - Zeigt Fallstatistiken speziell für den Kontakt an.
 - **[!UICONTROL Meine Organisationsfälle]** - Zeigt Fallstatistiken für die ausgewählte Organisation an.
 
-Die ausgewählte Ansicht gilt für alle Metriken und Diagramme in diesem Abschnitt, einschließlich der Abschnitte [[!UICONTROL Anzahl der Fälle nach Priorität]](#cases-count-by-priority) und [[!UICONTROL Meine gesendeten ]](#my-submitted-cases)&quot;.
+Die ausgewählte Ansicht gilt für alle Metriken und Diagramme in diesem Abschnitt, einschließlich der Abschnitte [[!UICONTROL Anzahl der Fälle nach Priorität]](#cases-count-by-priority) und [[!UICONTROL Meine gesendeten &#x200B;]](#my-submitted-cases)&quot;.
 
 ![Service-Analyse](/help/adobe-support-tools-guide/assets/service-analytics-1.png)
 
@@ -164,7 +170,7 @@ Wählen Sie einen Warnhinweis aus, um ihn zu erweitern und zusätzliche Details 
 
 ### Abonnements verwalten
 
-Verwenden Sie **[UICONTROL Abonnements verwalten]** um E-Mail-Benachrichtigungen für Adobe-Produkt- und Service-Statusereignisse zu konfigurieren. Mit Abonnements bleiben Sie auf dem Laufenden, wenn Adobe Ereignisse für ausgewählte Produkte und Regionen erstellt, aktualisiert oder auflöst.
+Verwenden Sie **[!UICONTROL Abonnements verwalten]** um E-Mail-Benachrichtigungen für Adobe-Produkt- und Service-Statusereignisse zu konfigurieren. Mit Abonnements bleiben Sie auf dem Laufenden, wenn Adobe Ereignisse für ausgewählte Produkte und Regionen erstellt, aktualisiert oder auflöst.
 
 1. Wählen **[!UICONTROL im Abschnitt „Warnhinweise]** Systemstatus“ die Option **[!UICONTROL Abonnements verwalten]** aus.
 
@@ -179,10 +185,10 @@ Verwenden Sie **[UICONTROL Abonnements verwalten]** um E-Mail-Benachrichtigungen
 1. Wählen **[!UICONTROL unter „Regionen auswählen]** eine oder mehrere zu überwachende Regionen aus.
 1. Wählen **[!UICONTROL unter „Ereignistypen auswählen]** einen oder mehrere der folgenden Ereignistypen aus:
 
-   * Hauptdienstproblem
-   * Geringfügiger Service-Fehler
-   * Wartungsdienst
-   * Ankündigungen
+   &#x200B;* Hauptdienstproblem
+   &#x200B;* Geringfügiger Service-Fehler
+   &#x200B;* Wartungsdienst
+   &#x200B;* Ankündigungen
 
    ![Abonnementseite erstellen](assets/create-subscription-page.png)
 
@@ -207,9 +213,9 @@ Beim nächsten Öffnen von **[!UICONTROL Abonnements verwalten]** zeigt die Seit
 
 Auf dieser Seite können Sie die folgenden Aktionen ausführen:
 
-* Wählen **[!UICONTROL Abonnement bearbeiten]**, um ein vorhandenes Abonnement zu ändern.
-* Wählen Sie **[!UICONTROL Alle abmelden]** aus, um alle Abonnements zu entfernen.
-* Wählen Sie das Löschsymbol neben einem Abonnement aus, um ein einzelnes Abonnement zu entfernen.
+&#x200B;* Wählen **[!UICONTROL Abonnement bearbeiten]**, um ein vorhandenes Abonnement zu ändern.
+&#x200B;* Wählen Sie **[!UICONTROL Alle abmelden]** aus, um alle Abonnements zu entfernen.
+&#x200B;* Wählen Sie das Löschsymbol neben einem Abonnement aus, um ein einzelnes Abonnement zu entfernen.
 
 ## Ihre Plandaten
 
