@@ -2,21 +2,15 @@
 title: Experience League Support-Portal - Neue Benutzeroberfläche
 description: Neu gestaltetes Experience League Support-Portal, das Support-Workflows, Fallkenntnisse und Produktüberwachung mit verbesserter Navigation, Analysen und Schnellaktionen optimiert und nahtlos zum aktuellen Portal für Fallmanagement wechselt.
 TQID: 'https://experienceleague.adobe.com/-pTlo6TkAlBDt4-xPwcU-I7yWtUinu2avTCoJVXK2bs'
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2:
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 hold: true
-source-git-commit: 850462d9daa57f4e3c15b1d04f0a4c582040c2bd
+source-git-commit: 2a64b77927d75c7d11730b9ef4d8ae490020ef10
 workflow-type: tm+mt
-source-wordcount: 1061
-ht-degree: 1%
+source-wordcount: 1325
+ht-degree: 0%
 
 ---
 
@@ -76,7 +70,7 @@ Im **[!UICONTROL Service Analytics]** wird eine Zusammenfassung der Aktivität v
 - **[!UICONTROL Meine Fälle]** - Zeigt Fallstatistiken speziell für den Kontakt an.
 - **[!UICONTROL Meine Organisationsfälle]** - Zeigt Fallstatistiken für die ausgewählte Organisation an.
 
-Die ausgewählte Ansicht gilt für alle Metriken und Diagramme in diesem Abschnitt, einschließlich der Abschnitte [[!UICONTROL Anzahl der Fälle nach Priorität]](#cases-count-by-priority) und [[!UICONTROL Meine gesendeten &#x200B;]](#my-submitted-cases)&quot;.
+Die ausgewählte Ansicht gilt für alle Metriken und Diagramme in diesem Abschnitt, einschließlich der Abschnitte [[!UICONTROL Anzahl der Fälle nach Priorität]](#cases-count-by-priority) und [[!UICONTROL Meine gesendeten ]](#my-submitted-cases)&quot;.
 
 ![Service-Analyse](/help/adobe-support-tools-guide/assets/service-analytics-1.png)
 
@@ -164,7 +158,54 @@ Wählen Sie einen Warnhinweis aus, um ihn zu erweitern und zusätzliche Details 
 
 ![Ihr Abschnitt Systemstatus-Warnungen](/help/adobe-support-tools-guide/assets/system-status-alerts-1.png)
 
-Wählen Sie **[!UICONTROL Abonnements verwalten]** aus, um Benachrichtigungseinstellungen für Ihre Adobe-Produkte auf der Adobe-[Status-Site](https://status.adobe.com/de) zu konfigurieren.
+### Abonnements verwalten
+
+Verwenden Sie **[UICONTROL Abonnements verwalten]** um E-Mail-Benachrichtigungen für Adobe-Produkt- und Service-Statusereignisse zu konfigurieren. Mit Abonnements bleiben Sie auf dem Laufenden, wenn Adobe Ereignisse für ausgewählte Produkte und Regionen erstellt, aktualisiert oder auflöst.
+
+1. Wählen **[!UICONTROL im Abschnitt „Warnhinweise]** Systemstatus“ die Option **[!UICONTROL Abonnements verwalten]** aus.
+
+   ![Abonnement verwalten](assets/manage-subscriptions.png)
+
+1. Wählen Sie auf der **[!UICONTROL Abonnements verwalten]** die Option **[!UICONTROL Abonnement erstellen]** aus.
+
+   ![Abonnement erstellen](assets/create-subscriptions.png)
+
+1. Wählen **[!UICONTROL unter Please select Cloud]** die Adobe-Cloud aus, die das Produkt enthält, das Sie überwachen möchten.
+1. Wählen **[!UICONTROL unter „Produkt und Angebote auswählen]** das Produkt aus, für das Sie Benachrichtigungen erhalten möchten.
+1. Wählen **[!UICONTROL unter „Regionen auswählen]** eine oder mehrere zu überwachende Regionen aus.
+1. Wählen **[!UICONTROL unter „Ereignistypen auswählen]** einen oder mehrere der folgenden Ereignistypen aus:
+
+   * Hauptdienstproblem
+   * Geringfügiger Service-Fehler
+   * Wartungsdienst
+   * Ankündigungen
+
+   ![Abonnementseite erstellen](assets/create-subscription-page.png)
+
+1. Überprüfen Sie die standardmäßigen Benachrichtigungseinstellungen, einschließlich Sprache und Zeitzone.
+1. Wählen Sie **[!UICONTROL Weiter]** aus.
+1. Überprüfen Sie die Abonnementdetails, einschließlich der ausgewählten Cloud, Produkte, Services, Regionen und Ereignistypen.
+1. Wählen **[!UICONTROL Bestätigen]**, um das Abonnement zu erstellen.
+
+   ![Abonnementdetails bestätigen](assets/confirm-subscription.png)
+
+1. Eine Bestätigungsmeldung wird angezeigt und das Abonnement wird erstellt.
+
+Nachdem das Abonnement erstellt wurde, sendet Adobe E-Mail-Benachrichtigungen, wenn Ereignisse, die den Kriterien für das ausgewählte Produkt, die ausgewählte Region und den ausgewählten Ereignistyp entsprechen, erstellt, aktualisiert oder aufgelöst werden.
+
+>[!NOTE]
+>
+>E-Mail ist der standardmäßige Kommunikationskanal für Statusbenachrichtigungen. Abonnementvoreinstellungen gelten nur für das ausgewählte Produkt, die ausgewählten Regionen und die ausgewählten Ereignistypen.
+
+Beim nächsten Öffnen von **[!UICONTROL Abonnements verwalten]** zeigt die Seite Ihre aktuellen Abonnementdetails an, einschließlich der ausgewählten Cloud-, Produkt-, Service-, Regionen- und Ereignistypen.
+
+![Verwalten vorhandener Abonnements](assets/edit-subscriptions.png)
+
+Auf dieser Seite können Sie die folgenden Aktionen ausführen:
+
+* Wählen **[!UICONTROL Abonnement bearbeiten]**, um ein vorhandenes Abonnement zu ändern.
+* Wählen Sie **[!UICONTROL Alle abmelden]** aus, um alle Abonnements zu entfernen.
+* Wählen Sie das Löschsymbol neben einem Abonnement aus, um ein einzelnes Abonnement zu entfernen.
 
 ## Ihre Plandaten
 
