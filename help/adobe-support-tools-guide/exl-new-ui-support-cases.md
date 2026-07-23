@@ -6,32 +6,32 @@ TQID: 'https://experienceleague.adobe.com/vmb2kfbBn3vgPgTQC1W3vf4CodiDfR6lzJNB0E
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
 hold: true
-source-git-commit: 850462d9daa57f4e3c15b1d04f0a4c582040c2bd
+source-git-commit: df632069c153ca8215fcc75c9c73f7a67c11b0c6
 workflow-type: tm+mt
-source-wordcount: 1166
+source-wordcount: 1168
 ht-degree: 0%
 
 ---
 
 # Erstellen und Verwalten von Support-Fällen
 
-Um ein Support-Ticket in [Experience League](https://experienceleague.adobe.com/de/support?support-tab=home#home) senden zu können, muss Ihnen von einem Systemadministrator die Rolle „Support-Admin“ zugewiesen worden sein. Informationen zu Support-Berechtigungen und Rollenanforderungen finden Sie unter [Support-berechtigte Rollen für die Fallübermittlung erforderlich](https://experienceleague.adobe.com/de/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#support-entitled-roles-needed-for-case-submission-submit-ticket).
+Um einen Support-Fall in [Experience League](https://experienceleague.adobe.com/de/support?support-tab=home#home) senden zu können, muss Ihnen die Rolle „Support-Admin“ von einem Systemadministrator zugewiesen worden sein. Informationen zu Support-Berechtigungen und Rollenanforderungen finden Sie unter [Support-berechtigte Rollen für die Fallübermittlung erforderlich](https://experienceleague.adobe.com/de/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#support-entitled-roles-needed-for-case-submission-submit-ticket).
 
-## Erstellen eines Support-Tickets mit der neuen Benutzeroberfläche
+## Erstellen eines Support-Falls mit der neuen Benutzeroberfläche
 
 >[!NOTE]
 >
->Bevor Sie ein Support-Ticket senden, überprüfen Sie die Leistung, Verfügbarkeit und bekannten Probleme des Adobe-Systems auf der [Adobe-Status-Site](https://status.adobe.com/de).
+>Bevor Sie einen Support-Fall einreichen, überprüfen Sie die Adobe-Systemleistung, -Verfügbarkeit und bekannte Probleme auf der [Status-Site von Adobe](https://status.adobe.com/de).
 
-Gehen Sie wie folgt vor, um ein Ticket in Experience League zu erstellen:
+Gehen Sie wie folgt vor, um einen Support-Fall in Experience League zu erstellen:
 
 1. Wählen Sie auf **[!UICONTROL Startseite]** auf der Karte **[!UICONTROL Support-Fall öffnen]** die Option **[!UICONTROL Erste Schritte]** oder wählen Sie **[!UICONTROL Fall öffnen]** im linken Navigationsbereich aus.
 
    ![Öffnen von Einstiegspunkten für Support-Fälle](/help/adobe-support-tools-guide/assets/create-support-ticket-entry-points.png)
 
-1. Die Seite **[!UICONTROL Ticket öffnen]** wird im neu gestalteten Experience League Support-Portal geöffnet.
+1. Die Seite **[!UICONTROL Ticket öffnen]** wird im neu gestalteten Experience League-Support-Portal geöffnet.
 
-## Ausfüllen des Support-Tickets
+## Füllen Sie das Support-Ticket aus.
 
 Nachdem Sie auf **[!UICONTROL Fall öffnen]** oder **[!UICONTROL Erste Schritte]** geklickt haben, wird das Formular zur Erstellung von Anfragen angezeigt.
 
@@ -44,13 +44,13 @@ Das Formular verwendet einen geführten, mehrstufigen Workflow. Sie können die 
 - Kontaktinformationen und Watchers-Liste
 - Überprüfen und senden
 
-Gehen Sie wie folgt vor, um ein Support-Ticket im klassischen Formular zu erstellen:
+Führen Sie die folgenden Schritte aus, um einen Support-Fall im klassischen Formular zu erstellen:
 
 1. Wählen Sie die Produktkategorie und die Produktinstanz aus und klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![Schritt zur Produktauswahl](/help/adobe-support-tools-guide/assets/create-support-ticket-product-selection.png)
 
-1. Geben Sie **[!UICONTROL Abschnitt &quot;]**&quot; eine Beschreibung des Problems ein. Der Anfragetitel wird automatisch basierend auf der Problembeschreibung generiert. Sie können den Titel bei Bedarf bearbeiten. Überprüfen Sie, ob das Problem reproduziert werden kann. Wählen Sie **[!UICONTROL Ja]**, wenn das Problem reproduzierbar ist. Es wird ein Textfeld angezeigt, in dem Sie die Schritte beschreiben können, die zur Reproduktion des Problems erforderlich sind. Wählen Sie **[!UICONTROL Nein]**, wenn das Problem nicht konsistent reproduziert werden kann.
+2. Geben Sie **[!UICONTROL Abschnitt &quot;]**&quot; eine Beschreibung des Problems ein. Der Anfragetitel wird automatisch basierend auf der Problembeschreibung generiert. Sie können den Titel bei Bedarf bearbeiten. Überprüfen Sie, ob das Problem reproduziert werden kann. Wählen Sie **[!UICONTROL Ja]**, wenn das Problem reproduzierbar ist. Es wird ein Textfeld angezeigt, in dem Sie die Schritte beschreiben können, die zur Reproduktion des Problems erforderlich sind. Wählen Sie **[!UICONTROL Nein]**, wenn das Problem nicht konsistent reproduziert werden kann, und klicken Sie auf **[!UICONTROL Weiter]**.
 
    ![Schritt zur Problembeschreibung](/help/adobe-support-tools-guide/assets/create-support-ticket-problem-description.png)
 
@@ -83,8 +83,7 @@ Gehen Sie wie folgt vor, um ein Support-Ticket im klassischen Formular zu erstel
 
    ![AI-Chat](/help/adobe-support-tools-guide/assets/create-support-ticket-ai-chat.png)
 
-1. Klicken Sie auf **[!UICONTROL Weiter]**.
-1. Füllen Sie im Abschnitt **[!UICONTROL Systeminformationen]** die erforderlichen Felder für Ihr Produkt aus und geben Sie an, ob kürzlich Änderungen an der Umgebung vorgenommen wurden. Wählen Sie **[!UICONTROL Ja]**, um weitere Details zu den Änderungen anzugeben. Wählen Sie **[!UICONTROL Nein]** wenn keine Änderungen vorgenommen wurden, und klicken Sie auf **[!UICONTROL Weiter]**.
+3. Füllen Sie im Abschnitt **[!UICONTROL Systeminformationen]** die erforderlichen Felder für Ihr Produkt aus und geben Sie an, ob kürzlich Änderungen an der Umgebung vorgenommen wurden. Wählen Sie **[!UICONTROL Ja]**, um weitere Details zu den Änderungen anzugeben. Wählen Sie **[!UICONTROL Nein]** wenn keine Änderungen vorgenommen wurden, und klicken Sie auf **[!UICONTROL Weiter]**.
 
    >[!NOTE]
    >
@@ -92,17 +91,17 @@ Gehen Sie wie folgt vor, um ein Support-Ticket im klassischen Formular zu erstel
 
    ![Systeminformationsschritt](/help/adobe-support-tools-guide/assets/create-support-ticket-system-information.png)
 
-1. Wählen Sie im Abschnitt **[!UICONTROL Priorität und Geschäftsauswirkungen]** die Fallpriorität aus (P4 - Gering, P3 - Wichtig, P2 - Dringend, P1 - Kritisch). Geben Sie die Details der Geschäftsauswirkungen an, wenn die ausgewählte Priorität P1 - Kritisch ist, und wählen Sie dann **[!UICONTROL Weiter]**.
+4. Wählen Sie im Abschnitt **[!UICONTROL Priorität und Geschäftsauswirkungen]** die Fallpriorität aus (P4 - Gering, P3 - Wichtig, P2 - Dringend, P1 - Kritisch). Geben Sie die Details der Geschäftsauswirkungen an, wenn die ausgewählte Priorität P1 - Kritisch ist, und wählen Sie dann **[!UICONTROL Weiter]**.
 
    Weitere Informationen dazu, wie sich die Priorität von Fällen und die geschäftlichen Auswirkungen auf die Support-Antwortzeiten auswirken, finden Sie [Angestrebte anfängliche Antwortzeiten für den Support](https://experienceleague.adobe.com/de/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support).
 
    ![Priorität und geschäftliche Auswirkungen](/help/adobe-support-tools-guide/assets/create-support-ticket-priority.png)
 
-1. Wählen Sie **[!UICONTROL Abschnitt „Kontaktinformationen und]**&quot; die Zeitzone aus, geben Sie Ihre Telefonnummer ein, fügen Sie Beobachter hinzu, fügen Sie bei Bedarf Dateien hinzu und klicken Sie dann auf **[!UICONTROL Weiter]**.
+5. Wählen Sie **[!UICONTROL Abschnitt „Kontaktinformationen und]**&quot; die Zeitzone aus, geben Sie Ihre Telefonnummer ein, fügen Sie Beobachter hinzu, fügen Sie bei Bedarf Dateien hinzu und klicken Sie dann auf **[!UICONTROL Weiter]**.
 
    ![Schritt „Kontaktinformationen“](/help/adobe-support-tools-guide/assets/create-support-ticket-contact-information.png)
 
-1. Überprüfen Sie im Abschnitt **[!UICONTROL Überprüfen und Senden]** Ihre Falldetails, wählen Sie **[!UICONTROL Bearbeiten]** aus, um bei Bedarf Änderungen vorzunehmen, und wählen Sie **[!UICONTROL Fall genehmigen und senden]** aus.
+6. Überprüfen Sie im Abschnitt **[!UICONTROL Überprüfen und Senden]** Ihre Falldetails, wählen Sie **[!UICONTROL Bearbeiten]** aus, um bei Bedarf Änderungen vorzunehmen, und wählen Sie **[!UICONTROL Fall genehmigen und senden]** aus.
 
    ![Überprüfungs- und Übermittlungsschritt](/help/adobe-support-tools-guide/assets/create-support-ticket-review-submit.png)
 
@@ -122,24 +121,21 @@ Nach der Übermittlung:
 
 ## Mit dem neu gestalteten Portal Ihre Fälle anzeigen und verwalten
 
-Sie können Support-Fälle über das neu gestaltete Experience League-Support-Portal anzeigen und verwalten.
-
-Gehen Sie wie folgt vor, um Ihre Fälle anzuzeigen und zu verwalten:
+Sie können Support-Fälle über das neu gestaltete Experience League-Support-Portal anzeigen und verwalten. Gehen Sie wie folgt vor, um Ihre Fälle anzuzeigen und zu verwalten:
 
 1. Wählen **[!UICONTROL Meine Fälle]** im linken Navigationsbereich aus. Or
 1. Wählen Sie **[!UICONTROL Jetzt gehen]** auf der **[!UICONTROL Fälle anzeigen und verwalten]** auf der **[!UICONTROL Startseite]** aus.
 
 ![Falleinstiegspunkte anzeigen und verwalten](/help/adobe-support-tools-guide/assets/my-cases-entry-points.png)
 
-Die **[!UICONTROL „Alle Ihre Fälle]** wird geöffnet.
+Die **[!UICONTROL „Alle Ihre Fälle]** wird geöffnet. Wechseln Sie zwischen **[!UICONTROL Meine Fälle]** und **[!UICONTROL Meine Organisation]**, um Ihre Fälle oder Fälle in Ihrer Organisation anzuzeigen. Verwenden Sie **[!UICONTROL Suchfälle]**, um innerhalb des ausgewählten Zeitraums zu suchen. Wählen Sie oben rechts einen Zeitraum aus, um Daten der letzten 3, 6, 12, 18 oder 24 Monate anzuzeigen. Standardmäßig zeigen Fälle, Suchergebnisse und Filter Daten der letzten 3 Monate an.
 
 ![Seite „Meine Fälle“](/help/adobe-support-tools-guide/assets/my-cases-page.png)
 
-Wechseln Sie zwischen **[!UICONTROL Meine Fälle]** und **[!UICONTROL Meine Organisation]**, um Ihre Fälle oder Fälle in Ihrer Organisation anzuzeigen. Verwenden Sie **[!UICONTROL Suchfälle]**, um innerhalb des ausgewählten Zeitraums zu suchen. Wählen Sie oben rechts einen Zeitraum aus, um Daten der letzten 3, 6, 12, 18 oder 24 Monate anzuzeigen. Standardmäßig zeigen Fälle, Suchergebnisse und Filter Daten der letzten 3 Monate an.
+Sie können Fälle mithilfe von **[!UICONTROL Status]**, **[!UICONTROL Produkt]** und **[!UICONTROL Priorität]** filtern. Der **[!UICONTROL Antragsteller]**-Filter ist nur verfügbar, wenn **[!UICONTROL Meine Organisationsfälle]** ausgewählt ist, mit dessen Hilfe Sie Fälle nach der Person filtern können, die den Fall erstellt hat. Wählen Sie **[!UICONTROL Alle löschen]**, um alle Filter zurückzusetzen. Wählen Sie **[!UICONTROL Fälle herunterladen]** aus, um die Liste der Fälle herunterzuladen.
 
 ![Seite „Meine Organisation“](/help/adobe-support-tools-guide/assets/my-org-page.png)
 
-Sie können Fälle mithilfe von **[!UICONTROL Status]**, **[!UICONTROL Produkt]** und **[!UICONTROL Priorität]** filtern. Der **[!UICONTROL Antragsteller]**-Filter ist nur verfügbar, wenn **[!UICONTROL Meine Organisationsfälle]** ausgewählt ist, mit dessen Hilfe Sie Fälle nach der Person filtern können, die den Fall erstellt hat. Wählen Sie **[!UICONTROL Alle löschen]**, um alle Filter zurückzusetzen. Wählen Sie **[!UICONTROL Fälle herunterladen]** aus, um die Liste der Fälle herunterzuladen.
 
 Zu den Filteroptionen gehören:
 
@@ -153,6 +149,6 @@ Wählen Sie eine **[!UICONTROL Fallnummer]**, um die Seite mit den Falldetails z
 
 ![Fallzusammenfassung](/help/adobe-support-tools-guide/assets/case-summary-1.png)
 
-Auf der Seite mit den Falldetails werden der Falltitel, die Fall-ID, der Status, das Datum der letzten Aktualisierung, die Fallbeschreibung und die Reproduzierbarkeit angezeigt. Das Detailbedienfeld enthält den Adobe Support Agent, den Anforderer, das Produkt, die Priorität, die Zeitzone, die Beobachter und die Anfrageanhänge. Um einen Kommentar hinzuzufügen, geben Sie Ihre Nachricht im Kommentareditor ein und wählen Sie **[!UICONTROL Nachricht senden]**. Sie können Dateien über das Anlagensymbol anhängen. Wählen Sie das Anheften-Symbol auf einem Kommentar aus, um es an das Gehäuse anzuheften. Sie können mehrere Kommentare anheften.
+Auf der Seite mit den Falldetails werden der Falltitel, die Fall-ID, der Status, das Datum der letzten Aktualisierung, die Fallbeschreibung und die Reproduzierbarkeit angezeigt. Das Detailbedienfeld enthält den Adobe Support Agent, den Anforderer, das Produkt, die Priorität, die Zeitzone, die Beobachter und die Anfrageanhänge. Um einen Kommentar hinzuzufügen, geben Sie Ihre Nachricht im Kommentareditor ein und wählen Sie **[!UICONTROL Nachricht senden]**. Sie können Dateien über das Anlagensymbol anhängen. Wählen Sie das Anheften-Symbol auf einem Kommentar aus, um es an das Gehäuse anzuheften. Sie können mehrere Kommentare anheften und entfernen.
 
 ![Falldetails](/help/adobe-support-tools-guide/assets/case-details.png)

@@ -5,9 +5,9 @@ feature: Support, Roles/Permissions, Tools and External Services, Admin Workspac
 feature-set: Commerce
 solution: Commerce
 exl-id: a7833d47-1d4b-4c10-9d2e-42fa43f8513c
-source-git-commit: f0cf10d8d97b8e2c2925999061c115f6a5d3c81e
+source-git-commit: 6ac712151b002370eb84a3e3deb5480921cc40a6
 workflow-type: tm+mt
-source-wordcount: '3618'
+source-wordcount: '3602'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,9 @@ In diesem Handbuch erfahren Sie, wie Sie ein Support-Ticket an den [Experience L
 * [Beim Experience League-Support anmelden](#sign-in-experience-support)
 * [Senden eines Support-Tickets](#support-case)
 
-   * [Adobe Experience League-Startseite](#experience-league-start-page)
-   * [Adobe Commerce-Kontoseite](#submit-case-adobe-commerce-account-page)
-   * [*E-Mail-Adresse überprüfen* Fehler auf der Adobe Commerce-Kontoseite](#verify-email-address-error)
+  * [Adobe Experience League-Startseite](#experience-league-start-page)
+  * [Adobe Commerce-Kontoseite](#submit-case-adobe-commerce-account-page)
+  * [*E-Mail-Adresse überprüfen* Fehler auf der Adobe Commerce-Kontoseite](#verify-email-address-error)
 
 * [Support-Fälle tracken](#track-support-cases)
 * [Kommentare in Ihrem Fall](#comments-in-your-case)
@@ -55,7 +55,7 @@ In diesem Handbuch erfahren Sie, wie Sie ein Support-Ticket an den [Experience L
 * [Freigegebenen Zugriff bereitstellen](#provide-shared-access)
 * [Freigegebenen Zugriff widerrufen (löschen)](#revoke-shared-access)
 
-   * [Wie können Benutzer gelöscht werden, denen über ein Cloud-Projekt gemeinsamer Zugriff gewährt wurde?](#remove-cloud-shared-access-users)
+  * [Wie können Benutzer gelöscht werden, denen über ein Cloud-Projekt gemeinsamer Zugriff gewährt wurde?](#remove-cloud-shared-access-users)
 
 * [Auf freigegebenes Konto zugreifen (Konten wechseln)](#switch-accounts)
 * [Fehlerbehebung bei freigegebenem Zugriff](#troubleshooting-shared-access)
@@ -147,6 +147,8 @@ Informationen zum Senden eines neuen Support-Tickets über die Startseite von Ad
 > Um sicherzustellen, dass Sie die schnellste und genaueste Unterstützung erhalten, wählen Sie beim Erstellen von Support-Anfragen die richtigen Details aus. Durch eine präzise Auswahl können Sie Ihren Fall direkt an das richtige Team weiterleiten und die Antwortzeiten verkürzen.
 >
 >Wenn Ihr Unternehmen über Berechtigungen für Adobe Commerce Intelligence / Commerce Reporting (MBI) verfügt, Sie jedoch Unterstützung bei erweiterten Berichten benötigen, wählen Sie nicht **Commerce Reporting** als Produkt aus. Das Commerce-Reporting-Team bietet keine Unterstützung für Probleme mit der erweiterten Berichterstellung.
+>
+>Wenn Ihr Problem mit der Zahlung zusammenhängt, wählen Sie Zahlungsdienste nicht standardmäßig aus. Payment Services bezieht sich speziell auf das Adobe Payment Services-Modul. Die Auswahl der Option für Zahlungsprobleme im Allgemeinen kann Verwirrung über das in die Berechnung einbezogene Produkt und den entsprechenden Untersuchungspfad stiften.
 >
 >Wenn Sie kein anderes Produkt auswählen können (z. B. wenn die Dropdown-Liste **[!UICONTROL Produkt auswählen]** leer ist oder nicht angezeigt wird), liegt dies in der Regel an einem der folgenden Gründe:
 >
