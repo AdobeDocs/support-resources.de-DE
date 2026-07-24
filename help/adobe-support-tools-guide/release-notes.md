@@ -6,17 +6,11 @@ hold: true
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
 autotag-review: '2026-06-12T20:44:20.941Z'
 TQID: 'https://experienceleague.adobe.com/ULOOxxvZGorHsE8Q44r8n7HbvTb712-8NnVMzl0J-Q8'
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2:
-  - id: d00e9f03-e50b-4162-b143-0c0817c937c2
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 474b37aa399674adc241780f8c0ab7b2e7c1abac
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: d00e9f03-e50b-4162-b143-0c0817c937c2id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 10aa275ca5c6275f991de2aa7136f41f677e0700
 workflow-type: tm+mt
 source-wordcount: 2140
 ht-degree: 0%
@@ -50,7 +44,7 @@ Diese Versionshinweise enthalten Aktualisierungen zur Experience League-Unterst�
 
 8. Die kombinierte Spalte **[!UICONTROL Öffnungsdatum/]**) des aktuellen Portals wurde auf der neu gestalteten Seite **[!UICONTROL Meine Anfragen]** in zwei separate Spalten **[!UICONTROL Öffnungsdatum]** und **[!UICONTROL Abschlussdatum]** aufgeteilt.
 
-9. Auf **[!UICONTROL Seite &quot;**&#x200B;[!UICONTROL &#x200B; Fälle“ wurde &#x200B;]&#x200B;**neue Spalte „Letzte Aktualisierung]** hinzugefügt, die das Datum der letzten Aktivität für jeden Fall anzeigt.
+9. Auf **[!UICONTROL Seite &quot;**[!UICONTROL  Fälle“ wurde ]**neue Spalte „Letzte Aktualisierung]** hinzugefügt, die das Datum der letzten Aktivität für jeden Fall anzeigt.
 
 10. Damit wichtige Aktualisierungen leicht oben im Fall-Aktivitäts-Feed verfügbar bleiben, können Sie jetzt Kommentare auf der Seite **[!UICONTROL Falldetails]** anheften.
 
@@ -60,7 +54,7 @@ Diese Versionshinweise enthalten Aktualisierungen zur Experience League-Unterst�
 
 >[!NOTE]
 >
->Mit diesem Update wird der Plan umgesetzt[!UICONTROL &#x200B; „Case Creation], [!UICONTROL My Cases] und [!UICONTROL Case Details] in das neu gestaltete Experience League Support Portal aufzunehmen (siehe den obigen Eintrag vom 26. Mai 2026). Diese Seiten waren nur im aktuellen Experience League Support-Portal verfügbar.
+>Mit diesem Update wird der Plan umgesetzt[!UICONTROL  „Case Creation], [!UICONTROL My Cases] und [!UICONTROL Case Details] in das neu gestaltete Experience League Support Portal aufzunehmen (siehe den obigen Eintrag vom 26. Mai 2026). Diese Seiten waren nur im aktuellen Experience League Support-Portal verfügbar.
 
 ## &#x200B;23. Juli 2026 - Persistent Portal Preference im neu gestalteten Experience League Support Portal
 
@@ -100,7 +94,7 @@ Diese Versionshinweise enthalten Aktualisierungen zur Experience League-Unterst�
 
 1. Das Diagramm **[!UICONTROL Anzahl der Fälle nach Priorität]** bietet jetzt eine detailliertere Aufschlüsselung beim Bewegen des Mauszeigers. Wenn Sie den Mauszeiger über ein Prioritätssegment bewegen, wird eine QuickInfo angezeigt, die die Gesamtzahl der Fälle sowie die Anzahl der offenen und geschlossenen Fälle anzeigt.
 
-1. Das **[!UICONTROL Produktstatus]**-Widget unterstützt jetzt die interaktive Produktfilterung. Systemstatuswarnungen können gefiltert werden, indem ein oder mehrere Produkte direkt auf der Startseite ausgewählt werden. Wenn Sie ein Produkt in diesem Widget auswählen, wird es nicht mehr zu [status.adobe.com](http://status.adobe.com/de-de) umgeleitet.
+1. Das **[!UICONTROL Produktstatus]**-Widget unterstützt jetzt die interaktive Produktfilterung. Systemstatuswarnungen können gefiltert werden, indem ein oder mehrere Produkte direkt auf der Startseite ausgewählt werden. Wenn Sie ein Produkt in diesem Widget auswählen, wird es nicht mehr zu [status.adobe.com](http://status.adobe.com) umgeleitet.
 
 1. Das **[!UICONTROL Produktstatus]**-Widget listet Produkte jetzt in einer intuitiveren Reihenfolge auf. Produkte mit aktiven Problemen werden zuerst angezeigt, gefolgt von den übrigen Produkten alphabetisch sortiert.
 
@@ -232,3 +226,4 @@ Experience League bietet jetzt die Option **[!UICONTROL Callback anfordern]**, d
 - Diese Funktion ist für Adobe Experience Manager, Campaign und Workfront verfügbar.
 - Kunden können Meetings nach Bedarf planen und sofort Einladungen erhalten.
 - Bei Adobe Experience Manager P1-Fällen sorgen sofortige Callbacks für eine schnellere Interaktion bei kritischen Problemen und tragen so zur Minimierung von Ausfallzeiten und geschäftlichen Auswirkungen bei.
+
