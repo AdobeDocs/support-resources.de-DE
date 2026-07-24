@@ -2,6 +2,7 @@
 title: Experience League Support - Versionshinweise
 description: Die neuesten Versionsinformationen zur Experience League-Unterstützung.
 feature: Release Notes
+hold: true
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
 autotag-review: '2026-06-12T20:44:20.941Z'
 TQID: 'https://experienceleague.adobe.com/ULOOxxvZGorHsE8Q44r8n7HbvTb712-8NnVMzl0J-Q8'
@@ -15,9 +16,9 @@ level_v2:
 topic_v2:
   - id: d00e9f03-e50b-4162-b143-0c0817c937c2
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: d76226eb8ff1eecca20a67ef3ce9f62955152be1
+source-git-commit: 474b37aa399674adc241780f8c0ab7b2e7c1abac
 workflow-type: tm+mt
-source-wordcount: 1757
+source-wordcount: 2140
 ht-degree: 0%
 
 ---
@@ -31,6 +32,36 @@ Diese Versionshinweise enthalten Aktualisierungen zur Experience League-Unterst�
 ![Fehlerbehebung](../adobe-support-tools-guide/assets/fix.svg) Fehlerbehebungen und Verbesserungen
 ![Bug](../adobe-support-tools-guide/assets/bug.svg) Bekannte Probleme
 
+## &#x200B;19. August 2026 - Fallerstellung, meine Fälle und Falldetails sind jetzt im neu gestalteten Experience League Support-Portal verfügbar
+
+1. **[!UICONTROL Open Case]** ist jetzt direkt im neu gestalteten Experience League Support-Portal verfügbar. Kunden können Fälle erstellen und senden, ohne das neu gestaltete Portal verlassen zu müssen.
+
+2. Die Fallerstellung im neu gestalteten Portal umfasst jetzt **[!UICONTROL KI-Chat]**, sodass Kunden ihr Problem im Gespräch beschreiben und beim Erstellen eines Falls Unterstützung erhalten können. Dieser KI-Chat entspricht dem Erlebnis, das zuvor im aktuellen Experience League-Support-Portal verfügbar war (siehe den unten stehenden Eintrag vom 9. Juli 2026).
+
+3. Die Seite **[!UICONTROL Meine Fälle]** wurde mit einer neuen Benutzeroberfläche aktualisiert, die sich vom aktuellen Experience League-Support-Portal unterscheidet. Mit den beiden Umschaltern **[!UICONTROL Meine]** und **[!UICONTROL Meine Organisationsfälle]** können Sie zwischen der Anzeige der von Ihnen gesendeten Fälle und der Anzeige aller in Ihrem Unternehmen gesendeten Fälle wechseln.
+
+4. Mehrere neue Filter sind auf der Seite **[!UICONTROL Meine Fälle]** verfügbar, ein Upgrade gegenüber den Filteroptionen, die im aktuellen Portal verfügbar sind.
+
+5. Standardmäßig werden auf der Seite &quot;**[!UICONTROL Fälle]** alle Fälle angezeigt. Verwenden Sie die verfügbaren Filter, um Fälle nach Bedarf einzugrenzen und in die engere Wahl zu ziehen.
+
+6. Die Seite **[!UICONTROL Meine Fälle]** bietet jetzt eine verbesserte Leistung bei schnelleren Ladezeiten.
+
+7. Ein Filter **[!UICONTROL Zeitbereich]** wurde hinzugefügt und verwendet standardmäßig die letzten 3 Monate, um die Seitenladeleistung zu verbessern. Passen Sie den Filter an, um Fälle außerhalb dieses Standardbereichs anzuzeigen.
+
+8. Die kombinierte Spalte **[!UICONTROL Öffnungsdatum/]**) des aktuellen Portals wurde auf der neu gestalteten Seite **[!UICONTROL Meine Anfragen]** in zwei separate Spalten **[!UICONTROL Öffnungsdatum]** und **[!UICONTROL Abschlussdatum]** aufgeteilt.
+
+9. Auf **[!UICONTROL Seite &quot;**&#x200B;[!UICONTROL &#x200B; Fälle“ wurde &#x200B;]&#x200B;**neue Spalte „Letzte Aktualisierung]** hinzugefügt, die das Datum der letzten Aktivität für jeden Fall anzeigt.
+
+10. Damit wichtige Aktualisierungen leicht oben im Fall-Aktivitäts-Feed verfügbar bleiben, können Sie jetzt Kommentare auf der Seite **[!UICONTROL Falldetails]** anheften.
+
+>[!NOTE]
+>
+>Dies ist eine frühe Beta-Version von [!UICONTROL AI Chat] im neu gestalteten Experience League Support Portal. Sie ist für alle verfügbar, aber KI-Antworten und Gesprächsflüsse können zwischen den Sitzungen geringfügig variieren, während konsistente Datenerfassungsziele beibehalten werden. Überprüfen Sie alle KI-generierten Antworten, bevor Sie sie bearbeiten.
+
+>[!NOTE]
+>
+>Mit diesem Update wird der Plan umgesetzt[!UICONTROL &#x200B; „Case Creation], [!UICONTROL My Cases] und [!UICONTROL Case Details] in das neu gestaltete Experience League Support Portal aufzunehmen (siehe den obigen Eintrag vom 26. Mai 2026). Diese Seiten waren nur im aktuellen Experience League Support-Portal verfügbar.
+
 ## &#x200B;23. Juli 2026 - Persistent Portal Preference im neu gestalteten Experience League Support Portal
 
 1. Die Portalvoreinstellung wird jetzt basierend auf Ihrer letzten Auswahl **[!UICONTROL Neue Homepage ausprobieren]** automatisch gespeichert.
@@ -41,7 +72,7 @@ Diese Versionshinweise enthalten Aktualisierungen zur Experience League-Unterst�
 
 ## &#x200B;9. Juli 2026 - Experience League Support AI-Chat
 
-1. Auf dem Experience League-Support ist jetzt eine neue KI-Chat-Oberfläche als Opt-in-Alternative zum klassischen Formular zur Fallerstellung verfügbar, sodass Kunden ihr Problem im Gespräch beschreiben können, anstatt strukturierte Felder auszufüllen. Das klassische Formular bleibt vollständig verfügbar und wird durch dieses Erlebnis nicht ersetzt.
+1. Auf dem Experience League-Support ist jetzt eine neue KI-Chat-Oberfläche als Opt-in-Alternative zum klassischen Formular zur Fallerstellung verfügbar, sodass Kunden ihr Problem im Gespräch beschreiben können, anstatt strukturierte Felder auszufüllen. Das klassische Formular bleibt vollständig verfügbar und wird durch diese Erfahrung nicht ersetzt.
 
 1. Der KI-Chat unterstützt sowohl Eingabe als auch Sprache in Text und ermöglicht eine Freisprechfunktion für ein barrierefreies und flexibleres Erlebnis bei der Fallerstellung.
 
