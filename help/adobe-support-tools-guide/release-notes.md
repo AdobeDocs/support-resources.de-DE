@@ -16,7 +16,7 @@ level_v2:
 topic_v2:
   - id: d00e9f03-e50b-4162-b143-0c0817c937c2
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 474b37aa399674adc241780f8c0ab7b2e7c1abac
+source-git-commit: 10aa275ca5c6275f991de2aa7136f41f677e0700
 workflow-type: tm+mt
 source-wordcount: 2140
 ht-degree: 0%
@@ -232,3 +232,4 @@ Experience League bietet jetzt die Option **[!UICONTROL Callback anfordern]**, d
 - Diese Funktion ist für Adobe Experience Manager, Campaign und Workfront verfügbar.
 - Kunden können Meetings nach Bedarf planen und sofort Einladungen erhalten.
 - Bei Adobe Experience Manager P1-Fällen sorgen sofortige Callbacks für eine schnellere Interaktion bei kritischen Problemen und tragen so zur Minimierung von Ausfallzeiten und geschäftlichen Auswirkungen bei.
+
