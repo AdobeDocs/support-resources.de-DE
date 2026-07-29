@@ -27,7 +27,7 @@ ht-degree: 97%
 
 >[!NOTE]
 >
->Wenn Sie Fragen haben oder Hilfe benötigen, gehen Sie zur Seite [Support](https://experienceleague.adobe.com/en/support#home), um einen Support-Fall zu öffnen.
+>Wenn Sie Fragen haben oder Hilfe benötigen, gehen Sie zur Seite [Support](https://experienceleague.adobe.com/de/support#home), um einen Support-Fall zu öffnen.
 
 Adobe-Erfolgspläne gehen über die reaktive Problemlösung hinaus, um Ihnen ein neues personalisiertes Erlebnis zu bieten, sodass Ihr Unternehmen bei allen Problemen einen Schritt voraus ist. Ihr Adobe-Team setzt fundiertes technisches Fachwissen, vielfältige Fähigkeiten und eine fortschrittliche Methodik ein, um Ihnen das richtige Maß an Support, Fachwissen und technischer und strategischer Beratung zu bieten.
 
