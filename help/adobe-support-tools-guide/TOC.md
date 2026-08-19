@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 61cdf015dfe42f1bc2c32e8402d767c22200bdbd
+source-git-commit: 21a6c72123a7415e208ff03e51324cad5a790efd
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '346'
 ht-degree: 2%
 
 ---
@@ -21,8 +21,10 @@ ht-degree: 2%
 - [Berechtigungskonfiguration für den Adobe-Kunden-Support](adobe-customer-support-entitlement-configuration.md)
 - [Aktualisierung der Telefonnummer des Supports](phone-numbers.md)
 - [Eskalations-Management](/help/adobe-support-tools-guide/escalation-management.md)
-- [Experience League Support-Portal - Neue Benutzeroberfläche](/help/adobe-support-tools-guide/exl-new-ui.md)
 - [Systemeinblicke](/help/adobe-support-tools-guide/system-insights.md)
+- Experience League Support-Portal - Neue Benutzeroberfläche {#exl-new-ui}
+  - [Überblick](/help/adobe-support-tools-guide/exl-new-ui-overview.md)
+  - [Erstellen und Verwalten von Support-Fällen](/help/adobe-support-tools-guide/exl-new-ui-support-cases.md)
 - Adobe Admin Console {#adobe-admin-console}
   - [Navigieren in der Adobe Admin Console](adobe-admin-console/navigating-the-adobe-admin-console.md)
   - [Ausstehende Aufträge ausführen](adobe-admin-console/execute-jobs.md)

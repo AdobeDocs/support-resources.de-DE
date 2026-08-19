@@ -12,10 +12,10 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 671678370c8a941c9644d0623bf713b9a4e056e1
+source-git-commit: 21a6c72123a7415e208ff03e51324cad5a790efd
 workflow-type: tm+mt
-source-wordcount: 1070
-ht-degree: 1%
+source-wordcount: 1311
+ht-degree: 0%
 
 ---
 
@@ -25,17 +25,21 @@ ht-degree: 1%
 
 Das neu gestaltete Experience League Support-Portal bietet ein einheitliches und intuitives Erlebnis für die Verwaltung von Adobe Support-Aktivitäten. Sie bietet schnelleren Zugriff auf wichtige Funktionen, einschließlich der Verfolgung von Support-Fällen, der Überwachung des Produktstatus, des Zugriffs auf Fallerkenntnisse und der Verbindung mit dem Success-Team.
 
+>[!NOTE]
+>
+>Informationen zum Erstellen und Verwalten von Support-Fällen im neu gestalteten Portal finden Sie unter [Erstellen und Verwalten von Support-Fällen](exl-new-ui-support-cases.md).
+
 ## Startseite
 
 Die **[!UICONTROL Startseite]** dient als zentraler Knotenpunkt für Support-Aktivitäten. Es bietet einen Überblick über die Support-Umgebung und schnellen Zugriff auf wichtige Funktionen.
 
-![Startseite für die neue EXL-Benutzeroberfläche](/help/adobe-support-tools-guide/assets/home-page-new-ui-1.png)
+![Startseite für die neue EXL-Benutzeroberfläche](/help/adobe-support-tools-guide/assets/home-page-new-ui-2.png)
 
 Das linke Navigationsfenster bietet Zugriff auf die folgenden Abschnitte:
 
 - **[!UICONTROL Startseite]** wird als standardmäßige Landingpage geöffnet und zeigt eine zentrale Ansicht der Support-Aktivität an.
-- **[!UICONTROL Anfrage öffnen]** Öffnet den Workflow zur Erstellung von Anfragen im aktuellen Experience League-Support-Portal.
-- **[!UICONTROL Meine Anfragen]** öffnet die Liste der Anfragen im aktuellen Experience League Support-Portal.
+- **[!UICONTROL Fall öffnen]** öffnet den Workflow zur Erstellung von Fällen im neu gestalteten Portal.
+- **[!UICONTROL Meine Fälle]** öffnet die Liste der Fälle im neu gestalteten Portal.
 - **[!UICONTROL My Success]** ist nur für Ultimate Success plan-Kunden verfügbar.
 
 ## Wechselnde Organisationen
@@ -54,17 +58,13 @@ Beide Portale bleiben synchronisiert, sodass Falldaten und Support-Informationen
 
 ![Alte Benutzeroberfläche](/help/adobe-support-tools-guide/assets/old-ui.png)
 
->[!NOTE]
->
->Portaleinstellungen werden automatisch gespeichert. Das Portal, das Sie zuletzt verwendet haben, wird zu Ihrem Standardportal für zukünftige Anmeldungen. Wenn Sie das neu gestaltete Portal zuletzt verwendet haben, wird es direkt geöffnet, ohne dass das alte Portal geladen wird. Wenn Sie das alte Portal zuletzt verwendet haben, öffnet das System das alte Portal.
-
 Die Startseite enthält ein personalisiertes Willkommensbanner mit einer globalen Suchleiste, mit der Sie das Experience League Support-Portal durchsuchen können.
 
 Die folgenden Schnellaktionen sind oben auf der Seite &quot;**[!UICONTROL &quot;]**:
 
-1. **[!UICONTROL Support-Anfrage öffnen]** - Öffnet den Workflow zur Erstellung von Anfragen im alten Support-Portal. Wählen Sie **[!UICONTROL Erste Schritte]** aus.
+1. **[!UICONTROL Support-Fall öffnen]** - Öffnet den Workflow zur Erstellung von Fällen im neu gestalteten Portal. Wählen Sie **[!UICONTROL Erste Schritte]** aus.
 
-1. **[!UICONTROL Anfragen anzeigen und verwalten]** - Öffnet die Seite **[!UICONTROL Meine Anfragen]** im alten Support-Portal. Wählen Sie **[!UICONTROL Jetzt starten]** aus.
+1. **[!UICONTROL Fälle anzeigen und verwalten]** - Öffnet die Seite **[!UICONTROL Meine Fälle]** im neu gestalteten Portal. Wählen Sie **[!UICONTROL Jetzt starten]** aus.
 
 1. **[!UICONTROL Callback anfordern]** - Planen Sie einen Anruf zu diesem Fall mit einem Adobe-Experten. Fordern Sie in P1-Fällen (kritisch) einen sofortigen Callback an. Planen Sie für P2- und P3-Fälle ein Web-Meeting mit einem Support-Techniker zu einem passenden Zeitpunkt. Wählen Sie **[!UICONTROL Jetzt anfordern]** um zu beginnen.
 
@@ -114,15 +114,18 @@ Wenn **[!UICONTROL Meine Fälle]** in **[!UICONTROL Service Analytics]** ausgew�
 
 ![Meine Fälle](/help/adobe-support-tools-guide/assets/my-case.png)
 
-Wählen Sie eine **[!UICONTROL Fall-ID]** aus, um die Falldetails im aktuellen Experience League-Support-Portal anzuzeigen.
+Wählen Sie eine **[!UICONTROL Fall-ID]** aus, um die Falldetails im neu gestalteten Experience League-Support-Portal anzuzeigen.
 
 ![Fall-ID auswählen](/help/adobe-support-tools-guide/assets/select-case-id.png)
 
-Wählen Sie **[!UICONTROL Alle Anfragen anzeigen]**, um die Seite **[!UICONTROL Meine Anfragen]** im aktuellen Experience League-Support-Portal zu öffnen.
+Wählen Sie **[!UICONTROL Alle Anfragen anzeigen]** aus, um die Seite **[!UICONTROL Meine Anfragen]** im neu gestalteten Experience League-Support-Portal zu öffnen.
 
 ![Alle Anfragen anzeigen](/help/adobe-support-tools-guide/assets/view-all-cases.png)
 
-Wenn **[!UICONTROL Meine Fälle]** in **[!UICONTROL Service Analytics]** ausgewählt ist, wird **[!UICONTROL Meine Fälle (Alle)]** vorausgewählt und im Experience League Support-Portal geöffnet. Wenn **[!UICONTROL Meine Organisationsfälle]** ausgewählt ist, wird **[!UICONTROL Die Fälle (alle)]** meiner Organisation im Experience League-Support-Portal vorausgewählt.
+Das Portal wählt die Registerkarte entsprechend Ihrer ursprünglichen Auswahl vorab aus:
+
+- Wenn Sie in **[!UICONTROL Service]** Analytics **die Option „Meine Anfragen** auswählen, wird die Registerkarte **Meine Anfragen** vorausgewählt.
+- Wenn Sie in **&#x200B;**&#x200B;**[!UICONTROL Analytics]** die Option &quot;**[!UICONTROL My Org Cases]** auswählen, ist diese Registerkarte vorausgewählt.
 
 ## Warnhinweise zum Produktstatus
 
@@ -139,7 +142,7 @@ Produkte werden in der folgenden Reihenfolge angezeigt:
 
 Diese Priorisierung hilft dabei, Produkte, die Aufmerksamkeit erfordern, schnell zu identifizieren und zu priorisieren. Sie können eine oder mehrere Produktkarten auswählen, um Warnhinweise in **[!UICONTROL Ihre Systemstatus-Warnhinweise]** auf der **[!UICONTROL -]** zu filtern.
 
-![Warnhinweisfilter](/help/adobe-support-tools-guide/assets/select-more-products.png)
+![Warnhinweisfilter](/help/adobe-support-tools-guide/assets/select-more-products-1.png)
 
 ## Ihr Systemstatus-Warnhinweise
 
@@ -161,7 +164,56 @@ Und jeder Warnhinweis enthält:
 
 Wählen Sie einen Warnhinweis aus, um ihn zu erweitern und zusätzliche Details anzuzeigen.
 
-![Ihr Abschnitt Systemstatus-Warnungen](/help/adobe-support-tools-guide/assets/system-status-alerts-1.png)
+![Ihr Abschnitt Systemstatus-Warnungen](/help/adobe-support-tools-guide/assets/system-alerts-updated.png)
+
+### Abonnements verwalten
+
+Verwenden Sie **[!UICONTROL Abonnements verwalten]** um E-Mail-Benachrichtigungen für Adobe-Produkt- und -Service-Statusereignisse einzurichten. Wenn es ein Update für ein Produkt gibt, das Sie abonniert haben, erhalten Sie einen Warnhinweis.
+
+1. Wählen **[!UICONTROL im Abschnitt „Warnhinweise]** Systemstatus“ die Option **[!UICONTROL Abonnements verwalten]** aus.
+
+   ![Abonnement verwalten](assets/manage-subscriptions.png)
+
+2. Wählen Sie auf der **[!UICONTROL Abonnements verwalten]** die Option **[!UICONTROL Abonnement erstellen]** aus.
+
+   ![Abonnement erstellen](assets/create-subscriptions.png)
+
+3. Wählen **[!UICONTROL unter Please select Cloud]** die Adobe-Cloud aus, die das Produkt enthält, das Sie überwachen möchten.
+4. Wählen **[!UICONTROL unter „Produkt und Angebote auswählen]** das Produkt aus, für das Sie Benachrichtigungen erhalten möchten.
+5. Wählen **[!UICONTROL unter „Regionen auswählen]** eine oder mehrere zu überwachende Regionen aus.
+6. Wählen **[!UICONTROL unter „Ereignistypen auswählen]** einen oder mehrere der folgenden Ereignistypen aus:
+
+   &#x200B;* Hauptdienstproblem
+   &#x200B;* Geringfügiger Service-Fehler
+   &#x200B;* Wartungsdienst
+   &#x200B;* Ankündigungen
+
+   ![Abonnementseite erstellen](assets/create-subscription-page.png)
+
+7. Überprüfen Sie die standardmäßigen Benachrichtigungseinstellungen, einschließlich Sprache und Zeitzone.
+8. Wählen Sie **[!UICONTROL Weiter]** aus.
+9. Überprüfen Sie die Abonnementdetails, einschließlich der ausgewählten Cloud, Produkte, Services, Regionen und Ereignistypen.
+10. Wählen **[!UICONTROL Bestätigen]**, um das Abonnement zu erstellen.
+
+    ![Abonnementdetails bestätigen](assets/confirm-subscription.png)
+
+11. Eine Bestätigungsmeldung wird angezeigt und das Abonnement wird erstellt.
+
+Nachdem das Abonnement erstellt wurde, sendet Adobe E-Mail-Benachrichtigungen, wenn Ereignisse, die den Kriterien für das ausgewählte Produkt, die ausgewählte Region und den ausgewählten Ereignistyp entsprechen, erstellt, aktualisiert oder aufgelöst werden.
+
+>[!NOTE]
+>
+>E-Mail ist der standardmäßige Kommunikationskanal für Statusbenachrichtigungen. Abonnementvoreinstellungen gelten nur für das ausgewählte Produkt, die ausgewählten Regionen und die ausgewählten Ereignistypen.
+
+Beim nächsten Öffnen von **[!UICONTROL Abonnements verwalten]** zeigt die Seite Ihre aktuellen Abonnementdetails an, einschließlich der ausgewählten Cloud-, Produkt-, Service-, Regionen- und Ereignistypen.
+
+![Verwalten vorhandener Abonnements](assets/edit-subscriptions.png)
+
+Auf dieser Seite können Sie die folgenden Aktionen ausführen:
+
+&#x200B;* Wählen **[!UICONTROL Abonnement bearbeiten]**, um ein vorhandenes Abonnement zu ändern.
+&#x200B;* Wählen Sie **[!UICONTROL Alle abmelden]** aus, um alle Abonnements zu entfernen.
+&#x200B;* Wählen Sie das Löschsymbol neben einem Abonnement aus, um ein einzelnes Abonnement zu entfernen.
 
 ## Ihre Plandaten
 
@@ -186,7 +238,7 @@ Die Seite enthält:
   - **[!UICONTROL Erfolgsbeschleuniger]**
   - **[!UICONTROL Mutual Action Plan]**
 
-Es bietet außerdem Zugriff auf die Lernressourcen wie Experience League, die Experience League-Community und Premium-Lernabonnements.
+Es bietet außerdem Zugriff auf Lernressourcen wie Experience League, die Experience League-Community und Premium-Lernabonnements.
 
 ### Adobe Success-Team
 

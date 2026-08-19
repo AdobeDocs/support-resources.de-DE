@@ -5,11 +5,9 @@ autotag-review: '2026-07-22T11:27:24.736Z'
 TQID: 'https://experienceleague.adobe.com/vmb2kfbBn3vgPgTQC1W3vf4CodiDfR6lzJNB0EBz71A'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-hold: true
-hide: true
-source-git-commit: 498f5c828603a24aaaaf8565941b0badbe0c405b
+source-git-commit: 85b1c584dc93970bc57a294a7a04f040980077f4
 workflow-type: tm+mt
-source-wordcount: 1170
+source-wordcount: 1220
 ht-degree: 0%
 
 ---
@@ -77,6 +75,8 @@ Führen Sie die folgenden Schritte aus, um einen Support-Fall im klassischen For
    >[!NOTE]
    >
    >KI-gestützte Empfehlungen werden für das Adobe Admin Console-Produkt nicht angezeigt.
+
+   Wenn Sie Problemdetails eingeben, wird das Bedienfeld „Systemeinblicke“ auf der rechten Seite des Bildschirms unter dem Abschnitt KI-gestützte Empfehlungen angezeigt. Systemeinblicke sind derzeit nur für Adobe Commerce verfügbar. Weitere Informationen finden Sie unter [Systemeinblicke](https://experienceleague.adobe.com/de/docs/support-resources/adobe-support-tools-guide/system-insights).
 
    ![Schritt zur Problembeschreibung](/help/adobe-support-tools-guide/assets/create-support-ticket-helpful-resources.png)
 

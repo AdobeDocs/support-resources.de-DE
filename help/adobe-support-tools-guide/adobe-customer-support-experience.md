@@ -14,9 +14,9 @@ topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 67a24fda4908c1856daabd6051eb453626c75a6c
+source-git-commit: 5e76b3d3c2a2b733805fece399b3cf276cc879ea
 workflow-type: tm+mt
-source-wordcount: 2067
+source-wordcount: 2113
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 Support-Tickets können jetzt über [Experience League gesendet &#x200B;](https://experienceleague.adobe.com/home?lang=de#support). Anweisungen zum Senden eines Support-Tickets finden Sie im Abschnitt zu [Senden eines Support-Tickets](#create-a-support-ticket-with-experience-league).
 
-Wir arbeiten daran, die Interaktion mit dem Adobe-Kunden-Support zu verbessern. Unser Ziel ist es, das Support-Erlebnis mithilfe von Experience League zu optimieren, indem wir zu einem einzigen Einstiegspunkt wechseln. Nach der Live-Schaltung kann Ihr Unternehmen problemlos auf den Adobe-Support zugreifen, den Service-Verlauf über ein produktübergreifendes gemeinsames System besser einsehen und über ein einziges Portal Hilfe per Telefon, Internet und Chat anfordern.
+Wir arbeiten daran, die Interaktion mit dem Adobe-Kunden-Support zu verbessern. Unser Ziel ist es, das Support-Erlebnis mithilfe von Experience League zu optimieren, indem wir zu einem einzigen Einstiegspunkt wechseln. Nach der Live-Schaltung kann Ihr Unternehmen problemlos auf den Adobe-Kunden-Support zugreifen, den Service-Verlauf über ein produktübergreifendes gemeinsames System besser einsehen und über ein einziges Portal Hilfe per Telefon, Internet und Chat anfordern.
 
 Wenn Sie ein Adobe Commerce-Benutzer sind, lesen Sie [Senden eines Support-Falls](https://experienceleague.adobe.com/de/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) im Experience League Support-Benutzerhandbuch für Adobe Commerce.
 
@@ -87,6 +87,10 @@ Weitere Informationen finden Sie in den Anweisungen [Enterprise-Administratorrol
 >[!NOTE]
 >
 >Bevor Sie ein Support-Ticket senden, überprüfen Sie die Leistung, Verfügbarkeit und die bekannten Probleme des Adobe-Systems auf der Website [Adobe-Status](https://status.adobe.com/de).
+
+>[!NOTE]
+>
+>Wenn Sie das neu gestaltete Experience League-Support-Portal verwenden, um ein Ticket für den technischen Support zu öffnen, finden Sie weitere Informationen unter [Erstellen und Verwalten von Support-Fällen](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/exl-new-ui/exl-new-ui-support-cases). In den folgenden Schritten wird die aktuelle (veraltete) Portalschnittstelle beschrieben.
 
 Experience League ist ein Selfservice-Support-Portal, das berechtigten Kunden personalisierte Hilfe und ein benutzerfreundliches Erlebnis bietet.
 
