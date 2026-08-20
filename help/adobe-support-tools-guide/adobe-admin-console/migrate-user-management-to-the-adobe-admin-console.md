@@ -19,7 +19,7 @@ Verwaltung.
 >[!NOTE]
 >
 >Die Web- und mobilen Apps von Frame.io sind in den Sprachen Englisch, Japanisch, Deutsch, Russisch,
-Spanisch, Italienisch, Französisch und Portugiesisch (Brasilien).
+>Spanisch, Italienisch, Französisch und Portugiesisch (Brasilien).
 
 Bevor Sie sich an Ihr Account-Team wenden, überprüfen Sie, ob Ihr Unternehmen die Eignungsanforderungen erfüllt, und ermitteln Sie die Stakeholder, die an der Migrationsplanung teilnehmen müssen.
 
