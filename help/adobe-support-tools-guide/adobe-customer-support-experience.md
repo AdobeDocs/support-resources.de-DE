@@ -90,7 +90,7 @@ Weitere Informationen finden Sie in den Anweisungen [Enterprise-Administratorrol
 
 >[!NOTE]
 >
->Wenn Sie das neu gestaltete Experience League-Support-Portal verwenden, um ein Ticket für den technischen Support zu öffnen, finden Sie weitere Informationen unter [Erstellen und Verwalten von Support-Fällen](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/exl-new-ui/exl-new-ui-support-cases). In den folgenden Schritten wird die aktuelle (veraltete) Portalschnittstelle beschrieben.
+>Wenn Sie das neu gestaltete Experience League-Support-Portal verwenden, um ein Ticket für den technischen Support zu öffnen, finden Sie weitere Informationen unter [Erstellen und Verwalten von Support-Fällen](https://experienceleague.adobe.com/de/docs/support-resources/adobe-support-tools-guide/exl-new-ui/exl-new-ui-support-cases). In den folgenden Schritten wird die aktuelle (veraltete) Portalschnittstelle beschrieben.
 
 Experience League ist ein Selfservice-Support-Portal, das berechtigten Kunden personalisierte Hilfe und ein benutzerfreundliches Erlebnis bietet.
 
