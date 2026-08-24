@@ -1,13 +1,14 @@
 ---
 title: Erstellen und Verwalten von Support-Fällen
 description: Erfahren Sie, wie Sie Support-Fälle im neu gestalteten Experience League Support-Portal erstellen, anzeigen und verwalten.
+hold: true
 autotag-review: '2026-07-22T11:27:24.736Z'
 TQID: 'https://experienceleague.adobe.com/vmb2kfbBn3vgPgTQC1W3vf4CodiDfR6lzJNB0EBz71A'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: 85b1c584dc93970bc57a294a7a04f040980077f4
+source-git-commit: 230c42fca07c58c03c9be2f90e91bec7fc830569
 workflow-type: tm+mt
-source-wordcount: 1220
+source-wordcount: 1214
 ht-degree: 0%
 
 ---
@@ -71,10 +72,6 @@ Führen Sie die folgenden Schritte aus, um einen Support-Fall im klassischen For
    ![Schritt zur Problembeschreibung](/help/adobe-support-tools-guide/assets/create-support-ticket-ai-recommendation.png)
 
    Wenn die Beschreibung weniger als 50 Zeichen enthält, zeigt das System empfohlene Artikel als Anleitung an. Ein integrierter Zeichenzähler verfolgt die Mindestanforderungen in Echtzeit.
-
-   >[!NOTE]
-   >
-   >KI-gestützte Empfehlungen werden für das Adobe Admin Console-Produkt nicht angezeigt.
 
    Wenn Sie Problemdetails eingeben, wird das Bedienfeld „Systemeinblicke“ auf der rechten Seite des Bildschirms unter dem Abschnitt KI-gestützte Empfehlungen angezeigt. Systemeinblicke sind derzeit nur für Adobe Commerce verfügbar. Weitere Informationen finden Sie unter [Systemeinblicke](https://experienceleague.adobe.com/de/docs/support-resources/adobe-support-tools-guide/system-insights).
 
@@ -148,6 +145,6 @@ Die Falltabelle zeigt die offenen Fälle, die Fallnummer, den Falltitel, den Sta
 
 ![Fallzusammenfassung](/help/adobe-support-tools-guide/assets/case-summary-1.png)
 
-Auf der Seite mit den Falldetails werden der Falltitel, die Fall-ID, der Status, das Datum der letzten Aktualisierung, die Fallbeschreibung und die Reproduzierbarkeit angezeigt. Das Detailbedienfeld enthält den Adobe Support Agent, den Anforderer, das Produkt, die Priorität, die Zeitzone, die Beobachter und die Anfrageanhänge. Um einen Kommentar hinzuzufügen, geben Sie Ihre Nachricht im Kommentareditor ein und wählen Sie **[!UICONTROL Nachricht senden]**. Sie können Dateien über das Anlagensymbol anhängen. Wählen Sie das Anheften-Symbol auf einem Kommentar aus, um es an das Gehäuse anzuheften. Sie können mehrere Kommentare anheften und entfernen.
+Auf der Seite mit den Falldetails werden der Falltitel, die Fall-ID, der Status, das Datum der letzten Aktualisierung, die Fallbeschreibung und die Reproduzierbarkeit angezeigt. Das Detailbedienfeld enthält den Adobe Support Agent, den Anforderer, das Produkt, die Priorität, die Zeitzone, die Beobachter und die Anfrageanhänge. Um einen Kommentar hinzuzufügen, geben Sie Ihre Nachricht im Kommentareditor ein und wählen Sie **[!UICONTROL Nachricht senden]**. Sie können Dateien über das Anlagensymbol anhängen und Anhänge im Portal löschen. Wählen Sie das Anheften-Symbol auf einem Kommentar aus, um es an das Gehäuse anzuheften. Sie können mehrere Kommentare anheften und entfernen.
 
 ![Falldetails](/help/adobe-support-tools-guide/assets/case-details.png)
