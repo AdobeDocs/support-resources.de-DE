@@ -107,7 +107,7 @@ Diese Versionshinweise enthalten Aktualisierungen zur Experience League-Unterst�
 
 1. Das Diagramm **[!UICONTROL Anzahl der Fälle nach Priorität]** bietet jetzt eine detailliertere Aufschlüsselung beim Bewegen des Mauszeigers. Wenn Sie den Mauszeiger über ein Prioritätssegment bewegen, wird eine QuickInfo angezeigt, die die Gesamtzahl der Fälle sowie die Anzahl der offenen und geschlossenen Fälle anzeigt.
 
-1. Das **[!UICONTROL Produktstatus]**-Widget unterstützt jetzt die interaktive Produktfilterung. Systemstatuswarnungen können gefiltert werden, indem ein oder mehrere Produkte direkt auf der Startseite ausgewählt werden. Wenn Sie ein Produkt in diesem Widget auswählen, wird es nicht mehr zu [status.adobe.com](http://status.adobe.com) umgeleitet.
+1. Das **[!UICONTROL Produktstatus]**-Widget unterstützt jetzt die interaktive Produktfilterung. Systemstatuswarnungen können gefiltert werden, indem ein oder mehrere Produkte direkt auf der Startseite ausgewählt werden. Wenn Sie ein Produkt in diesem Widget auswählen, wird es nicht mehr zu [status.adobe.com](http://status.adobe.com/de-de) umgeleitet.
 
 1. Das **[!UICONTROL Produktstatus]**-Widget listet Produkte jetzt in einer intuitiveren Reihenfolge auf. Produkte mit aktiven Problemen werden zuerst angezeigt, gefolgt von den übrigen Produkten alphabetisch sortiert.
 
