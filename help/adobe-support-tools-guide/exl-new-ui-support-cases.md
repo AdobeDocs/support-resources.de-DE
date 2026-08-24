@@ -4,9 +4,8 @@ description: Erfahren Sie, wie Sie Support-Fälle im neu gestalteten Experience 
 hold: true
 autotag-review: '2026-07-22T11:27:24.736Z'
 TQID: 'https://experienceleague.adobe.com/vmb2kfbBn3vgPgTQC1W3vf4CodiDfR6lzJNB0EBz71A'
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: 230c42fca07c58c03c9be2f90e91bec7fc830569
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+source-git-commit: 194902cbcd272b6948f548f45945d4cf1512a0e7
 workflow-type: tm+mt
 source-wordcount: 1214
 ht-degree: 0%
@@ -15,7 +14,7 @@ ht-degree: 0%
 
 # Erstellen und Verwalten von Support-Fällen
 
-Um einen Support-Fall in [Experience League](https://experienceleague.adobe.com/de/support?support-tab=home#home) senden zu können, muss Ihnen die Rolle „Support-Admin“ von einem Systemadministrator zugewiesen worden sein. Informationen zu Support-Berechtigungen und Rollenanforderungen finden Sie unter [Support-berechtigte Rollen für die Fallübermittlung erforderlich](https://experienceleague.adobe.com/de/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#support-entitled-roles-needed-for-case-submission-submit-ticket).
+Um einen Support-Fall in [Experience League](https://experienceleague.adobe.com/en/support?support-tab=home#home) senden zu können, muss Ihnen die Rolle „Support-Admin“ von einem Systemadministrator zugewiesen worden sein. Informationen zu Support-Berechtigungen und Rollenanforderungen finden Sie unter [Support-berechtigte Rollen für die Fallübermittlung erforderlich](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#support-entitled-roles-needed-for-case-submission-submit-ticket).
 
 ## Erstellen eines Support-Falls mit der neuen Benutzeroberfläche
 
@@ -73,11 +72,11 @@ Führen Sie die folgenden Schritte aus, um einen Support-Fall im klassischen For
 
    Wenn die Beschreibung weniger als 50 Zeichen enthält, zeigt das System empfohlene Artikel als Anleitung an. Ein integrierter Zeichenzähler verfolgt die Mindestanforderungen in Echtzeit.
 
-   Wenn Sie Problemdetails eingeben, wird das Bedienfeld „Systemeinblicke“ auf der rechten Seite des Bildschirms unter dem Abschnitt KI-gestützte Empfehlungen angezeigt. Systemeinblicke sind derzeit nur für Adobe Commerce verfügbar. Weitere Informationen finden Sie unter [Systemeinblicke](https://experienceleague.adobe.com/de/docs/support-resources/adobe-support-tools-guide/system-insights).
+   Wenn Sie Problemdetails eingeben, wird das Bedienfeld „Systemeinblicke“ auf der rechten Seite des Bildschirms unter dem Abschnitt KI-gestützte Empfehlungen angezeigt. Systemeinblicke sind derzeit nur für Adobe Commerce verfügbar. Weitere Informationen finden Sie unter [Systemeinblicke](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/system-insights).
 
    ![Schritt zur Problembeschreibung](/help/adobe-support-tools-guide/assets/create-support-ticket-helpful-resources.png)
 
-   Wählen Sie **[!UICONTROL Klassisches Formular]** oder **[!UICONTROL KI-Chat]** in der oberen rechten Ecke aus, um die Erstellung der Anfrage zu ändern. Weitere Informationen zum KI-Chat finden [&#x200B; unter „KI-Chat bei der Erstellung von Fällen](https://experienceleague.adobe.com/de/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#ai-chat-in-the-case-creation-experience).
+   Wählen Sie **[!UICONTROL Klassisches Formular]** oder **[!UICONTROL KI-Chat]** in der oberen rechten Ecke aus, um die Erstellung der Anfrage zu ändern. Weitere Informationen zum KI-Chat finden [ unter „KI-Chat bei der Erstellung von Fällen](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#ai-chat-in-the-case-creation-experience).
 
    ![AI-Chat](/help/adobe-support-tools-guide/assets/create-support-ticket-ai-chat.png)
 
@@ -91,7 +90,7 @@ Führen Sie die folgenden Schritte aus, um einen Support-Fall im klassischen For
 
 4. Wählen Sie im Abschnitt **[!UICONTROL Priorität und Geschäftsauswirkungen]** die Fallpriorität aus (P4 - Gering, P3 - Wichtig, P2 - Dringend, P1 - Kritisch). Geben Sie die Details der Geschäftsauswirkungen an, wenn die ausgewählte Priorität P1 - Kritisch ist, und wählen Sie dann **[!UICONTROL Weiter]**.
 
-   Weitere Informationen dazu, wie sich die Priorität von Fällen und die geschäftlichen Auswirkungen auf die Support-Antwortzeiten auswirken, finden Sie [Angestrebte anfängliche Antwortzeiten für den Support](https://experienceleague.adobe.com/de/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support).
+   Weitere Informationen dazu, wie sich die Priorität von Fällen und die geschäftlichen Auswirkungen auf die Support-Antwortzeiten auswirken, finden Sie [Angestrebte anfängliche Antwortzeiten für den Support](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support).
 
    ![Priorität und geschäftliche Auswirkungen](/help/adobe-support-tools-guide/assets/create-support-ticket-priority.png)
 
@@ -148,3 +147,4 @@ Die Falltabelle zeigt die offenen Fälle, die Fallnummer, den Falltitel, den Sta
 Auf der Seite mit den Falldetails werden der Falltitel, die Fall-ID, der Status, das Datum der letzten Aktualisierung, die Fallbeschreibung und die Reproduzierbarkeit angezeigt. Das Detailbedienfeld enthält den Adobe Support Agent, den Anforderer, das Produkt, die Priorität, die Zeitzone, die Beobachter und die Anfrageanhänge. Um einen Kommentar hinzuzufügen, geben Sie Ihre Nachricht im Kommentareditor ein und wählen Sie **[!UICONTROL Nachricht senden]**. Sie können Dateien über das Anlagensymbol anhängen und Anhänge im Portal löschen. Wählen Sie das Anheften-Symbol auf einem Kommentar aus, um es an das Gehäuse anzuheften. Sie können mehrere Kommentare anheften und entfernen.
 
 ![Falldetails](/help/adobe-support-tools-guide/assets/case-details.png)
+
