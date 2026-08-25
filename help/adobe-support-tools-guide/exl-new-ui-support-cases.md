@@ -6,7 +6,7 @@ autotag-review: '2026-07-22T11:27:24.736Z'
 TQID: 'https://experienceleague.adobe.com/vmb2kfbBn3vgPgTQC1W3vf4CodiDfR6lzJNB0EBz71A'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: 230c42fca07c58c03c9be2f90e91bec7fc830569
+source-git-commit: 194902cbcd272b6948f548f45945d4cf1512a0e7
 workflow-type: tm+mt
 source-wordcount: 1214
 ht-degree: 0%
@@ -148,3 +148,4 @@ Die Falltabelle zeigt die offenen Fälle, die Fallnummer, den Falltitel, den Sta
 Auf der Seite mit den Falldetails werden der Falltitel, die Fall-ID, der Status, das Datum der letzten Aktualisierung, die Fallbeschreibung und die Reproduzierbarkeit angezeigt. Das Detailbedienfeld enthält den Adobe Support Agent, den Anforderer, das Produkt, die Priorität, die Zeitzone, die Beobachter und die Anfrageanhänge. Um einen Kommentar hinzuzufügen, geben Sie Ihre Nachricht im Kommentareditor ein und wählen Sie **[!UICONTROL Nachricht senden]**. Sie können Dateien über das Anlagensymbol anhängen und Anhänge im Portal löschen. Wählen Sie das Anheften-Symbol auf einem Kommentar aus, um es an das Gehäuse anzuheften. Sie können mehrere Kommentare anheften und entfernen.
 
 ![Falldetails](/help/adobe-support-tools-guide/assets/case-details.png)
+

@@ -15,7 +15,7 @@ topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 917b0668639b4942a151c51af9bc0e8a6682a1dd
+source-git-commit: 194902cbcd272b6948f548f45945d4cf1512a0e7
 workflow-type: tm+mt
 source-wordcount: 2122
 ht-degree: 0%
@@ -280,3 +280,4 @@ Sobald ausreichende Informationen erfasst wurden, generiert die KI automatisch e
 * Reproduktionsschritte
 
 Sie können den Entwurf vor dem Senden überprüfen, um sicherzustellen, dass alle Details korrekt sind, und Sie können Anhänge, Protokolle, Screenshots und andere zusätzliche Details jederzeit während oder nach der Konversation zur Fallerstellung hinzufügen, um dem Support-Team den vollständigen Kontext zu bieten, den es benötigt.
+

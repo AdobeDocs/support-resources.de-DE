@@ -16,7 +16,7 @@ level_v2:
 topic_v2:
   - id: d00e9f03-e50b-4162-b143-0c0817c937c2
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 800aa84ee3767f35140afc379cb47fd1c58fbd53
+source-git-commit: 194902cbcd272b6948f548f45945d4cf1512a0e7
 workflow-type: tm+mt
 source-wordcount: 2254
 ht-degree: 0%
@@ -35,11 +35,8 @@ Diese Versionshinweise enthalten Aktualisierungen zur Experience League-Unterst�
 ## &#x200B;26. August 2026 - Updates im überarbeiteten Experience League Support-Portal
 
 1. Die Benutzeroberfläche zur Erstellung von Fällen speichert jetzt Ihr zuletzt ausgewähltes Erlebnis - **[!UICONTROL Classic Form]** oder **[!UICONTROL AI Chat]**. Wenn **[!UICONTROL AI Chat]** zuletzt verwendet wurde, wird er beim nächsten Erstellen eines Falls automatisch ausgewählt, sodass Sie nicht bei jedem Besuch manuell wechseln müssen.
-
 1. Anlagen können jetzt direkt auf der Seite &quot;**[!UICONTROL &quot; gelöscht werden]** indem Sie das Löschsymbol verwenden, das für jede Anlage angezeigt wird. Diese Funktion ist nicht für abgeschlossene Fälle oder für Workfront-Organisationen verfügbar.
-
 1. Die Sortierung wird jetzt für alle Spalten auf der Seite **[!UICONTROL Meine Fälle]** unterstützt.
-
 1. **[!UICONTROL KI-Empfehlungen]** sind jetzt verfügbar, wenn **[!UICONTROL Admin Console]** bei der Fallerstellung als Produkt ausgewählt wird.
 
 ## &#x200B;19. August 2026 - Fallerstellung, meine Fälle und Falldetails sind jetzt im neu gestalteten Experience League Support-Portal verfügbar
