@@ -44,7 +44,7 @@ In diesem Artikel wird beschrieben, wie Sie einen isolierten Patch für Adobe Co
    git push origin
    ```
 
-Weitere Informationen zum Anwenden von Patches auf Cloud-Projekte finden Sie unter [Patches anwenden](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/develop/upgrade/apply-patches).
+Weitere Informationen zum Anwenden von Patches auf Cloud-Projekte finden Sie unter [Patches anwenden](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/develop/upgrade/apply-patches).
 
 ## Anwenden eines isolierten Patches für Adobe Commerce On-Premise und Magento Open Source {#commerce}
 
