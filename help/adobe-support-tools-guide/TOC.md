@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 21a6c72123a7415e208ff03e51324cad5a790efd
+source-git-commit: bc539a832d4c153ed18ca2c6b87fdb13caf96def
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '364'
 ht-degree: 2%
 
 ---
@@ -25,6 +25,7 @@ ht-degree: 2%
 - Experience League Support-Portal - Neue Benutzeroberfläche {#exl-new-ui}
   - [Überblick](/help/adobe-support-tools-guide/exl-new-ui-overview.md)
   - [Erstellen und Verwalten von Support-Fällen](/help/adobe-support-tools-guide/exl-new-ui-support-cases.md)
+- {hide-from-toc}[Sprachassistent für Adobe-Support - Support außerhalb der Geschäftszeiten und am Wochenende (Japan)](/help/adobe-support-tools-guide/adobe-support-voice-assistant.md)
 - Adobe Admin Console {#adobe-admin-console}
   - [Navigieren in der Adobe Admin Console](adobe-admin-console/navigating-the-adobe-admin-console.md)
   - [Ausstehende Aufträge ausführen](adobe-admin-console/execute-jobs.md)
@@ -69,4 +70,5 @@ ht-degree: 2%
   - [Partner-Adobe Commerce bei Sandbox-Anfragen für Cloud-Infrastruktur](adobe-commerce-support/partner-magento-commerce-cloud-sandbox-requests.md)
   - [Benutzer kann nicht zum Adobe Commerce-Cloud-Projekt hinzugefügt werden](adobe-commerce-support/unable-add-user-adobe-commerce-cloud-project.md)
   - [Anwenden eines von Adobe bereitgestellten Composer-Patches](adobe-commerce-support/how-to-apply-a-composer-patch-provided-by-magento.md)
+  - [Anwenden eines von Adobe bereitgestellten isolierten Patches](adobe-commerce-support/how-to-apply-an-isolated-security-patch-file-provided-by-adobe.md)
   - [Support-Tools - Übersicht](adobe-commerce-support/overview.md)
