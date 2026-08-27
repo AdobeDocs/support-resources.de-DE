@@ -2,7 +2,6 @@
 keywords: Experience Platform-Support;Plattform-Support;Intelligent Services-Support;Kunden-KI-Support;Attributions-KI-Support;RTCDP-Support;Support-Ticket einreichen;Kunden-Support
 title: Adobe Experience Cloud Customer One für Unternehmen
 description: Adobe Customer Support Experience
-hold: true
 seo-description: Adobe Customer Support Experience
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 TQID: https://experienceleague.adobe.com/cGHwAzUXOUNouNknfl84ix4Gi7t8koCJVICt1zJWRp8
@@ -15,7 +14,7 @@ topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 194902cbcd272b6948f548f45945d4cf1512a0e7
+source-git-commit: f4a8d4cf7aa7438acd341e166f123ff908d9ef67
 workflow-type: tm+mt
 source-wordcount: 2122
 ht-degree: 0%
@@ -207,8 +206,8 @@ Nach der Übermittlung:
 Der Experience League-Support bietet eine KI-gestützte Chat-Oberfläche als alternative Möglichkeit zum Erstellen und Verwalten von Support-Fällen. Das KI-Chat-Erlebnis ist Opt-in und ersetzt nicht den klassischen Workflow zur Erstellung von Fällen.
 
 >[!NOTE]
-&#x200B;>>
-Das Portal speichert jetzt Ihre **[!UICONTROL KI-Chat]**-Auswahl als bevorzugte Fallerstellungserfahrung und speichert sie für Ihren nächsten Besuch.
+>
+>Das Portal speichert jetzt Ihre **[!UICONTROL KI-Chat]**-Auswahl als bevorzugte Fallerstellungserfahrung und speichert sie für Ihren nächsten Besuch.
 
 >[!NOTE]
 >
