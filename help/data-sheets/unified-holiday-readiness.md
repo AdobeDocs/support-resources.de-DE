@@ -7,15 +7,18 @@ solution: Experience Cloud, Experience Platform, Journey Optimizer, Customer Jou
 role: Developer, Admin, Leader, User
 index: true
 exl-id: 7a36a281-98d0-4b1f-afc5-dbcde10fddaf
-source-git-commit: bbc1d3c0a0436a36d55adac14bb354fe0ecf96da
+source-git-commit: e2fdb2c6d832c090b2222b771c67e2c9659b0fa0
 workflow-type: tm+mt
-source-wordcount: '4803'
+source-wordcount: '4830'
 ht-degree: 3%
 
 ---
 
 # Adobe DX Solutions Unified Holiday Readiness Guide
 
+>[!NOTE]
+>
+>Diese Leitlinien gelten seit Oktober 2025. Die aktualisierte Version für die Weihnachtszeit 2026 soll Ende September 2026 veröffentlicht werden.
 
 Der Adobe DX Solutions Unified Holiday Readiness Guide hilft Ihnen, sich auf die Weihnachtszeit vorzubereiten, indem er sich auf eine proaktive Planung statt auf eine reaktive Problemlösung konzentriert. Es enthält praktische Schritte, um sicherzustellen, dass Ihre Instanzen bereit sind, sodass potenzielle Probleme minimiert werden, bevor sie auftreten. Das Adobe-Team verfügt über technisches Know-how, eine breite Palette von Funktionen und bewährte Methoden, um Ihnen den richtigen technischen und strategischen Support und die richtige Anleitung zu bieten, sodass Ihr Unternehmen gut vorbereitet ist.
 
@@ -94,9 +97,9 @@ Um Adobe Journey Optimizer auf die Weihnachtszeit vorzubereiten, sollten Unterne
 ### Prognostizieren des Bedarfs
 
 * Basierend auf der Komprimierung der Weihnachtssaison und dem höheren Kampagnenvolumen können Sie Folgendes erwarten:
-   * Eine Spitze bei Echtzeit-Ereignissen und ausgelösten Journey (Warenkorbabbruch, Last-Minute-Angebote)
-   * Sättigungsrisiken bei Nachrichten (höhere Opt-outs, Ermüdung)
-   * Erhöhte Cross-Channel-Komplexität (E-Mail + Push + SMS + In-App)
+  * Eine Spitze bei Echtzeit-Ereignissen und ausgelösten Journey (Warenkorbabbruch, Last-Minute-Angebote)
+  * Sättigungsrisiken bei Nachrichten (höhere Opt-outs, Ermüdung)
+  * Erhöhte Cross-Channel-Komplexität (E-Mail + Push + SMS + In-App)
 * Verwenden Sie die Metriken des letzten Jahres (Öffnungs-/Klick-/Abmelderaten, Journey-Eintrittvolumen), um die erwartete Auslastung zu modellieren und Schwellenwerte für Ihre Messaging-Systeme festzulegen.
 * Identifizieren Sie wahrscheinliche „ruhige Fenster“ oder Zeiten geringer Leistung (z. B. Wochenenden, Urlaubstage) und planen Sie die Versandvolumen entsprechend.
 
@@ -107,27 +110,27 @@ Um Adobe Journey Optimizer auf die Weihnachtszeit vorzubereiten, sollten Unterne
 * Konfigurieren von Kanal-/Journey-Regelsätzen: siehe [Arbeiten mit Regelsätzen](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/conflict-prioritization/capping-rules/rule-sets).
 * Bereiten Sie Ihre Datenhygiene-/Echtzeit-Ereignis-Streams und Segmentierungs-Frameworks vor.
 * Stellen Sie sicher, dass Sie Audiences für Feiertagskampagnen definiert haben, z. B.:
-   * Hochwertige Kunden
-   * Treue Segmente
-   * Warenkorbabgänger
-   * Erstkäufer
+  * Hochwertige Kunden
+  * Treue Segmente
+  * Warenkorbabgänger
+  * Erstkäufer
 * Laden Sie Vorlagen für Feiertage-Journey vorab oder bereiten Sie sie vor. Nutzen Sie die Entscheidungslogik (Angebote/Einschränkungen), um sie dynamisch auf der Grundlage von Inventar, zeitabhängigen Angeboten und Kanalpräferenzen anzupassen. Siehe dazu das Beispiel im Artikel [Hinzufügen von Einschränkungen zu Angeboten](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/decisioning/offer-decisioning/managing-offers-in-the-offer-library/configure-offers/add-constraints) .
 * Technische Bereitschaft: Bestätigung der API/Endpunkt-Ladekapazität, Drosselungs-/Begrenzungsregeln für benutzerdefinierte Aktionen und externe Integrationen. Siehe [Leitplanken und Einschränkungen](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/get-started/guardrails).
 
 ### Testen und Validieren
 
 * Verwenden Sie Ihr Experimentier-Framework, um wichtige Variablenänderungen zu testen:
-   * Versandzeit
-   * Angebotstyp
-   * Kanalmix
-Siehe [Best Practices für AJO Experimentation Accelerator](https://experienceleague.adobe.com/de/docs/experimentation-accelerator/using/get-started/experiment-accelerator-best-practices).
+  * Versandzeit
+  * Angebotstyp
+  * Kanalmix
+    Siehe [Best Practices für AJO Experimentation Accelerator](https://experienceleague.adobe.com/de/docs/experimentation-accelerator/using/get-started/experiment-accelerator-best-practices).
 * End-to-End-Journey-Validierung durchführen:
-   * Ereignis-Trigger
-   * Segmentierungseintrag
-   * Journey-Pfadflüsse
-   * Personalisierungslogik
-   * Angebotsbegrenzungen
-   * Ausstiegskriterien
+  * Ereignis-Trigger
+  * Segmentierungseintrag
+  * Journey-Pfadflüsse
+  * Personalisierungslogik
+  * Angebotsbegrenzungen
+  * Ausstiegskriterien
 * Überprüfen Sie Begrenzungs- und Konfliktregeln. Siehe den Artikel [Journey-Begrenzung und Schlichtung](https://experienceleague.adobe.com/de/docs/journey-optimizer/using/conflict-prioritization/journey-capping) .
 * Belastungstest für skalierte Volumes für Spitzen-Sendevorgänge oder Spitzen: Simulieren Sie Volumina mit hohem Trigger, um das Systemverhalten unter Last zu überprüfen.
 * Validieren der Zustellbarkeit: Aufwärmen von E-Mail-Domains/-Absendern, Bestätigen der Mobile-Push-Konfigurationen und Überprüfen der Fallback-Kanäle für SMS/In-App.
@@ -209,7 +212,7 @@ Um sicherzustellen, dass Ihr Unternehmen in der Hochsaison erfolgreich ist, müs
 
 ### Für Skalierung vorbereiten
 
-Befolgen Sie die Empfehlungen im [Planen und Schwenken: Ein strategischer Ansatz für die Hauptsaison 2025](https://experienceleague.adobe.com/de/perspectives/planning-and-pivoting-a-strategic-approach-to-peak-season-2025) , der praktische Strategien mit Adobe Commerce (und optionalen Adobe Experience Cloud-Tools) bietet, mit denen Sie während der geschäftigsten Zeit des Jahres herausragende Kundenerlebnisse planen, verschwenken und bereitstellen können.
+Befolgen Sie die Empfehlungen im Handbuch [Planung und Umstellung: Ein strategischer Ansatz für die Hauptsaison 2025](https://experienceleague.adobe.com/de/perspectives/planning-and-pivoting-a-strategic-approach-to-peak-season-2025) mit umsetzbaren Strategien unter Verwendung von Adobe Commerce (und optionalen Adobe Experience Cloud-Tools), mit denen Sie während der geschäftigsten Zeit des Jahres herausragende Kundenerlebnisse planen, optimieren und bereitstellen können.
 
 ### Best Practices
 
@@ -232,8 +235,8 @@ Wenn Ihr Unternehmen während der Urlaubszeit die geschäftigsten Momente erlebt
 
 * Ausführliche Einblicke und Anleitungen zur Vorbereitung auf hohen Traffic mit Adobe Experience Manager Cloud Services finden Sie unter den folgenden Links:
 
-   * [CDN in AEM as a Cloud Service](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/implementing/content-delivery/cdn)
-   * [AEM as a Cloud Service-Caching](https://experienceleague.adobe.com/de/docs/experience-manager-learn/cloud-service/caching/overview)
+  * [CDN in AEM as a Cloud Service](https://experienceleague.adobe.com/de/docs/experience-manager-cloud-service/content/implementing/content-delivery/cdn)
+  * [AEM as a Cloud Service-Caching](https://experienceleague.adobe.com/de/docs/experience-manager-learn/cloud-service/caching/overview)
 
 * Wenn Sie Ultimate Success-Kunde sind und kürzlich Informationen zu Volumenprognosen mit Ihrem Adobe-Konto-Team geteilt haben, machen Sie sich keine Gedanken darüber, wie Sie diese Informationen erneut an uns senden können, da wir bereits eine Ansicht haben.
 
@@ -250,8 +253,8 @@ Informationen zu Traffic-Sicherheit/-Schutz für AEM-Websites finden Sie im Arti
 Adobe verfügt über geplante Ausschlusszeiträume für Wartungsarbeiten, um einen unterbrechungsfreien Service während wichtiger Feiertage zu gewährleisten:
 
 * **Keine automatischen Aktualisierungen** erfolgt zwischen:
-   * &#x200B;24. November 2025 - 2. Dezember 2025
-   * &#x200B;15. Dezember 2025 - 2. Januar 2026
+  * &#x200B;24. November 2025 - 2. Dezember 2025
+  * &#x200B;15. Dezember 2025 - 2. Januar 2026
 
 Dadurch ist die Stabilität in verkehrsstarken Zeiten gewährleistet. Vollständige Versionsplanungen und Wartungsfenster finden Sie in der [AEM-Versions-Roadmap](https://experienceleague.adobe.com/de/docs/experience-manager-release-information/aem-release-updates/update-releases-roadmap).
 
@@ -289,9 +292,9 @@ Effizienz beginnt damit, dass wir genau verstehen, wie Marketo Kampagnen prioris
 Bevor Sie auf **[!UICONTROL Senden]** klicken, stellen Sie sicher, dass Ihre E-Mails genau wie beabsichtigt aussehen und funktionieren.
 
 * Marketo bietet mehrere Möglichkeiten, das Erscheinungsbild einer E-Mail zu testen, um sicherzustellen, dass sie genau so aussieht, wie Sie sie sich vorgestellt haben.
-   * Verwenden Sie die Funktion **[!UICONTROL Vorschau]** um sicherzustellen, dass Ihre dynamischen Inhalte und Token durch eine Vorschau nach Segmentierung oder einzelnen Leads korrekt gerendert werden. Siehe den Artikel [Vorschau einer E-Mail mit dynamischen Inhalten](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content).
-   * Senden Sie schnell und einfach eine direkte E-Mail an Ihre Testdatensätze, um zu sehen, wie Ihre E-Mail auf verschiedenen Clients/Geräten angezeigt wird. Siehe den [Ausführen eines einzelnen Flussschritts aus einer Smart-Liste](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list).
-   * Für [!DNL Litmus] ist es jetzt einfacher denn je, Ihr Konto zu integrieren und Rendering-Tests direkt über den E-Mail-Editor zu starten. Siehe den Artikel [Testen von E-Mail-Rendering mit [!DNL Litmus]](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/email-marketing/email-designer/test-email-rendering).
+  * Verwenden Sie die Funktion **[!UICONTROL Vorschau]** um sicherzustellen, dass Ihre dynamischen Inhalte und Token durch eine Vorschau nach Segmentierung oder einzelnen Leads korrekt gerendert werden. Siehe den Artikel [Vorschau einer E-Mail mit dynamischen Inhalten](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content).
+  * Senden Sie schnell und einfach eine direkte E-Mail an Ihre Testdatensätze, um zu sehen, wie Ihre E-Mail auf verschiedenen Clients/Geräten angezeigt wird. Siehe den [Ausführen eines einzelnen Flussschritts aus einer Smart-Liste](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list).
+  * Für [!DNL Litmus] ist es jetzt einfacher denn je, Ihr Konto zu integrieren und Rendering-Tests direkt über den E-Mail-Editor zu starten. Siehe den Artikel [Testen von E-Mail-Rendering mit [!DNL Litmus]](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/email-marketing/email-designer/test-email-rendering).
 * Sehen Sie sich die Funktion E-Mail-Spam-Bericht an, die in [!DNL SpamAssassin] integriert ist, um den Inhalt Ihrer E-Mail zu überprüfen und einen Wert dafür zuzuweisen, mit welcher Wahrscheinlichkeit sie den Posteingang erreicht oder als *Spam“* wird. Siehe den Artikel [E-Mail-Spam](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/email-marketing/email-designer/spam-report)Bericht.
 * Behalten Sie die [!UICONTROL Kampagnenwarteschlange“ im Auge] um zu überprüfen, ob Ihre Kampagnen Objekte mit hoher Dringlichkeit korrekt verarbeitet und priorisiert werden. Siehe [Läuft meine Kampagne?](https://nation.marketo.com/t5/knowledgebase/is-my-campaign-running/ta-p/248662) Artikel.
 
@@ -325,7 +328,7 @@ Bleiben Sie über Workfront-Versionen auf dem Laufenden und testen Sie neue Funk
 * [Vorbereiten einer Adobe Workfront-Version](https://experienceleague.adobe.com/de/docs/workfront/using/product-announcements/product-releases/release-readiness)
 * [Workfront-Archiv mit Versionshinweisen](https://experienceleague.adobe.com/de/docs/workfront/using/product-announcements/product-releases/product-releases)
 * [Übersicht über die Version 1. Quartal 2025](https://experienceleague.adobe.com/de/docs/workfront/using/product-announcements/product-releases/release-25-q1/25-q1-release-overview)
-* [Aufzeichnung von Webinaren der Workfront-Version](https://experienceleague.adobe.com/de/docs/events/workfront-recordings/releases/25-1-release-webinar)
+* [Aufzeichnung von Webinaren der Workfront-Version](https://experienceleague.adobe.com/en/docs/events/workfront-recordings/releases/25-1-release-webinar)
 
 ### Best Practices
 
