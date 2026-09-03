@@ -4,9 +4,10 @@ description: Während der Hauptsaison (etwa Mitte November bis Mitte Januar) emp
 feature: Support
 feature-set: Commerce
 role: Admin
-source-git-commit: e6ae0022bac9c91eb52c76a6b7a8d8f6c45257cb
+exl-id: 560fae4d-77f0-4618-a3a5-f549daa74402
+source-git-commit: 168b398944b55d94d31e22c452dbec45e0ed124a
 workflow-type: tm+mt
-source-wordcount: '472'
+source-wordcount: '586'
 ht-degree: 0%
 
 ---
@@ -43,13 +44,13 @@ Adobe Commerce-Händler in unserer Cloud-Infrastruktur, die davon ausgehen, dass
 
 **Weitere Hilfe?**
 
-Benötigen Sie weitere Anleitungen zur Vorbereitung auf den Traffic in der Hochsaison? Adobe Commerce-Händler in unserer Cloud-Infrastruktur können sich an ihr Adobe-Account-Team wenden, um Hilfe, Strategie und Planungstipps für die Vorbereitung auf eine erfolgreiche Hochsaison zu erhalten. Wir empfehlen auch, den [Magento Blog](https://magento.com/blog) zu besuchen, um ganzjährig Strategietipps zu erhalten.
+Benötigen Sie weitere Anleitungen zur Vorbereitung auf den Traffic in der Hochsaison? Adobe Commerce-Händler in unserer Cloud-Infrastruktur können sich an ihr Adobe-Account-Team wenden, um Hilfe, Strategie und Planungstipps für die Vorbereitung auf eine erfolgreiche Hochsaison zu erhalten. Wir empfehlen auch, den [Adobe for Business Blog](https://magento.com/blog) zu besuchen, um ganzjährig Strategietipps zu erhalten.
 
 ## Ressourcen zur Überprüfung Ihrer Kapazität
 
 In unserer Support-Wissensdatenbank:
 
-* [CPU-Zuordnungsberechnung für Adobe Commerce in Cloud](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-cpu-allocation-calculation.html?lang=de)
-* [Überprüfen Sie, ob für Adobe Commerce on Cloud ein Upsize für die Host-Instanzen erforderlich ist](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-check-if-upsize-for-hosts-instances-is-needed.html?lang=de)
-* [Überprüfen Sie die CPU-Konfiguration des Hosts für Adobe Commerce in der Cloud](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-check-hosts-cpu-configuration.html?lang=de)
-* [Identifizieren und Messen von Ausfällen für Adobe Commerce in der Cloud](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/how-to-identify-outages.html?lang=de)
+* [CPU-Zuordnungsberechnung für Adobe Commerce in Cloud Service](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-cpu-allocation-calculation.html?lang=de)
+* [Überprüfen, ob für Adobe Commerce on Cloud ein Upsize für die Instanzen des Hosts erforderlich ist](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-check-if-upsize-for-hosts-instances-is-needed.html?lang=de)
+* [Überprüfen der CPU-Konfiguration des Hosts für Adobe Commerce on Cloud Service](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-check-hosts-cpu-configuration.html?lang=de)
+* [Ausfälle für Adobe Commerce in der Cloud identifizieren und messen](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/how-to-identify-outages.html?lang=de)
