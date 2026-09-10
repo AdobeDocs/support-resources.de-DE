@@ -51,7 +51,7 @@ Systemeinblicke sind derzeit nur für Adobe Commerce verfügbar. Diese Erkenntni
 
 ## Zugriff auf Systemeinblicke
 
-Systemeinblicke werden während des gesamten Arbeitsablaufs für die Fallerstellung angezeigt. Wenn Sie Problemdetails eingeben **[!UICONTROL wird das Bedienfeld &quot;]** Insights“ auf der rechten Bildschirmseite über dem Abschnitt KI-gestützte Empfehlungen angezeigt. Weitere Informationen zu KI-gestützten Empfehlungen finden Sie unter [Support-Ticket ausfüllen](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#fill-out-the-support-ticket) im Artikel Adobe-Kundensupporterlebnis .
+Systemeinblicke werden während des gesamten Arbeitsablaufs für die Fallerstellung angezeigt. Wenn Sie Problemdetails eingeben **[!UICONTROL wird das Bedienfeld &quot;]** Insights“ auf der rechten Bildschirmseite über dem Abschnitt KI-gestützte Empfehlungen angezeigt. Weitere Informationen zu KI-gestützten Empfehlungen finden Sie unter [Support-Ticket ausfüllen](https://experienceleague.adobe.com/de/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#fill-out-the-support-ticket) im Artikel Adobe-Kundensupporterlebnis .
 
 Das Bedienfeld zeigt eine scrollbare Liste von Einblicken an, die sich auf die jeweilige Projektinstanz beziehen. Die Berechnung basiert auf den im Feld **[!UICONTROL Projekt-URL]** eingegebenen Informationen. Geben Sie die **[!UICONTROL Projekt-URL]** genau ein, um sicherzustellen, dass die Insights die richtige Umgebung widerspiegeln.
 
