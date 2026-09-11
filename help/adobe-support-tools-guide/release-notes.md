@@ -15,9 +15,9 @@ level_v2:
 topic_v2:
   - id: d00e9f03-e50b-4162-b143-0c0817c937c2
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: f4a8d4cf7aa7438acd341e166f123ff908d9ef67
+source-git-commit: bc8a6f909b97a103a097b7c683d41f56cc45b75c
 workflow-type: tm+mt
-source-wordcount: 2250
+source-wordcount: 2402
 ht-degree: 0%
 
 ---
@@ -30,6 +30,18 @@ Diese Versionshinweise enthalten Aktualisierungen zur Experience League-Unterst�
 ![Neu](../adobe-support-tools-guide/assets/new.svg) Neue Funktionen
 ![Fehlerbehebung](../adobe-support-tools-guide/assets/fix.svg) Fehlerbehebungen und Verbesserungen
 ![Bug](../adobe-support-tools-guide/assets/bug.svg) Bekannte Probleme
+
+## &#x200B;10. September 2026 - Das neu gestaltete Experience League Support Portal ist jetzt das Standarderlebnis
+
+1. Das neu gestaltete Experience League-Supportportal ist jetzt als Standarderlebnis für alle Benutzenden festgelegt. Beim Zugriff auf das Support-Programm werden Benutzer automatisch zum neu gestalteten Portal weitergeleitet.
+
+1. Die Beschriftung des Benutzeroberflächen-Umschalters wurde von &quot;**[!UICONTROL der neuen Startseite“]** &quot;**[!UICONTROL zum vorherigen Erlebnis“]**.
+
+1. Portalvoreinstellungen werden weiterhin basierend auf der Umschaltauswahl **[!UICONTROL Zurück zum vorherigen Erlebnis]** gespeichert und angewendet, sodass Benutzer bei jedem Besuch zu ihrem zuletzt ausgewählten Portalerlebnis weitergeleitet werden.
+
+1. Eine neue **[!UICONTROL All Time]**-Option wurde in der **[!UICONTROL Time Range]**-Filter-Dropdown-Liste auf der Seite **[!UICONTROL My Cases]** eingeführt, sodass der vollständige Fall-Verlauf über die letzten 24 Monate hinaus angezeigt werden kann.
+
+1. Das Adobe Commerce **[!UICONTROL System Insights]**-Widget im Formular zur Fallerstellung wurde neu positioniert, sodass es über dem Abschnitt **[!UICONTROL KI-Empfehlungen]** in der rechten Seitenleiste angezeigt wird.
 
 ## &#x200B;27. August 2026 - Updates im überarbeiteten Experience League Support-Portal
 

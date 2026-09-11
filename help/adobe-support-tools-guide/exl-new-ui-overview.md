@@ -12,10 +12,10 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 21a6c72123a7415e208ff03e51324cad5a790efd
+source-git-commit: 0c48dae797a8bdfe2723b40e305b33effce08417
 workflow-type: tm+mt
-source-wordcount: 1311
-ht-degree: 0%
+source-wordcount: 1367
+ht-degree: 1%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## Überblick
 
-Das neu gestaltete Experience League Support-Portal bietet ein einheitliches und intuitives Erlebnis für die Verwaltung von Adobe Support-Aktivitäten. Sie bietet schnelleren Zugriff auf wichtige Funktionen, einschließlich der Verfolgung von Support-Fällen, der Überwachung des Produktstatus, des Zugriffs auf Fallerkenntnisse und der Verbindung mit dem Success-Team.
+Das neu gestaltete Experience League-Supportportal ist jetzt das Standarderlebnis für alle Benutzenden. Wenn Sie auf das Support-Programm zugreifen, werden Sie automatisch zum neu gestalteten Portal weitergeleitet. Das Portal bietet ein einheitliches und intuitives Erlebnis für die Verwaltung von Adobe-Support-Aktivitäten mit schnellerem Zugriff auf wichtige Funktionen wie die Verfolgung von Support-Fällen, die Überwachung des Produktstatus, den Zugriff auf Case Insights und die Verbindung zum Success-Team.
 
 >[!NOTE]
 >
@@ -54,7 +54,7 @@ Verwenden Sie den Umschalter im -Portal, um zwischen dem neu gestalteten Experie
 
 ![Neue Benutzeroberfläche](/help/adobe-support-tools-guide/assets/new-toggle-1.png)
 
-Beide Portale bleiben synchronisiert, sodass Falldaten und Support-Informationen erlebnisübergreifend konsistent bleiben.
+Beide Portalerlebnisse bleiben synchronisiert, sodass die Daten und Informationen von Support-Fällen über Erlebnisse hinweg konsistent bleiben. Ihre Portalvoreinstellung wird basierend auf der Auswahl des Umschalters **[!UICONTROL Zurück zum vorherigen Erlebnis]** gespeichert und Sie werden bei jedem Besuch zu Ihrem zuletzt ausgewählten Portalerlebnis weitergeleitet.
 
 ![Alte Benutzeroberfläche](/help/adobe-support-tools-guide/assets/old-ui.png)
 

@@ -12,10 +12,10 @@ topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 3da0095b5ae5b72334482acddb2f092db447bfc0
+source-git-commit: f0bbc304947ddd88ef34ed98ea2c76686e04ffdb
 workflow-type: tm+mt
 source-wordcount: 738
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
@@ -51,7 +51,7 @@ Systemeinblicke sind derzeit nur für Adobe Commerce verfügbar. Diese Erkenntni
 
 ## Zugriff auf Systemeinblicke
 
-Systemeinblicke werden während des gesamten Arbeitsablaufs für die Fallerstellung angezeigt. Wenn Sie Problemdetails eingeben, wird **[!UICONTROL Bedienfeld &quot;]** Insights“ auf der rechten Bildschirmseite unter dem Abschnitt KI-gestützte Empfehlungen angezeigt. Weitere Informationen zu KI-gestützten Empfehlungen finden Sie unter [Support-Ticket ausfüllen](https://experienceleague.adobe.com/de/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#fill-out-the-support-ticket) im Artikel Adobe-Kundensupporterlebnis .
+Systemeinblicke werden während des gesamten Arbeitsablaufs für die Fallerstellung angezeigt. Wenn Sie Problemdetails eingeben **[!UICONTROL wird das Bedienfeld &quot;]** Insights“ auf der rechten Bildschirmseite über dem Abschnitt KI-gestützte Empfehlungen angezeigt. Weitere Informationen zu KI-gestützten Empfehlungen finden Sie unter [Support-Ticket ausfüllen](https://experienceleague.adobe.com/de/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#fill-out-the-support-ticket) im Artikel Adobe-Kundensupporterlebnis .
 
 Das Bedienfeld zeigt eine scrollbare Liste von Einblicken an, die sich auf die jeweilige Projektinstanz beziehen. Die Berechnung basiert auf den im Feld **[!UICONTROL Projekt-URL]** eingegebenen Informationen. Geben Sie die **[!UICONTROL Projekt-URL]** genau ein, um sicherzustellen, dass die Insights die richtige Umgebung widerspiegeln.
 
@@ -67,9 +67,9 @@ Um vollständige insight-Details anzuzeigen, wählen Sie eine insight-Karte aus 
 - Insight-Name
 - Adobe-Produkt, auf dem insight gekennzeichnet ist
 - Insight-Typ, kategorisiert als:
-   - [!UICONTROL Funktionalität]
-   - [!UICONTROL Leistung]
-   - [!UICONTROL Sicherheit]
+  - [!UICONTROL Funktionalität]
+  - [!UICONTROL Leistung]
+  - [!UICONTROL Sicherheit]
 - [!UICONTROL Risikostufe] gibt den Schweregrad an
 - [!UICONTROL Letzter Prüflauf] gibt an, wann der Fund erkannt wurde.
 - [!UICONTROL Insight Source], bereitgestellt vom Site-Wide Analysis Tool (SWAT)

@@ -5,9 +5,9 @@ autotag-review: '2026-07-22T11:27:24.736Z'
 TQID: 'https://experienceleague.adobe.com/vmb2kfbBn3vgPgTQC1W3vf4CodiDfR6lzJNB0EBz71A'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: f4a8d4cf7aa7438acd341e166f123ff908d9ef67
+source-git-commit: 0c48dae797a8bdfe2723b40e305b33effce08417
 workflow-type: tm+mt
-source-wordcount: 1214
+source-wordcount: 1239
 ht-degree: 0%
 
 ---
@@ -125,7 +125,11 @@ Sie können Support-Fälle über das neu gestaltete Experience League-Support-Po
 
 ![Falleinstiegspunkte anzeigen und verwalten](/help/adobe-support-tools-guide/assets/my-cases-entry-points.png)
 
-Die **[!UICONTROL „Alle Ihre Fälle]** wird geöffnet. Wechseln Sie zwischen **[!UICONTROL Meine Fälle]** und **[!UICONTROL Meine Organisation]**, um Ihre Fälle oder Fälle in Ihrer Organisation anzuzeigen. Verwenden Sie **[!UICONTROL Suchfälle]**, um innerhalb des ausgewählten Zeitraums zu suchen. Wählen Sie oben rechts einen Zeitraum aus, um Daten der letzten 3, 6, 12, 18 oder 24 Monate anzuzeigen. Standardmäßig zeigen Fälle, Suchergebnisse und Filter Daten der letzten 3 Monate an.
+Die **[!UICONTROL „Alle Ihre Fälle]** wird geöffnet. Wählen Sie **[!UICONTROL Meine Fälle]** aus, um Ihre Fälle anzuzeigen, oder wählen Sie **[!UICONTROL Meine Organisationsfälle]** aus, um Fälle in Ihrer Organisation anzuzeigen. Verwenden Sie **[!UICONTROL Suchfälle]**, um innerhalb des ausgewählten Zeitraums zu suchen.
+
+Wählen Sie oben rechts einen Zeitraum aus, um Fälle aus den letzten 3, 6, 12, 18, 24 Monaten oder alle Zeiten anzuzeigen. Standardmäßig zeigen die Fallliste, Suchergebnisse und Filter Daten aus den letzten 3 Monaten an.
+
+Um den vollständigen Vorgangsverlauf anzuzeigen, einschließlich Fällen, die älter als 24 Monate sind, wählen Sie die Option **[!UICONTROL Gesamte Zeit]** aus der Dropdown-Liste aus.
 
 ![Seite „Meine Fälle“](/help/adobe-support-tools-guide/assets/my-cases-page.png)
 
