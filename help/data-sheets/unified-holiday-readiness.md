@@ -328,7 +328,7 @@ Bleiben Sie über Workfront-Versionen auf dem Laufenden und testen Sie neue Funk
 * [Vorbereiten einer Adobe Workfront-Version](https://experienceleague.adobe.com/de/docs/workfront/using/product-announcements/product-releases/release-readiness)
 * [Workfront-Archiv mit Versionshinweisen](https://experienceleague.adobe.com/de/docs/workfront/using/product-announcements/product-releases/product-releases)
 * [Übersicht über die Version 1. Quartal 2025](https://experienceleague.adobe.com/de/docs/workfront/using/product-announcements/product-releases/release-25-q1/25-q1-release-overview)
-* [Aufzeichnung von Webinaren der Workfront-Version](https://experienceleague.adobe.com/en/docs/events/workfront-recordings/releases/25-1-release-webinar)
+* [Aufzeichnung von Webinaren der Workfront-Version](https://experienceleague.adobe.com/de/docs/events/workfront-recordings/releases/25-1-release-webinar)
 
 ### Best Practices
 
