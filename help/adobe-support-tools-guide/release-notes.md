@@ -7,21 +7,25 @@ autotag-review: '2026-06-12T20:44:20.941Z'
 TQID: 'https://experienceleague.adobe.com/ULOOxxvZGorHsE8Q44r8n7HbvTb712-8NnVMzl0J-Q8'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: d00e9f03-e50b-4162-b143-0c0817c937c2
+    internal-label: Customer journeys
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: bc8a6f909b97a103a097b7c683d41f56cc45b75c
+    internal-label: Insights
+source-git-commit: adf6f6cb51e5ae7636a5aa45e85196dda37920a0
 workflow-type: tm+mt
-source-wordcount: 2402
+source-wordcount: '2614'
 ht-degree: 0%
-
 ---
-
 
 # Experience League Support - Versionshinweise
 
@@ -30,6 +34,24 @@ Diese Versionshinweise enthalten Aktualisierungen zur Experience League-Unterst�
 ![Neu](../adobe-support-tools-guide/assets/new.svg) Neue Funktionen
 ![Fehlerbehebung](../adobe-support-tools-guide/assets/fix.svg) Fehlerbehebungen und Verbesserungen
 ![Bug](../adobe-support-tools-guide/assets/bug.svg) Bekannte Probleme
+
+## &#x200B;15. September 2026 - Updates zum Support nach Geschäftsschluss in Japan
+
+1. Kunden in Japan erhalten jetzt telefonischen Support über einen neuen **KI-Sprachassistenten** abends, nachts und am Wochenende, wenn keine Live-Agenten verfügbar sind. Natürliche Sprache auf Japanisch wird unterstützt - keine Keywords oder Menünavigation erforderlich.
+
+1. Der **KI-Sprachassistent** kann sofort den Fallstatus überprüfen und Ihnen mitteilen, ob Ihr Fall noch untersucht wird, auf weitere Informationen wartet oder gelöst wurde.
+
+1. Der **KI-Sprachassistent** kann die neuesten Notizen oder den Fortschritt, die bei Ihrem Fall protokolliert wurden, teilen und so Einblicke in die Aktivität bieten, ohne auf einen Callback oder eine E-Mail zu warten.
+
+1. Bei größeren Ausfällen oder schwerwiegenden Geschäftsauswirkungen kann der Assistent Ihren Fall an die Priorität **[!UICONTROL P1 (Kritisch)]**.
+
+1. Sie können jederzeit über den Assistenten einen Rückruf von einem Adobe-Supportmitarbeiter anfordern.
+
+1. Wenn der Assistent technische Fragen stellt, um Ihr Problem zu verstehen (Fehlermeldungen, Reproduktionsschritte usw.), werden Ihre Antworten automatisch auf Ihren Fallnotizen gespeichert, sodass Sie sie nicht erneut an den nächsten Techniker senden müssen.
+
+>[!NOTE]
+>
+>Dieser Service ist nur für japanischsprachige Konversationen verfügbar, sowohl während der Nachmittagszeiten als auch während der Wochenendzeiten. Sie müssen Ihre Identität oder Ihre Falldetails überprüfen, bevor der Assistent Fallinformationen weitergeben kann. Komplexe technische Fehlerbehebungs- oder Produktkonfigurationsänderungen werden über einen Callback an einen Live-Ingenieur weitergeleitet.
 
 ## &#x200B;10. September 2026 - Das neu gestaltete Experience League Support Portal ist jetzt das Standarderlebnis
 
@@ -42,6 +64,7 @@ Diese Versionshinweise enthalten Aktualisierungen zur Experience League-Unterst�
 1. Eine neue **[!UICONTROL All Time]**-Option wurde in der **[!UICONTROL Time Range]**-Filter-Dropdown-Liste auf der Seite **[!UICONTROL My Cases]** eingeführt, sodass der vollständige Fall-Verlauf über die letzten 24 Monate hinaus angezeigt werden kann.
 
 1. Das Adobe Commerce **[!UICONTROL System Insights]**-Widget im Formular zur Fallerstellung wurde neu positioniert, sodass es über dem Abschnitt **[!UICONTROL KI-Empfehlungen]** in der rechten Seitenleiste angezeigt wird.
+
 
 ## &#x200B;27. August 2026 - Updates im überarbeiteten Experience League Support-Portal
 
