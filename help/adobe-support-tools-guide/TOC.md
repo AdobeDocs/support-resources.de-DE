@@ -6,13 +6,11 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 1bd9b6f79456a3827b1919c79a8b9770c8e42833
+source-git-commit: 89260e460f54865acf54ce921d8cb77009dd8fec
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '372'
 ht-degree: 2%
-
 ---
-
 # Support- und Tools-Handbuch für Adobe {#adobe-support-tools-guide}
 
 - [Übersicht über Support und Tools für Adobe](/help/adobe-support-tools-guide/adobe-support-tools-guide-overview.md)
@@ -25,6 +23,7 @@ ht-degree: 2%
 - Experience League Support-Portal - Neue Benutzeroberfläche {#exl-new-ui}
   - [Überblick](/help/adobe-support-tools-guide/exl-new-ui-overview.md)
   - [Erstellen und Verwalten von Support-Fällen](/help/adobe-support-tools-guide/exl-new-ui-support-cases.md)
+- [Adobe Support-Sprachassistent - Support außerhalb der Geschäftszeiten und am Wochenende (Japan)](/help/adobe-support-tools-guide/adobe-support-voice-assistant.md)
 - Adobe Admin Console {#adobe-admin-console}
   - [Navigieren in der Adobe Admin Console](adobe-admin-console/navigating-the-adobe-admin-console.md)
   - [Ausstehende Aufträge ausführen](adobe-admin-console/execute-jobs.md)
