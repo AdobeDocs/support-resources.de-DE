@@ -2,13 +2,12 @@
 title: 'Adobe Commerce Intelligence Essentials: Zahlungsmethode aktualisieren oder Abonnement stornieren'
 description: Wie berechtigte Commerce Intelligence Essentials-Kunden (eigenständig, von Monat zu Monat, Rechnungsstellung über account.magento.com) die Zahlungsmethode aktualisieren oder stornieren können. Gilt nicht für Pro-, Cloud- oder vertragsbasierte oder fakturierte Abonnements.
 solution: Commerce Intelligence
-source-git-commit: 638857079e7b4ceed607e8fafcf3db11da38b4ae
+exl-id: a176f4d6-819f-4328-b6bf-ea7373fcc7e9
+source-git-commit: b8de5546ce92930404f65555d656605581e0c8d0
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 0%
-
+source-wordcount: '272'
+ht-degree: 3%
 ---
-
 # Adobe Commerce Intelligence Essentials: Zahlungsmethode aktualisieren oder Abonnement stornieren
 
 In diesem Artikel wird erläutert, wie berechtigte Adobe Commerce Intelligence Essentials-Kunden ihre Zahlungsmethode aktualisieren oder ihr Abonnement kündigen können.
@@ -16,11 +15,11 @@ In diesem Artikel wird erläutert, wie berechtigte Adobe Commerce Intelligence E
 ## Gilt für / Gilt nicht für
 
 * **Gilt für:**
-   * Kunden, die Adobe Commerce Intelligence Essentials als eigenständiges, monatliches Abonnement erworben haben.
-   * Kunden, die die Abrechnung direkt über [account.magento.com](https://account.magento.com) verwalten
+  * Kunden, die Adobe Commerce Intelligence Essentials als eigenständiges, monatliches Abonnement erworben haben.
+  * Kunden, die die Abrechnung direkt über [account.magento.com](https://account.magento.com) verwalten
 * **Gilt nicht für:**
-   * Kunden, die auf Commerce Intelligence im Rahmen eines Adobe Commerce-Vertrags zugreifen (z. B. Adobe Commerce Pro oder Adobe Commerce auf Cloud-Infrastruktur).
-   * Kunden mit vertragsbasierter Abrechnung oder fakturierten Abonnements
+  * Kunden, die auf Commerce Intelligence im Rahmen eines Adobe Commerce-Vertrags zugreifen (z. B. Adobe Commerce Pro oder Adobe Commerce auf Cloud-Infrastruktur).
+  * Kunden mit vertragsbasierter Abrechnung oder fakturierten Abonnements
 
 >[!IMPORTANT]
 >
@@ -35,7 +34,7 @@ In diesem Artikel wird erläutert, wie berechtigte Adobe Commerce Intelligence E
 Damit Commerce Intelligence Essentials-Kunden ihre Abonnements kündigen oder ihre Zahlungsmethoden aktualisieren können, müssen sie der primäre Kontoinhaber für das Magento-Konto sein. Die Schritte sind:
 
 1. Navigieren Sie zu [account.magento.com](https://account.magento.com) und melden Sie sich an.
-2. Klicken Sie auf **[!UICONTROL Magento]** > **[!UICONTROL Meine Produkte und Services]** > **[!UICONTROL Magento Business Intelligence]** und klicken Sie **[!UICONTROL Details anzeigen]** neben der Lizenz, die Sie aktualisieren möchten.
+2. Klicken Sie auf **[!UICONTROL Magento]** > **[!UICONTROL Meine Produkte und Services]** > **[!UICONTROL Magento Business Intelligence]** und klicken Sie auf **[!UICONTROL Details anzeigen]** neben der Lizenz, die Sie aktualisieren möchten.
 3. Wählen **[!UICONTROL Zahlungsmethode aktualisieren]** oder **[!UICONTROL Lizenz stornieren]**.
 
 ## Verwandtes Lesen
