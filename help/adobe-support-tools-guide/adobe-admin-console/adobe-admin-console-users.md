@@ -83,14 +83,14 @@ Je nach Ihren Anforderungen können Sie Benutzer hinzufügen, entfernen oder akt
 </tr>
 <tr>
 <th scope="row"><strong>Benutzer entfernen</strong></th>
-<td>Benutzer in <strong>Admin Console auswählen und </strong>. <a href="https://helpx.adobe.com/enterprise/using/manage-users-individually.html#remove-users">Weitere Informationen</a></td>
+<td>Benutzer in <strong>Admin Console auswählen und </strong>. <a href="https://helpx.adobe.com/de/enterprise/using/manage-users-individually.html#remove-users">Weitere Informationen</a></td>
 <td>Wählen Sie <strong>Benutzer durch CSV entfernen</strong> auf der Registerkarte <strong>Benutzer</strong> von <strong>Admin Console</strong>. <a href="https://helpx.adobe.com/de/enterprise/using/bulk-upload-users.html#remove-users">Weitere Informationen</a> <em>(Standard-CSV-Vorlage verwenden.)</em></td>
 <td>Benutzende müssen in <a href="https://helpx.adobe.com/de/enterprise/using/sso-setup-azure.html">Azure</a> oder <a href="https://helpx.adobe.com/de/enterprise/using/setup-sso-google.html">Google entfernt </a>.</td>
 <td colspan="2">Stellen Sie sicher, dass die Benutzerinformationen synchronisiert sind. <strong>Achtung:</strong> Benutzer, die nicht im LDAP Ihres Unternehmens sind, werden aus Admin Console entfernt.</td>
 </tr>
 <tr>
 <th scope="row"><strong>Benutzerdetails bearbeiten</strong></th>
-<td>Wählen Sie den Benutzer und dann <strong>Benutzerdetails bearbeiten</strong> in Admin Console aus. <a href="https://helpx.adobe.com/enterprise/using/manage-users-individually.html#edit-user-details">Weitere Informationen</a></td>
+<td>Wählen Sie den Benutzer und dann <strong>Benutzerdetails bearbeiten</strong> in Admin Console aus. <a href="https://helpx.adobe.com/de/enterprise/using/manage-users-individually.html#edit-user-details">Weitere Informationen</a></td>
 <td>Wählen Sie <strong>Benutzerdetails nach CSV bearbeiten</strong> auf der Registerkarte <strong>Benutzer</strong> von <strong>Admin Console</strong>. <a href="https://helpx.adobe.com/de/enterprise/using/bulk-upload-users.html#edit-user-details">Weitere Informationen</a> <em>(Standard-CSV-Vorlage verwenden.)</em></td>
 <td>Alle Benutzerinformationen müssen in <a href="https://helpx.adobe.com/de/enterprise/using/sso-setup-azure.html">Azure</a> oder <a href="https://helpx.adobe.com/de/enterprise/using/setup-sso-google.html">Google geändert </a>.</td>
 <td colspan="2">Stellen Sie sicher, dass die Benutzerinformationen synchronisiert sind.</td>
