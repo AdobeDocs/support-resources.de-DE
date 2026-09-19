@@ -4,13 +4,12 @@ description: Erfahren Sie, wie Systemadministratoren von Unternehmen Benutzeride
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-source-git-commit: 0c2992946f1cdbbcfb44a2baf37888bd05b2253b
+exl-id: 7b2bf2f5-d363-4132-9f42-761db1332ce5
+source-git-commit: 0ad0b7f7663be745ef7e51758936a966818b4058
 workflow-type: tm+mt
-source-wordcount: '870'
+source-wordcount: '1068'
 ht-degree: 1%
-
 ---
-
 # Einrichten von Identität und Single Sign-on
 
 **Gilt für:** Enterprise
@@ -46,7 +45,7 @@ Ein Identitätsanbieter (IdP) ist der Identitätsanbieter Ihres Unternehmens, z.
 | DNS-Manager | Aktualisiert DNS-Token zur Validierung des Domain-Besitzes. |
 | Identity Provider-Ordner-Manager (IdP) | Verarbeitet das IdP-Portal und die zugehörigen Connectoren. |
 
-### Adobe ID
+### Adobe ID
 
 Wird vom Endbenutzer erstellt, erworben und verwaltet. Adobe führt die Authentifizierung durch, und der Endbenutzer verwaltet die Identität. Je nach [Speichermodell](https://helpx.adobe.com/de/enterprise/using/storage-for-business.html) behalten Benutzer oder Unternehmen die Kontrolle über Dateien und Daten.
 
@@ -108,7 +107,7 @@ Nachdem SSO zwischen Ihrem Unternehmen und Adobe eingerichtet wurde, können Sie
 
 Erfahren Sie, wie Sie Ihre Domains und Verzeichnisse verwalten:
 
-- [Verwalten von &#x200B;](https://helpx.adobe.com/de/enterprise/using/users.html) und [Gruppen](https://helpx.adobe.com/enterprise/using/user-groups..HTML)
+- [Verwalten von &#x200B;](https://helpx.adobe.com/de/enterprise/using/users.html) und [Gruppen](https://helpx.adobe.com/enterprise/using/user-groups..html)
 - [Verknüpfen von Domains mit &#x200B;](https://helpx.adobe.com/de/enterprise/using/add-domains-directories.html#link-domains-to-directoies), um den Benutzerzugriff auf Apps, Services und Einstellungen zu steuern
 - [Verzeichnisvertrauen verwalten](https://helpx.adobe.com/de/enterprise/using/directory-trust.html) um Domains zu verwenden, die von einer anderen Organisation beansprucht werden
 
@@ -160,4 +159,4 @@ Um mit anderen Administratoren zusammenzuarbeiten, Fragen zu stellen und mit ihn
 ## Rechtliche Hinweise und Datenschutz
 
 - [Rechtliche Hinweise](https://helpx.adobe.com/de/legal/legal-notices.html)
-- [Online-Datenschutzrichtlinie](https://www.adobe.com/de/privacy.html)
+- [Online-Datenschutzrichtlinie](https://www.adobe.com/privacy.html)
