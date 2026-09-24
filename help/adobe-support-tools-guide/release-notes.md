@@ -97,7 +97,7 @@ Diese Versionshinweise enthalten Aktualisierungen zur Experience League-Unterst�
 
 8. Die kombinierte Spalte **[!UICONTROL Öffnungsdatum/]**) des aktuellen Portals wurde auf der neu gestalteten Seite **[!UICONTROL Meine Anfragen]** in zwei separate Spalten **[!UICONTROL Öffnungsdatum]** und **[!UICONTROL Abschlussdatum]** aufgeteilt.
 
-9. Auf **[!UICONTROL Seite &quot;**[!UICONTROL  Fälle“ wurde ]**neue Spalte „Letzte Aktualisierung]** hinzugefügt, die das Datum der letzten Aktivität für jeden Fall anzeigt.
+9. Auf **[!UICONTROL Seite &quot;**&#x200B;[!UICONTROL &#x200B; Fälle“ wurde &#x200B;]&#x200B;**neue Spalte „Letzte Aktualisierung]** hinzugefügt, die das Datum der letzten Aktivität für jeden Fall anzeigt.
 
 10. Damit wichtige Aktualisierungen leicht oben im Fall-Aktivitäts-Feed verfügbar bleiben, können Sie jetzt Kommentare auf der Seite **[!UICONTROL Falldetails]** anheften.
 
@@ -107,7 +107,7 @@ Diese Versionshinweise enthalten Aktualisierungen zur Experience League-Unterst�
 
 >[!NOTE]
 >
->Mit diesem Update wird der Plan umgesetzt[!UICONTROL  „Case Creation], [!UICONTROL My Cases] und [!UICONTROL Case Details] in das neu gestaltete Experience League Support Portal aufzunehmen (siehe den obigen Eintrag vom 26. Mai 2026). Diese Seiten waren nur im aktuellen Experience League Support-Portal verfügbar.
+>Mit diesem Update wird der Plan umgesetzt[!UICONTROL &#x200B; „Case Creation], [!UICONTROL My Cases] und [!UICONTROL Case Details] in das neu gestaltete Experience League Support Portal aufzunehmen (siehe den obigen Eintrag vom 26. Mai 2026). Diese Seiten waren nur im aktuellen Experience League Support-Portal verfügbar.
 
 ## &#x200B;23. Juli 2026 - Persistent Portal Preference im neu gestalteten Experience League Support Portal
 

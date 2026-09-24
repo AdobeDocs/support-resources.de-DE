@@ -46,7 +46,7 @@ Wenn beispielsweise die Richtlinie **Anspruchsdomänen** auf *nicht zulässig* f
 
 Gehen Sie wie folgt vor, um die Richtlinien einer Organisation zu ändern:
 
-1. Wählen Sie in [ Global Admin Console eine Organisation aus](https://helpx.adobe.com/enterprise/global-admin-console/overview.html) um sie zu bearbeiten, und navigieren Sie dann zur Registerkarte **[!UICONTROL Richtlinien]**.
+1. Wählen Sie in [&#x200B; Global Admin Console eine Organisation aus](https://helpx.adobe.com/enterprise/global-admin-console/overview.html) um sie zu bearbeiten, und navigieren Sie dann zur Registerkarte **[!UICONTROL Richtlinien]**.
 1. Wählen Sie den Umschalter für die entsprechende Richtlinie aus, um sie zuzulassen oder nicht zuzulassen. Sie können auch eine Richtlinie sperren, sodass sie nur von einem globalen Administrator der [ausgewählten Organisation](https://helpx.adobe.com/enterprise/global-admin-console/overview.html) oder der übergeordneten Organisation geändert oder entsperrt werden kann.
 1. Um eine Richtlinie zu sperren, wählen Sie das Symbol **[!UICONTROL Sperren]** ![Sperren](./assets/lock.png) aus. Wenn Sie den Mauszeiger über die Sperre bewegen, wird der Name der ausgewählten Organisation angezeigt. Weitere Informationen zu [Richtliniensperren](#policy-locks).
 1. Wählen Sie **[!UICONTROL Ausstehende Änderungen überprüfen]** aus, nachdem Sie die Organisationen bearbeitet haben. Wählen Sie nach der Überprüfung **[!UICONTROL Änderungen übermitteln]** aus, um [auszuführen](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html).
