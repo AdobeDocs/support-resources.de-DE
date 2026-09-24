@@ -33,10 +33,10 @@ role_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
+source-git-commit: 61c5015c99b5a898f9aa0e8093f07d905f81dc7d
 workflow-type: tm+mt
-source-wordcount: '1808'
-ht-degree: 0%
+source-wordcount: '1855'
+ht-degree: 1%
 ---
 # Häufig gestellte Fragen zum Ende der Unterstützung für Adobe Commerce-Software
 
@@ -46,7 +46,7 @@ Die folgenden häufig gestellten Fragen sollen Händlern, Entwicklern und Partne
 
 ### Wo finde ich die Softwaresupportdaten für alle Versionen von Adobe Commerce?
 
-Die Adobe Commerce-Software-Lebenszyklusrichtlinie und die Daten für den Software-Support finden Sie in der [Adobe Commerce-Software-Lebenszyklusrichtlinie](https://www.adobe.com/content/dam/cc/en/legal/terms/enterprise/pdfs/Adobe-Commerce-Software-Lifecycle-Policy.pdf). Wir veröffentlichen auch Daten zum Ende der Unterstützung (End of Support, EOS) auf unserer [Entwicklerdokumentationsseite](https://experienceleague.adobe.com/de/docs/commerce-operations/release/versions).
+Die Adobe Commerce-Software-Lebenszyklusrichtlinie finden Sie in der [Adobe Commerce-Software-Lebenszyklusrichtlinie](https://www.adobe.com/content/dam/cc/en/legal/terms/enterprise/pdfs/Adobe-Commerce-Software-Lifecycle-Policy.pdf). Versionsspezifische Daten für Lebenszyklus- und Software-Support finden Sie unter [Adobe Commerce-Lebenszyklusrichtlinie und Support-Daten](https://experienceleague.adobe.com/de/docs/commerce-operations/release/planning/lifecycle-policy). Wir veröffentlichen auch Daten zum Ende der Unterstützung (End of Support, EOS) auf unserer [Entwicklerdokumentationsseite](https://experienceleague.adobe.com/en/docs/commerce-operations/release/versions).
 
 ### Was bedeutet es, wenn Adobe den Support für eine Version der Adobe Commerce-Software beendet?
 
@@ -96,7 +96,7 @@ Es gibt mehrere Möglichkeiten, wie Sie erheblich davon profitieren, Ihre Adobe 
 
 Ihre Commerce-Plattform ist ein wichtiges Geschäftssystem für Ihr Unternehmen. Die kontinuierliche Investition in Ihr Unternehmen ist von entscheidender Bedeutung, wenn Sie auf dem neuesten Stand und aktuell bleiben. Die neuesten Technologie- und Sicherheitsaktualisierungen für Ihre digitale Storefront sind auf vielen Ebenen wichtig und können Innovationen und Wachstum fördern.
 
-Die Umstellung auf die neueste Version der Adobe Commerce-Software kann Zeit und Ressourcen in Anspruch nehmen, um gut ausgeführt zu werden. Es empfiehlt sich, so weit wie möglich vor dem Ende des Support-Zeitraums zu planen, um sicherzustellen, dass Sie über ausreichend Zeit und Ressourcen verfügen, um Ihre strategischen Ziele planmäßig und innerhalb des Budgets zu erreichen. Um Sie bei Ihrem nächsten Upgrade zu unterstützen, hat Adobe das Upgrade-Handbuch [2.4 veröffentlicht](https://experienceleague.adobe.com/docs/commerce-operations/assets/adobe-commerce-2-4-upgrade-guide.pdf?lang=de) das die Best Practices und technischen Schritte sowie die Tools und Ressourcen enthält, die bei der Durchführung des Upgrades verwendet werden müssen.
+Die Umstellung auf die neueste Version der Adobe Commerce-Software kann Zeit und Ressourcen in Anspruch nehmen, um gut ausgeführt zu werden. Es empfiehlt sich, so weit wie möglich vor dem Ende des Support-Zeitraums zu planen, um sicherzustellen, dass Sie über ausreichend Zeit und Ressourcen verfügen, um Ihre strategischen Ziele planmäßig und innerhalb des Budgets zu erreichen. Um Sie bei Ihrem nächsten Upgrade zu unterstützen, hat Adobe das Upgrade-Handbuch [2.4 veröffentlicht](https://experienceleague.adobe.com/docs/commerce-operations/assets/adobe-commerce-2-4-upgrade-guide.pdf) das die Best Practices und technischen Schritte sowie die Tools und Ressourcen enthält, die bei der Durchführung des Upgrades verwendet werden müssen.
 
 Ein weiterer wichtiger Gesichtspunkt ist, Entwickler- und Partnerressourcen so früh wie möglich zu reservieren. Die Zeit und die Ressourcen der Partner werden häufig deutlich vor dem Ende des Support-Datums gebucht, was zu einer deutlich geringeren Ressourcenausstattung für die Unterstützung von Migrationsprojekten führt. Es wird empfohlen, einen rollierenden Dreijahresplan zu verwenden, den Sie mindestens einmal jährlich besprechen und sicherstellen, dass das nächste Jahr geplant und budgetiert wird. Verwenden Sie den Veröffentlichungskalender von [Adobe](https://experienceleague.adobe.com/de/docs/commerce-operations/release/planning/schedule) um die Veröffentlichungstermine zu verfolgen.
 
@@ -130,7 +130,7 @@ Nein, Adobe legt keine neuen Prioritäten für Support-Tickets auf der Grundlage
 
 ### Gibt es für Support-Tickets, die VOR dem Ende des Support-Datums geöffnet wurden, einen Warnhinweis, der Händler an das bevorstehende Ende des Supports erinnert?
 
-Nein, es gibt keine Erinnerungswarnungen, die Benutzer von Support-Tickets über bevorstehende Endtermine des Supports informieren. Es liegt in der Verantwortung des Ticket-Eröffners, das Ende der Support-Daten für die Adobe Commerce-Version zu kennen, auf der er sich befindet. Dies finden Sie in unserer [Adobe Commerce Software Lifecycle-Richtlinie](https://magento.com/sites/default/files/magento-software-lifecycle-policy.pdf).
+Nein, es gibt keine Erinnerungswarnungen, die Benutzer von Support-Tickets über bevorstehende Endtermine des Supports informieren. Es liegt in der Verantwortung des Ticketöffners, das Ende der Support-Daten für die Adobe Commerce-Version zu kennen, für die es gilt. Diese Daten finden Sie in der [Adobe Commerce Software Lifecycle Policy](https://www.adobe.com/content/dam/cc/en/legal/terms/enterprise/pdfs/Adobe-Commerce-Software-Lifecycle-Policy.pdf) und den [Adobe Commerce Lifecycle Policy and Support Dates](https://experienceleague.adobe.com/de/docs/commerce-operations/release/planning/lifecycle-policy).
 
 ### Wird ein Support-Ticket für eine Softwareversion, die nach dem Ende des Support-Datums für diese Version geöffnet wurde, dennoch bearbeitet, um eine Lösung zu finden?
 
