@@ -5,22 +5,32 @@ feature: Support
 feature-set: Commerce
 role: Admin
 exl-id: 560fae4d-77f0-4618-a3a5-f549daa74402
-source-git-commit: 168b398944b55d94d31e22c452dbec45e0ed124a
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
+feature_v2:
+  - id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
+    internal-label: Administration
+subfeature_v2:
+  - id: b75843fa-0a67-4a44-a6b1-cc627b0481dc
+    internal-label: Support
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
 source-wordcount: '586'
 ht-degree: 0%
-
 ---
-
 # Holiday Surge Capacity Requests für Adobe Commerce in unserer Cloud-Infrastruktur
 
 Während der Hauptsaison (etwa Mitte November bis Mitte Januar) empfiehlt Adobe allen auf unserer Cloud-Infrastruktur gehosteten Adobe Commerce-Händlern, sich auf den erhöhten Traffic vorzubereiten.
 
-Eine umfassende lösungsübergreifende Checkliste und Best Practices für die Vorbereitung Ihrer Systeme und Teams auf die Hauptsaison finden Sie im Handbuch [Adobe DX Unified Holiday Readiness](https://experienceleague.adobe.com/de/docs/support-resources/data-sheets/unified-holiday-readiness).
+Eine umfassende lösungsübergreifende Checkliste und Best Practices für die Vorbereitung Ihrer Systeme und Teams auf die Hauptsaison finden Sie im Handbuch [Adobe DX Unified Holiday Readiness](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/unified-holiday-readiness).
 
 **Planung und Schätzung des Traffic**
 
-Wir empfehlen allen Adobe Commerce-Händlern in unserer Cloud-[&#x200B; (verwenden Sie diese Reihe von Empfehlungen zur Schätzung des Traffics in der Spitzensaison](https://business.adobe.com/blog/how-to/the-5-ps-of-peak-season-performance-a-guide-to-preparing-your-infrastructure-for-high-traffic) für die Spitzenumsatzsaison an Feiertagen jedes Jahr.
+Wir empfehlen allen Adobe Commerce-Händlern in unserer Cloud-[ (verwenden Sie diese Reihe von Empfehlungen zur Schätzung des Traffics in der Spitzensaison](https://business.adobe.com/blog/how-to/the-5-ps-of-peak-season-performance-a-guide-to-preparing-your-infrastructure-for-high-traffic) für die Spitzenumsatzsaison an Feiertagen jedes Jahr.
 
 Nachdem Sie die empfohlene Schätzung abgeschlossen haben und ein Datum gefunden haben, an dem Sie zusätzliche Kapazität benötigen, fahren Sie mit dem nächsten Schritt fort, um Informationen zum Anfordern von Spitzenkapazität zu erhalten.
 
@@ -37,7 +47,7 @@ Für jede Größenänderungsanfrage stehen die folgenden Informationen zur Verf�
 
 **Überspannungskapazität anfordern**
 
-Adobe Commerce-Händler in unserer Cloud-Infrastruktur, die davon ausgehen, dass während der Urlaubszeit zusätzliche Kapazität benötigt wird, sollten [ein Ticket zur Unterstützung der Kapazitätssteigerung &#x200B;](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/how-to-request-temporary-magento-upsize.html?lang=de) unserem Hilfezentrum einreichen, in dem die Daten und der erwartete Kapazitätsbedarf innerhalb des Tickets angegeben sind. Bitte beachten Sie, dass eine höhere Kapazität die Nutzung Ihrer lizenzierten Überschusskapazität erfordert.
+Adobe Commerce-Händler in unserer Cloud-Infrastruktur, die davon ausgehen, dass während der Urlaubszeit zusätzliche Kapazität benötigt wird, sollten [ein Ticket zur Unterstützung der Kapazitätssteigerung ](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/how-to-request-temporary-magento-upsize.html) unserem Hilfezentrum einreichen, in dem die Daten und der erwartete Kapazitätsbedarf innerhalb des Tickets angegeben sind. Bitte beachten Sie, dass eine höhere Kapazität die Nutzung Ihrer lizenzierten Überschusskapazität erfordert.
 
 **Wir empfehlen, diese Tickets mindestens 48 Geschäftsstunden vor dem Zeitpunkt einzureichen, an dem die Kapazität benötigt wird. Darüber hinaus empfehlen wir, Anfragen für die Black Friday / Cyber Monday Periode so weit wie möglich im Voraus zu stellen, da die Kapazität in diesem Zeitraum begrenzt ist.**
 
@@ -50,7 +60,7 @@ Benötigen Sie weitere Anleitungen zur Vorbereitung auf den Traffic in der Hochs
 
 In unserer Support-Wissensdatenbank:
 
-* [CPU-Zuordnungsberechnung für Adobe Commerce in Cloud Service](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-cpu-allocation-calculation.html?lang=de)
-* [Überprüfen, ob für Adobe Commerce on Cloud ein Upsize für die Instanzen des Hosts erforderlich ist](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-check-if-upsize-for-hosts-instances-is-needed.html?lang=de)
-* [Überprüfen der CPU-Konfiguration des Hosts für Adobe Commerce on Cloud Service](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-check-hosts-cpu-configuration.html?lang=de)
-* [Ausfälle für Adobe Commerce in der Cloud identifizieren und messen](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/how-to-identify-outages.html?lang=de)
+* [CPU-Zuordnungsberechnung für Adobe Commerce in Cloud Service](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-cpu-allocation-calculation.html)
+* [Überprüfen, ob für Adobe Commerce on Cloud ein Upsize für die Instanzen des Hosts erforderlich ist](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-check-if-upsize-for-hosts-instances-is-needed.html)
+* [Überprüfen der CPU-Konfiguration des Hosts für Adobe Commerce on Cloud Service](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-check-hosts-cpu-configuration.html)
+* [Ausfälle für Adobe Commerce in der Cloud identifizieren und messen](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/how-to-identify-outages.html)

@@ -1,23 +1,31 @@
 ---
 title: Versionshinweise zum Adobe Success-Portal
-description: Die neusten Versionsinformationen für das [!DNL Adobe Success portal].
+description: Die neuesten Versionsinformationen für die [!DNL Adobe Success portal].
 feature: Release Notes
 exl-id: be268e05-8298-4f21-8f2f-f66c52d76fe3
-TQID: https://experienceleague.adobe.com/LSmHwDaQ39QEnzOcHgHLlr7g8OhoO3CQTsiFlceM8AA
+TQID: 'https://experienceleague.adobe.com/LSmHwDaQ39QEnzOcHgHLlr7g8OhoO3CQTsiFlceM8AA'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
+feature_v2:
+  - id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
+    internal-label: Administration
+subfeature_v2:
+  - id: e53834d3-a86e-47ae-8257-15f5f3639855
+    internal-label: Release notes
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: b701d905fa6fc5c837ec3bdd633504c65694f621
+    internal-label: Insights
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: 597
-ht-degree: 81%
-
+source-wordcount: '597'
+ht-degree: 80%
 ---
-
 # Versionshinweise für [!DNL Adobe Success portal]
 
 Diese Versionshinweise enthalten Aktualisierungen am [!DNL Adobe Success portal] und umfassen Folgendes:
@@ -47,8 +55,8 @@ _9. Oktober 2025_
 * Greifen Sie über die KBO-Seite des Aktionsplans oder über die Detailseiten **[!UICONTROL KBO]**/**[!UICONTROL Beschleuniger]**/**[!UICONTROL Aktivität]** (nur wenn sie mit einem KBO verknüpft sind) auf den Kalender zu.
 * Wechseln Sie zwischen Listenansicht (Standard) und Kalenderansicht.
 * Der Kalender zeigt ausblendbare Abschnitte für jedes KBO an:
-   * Blau für **[!UICONTROL Beschleuniger]**
-   * Grün für **[!UICONTROL Aktivitäten]**
+  * Blau für **[!UICONTROL Beschleuniger]**
+  * Grün für **[!UICONTROL Aktivitäten]**
 * Für alle **[!UICONTROL Beschleuniger]**/**[!UICONTROL Aktivitäten]** werden Name, Status und Start-/Enddatum (im Format *Monat XX*, *JJJJ*) angezeigt.
 * Wenn Sie auf eine Ereigniskarte klicken, wird eine Seite mit Ereignisdetails geöffnet. Wenn Sie auf die Schaltfläche „Zurück“ klicken, kehren Sie zur ursprünglichen Seite zurück.
 * Ereignisse sind farblich gekennzeichnet: blau für **[!UICONTROL Beschleuniger]**, grün für **[!UICONTROL Aktivitäten]**. Scrollen Sie vertikal durch KBOs und horizontal nach Woche oder Monat.

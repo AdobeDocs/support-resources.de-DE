@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 6a7b5650-c9bf-475b-b330-1f4dba5d659b
-source-git-commit: ad324036dbeb2a54855349321b2ba33405d2c075
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '1653'
+source-wordcount: '1654'
 ht-degree: 1%
-
 ---
-
 # Administratorrollen
 
 Mithilfe der Adobe Admin Console können Unternehmen eine flexible Verwaltungshierarchie definieren, die eine differenzierte Verwaltung des Zugriffs und der Verwendung von Adobe-Produkten ermöglicht. Ein oder mehrere Systemadministratoren, die während des Onboarding-Prozesses für Unternehmen bereitgestellt werden, befinden sich an der Spitze der Hierarchie. Diese Systemadmins können Zuständigkeiten an andere Admins delegieren und gleichzeitig die Gesamtkontrolle behalten.
@@ -30,7 +36,7 @@ Die Verwaltungshierarchie kann verwendet werden, um die individuellen Anforderun
 
 >[!NOTE]
 >
->Die Administrationshierarchie gilt nicht für Teams und Kunden. Team-Kunden haben nur eine **(**). Der Vertragseigentümer (_früher als **Primärer Administrator**&#x200B;_bezeichnet) ist der Systemadministrator mit Zugriff auf die Vertragsdetails und den Abrechnungsverlauf. Wenn Sie der aktuelle Vertragseigentümer sind, können Sie einen vorhandenen Systemadministrator (_ früher als &quot;**Administrator“ bezeichnet**&#x200B;_ als Vertragseigentümer benennen.
+>Die Administrationshierarchie gilt nicht für Teams und Kunden. Team-Kunden haben nur eine **(**). Der Vertragseigentümer (_früher als **Primärer Administrator**_bezeichnet) ist der Systemadministrator mit Zugriff auf die Vertragsdetails und den Abrechnungsverlauf. Wenn Sie der aktuelle Vertragseigentümer sind, können Sie einen vorhandenen Systemadministrator (_ früher als &quot;**Administrator“ bezeichnet**_ als Vertragseigentümer benennen.
 
 ![Admin-Bild](../assets/storage_admin.png)
 
@@ -52,11 +58,11 @@ Eine detaillierte Liste der Berechtigungen für jede Administratorrolle finden S
 
 Gilt für: Adobe Enterprise-Kunden.
 
-Als Administrator können Sie anderen Benutzern eine Administratorrolle zuweisen und ihnen dieselben Berechtigungen wie Ihnen zuweisen. Ebenso können Sie Berechtigungen für eine Rolle unter Ihrer Administratorrolle in der Hierarchie gewähren, wie [&#x200B; oben beschrieben](#administrative-hierarchy). Beispielsweise können Sie als Produktadministrator einem Benutzer Produktadministratorberechtigungen oder Produktprofil-Administratorberechtigungen erteilen, jedoch keine Bereitstellungs-Administratorberechtigungen. Die Berechtigungen für die Admin Console finden Sie in der [Berechtigungsmatrix](#enterprise-admins-permissions-matrix).
+Als Administrator können Sie anderen Benutzern eine Administratorrolle zuweisen und ihnen dieselben Berechtigungen wie Ihnen zuweisen. Ebenso können Sie Berechtigungen für eine Rolle unter Ihrer Administratorrolle in der Hierarchie gewähren, wie [ oben beschrieben](#administrative-hierarchy). Beispielsweise können Sie als Produktadministrator einem Benutzer Produktadministratorberechtigungen oder Produktprofil-Administratorberechtigungen erteilen, jedoch keine Bereitstellungs-Administratorberechtigungen. Die Berechtigungen für die Admin Console finden Sie in der [Berechtigungsmatrix](#enterprise-admins-permissions-matrix).
 
 So fügen Sie einen Administrator hinzu oder laden ihn ein:
 
-1. Wählen Sie in der [&#128279;](https://adminconsole.adobe.com/)**&#x200B;** die Option **[!UICONTROL Benutzer]** > **[!UICONTROL Administratoren]**.
+1. Wählen Sie in der ](https://adminconsole.adobe.com/)****[ die Option **[!UICONTROL Benutzer]** > **[!UICONTROL Administratoren]**.
 
    Alternativ können Sie zum entsprechenden Produkt, Produktprofil oder zur entsprechenden Benutzergruppe gehen und zur Registerkarte **[!UICONTROL Administratoren]** navigieren.
 
@@ -96,7 +102,7 @@ Als Administrator können Sie die Systemadministratorrolle anderen Benutzern zuw
 
 So fügen Sie einen Systemadministrator hinzu oder laden ihn ein:
 
-1. Wählen Sie in der **&#x200B;**&#x200B;die Option **[!UICONTROL Benutzer]** > **[!UICONTROL Administratoren]**.
+1. Wählen Sie in der ]****[!UICONTROL  die Option **[!UICONTROL Benutzer]** > **[!UICONTROL Administratoren]**.
 
    Eine Liste der vorhandenen Administratoren wird angezeigt.
 
@@ -113,7 +119,7 @@ So fügen Sie einen Systemadministrator hinzu oder laden ihn ein:
 ![Team-Admin-Bild](../assets/teams-admin.png)
 
 Da alle Benutzenden in einer Team-Organisation Business-ID-Benutzende sind, erhalten sie eine E-Mail-Einladung zu den neuen Administratorrechten von `message@adobe.com`.
-Benutzer müssen in der E&#x200B;**[!UICONTROL Mail auf]** Erste Schritte“ klicken, um der Organisation beizutreten.
+Benutzer müssen in der E**[!UICONTROL Mail auf]** Erste Schritte“ klicken, um der Organisation beizutreten.
 
 Im Rahmen des Anmeldevorgangs werden Benutzende möglicherweise aufgefordert, ein Adobe-Profil einzurichten, wenn sie noch keines haben. Wenn Benutzende mehrere Profile mit ihrer E-Mail-Adresse verknüpft haben, müssen sie „Team beitreten“ auswählen (wenn dazu aufgefordert) und dann das mit der neuen Organisation verknüpfte Profil auswählen.
 
@@ -127,7 +133,7 @@ Als Administrator können Sie die Administratorrolle für einen anderen Administ
 
 So bearbeiten Sie Administratorrollen:
 
-1. Wählen Sie in der **&#x200B;**&#x200B;die Option **[!UICONTROL Benutzer]** > **[!UICONTROL Administratoren]**. Die Liste der vorhandenen Administratoren wird angezeigt.
+1. Wählen Sie in der ]****[!UICONTROL  die Option **[!UICONTROL Benutzer]** > **[!UICONTROL Administratoren]**. Die Liste der vorhandenen Administratoren wird angezeigt.
 
    Alternativ können Sie zum entsprechenden Produkt, Produktprofil oder zur entsprechenden Benutzergruppe gehen und zur Registerkarte **[!UICONTROL Administratoren]** navigieren.
 
@@ -146,7 +152,7 @@ Als Team-Systemadministrator können Sie die Systemadministratorprivilegien ande
 
 So widerrufen Sie Systemadministratorberechtigungen:
 
-1. Wählen Sie in der **&#x200B;**&#x200B;die Option **[!UICONTROL Benutzer]** > **[!UICONTROL Administratoren]**.
+1. Wählen Sie in der ]****[!UICONTROL  die Option **[!UICONTROL Benutzer]** > **[!UICONTROL Administratoren]**.
 
    Die Liste der vorhandenen Administratoren wird angezeigt.
 

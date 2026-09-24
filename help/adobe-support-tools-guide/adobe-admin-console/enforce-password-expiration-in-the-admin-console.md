@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: d43e39a9-9c6e-4b19-9e6a-5037e91fc443
-source-git-commit: 7f9d141c8cfccc1830f0494526b742ae0c50fddf
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 1%
-
+source-wordcount: '132'
+ht-degree: 2%
 ---
-
 # Erzwingen des Kennwortablaufs in der Admin Console
 
 **Gilt für:** Enterprise und Teams
@@ -26,4 +32,4 @@ Systemadministratoren in Unternehmen können dem Prozess folgen, um eine Ablaufz
 
 1. Überprüfen Sie die **[!UICONTROL Authentifizierungsstufen]** und wählen Sie die für Ihre Benutzer am besten geeignete Authentifizierungsstufe aus: **[!UICONTROL Am einfachsten für]**, **[!UICONTROL Mehr Sicherheit]**, **[!UICONTROL Am sichersten]**.
 
-Besuchen Sie die [Hilfe zu Authentifizierungseinstellungen](https://helpx.adobe.com/de/enterprise/using/authentication-settings.html), um mehr über die verfügbaren Authentifizierungs- und Sicherheitsrichtlinien zu erfahren.
+Besuchen Sie die [Hilfe zu Authentifizierungseinstellungen](https://helpx.adobe.com/enterprise/using/authentication-settings.html), um mehr über die verfügbaren Authentifizierungs- und Sicherheitsrichtlinien zu erfahren.

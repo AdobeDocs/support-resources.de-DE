@@ -5,24 +5,30 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 3220086a-4603-465f-a3e3-194193ca10ba
-source-git-commit: 063b67cf71db5b2dc4739b6c67623e9223ce1b28
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '4525'
+source-wordcount: '4528'
 ht-degree: 3%
-
 ---
-
 # Organisationsstruktur und Produktzuordnungen exportieren oder importieren
 
 **Gilt für:** Enterprise
 
 Erfahren Sie, wie globale Administratoren die Organisations- und Produktverwaltung mit Export- und Importfunktionen in der Global Admin Console optimieren können.
 
-Greifen Sie auf die **[!UICONTROL Organisationen]** in der [Global Admin Console zu](https://experienceleague.adobe.com/de/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration) um die Organisationsstruktur zu exportieren oder zu importieren. Gehen Sie zur Registerkarte **[!UICONTROL Produktzuordnung]**, um Zuordnungsdaten anzuzeigen. Wählen Sie das Symbol **[!UICONTROL Weitere Optionen]** (⋮) aus und wählen Sie dann **[!UICONTROL Exportieren]** oder **[!UICONTROL Importieren]**. Klicken Sie hier [melden Sie sich bei der Global Admin Console an](https://global-admin-console.adobe.com).
+Greifen Sie auf die **[!UICONTROL Organisationen]** in der [Global Admin Console zu](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration) um die Organisationsstruktur zu exportieren oder zu importieren. Gehen Sie zur Registerkarte **[!UICONTROL Produktzuordnung]**, um Zuordnungsdaten anzuzeigen. Wählen Sie das Symbol **[!UICONTROL Weitere Optionen]** (⋮) aus und wählen Sie dann **[!UICONTROL Exportieren]** oder **[!UICONTROL Importieren]**. Klicken Sie hier [melden Sie sich bei der Global Admin Console an](https://global-admin-console.adobe.com).
 
 ## Exportieren der Organisationsstruktur
 
-Als [globaler Administrator](https://experienceleague.adobe.com/de/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators) können Sie die Organisationshierarchie exportieren. Sie können eine JSON-, CSV- oder XLSX-Darstellung der gesamten Organisationshierarchie oder einer Untergruppe davon herunterladen. Sie können diese Daten dann zur Analyse oder Änderung verwenden.
+Als [globaler Administrator](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators) können Sie die Organisationshierarchie exportieren. Sie können eine JSON-, CSV- oder XLSX-Darstellung der gesamten Organisationshierarchie oder einer Untergruppe davon herunterladen. Sie können diese Daten dann zur Analyse oder Änderung verwenden.
 
 Das ausgewählte Exportformat wirkt sich auf die Struktur der exportierten Daten aus:
 
@@ -51,7 +57,7 @@ Nach dem Herunterladen der Datei können Sie die Daten bearbeiten und dann wiede
 
 ## Organisationsstruktur importieren
 
-Als [globaler Administrator](https://experienceleague.adobe.com/de/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators) können Sie potenziell geänderte Daten importieren. Beim Hochladen werden die neuen Daten mit den aktuellen Daten verglichen und alle Änderungen werden auf die Organisationshierarchie angewendet. Alle Importvorgänge werden mit der aktualisierten Kopie der Organisationshierarchie durchgeführt. Wenn Sie ausstehende Änderungen haben, werden importierte Änderungen zusätzlich zu den vorhandenen ausstehenden Änderungen in der Hierarchie hinzugefügt.
+Als [globaler Administrator](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators) können Sie potenziell geänderte Daten importieren. Beim Hochladen werden die neuen Daten mit den aktuellen Daten verglichen und alle Änderungen werden auf die Organisationshierarchie angewendet. Alle Importvorgänge werden mit der aktualisierten Kopie der Organisationshierarchie durchgeführt. Wenn Sie ausstehende Änderungen haben, werden importierte Änderungen zusätzlich zu den vorhandenen ausstehenden Änderungen in der Hierarchie hinzugefügt.
 
 ### Importschritte
 
@@ -59,7 +65,7 @@ Als [globaler Administrator](https://experienceleague.adobe.com/de/docs/support-
 2. Wählen Sie das Symbol **[!UICONTROL Weitere Optionen]** **⋮** und dann **[!UICONTROL Importieren]** aus. Je nach Größe und Komplexität der Importdatei kann die Verarbeitung einige Sekunden bis mehrere Minuten dauern.
 3. Wählen Sie **[!UICONTROL Datei auswählen]** und wählen Sie eine JSON-, CSV- oder XLSX-Datei zum Hochladen aus. Bei CSV-Dateien kann jeweils nur ein Organisationsdetail importiert werden, während der Import von Produkten nicht unterstützt wird. Die importierten Änderungen erscheinen so, als hätten Sie die Daten manuell bearbeitet.
 4. Wählen Sie **[!UICONTROL Schließen]** aus.
-5. Wählen **[!UICONTROL Ausstehende Änderungen überprüfen]** aus. Wählen Sie dann **[!UICONTROL Änderungen übermitteln]** aus, um [&#x200B; auszuführen](https://helpx.adobe.com/de/enterprise/global-admin-console/execute-jobs.html). Vor dem Ausführen der Änderungen werden die ausstehenden Aktionen auf dieselbe Weise angezeigt wie bei manuellen Bearbeitungen in der Global Admin Console.
+5. Wählen **[!UICONTROL Ausstehende Änderungen überprüfen]** aus. Wählen Sie dann **[!UICONTROL Änderungen übermitteln]** aus, um [ auszuführen](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html). Vor dem Ausführen der Änderungen werden die ausstehenden Aktionen auf dieselbe Weise angezeigt wie bei manuellen Bearbeitungen in der Global Admin Console.
 
 ## Schemata exportieren und importieren
 
@@ -391,9 +397,9 @@ Wenn das Produktprofil mehr als eine Ressource hat, sind mehrere Zeilen vorhande
 - Profile, die aktualisiert und gelöscht werden sollen, müssen in der Organisation vorhanden sein.
 - Ressourcen, die aktualisiert und gelöscht (deaktiviert) werden sollen, müssen im Profil vorhanden sein.
 - Stellen Sie Folgendes sicher, damit Profile erstellt werden können:
-   - Die orgId sollte eine neue Organisation oder eine vorhandene Organisation sein.
-   - Die licenseId sollte ein neues oder ein vorhandenes Produkt sein.
-   - Überprüfen Sie die Ressourcen für das Profil.
+  - Die orgId sollte eine neue Organisation oder eine vorhandene Organisation sein.
+  - Die licenseId sollte ein neues oder ein vorhandenes Produkt sein.
+  - Überprüfen Sie die Ressourcen für das Profil.
 
 ### Ressourcen in Produktprofilen
 
@@ -547,9 +553,9 @@ Wenn das Produktprofil mehr als eine Ressource hat, sind mehrere Zeilen vorhande
 - Zu aktualisierende und zu löschende Benutzergruppen müssen in der Organisation vorhanden sein.
 - Das Profil, das aus der Benutzergruppe entfernt werden soll, muss in der Benutzergruppe vorhanden sein. Aktualisierungsvorgänge können nicht für das Profil einer Benutzergruppe durchgeführt werden.
 - Stellen Sie Folgendes sicher, damit Benutzergruppen erstellt werden können:
-   - Die orgId sollte eine neue Organisation oder eine vorhandene Organisation sein.
-   - Die LicenseId sollte ggf. ein neues oder ein vorhandenes Produkt sein.
-   - Die productProfileId sollte ein neues Produktprofil oder ein vorhandenes Produktprofil sein.
+  - Die orgId sollte eine neue Organisation oder eine vorhandene Organisation sein.
+  - Die LicenseId sollte ggf. ein neues oder ein vorhandenes Produkt sein.
+  - Die productProfileId sollte ein neues Produktprofil oder ein vorhandenes Produktprofil sein.
 
 ### Domains
 
@@ -628,7 +634,7 @@ Das Feld Vorgang für Ressourcen wird ignoriert, wenn für das Produkt, zu dem s
 
 ## Importieren und Exportieren von Produktzuordnungsdaten
 
-Als [globaler Administrator](https://experienceleague.adobe.com/de/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators) können Sie die Produktzuordnungsdaten als JSON- oder CSV-Datei exportieren. Anschließend können Sie diese Daten ändern und hochladen, um die Änderungen zu importieren. Beim Hochladen der potenziell geänderten Daten werden die neuen Daten mit den aktuellen Daten verglichen und alle Änderungen werden auf die Produktzuordnungsdaten angewendet. Sie können dann die ausstehenden Änderungen überprüfen und übermitteln, damit sie wirksam werden.
+Als [globaler Administrator](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators) können Sie die Produktzuordnungsdaten als JSON- oder CSV-Datei exportieren. Anschließend können Sie diese Daten ändern und hochladen, um die Änderungen zu importieren. Beim Hochladen der potenziell geänderten Daten werden die neuen Daten mit den aktuellen Daten verglichen und alle Änderungen werden auf die Produktzuordnungsdaten angewendet. Sie können dann die ausstehenden Änderungen überprüfen und übermitteln, damit sie wirksam werden.
 
 ## Exportieren des Produktzuordnungsmodells
 
@@ -644,7 +650,7 @@ Sie können Daten exportieren, ändern und dann die geänderte Datei importieren
 1. Melden Sie sich bei der [Global Admin Console](https://global-admin-console.adobe.com/) an und navigieren Sie zur Registerkarte **[!UICONTROL Produktzuordnung]** .
 2. Wählen Sie das ⋮ **[!UICONTROL Weitere Optionen]** und dann **[!UICONTROL Importieren]** aus.
 3. JSON- oder CSV-Datei zum Hochladen auswählen.
-4. Wählen **[!UICONTROL Ausstehende Änderungen überprüfen]** aus. Wählen Sie nach Überprüfung der Änderungen **[!UICONTROL Änderungen übermitteln]** aus, um [&#x200B; Änderungen &#x200B;](https://helpx.adobe.com/de/enterprise/global-admin-console/execute-jobs.html).
+4. Wählen **[!UICONTROL Ausstehende Änderungen überprüfen]** aus. Wählen Sie nach Überprüfung der Änderungen **[!UICONTROL Änderungen übermitteln]** aus, um [ Änderungen ](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html).
 
 ## Export- und Importformate für die Produktzuordnung
 
@@ -699,8 +705,8 @@ Wenn ein Produkt mehr als eine Ressource hat, können Aktualisierungsvorgänge a
 - Die Eigenschaften der Produktimportdaten müssen vom richtigen Typ sein.
 - Das Produktrichtlinienfeld (overallocation) darf für verschiedene Ressourcen nicht angegeben werden.
 - Das Feld grantedQuantity:
-   - Kann nicht in &quot;*&quot; geändert werden* wenn es nicht bereits &quot;*&quot;*.
-   - Muss eine nicht negative Ganzzahl oder der Zeichenfolgenwert (unlimited *sein*
+  - Kann nicht in &quot;*&quot; geändert werden* wenn es nicht bereits &quot;*&quot;*.
+  - Muss eine nicht negative Ganzzahl oder der Zeichenfolgenwert (unlimited *sein*
 
 **Berechtigungs-/barrierefreie Validierung**
 

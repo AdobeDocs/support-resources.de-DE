@@ -4,22 +4,29 @@ description: Erfahren Sie, wie ein globaler Administrator Richtlinien für eine 
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
+exl-id: bf8d4e71-30a6-4d6c-8749-47070e5b1906
+TQID: 'https://experienceleague.adobe.com/X-f8Rr9evlFaLc3dBbXwbRvCZDrAHTTuqv-Mpxp-oc4'
 product_v2:
   - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-exl-id: bf8d4e71-30a6-4d6c-8749-47070e5b1906
-TQID: https://experienceleague.adobe.com/X-f8Rr9evlFaLc3dBbXwbRvCZDrAHTTuqv-Mpxp-oc4
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Administration
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: 1045
+source-wordcount: '1045'
 ht-degree: 1%
-
 ---
-
 # Aktualisieren von Organisationsrichtlinien in der Global Admin Console
 
 **Gilt für:** Enterprise
@@ -28,7 +35,7 @@ Erfahren Sie, wie ein globaler Administrator Richtlinien für eine Organisation 
 
 >[!NOTE]
 >
->Wählen Sie in der [Global Admin Console](https://helpx.adobe.com/de/enterprise/global-admin-console/adopt-global-administration.html) eine Organisation aus der Hierarchie aus und navigieren Sie zur Registerkarte **Richtlinien**, um die Richtlinien zuzulassen oder zu verbieten oder zu sperren.
+>Wählen Sie in der [Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html) eine Organisation aus der Hierarchie aus und navigieren Sie zur Registerkarte **Richtlinien**, um die Richtlinien zuzulassen oder zu verbieten oder zu sperren.
 >
 > [Bei Global Admin Console anmelden](https://global-admin-console.adobe.com/)
 
@@ -39,14 +46,14 @@ Wenn beispielsweise die Richtlinie **Anspruchsdomänen** auf *nicht zulässig* f
 
 Gehen Sie wie folgt vor, um die Richtlinien einer Organisation zu ändern:
 
-1. Wählen Sie in [&#x200B; Global Admin Console eine Organisation aus](https://helpx.adobe.com/de/enterprise/global-admin-console/overview.html) um sie zu bearbeiten, und navigieren Sie dann zur Registerkarte **[!UICONTROL Richtlinien]**.
-1. Wählen Sie den Umschalter für die entsprechende Richtlinie aus, um sie zuzulassen oder nicht zuzulassen. Sie können auch eine Richtlinie sperren, sodass sie nur von einem globalen Administrator der [ausgewählten Organisation](https://helpx.adobe.com/de/enterprise/global-admin-console/overview.html) oder der übergeordneten Organisation geändert oder entsperrt werden kann.
+1. Wählen Sie in [ Global Admin Console eine Organisation aus](https://helpx.adobe.com/enterprise/global-admin-console/overview.html) um sie zu bearbeiten, und navigieren Sie dann zur Registerkarte **[!UICONTROL Richtlinien]**.
+1. Wählen Sie den Umschalter für die entsprechende Richtlinie aus, um sie zuzulassen oder nicht zuzulassen. Sie können auch eine Richtlinie sperren, sodass sie nur von einem globalen Administrator der [ausgewählten Organisation](https://helpx.adobe.com/enterprise/global-admin-console/overview.html) oder der übergeordneten Organisation geändert oder entsperrt werden kann.
 1. Um eine Richtlinie zu sperren, wählen Sie das Symbol **[!UICONTROL Sperren]** ![Sperren](./assets/lock.png) aus. Wenn Sie den Mauszeiger über die Sperre bewegen, wird der Name der ausgewählten Organisation angezeigt. Weitere Informationen zu [Richtliniensperren](#policy-locks).
-1. Wählen Sie **[!UICONTROL Ausstehende Änderungen überprüfen]** aus, nachdem Sie die Organisationen bearbeitet haben. Wählen Sie nach der Überprüfung **[!UICONTROL Änderungen übermitteln]** aus, um [auszuführen](https://helpx.adobe.com/de/enterprise/global-admin-console/execute-jobs.html).
+1. Wählen Sie **[!UICONTROL Ausstehende Änderungen überprüfen]** aus, nachdem Sie die Organisationen bearbeitet haben. Wählen Sie nach der Überprüfung **[!UICONTROL Änderungen übermitteln]** aus, um [auszuführen](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html).
 
 ## Richtliniensperren {#policy-locks}
 
-Wenn eine Richtlinie gesperrt ist, kann ihr Wert erst geändert werden, nachdem die Richtlinie entsperrt wurde. Die Global Admin Console speichert die [ausgewählte Organisation](https://helpx.adobe.com/de/enterprise/global-admin-console/overview.html) in der Organisationsauswahl als die Organisation, für die die Richtlinie gesperrt wurde. Jeder globale Administrator dieser ausgewählten Organisation oder einer Organisation weiter oben in der Struktur hat die Berechtigung, die Richtlinie zu entsperren. Globale Administratoren, deren Umfang kleiner ist als diese Organisation, haben nicht die Berechtigung, Richtlinienwerte zu entsperren und zu ändern.
+Wenn eine Richtlinie gesperrt ist, kann ihr Wert erst geändert werden, nachdem die Richtlinie entsperrt wurde. Die Global Admin Console speichert die [ausgewählte Organisation](https://helpx.adobe.com/enterprise/global-admin-console/overview.html) in der Organisationsauswahl als die Organisation, für die die Richtlinie gesperrt wurde. Jeder globale Administrator dieser ausgewählten Organisation oder einer Organisation weiter oben in der Struktur hat die Berechtigung, die Richtlinie zu entsperren. Globale Administratoren, deren Umfang kleiner ist als diese Organisation, haben nicht die Berechtigung, Richtlinienwerte zu entsperren und zu ändern.
 
 Um eine gesperrte Umgebung zu erstellen, legen Sie die gewünschten Richtlinienwerte für Ihre untergeordneten Organisationen fest und sperren Sie sie dann. Globale Administratoren dieser untergeordneten Organisationen können die Richtlinienwerte nicht bearbeiten.
 

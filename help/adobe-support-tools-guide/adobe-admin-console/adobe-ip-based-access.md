@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: e4595040-3930-48af-9888-cf1349596c77
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '480'
+source-wordcount: '517'
 ht-degree: 1%
-
 ---
-
 # Produktzugriff nach IP-Adressen einschränken
 
 Gilt für Unternehmen.
@@ -27,7 +33,7 @@ Die IP-basierte Zugriffssteuerung verwendet eine IP-Adresse, um die Verwendung v
 Sie können der Liste **Zulässige IP-Adressen** vertrauenswürdige öffentliche IPs hinzufügen, um Benutzer daran zu hindern,
 
 - Zugriff auf Produkte von öffentlichen IPs außerhalb der zulässigen IP-Bereiche
-- Anmeldung bei Adobe [Benutzerprofilen](https://helpx.adobe.com/de/enterprise/using/manage-adobe-profiles.html) von öffentlichen IPs außerhalb der zulässigen IP-Bereiche
+- Anmeldung bei Adobe [Benutzerprofilen](https://helpx.adobe.com/enterprise/using/manage-adobe-profiles.html) von öffentlichen IPs außerhalb der zulässigen IP-Bereiche
 - Benutzerprofile in Web-Apps außerhalb der zulässigen IP-Bereiche wechseln
 
   ![Organisationsstruktur exportieren](./assets/ip-based-access.avif)
@@ -64,9 +70,9 @@ Sie können jede aufgelistete IP-Adresse bearbeiten oder entfernen, indem Sie di
 >[!NOTE]
 >
 >- Wenn der IP-basierte Zugriff aktiviert ist, **keine erzwungene Abmeldung**. Benutzer sind nur betroffen, wenn sie versuchen, beim Anmelden oder beim Wechsel des Profils im Web das eingeschränkte Profil auszuwählen.
->- Wenn Sie ein gesichertes Web-Gateway verwenden, stellen Sie sicher, dass der gesamte Traffic durch dieses geleitet wird. Anzeigen der [Liste der zuzulassen](https://helpx.adobe.com/de/enterprise/kb/network-endpoints.html) damit Adobe-Programme und -Services ordnungsgemäß funktionieren.
->- Wenn Sie von der Admin Console gesperrt wurden, weil Sie eine ungültige IP-Adresse eingegeben haben, wenden Sie sich an die [Adobe-Kundenunterstützung](https://helpx.adobe.com/de/enterprise/using/support-for-enterprise.html).
+>- Wenn Sie ein gesichertes Web-Gateway verwenden, stellen Sie sicher, dass der gesamte Traffic durch dieses geleitet wird. Anzeigen der [Liste der zuzulassen](https://helpx.adobe.com/enterprise/kb/network-endpoints.html) damit Adobe-Programme und -Services ordnungsgemäß funktionieren.
+>- Wenn Sie von der Admin Console gesperrt wurden, weil Sie eine ungültige IP-Adresse eingegeben haben, wenden Sie sich an die [Adobe-Kundenunterstützung](https://helpx.adobe.com/enterprise/using/support-for-enterprise.html).
 
 ## Reden Sie mit
 
-Um mit anderen Administratoren zusammenzuarbeiten, Fragen zu stellen und mit ihnen zu chatten, besuchen Sie unsere [Enterprise and Teams Community](https://www.adobe.com/go/entcom_de).
+Um mit anderen Administratoren zusammenzuarbeiten, Fragen zu stellen und mit ihnen zu chatten, besuchen Sie unsere [Enterprise and Teams Community](https://www.adobe.com/go/entcom).

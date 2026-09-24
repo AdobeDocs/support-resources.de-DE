@@ -9,20 +9,29 @@ exl-id: 392ef795-f710-401f-8b0e-3c8dfec7bb3a
 TQID: 'https://experienceleague.adobe.com/fWRfvDT8NCwPfzmAx1Zowo4T8KvKLKWqhDkZDfX8stU'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: e7dae43f-215c-4cdf-90d3-c5a461a6e669
+    internal-label: Admin tools and workspace
+  - id: 5a951749-fac9-5bc7-9a98-ebe4ff066437
+    internal-label: Cloud
+  - id: 125c1f49-aefd-5f34-a252-288937f95f6b
+    internal-label: Marketing Tools
 subfeature_v2:
   - id: bb2df8be-afdd-4818-b6b5-95ca1dd3bc3a
+    internal-label: Admin workspace
+  - id: a59f76dc-e003-5617-951e-dffa5bd3de81
+    internal-label: Support
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-source-git-commit: 9f1760d31cd80e0358aa341c3f6091b2a86b6d67
+    internal-label: Developer
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: 305
-ht-degree: 12%
-
+source-wordcount: '305'
+ht-degree: 15%
 ---
-
 
 # Wie man ein Teammitglied in Support-Benachrichtigungen einbezieht
 
@@ -44,14 +53,14 @@ In diesem Artikel wird erläutert, wie ein Team-Mitglied einbezogen werden kann,
 
 Wenn sie dem Projekt nicht hinzugefügt wurden, müssen Sie sie als [!DNL Project Admin] hinzufügen und [!DNL Shared Access] gewähren:
 
-* [Verwalten des Benutzerzugriffs](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/user-access.html?lang=de) in unserem Benutzerhandbuch.
+* [Verwalten des Benutzerzugriffs](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/user-access.html) in unserem Benutzerhandbuch.
 * [Benutzer kann nicht zum Adobe Commerce-Cloud-Projekt hinzugefügt werden](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/unable-add-user-adobe-commerce-cloud-project.html?lang=de) in unserer Commerce-Wissensdatenbank.
-* [Benutzerhandbuch für Adobe Commerce Help Center: Freigegebener Zugriff](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=de#shared-access) in unserer Commerce-Wissensdatenbank.
+* [Benutzerhandbuch für Adobe Commerce Help Center: Freigegebener Zugriff](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html#shared-access) in unserer Commerce-Wissensdatenbank.
 
-Wenn sie zur [!DNL cloud project] hinzugefügt wurden, aber nicht über die [!DNL Project Admin role] verfügen, aktualisieren Sie ihren [!DNL role] entsprechend unter [Benutzerzugriff verwalten](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/user-access.html?lang=de).
+Wenn sie zur [!DNL cloud project] hinzugefügt wurden, aber nicht über die [!DNL Project Admin role] verfügen, aktualisieren Sie ihren [!DNL role] entsprechend unter [Benutzerzugriff verwalten](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/user-access.html).
 
-Wenn Sie möchten, dass ein Teammitglied bei allen für Ihre Organisation geöffneten Fällen als Beobachter fungieren kann, reichen Sie ein „Support[Ticket“ &#x200B;](https://experienceleague.adobe.com/home?lang=de&support-tab=home#support).
+Wenn Sie möchten, dass ein Teammitglied bei allen für Ihre Organisation geöffneten Fällen als Beobachter fungieren kann, reichen Sie ein „Support[Ticket“ ](https://experienceleague.adobe.com/home?lang=en&support-tab=home#support).
 
 ## Verwandtes Lesen
 
-[Ehemalige Team-Mitglieder erhalten Adobe Commerce Cloud-Benachrichtigungs-E-Mails](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/former-teammembers-receive-cloud-notification-emails.html?lang=de)
+[Ehemalige Team-Mitglieder erhalten Adobe Commerce Cloud-Benachrichtigungs-E-Mails](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/former-teammembers-receive-cloud-notification-emails.html)

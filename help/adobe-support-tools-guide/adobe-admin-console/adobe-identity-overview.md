@@ -5,13 +5,16 @@ Feature-set: Experience Cloud Services
 Solution: Admin Console
 Feature: Admin Console
 exl-id: e53ded7c-1ba3-4d98-bc20-792a252618ac
-source-git-commit: f20f8cfe6f9f31af953c089b9c5f4e76d0573f84
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '840'
+source-wordcount: '848'
 ht-degree: 5%
-
 ---
-
 # Identitätsübersicht
 
 Gilt für Unternehmen und Teams.
@@ -25,7 +28,7 @@ Identitätstypen ermöglichen dem Unternehmen verschiedene Ebenen der Kontrolle 
 Die folgende Tabelle führt Sie bei der Auswahl des Identitätsmodells, das am besten zu Ihrer Organisation passt.
 
 >[!NOTE]
->Wenn Ihr Unternehmen nicht auf das Unternehmensspeichermodell von Adobe aktualisiert wurde und Sie weiterhin Adobe-IDs für Einzelpersonen verwenden, lesen Sie die Beschreibung in der [Identitätstypen](https://helpx.adobe.com/de/enterprise/using/identity.html#using-personal-adobe-id) unten.
+>Wenn Ihr Unternehmen nicht auf das Unternehmensspeichermodell von Adobe aktualisiert wurde und Sie weiterhin Adobe-IDs für Einzelpersonen verwenden, lesen Sie die Beschreibung in der [Identitätstypen](https://helpx.adobe.com/enterprise/using/identity.html#using-personal-adobe-id) unten.
 
 <table>
 <thead>
@@ -51,7 +54,7 @@ Die folgende Tabelle führt Sie bei der Auswahl des Identitätsmodells, das am b
 <th scope="row"><strong>Wichtige -Angebote</strong></th>
 <td>Von der Organisation erstellt, verwaltet und in ihrem Besitz befindlich. Das Unternehmen verwaltet die Benutzeranmeldeinformationen und verwendet Single Sign-On (SSO) über einen SAML2 Identity Provider (IdP).</td>
 <td>Von der Organisation erstellt, verwaltet und in ihrem Besitz befindlich. Das Unternehmen behält die exklusiven Rechte zum Erstellen von Benutzerkonten auf verifizierten Domains.</td>
-<td>Wird vom Endbenutzer erstellt, erworben und verwaltet. Adobe führt die Authentifizierung durch, und der Endbenutzer verwaltet die Identität. Je nach <a href="https://helpx.adobe.com/de/enterprise/using/storage-for-business.html">Speichermodell</a> behalten Benutzer oder Unternehmen die Kontrolle über Dateien und Daten. Adobe ID-Konten werden auf nicht verifizierten, öffentlichen oder vertrauenswürdigen Domains erstellt. Siehe Nummer 2 des folgenden Anmerkungen.</td>
+<td>Wird vom Endbenutzer erstellt, erworben und verwaltet. Adobe führt die Authentifizierung durch, und der Endbenutzer verwaltet die Identität. Je nach <a href="https://helpx.adobe.com/enterprise/using/storage-for-business.html">Speichermodell</a> behalten Benutzer oder Unternehmen die Kontrolle über Dateien und Daten. Adobe ID-Konten werden auf nicht verifizierten, öffentlichen oder vertrauenswürdigen Domains erstellt. Siehe Nummer 2 des folgenden Anmerkungen.</td>
 </tr>
 <tr>
 <th scope="row"><strong>Konto- und Dateneigentum</strong></th>
@@ -81,20 +84,20 @@ Die folgende Tabelle führt Sie bei der Auswahl des Identitätsmodells, das am b
 <tr>
 <th scope="row"><strong>Passwort zurücksetzen</strong></th>
 <td colspan="2">Nicht unterstützt</td>
-<td><a href="https://helpx.adobe.com/de/manage-account/using/change-or-reset-password.html">Passwort für das Konto zurücksetzen</a></td>
+<td><a href="https://helpx.adobe.com/manage-account/using/change-or-reset-password.html">Passwort für das Konto zurücksetzen</a></td>
 </tr>
 <tr>
 <th scope="row"><strong>Creative Cloud für Unternehmen und Document Cloud für Unternehmen</strong></th>
-<td colspan="3">Unterstützt</td>
+<td colspan="3">„Unterstützt“</td>
 </tr>
 <tr>
 <th scope="row"><strong>Creative Cloud für Teams und Document Cloud für Teams</strong></th>
 <td colspan="2">Nicht unterstützt</td>
-<td>Unterstützt</td>
+<td>„Unterstützt“</td>
 </tr>
 <tr>
 <th scope="row"><strong>Experience Cloud</strong></th>
-<td colspan="3">Unterstützt</td>
+<td colspan="3">„Unterstützt“</td>
 </tr>
 <tr>
 <th scope="row"><strong>Empfohlen für</strong></th>
@@ -124,8 +127,8 @@ Die folgende Tabelle führt Sie bei der Auswahl des Identitätsmodells, das am b
 <tr>
 <th scope="row"><strong>Erste Schritte</strong></th>
 <td><a href="https://helpx.adobe.com/de/enterprise/using/set-up-identity.html">Einrichten der Identität</a></td>
-<td><a href="https://helpx.adobe.com/de/enterprise/using/add-domains-directories.html#claim-domains">Domains beanspruchen</a></td>
-<td><a href="https://helpx.adobe.com/de/enterprise/using/users.html#add-users">Benutzerin oder Benutzer hinzufügen</a></td>
+<td><a href="https://helpx.adobe.com/enterprise/using/add-domains-directories.html#claim-domains">Domains beanspruchen</a></td>
+<td><a href="https://helpx.adobe.com/enterprise/using/users.html#add-users">Benutzerin oder Benutzer hinzufügen</a></td>
 </tr>
 </tbody>
 </table>
@@ -133,7 +136,7 @@ Die folgende Tabelle führt Sie bei der Auswahl des Identitätsmodells, das am b
 >[!NOTE]
 >
 >1. Die Passwortrichtlinie für Creative Cloud für Teams ist dieselbe wie für Creative Cloud für Einzelpersonen.
->1. Adobe ID-Benutzer authentifizieren sich mit ihren Adobe ID-Anmeldeinformationen oder durch das Authentifizierungsmodell ihres eigenen Unternehmens (SSO, 2FA usw.). In solchen Fällen werden Benutzer zur SSO-Seite der verantwortlichen Organisation weitergeleitet. Nach der Authentifizierung müssen Benutzende möglicherweise [ein Geschäftsprofil auswählen](https://helpx.adobe.com/de/enterprise/kb/enterprise-id-faq.html#choose-profile).
+>1. Adobe ID-Benutzer authentifizieren sich mit ihren Adobe ID-Anmeldeinformationen oder durch das Authentifizierungsmodell ihres eigenen Unternehmens (SSO, 2FA usw.). In solchen Fällen werden Benutzer zur SSO-Seite der verantwortlichen Organisation weitergeleitet. Nach der Authentifizierung müssen Benutzende möglicherweise [ein Geschäftsprofil auswählen](https://helpx.adobe.com/enterprise/kb/enterprise-id-faq.html#choose-profile).
 
 ## Verwenden von Personal Adobe IDs
 
@@ -167,15 +170,15 @@ Adobe aktualisiert alle Teams und Unternehmenskunden auf das Enterprise-Speicher
 </tr>
 <tr>
 <th scope="row"><strong>Passwort zurücksetzen</strong></th>
-<td><a href="https://helpx.adobe.com/de/manage-account/using/change-or-reset-password.html">Setzen Sie Ihr Kontokennwort zurück.</a>  Siehe Nummer 2 im folgenden Abschnitt.</td>
+<td><a href="https://helpx.adobe.com/manage-account/using/change-or-reset-password.html">Setzen Sie Ihr Kontokennwort zurück.</a>  Siehe Nummer 2 im folgenden Abschnitt.</td>
 </tr>
 <tr>
 <th scope="row"><strong>Creative Cloud für Unternehmen und Document Cloud für Unternehmen</strong></th>
-<td>Unterstützt</td>
+<td>„Unterstützt“</td>
 </tr>
 <tr>
 <th scope="row"><strong>Experience Cloud</strong></th>
-<td>Unterstützt</td>
+<td>„Unterstützt“</td>
 </tr>
 <tr>
 <th scope="row"><strong>Nur für verfügbar/Empfohlen für</strong></th>
@@ -191,7 +194,7 @@ Adobe aktualisiert alle Teams und Unternehmenskunden auf das Enterprise-Speicher
 </tr>
 <tr>
 <th scope="row"><strong>Erste Schritte</strong></th>
-<td><a href="https://helpx.adobe.com/de/enterprise/using/users.html#add-users">Benutzerin oder Benutzer hinzufügen</a></td>
+<td><a href="https://helpx.adobe.com/enterprise/using/users.html#add-users">Benutzerin oder Benutzer hinzufügen</a></td>
 </tr>
 </tbody>
 </table>
@@ -199,13 +202,13 @@ Adobe aktualisiert alle Teams und Unternehmenskunden auf das Enterprise-Speicher
 >[!NOTE]
 >
 >1. Die Passwortrichtlinie für Creative Cloud für Teams ist dieselbe wie für Creative Cloud für Einzelpersonen.
->1. Bei Creative Cloud für Unternehmenskunden, die [Unternehmensspeicher](https://helpx.adobe.com/de/enterprise/using/manage-adobe-storage.html) verwenden, können Administratoren Adobe ID-Benutzer zur Admin Console hinzufügen, sie jedoch nicht zu Produktprofilen hinzufügen. Administratoren müssen Adobe ID-Benutzer zu einem anderen Identitätstyp migrieren.
+>1. Bei Creative Cloud für Unternehmenskunden, die [Unternehmensspeicher](https://helpx.adobe.com/enterprise/using/manage-adobe-storage.html) verwenden, können Administratoren Adobe ID-Benutzer zur Admin Console hinzufügen, sie jedoch nicht zu Produktprofilen hinzufügen. Administratoren müssen Adobe ID-Benutzer zu einem anderen Identitätstyp migrieren.
 >1. Es gibt einige Produkte und Services, z. B. die **Adobe-Lizenzierungs-Website, die nur Adobe ID**.
 
 ## Ähnliche Themen
 
 - [Einrichten der Identität](https://helpx.adobe.com/de/enterprise/using/set-up-identity.html)
-- [Benutzeridentität wechseln](https://helpx.adobe.com/de/enterprise/using/switch-user-identity.html)
-- [Übersicht über Admin Console](https://experienceleague.adobe.com/de/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview)
-- [Häufig gestellte Fragen zu Schulungen](https://helpx.adobe.com/de/x-productkb/policy-pricing/education-faq.html)
+- [Benutzeridentität wechseln](https://helpx.adobe.com/enterprise/using/switch-user-identity.html)
+- [Übersicht über Admin Console](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview)
+- [Häufig gestellte Fragen zu Schulungen](https://helpx.adobe.com/x-productkb/policy-pricing/education-faq.html)
 - [Hinzufügen und Verwalten von Benutzern](https://helpx.adobe.com/de/enterprise/using/users.html)
