@@ -4,21 +4,27 @@ description: Erfahren Sie, wie globale Administratoren Richtlinienvorlagen direk
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
+exl-id: e4dc5c35-1323-4894-bd47-b31c61a864bc
+TQID: 'https://experienceleague.adobe.com/eA6HyH9bNWst49X3xVmzD6XyaEVdxL5VarET-kCQ7CI'
 product_v2:
   - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-exl-id: e4dc5c35-1323-4894-bd47-b31c61a864bc
-TQID: https://experienceleague.adobe.com/eA6HyH9bNWst49X3xVmzD6XyaEVdxL5VarET-kCQ7CI
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Administration
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: 758
+source-wordcount: '758'
 ht-degree: 0%
-
 ---
-
 # Verwalten von Richtlinienvorlagen in der Global Admin Console
 
 **Gilt für:** Enterprise
@@ -64,10 +70,10 @@ Konfigurieren Sie für jede in der Vorlage enthaltene Richtlinie zwei Einstellun
 
 * **Erlaubt/Nicht erlaubt** Stellen Sie den Schieberegler auf den gewünschten Wert ein. Weitere Informationen [Richtliniendetails](https://helpx.adobe.com/de/enterprise/global-admin-console/update-policies.html#policy-details).
 * **Wert sperren** Ändern Sie den Sperrstatus der Richtlinie mithilfe einer der folgenden Optionen:
-   * **lock** - Die Richtlinie wird nach Anwendung der Vorlage gesperrt.
-   * **Entsperren** - Die Richtlinie wird nach Anwendung der Vorlage entsperrt.
-   * **unverändert beibehalten** - Der Sperrstatus der Richtlinie bleibt gleich wie vor der Anwendung der Vorlage.<br>
-     ![pic2](./assets/DXSKB-3209-2-policy-template.png)
+  * **lock** - Die Richtlinie wird nach Anwendung der Vorlage gesperrt.
+  * **Entsperren** - Die Richtlinie wird nach Anwendung der Vorlage entsperrt.
+  * **unverändert beibehalten** - Der Sperrstatus der Richtlinie bleibt gleich wie vor der Anwendung der Vorlage.<br>
+    ![pic2](./assets/DXSKB-3209-2-policy-template.png)
 <br>
 
 ## Anwenden einer Vorlage auf Organisationen

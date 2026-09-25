@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 3220086a-4603-465f-a3e3-194193ca10ba
-source-git-commit: 063b67cf71db5b2dc4739b6c67623e9223ce1b28
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '4525'
+source-wordcount: '4528'
 ht-degree: 3%
-
 ---
-
 # Organisationsstruktur und Produktzuordnungen exportieren oder importieren
 
 **Gilt für:** Enterprise
@@ -391,9 +397,9 @@ Wenn das Produktprofil mehr als eine Ressource hat, sind mehrere Zeilen vorhande
 - Profile, die aktualisiert und gelöscht werden sollen, müssen in der Organisation vorhanden sein.
 - Ressourcen, die aktualisiert und gelöscht (deaktiviert) werden sollen, müssen im Profil vorhanden sein.
 - Stellen Sie Folgendes sicher, damit Profile erstellt werden können:
-   - Die orgId sollte eine neue Organisation oder eine vorhandene Organisation sein.
-   - Die licenseId sollte ein neues oder ein vorhandenes Produkt sein.
-   - Überprüfen Sie die Ressourcen für das Profil.
+  - Die orgId sollte eine neue Organisation oder eine vorhandene Organisation sein.
+  - Die licenseId sollte ein neues oder ein vorhandenes Produkt sein.
+  - Überprüfen Sie die Ressourcen für das Profil.
 
 ### Ressourcen in Produktprofilen
 
@@ -547,9 +553,9 @@ Wenn das Produktprofil mehr als eine Ressource hat, sind mehrere Zeilen vorhande
 - Zu aktualisierende und zu löschende Benutzergruppen müssen in der Organisation vorhanden sein.
 - Das Profil, das aus der Benutzergruppe entfernt werden soll, muss in der Benutzergruppe vorhanden sein. Aktualisierungsvorgänge können nicht für das Profil einer Benutzergruppe durchgeführt werden.
 - Stellen Sie Folgendes sicher, damit Benutzergruppen erstellt werden können:
-   - Die orgId sollte eine neue Organisation oder eine vorhandene Organisation sein.
-   - Die LicenseId sollte ggf. ein neues oder ein vorhandenes Produkt sein.
-   - Die productProfileId sollte ein neues Produktprofil oder ein vorhandenes Produktprofil sein.
+  - Die orgId sollte eine neue Organisation oder eine vorhandene Organisation sein.
+  - Die LicenseId sollte ggf. ein neues oder ein vorhandenes Produkt sein.
+  - Die productProfileId sollte ein neues Produktprofil oder ein vorhandenes Produktprofil sein.
 
 ### Domains
 
@@ -699,8 +705,8 @@ Wenn ein Produkt mehr als eine Ressource hat, können Aktualisierungsvorgänge a
 - Die Eigenschaften der Produktimportdaten müssen vom richtigen Typ sein.
 - Das Produktrichtlinienfeld (overallocation) darf für verschiedene Ressourcen nicht angegeben werden.
 - Das Feld grantedQuantity:
-   - Kann nicht in &quot;*&quot; geändert werden* wenn es nicht bereits &quot;*&quot;*.
-   - Muss eine nicht negative Ganzzahl oder der Zeichenfolgenwert (unlimited *sein*
+  - Kann nicht in &quot;*&quot; geändert werden* wenn es nicht bereits &quot;*&quot;*.
+  - Muss eine nicht negative Ganzzahl oder der Zeichenfolgenwert (unlimited *sein*
 
 **Berechtigungs-/barrierefreie Validierung**
 

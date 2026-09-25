@@ -5,21 +5,27 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 18549d19-7985-4a45-8894-e69836ddb23c
-source-git-commit: e563559180f239e828650859035bace80e7473a2
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '498'
+source-wordcount: '517'
 ht-degree: 0%
-
 ---
-
 # Ausstehende Aufträge ausführen
 
 Diese Funktion gilt für Unternehmen, die die [[!DNL Global Admin Console]](https://global-admin-console.adobe.com/) verwenden.
 
 - Die Änderungen in der [[!DNL Global Admin Console]](https://global-admin-console.adobe.com/) werden in zwei Phasen abgeschlossen:
 
-   1. **Phase bearbeiten**: Änderungen an Organisationen vornehmen oder Produkte zuordnen.
-   2. **Ausführungsphase**: Ausstehende Änderungen überprüfen und ausführen, damit sie wirksam werden.
+  1. **Phase bearbeiten**: Änderungen an Organisationen vornehmen oder Produkte zuordnen.
+  2. **Ausführungsphase**: Ausstehende Änderungen überprüfen und ausführen, damit sie wirksam werden.
 
 - Um sicherzustellen, dass alle im [[!DNL Global Admin Console]](https://helpx.adobe.com/de/enterprise/global-admin-console/adopt-global-administration.html) vorgenommenen Änderungen implementiert wurden und wirksam werden, wählen Sie die Registerkarte **[!UICONTROL Auftragsausführung]** und fahren Sie mit der Ausführung der ausstehenden Änderungen fort.
 
@@ -31,8 +37,8 @@ Diese Funktion gilt für Unternehmen, die die [[!DNL Global Admin Console]](http
 
 - Sie können sich abmelden und später zurückkehren, ohne ausstehende Änderungen zu verlieren.
 - Nicht ausgeführte Änderungen:
-   - werden nach 30 Tagen verworfen.
-   - werden gelöscht, wenn die Sitzung beendet wird, z. B. wenn die Browser-Registerkarte oder das Fenster geschlossen wird.
+  - werden nach 30 Tagen verworfen.
+  - werden gelöscht, wenn die Sitzung beendet wird, z. B. wenn die Browser-Registerkarte oder das Fenster geschlossen wird.
 
 >[!NOTE]
 >
@@ -41,10 +47,10 @@ Diese Funktion gilt für Unternehmen, die die [[!DNL Global Admin Console]](http
 ### Mehrere Administratoren und Konflikte
 
 - Zwei Administratoren, die in derselben Organisation arbeiten:
-   - Sehen Sie nicht die nicht ausgeführten Änderungen der anderen Seite.
-   - Änderungen nur anzeigen nach:
-      - Ausführung und
-      - Aktualisieren der Anzeige oder erneutes Anmelden.
+  - Sehen Sie nicht die nicht ausgeführten Änderungen der anderen Seite.
+  - Änderungen nur anzeigen nach:
+    - Ausführung und
+    - Aktualisieren der Anzeige oder erneutes Anmelden.
 - Nicht ausgeführte Änderungen können mit bereits ausgeführten Änderungen in Konflikt stehen.
 
 ### Konfliktbehandlung
@@ -107,14 +113,14 @@ Sie können einen aktuell ausgeführten Auftrag über die Registerkarte **[!UICO
 
 - So zeigen Sie die in den letzten 30 Tagen ausgeführten Aufträge an:
 
-   1. Melden Sie sich beim [!DNL Global Admin Console] an.
-   2. Wählen Sie **[!UICONTROL Auftragsausführung]** aus.
-   3. Scrollen Sie nach unten auf der Seite.
-   4. Wählen Sie **[!UICONTROL Letzte Aufträge]** aus.
+  1. Melden Sie sich beim [!DNL Global Admin Console] an.
+  2. Wählen Sie **[!UICONTROL Auftragsausführung]** aus.
+  3. Scrollen Sie nach unten auf der Seite.
+  4. Wählen Sie **[!UICONTROL Letzte Aufträge]** aus.
 
 - Anzeige „Letzte Aufträge“:
-   - Übermittelt **Vorgangsbefehle**.
-   - **Fehler** und **Warnungen** im Zusammenhang mit der Ausführung.
+  - Übermittelt **Vorgangsbefehle**.
+  - **Fehler** und **Warnungen** im Zusammenhang mit der Ausführung.
 
 >[!NOTE]
 >

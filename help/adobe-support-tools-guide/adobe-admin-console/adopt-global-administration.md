@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 4da055a9-7cdc-4411-8895-016e24eabb2e
-source-git-commit: 817407268abec35b0b252ffb54540be29948f9b6
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '929'
+source-wordcount: '955'
 ht-degree: 0%
-
 ---
-
 # Übernahme der globalen Verwaltung
 
 Gilt für Unternehmen.
@@ -82,7 +88,7 @@ Um Zugriff auf die [Global Admin Console](https://global-admin-console.adobe.com
 1. Geben **[!UICONTROL unter „Beschreiben Sie die Art des Problems, mit dem Sie konfrontiert sind]** an, dass Ihr Unternehmen Zugriff auf Global Admin Console anfordert. Geben Sie dabei die folgenden Details an:
 
    - **Name und Konsolen-ID** (in der URL als die Zahlen- und Buchstabenreihe vor &quot;@AdobeOrg“ enthalten) der Admin Console, um sie als *Stamm-(Top-)* zu kennzeichnen oder eine neue Konsole anzufordern und den gewünschten Namen anzugeben.
-- In einigen Fällen ist eine neue Konsole die bevorzugte Option. Ihr Adobe-Support-Mitarbeiter kann Sie dabei unterstützen. Wählen Sie die *Stammorganisation* sorgfältig aus, da es später schwierig ist, sie zu ändern.
+     - In einigen Fällen ist eine neue Konsole die bevorzugte Option. Ihr Adobe-Support-Mitarbeiter kann Sie dabei unterstützen. Wählen Sie die *Stammorganisation* sorgfältig aus, da es später schwierig ist, sie zu ändern.
    - Weisen Sie mindestens einen aktuellen Systemadministrator der Rolle Globaler Administrator zu. Sie können später weitere Administratoren hinzufügen.
    - Name und E-Mail-Adresse Ihres Adobe-Mitarbeiters oder Customer Success Managers.
 

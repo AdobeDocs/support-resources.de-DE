@@ -5,13 +5,16 @@ Feature-set: Experience Cloud Services
 Solution: Admin Console
 Feature: Admin Console
 exl-id: e53ded7c-1ba3-4d98-bc20-792a252618ac
-source-git-commit: f20f8cfe6f9f31af953c089b9c5f4e76d0573f84
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '840'
+source-wordcount: '848'
 ht-degree: 5%
-
 ---
-
 # Identitätsübersicht
 
 Gilt für Unternehmen und Teams.
@@ -85,16 +88,16 @@ Die folgende Tabelle führt Sie bei der Auswahl des Identitätsmodells, das am b
 </tr>
 <tr>
 <th scope="row"><strong>Creative Cloud für Unternehmen und Document Cloud für Unternehmen</strong></th>
-<td colspan="3">Unterstützt</td>
+<td colspan="3">„Unterstützt“</td>
 </tr>
 <tr>
 <th scope="row"><strong>Creative Cloud für Teams und Document Cloud für Teams</strong></th>
 <td colspan="2">Nicht unterstützt</td>
-<td>Unterstützt</td>
+<td>„Unterstützt“</td>
 </tr>
 <tr>
 <th scope="row"><strong>Experience Cloud</strong></th>
-<td colspan="3">Unterstützt</td>
+<td colspan="3">„Unterstützt“</td>
 </tr>
 <tr>
 <th scope="row"><strong>Empfohlen für</strong></th>
@@ -171,11 +174,11 @@ Adobe aktualisiert alle Teams und Unternehmenskunden auf das Enterprise-Speicher
 </tr>
 <tr>
 <th scope="row"><strong>Creative Cloud für Unternehmen und Document Cloud für Unternehmen</strong></th>
-<td>Unterstützt</td>
+<td>„Unterstützt“</td>
 </tr>
 <tr>
 <th scope="row"><strong>Experience Cloud</strong></th>
-<td>Unterstützt</td>
+<td>„Unterstützt“</td>
 </tr>
 <tr>
 <th scope="row"><strong>Nur für verfügbar/Empfohlen für</strong></th>

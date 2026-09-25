@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: aace5ed8-65a6-4cff-8542-bc50e9c765b7
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '1257'
+source-wordcount: '1258'
 ht-degree: 4%
-
 ---
-
 # Migrieren vorhandener Benutzer zur Adobe Admin Console
 
 Gilt für Unternehmen und Teams.
@@ -40,25 +46,25 @@ Aktuelle VIP-Mitglieder, die Creative Cloud for Enterprise oder Acrobat (für Un
 
 * Die Produkte sind dieselben
 
-   1. Das Verlängerungsfenster ist offen (30 Tage vor oder nach dem Jahrestag des VIP-Vertrags).
-   2. Bei den Unternehmensprodukten, die bestellt werden, handelt es sich um neue SKUs, die den Team-Versionen des aktuellen Zeitraums entsprechen.
-   3. Die Bestellmenge der Enterprise-Lizenz ist größer oder gleich der vorhandenen Team-Lizenzmenge.
+  1. Das Verlängerungsfenster ist offen (30 Tage vor oder nach dem Jahrestag des VIP-Vertrags).
+  2. Bei den Unternehmensprodukten, die bestellt werden, handelt es sich um neue SKUs, die den Team-Versionen des aktuellen Zeitraums entsprechen.
+  3. Die Bestellmenge der Enterprise-Lizenz ist größer oder gleich der vorhandenen Team-Lizenzmenge.
 
 * Produkte haben einen höheren Wert
 
-   1. Das Verlängerungsfenster ist geöffnet.
-   2. Bei den Unternehmensprodukten, die bestellt werden, handelt es sich um neue SKUs, bei denen es sich um höherwertige Produkte als bei den Teamprodukten in der aktuellen Laufzeit handelt.
-   3. Die Bestellmenge der Enterprise-Lizenz ist größer oder gleich der vorhandenen Team-Lizenzmenge.
+  1. Das Verlängerungsfenster ist geöffnet.
+  2. Bei den Unternehmensprodukten, die bestellt werden, handelt es sich um neue SKUs, bei denen es sich um höherwertige Produkte als bei den Teamprodukten in der aktuellen Laufzeit handelt.
+  3. Die Bestellmenge der Enterprise-Lizenz ist größer oder gleich der vorhandenen Team-Lizenzmenge.
 
 * Quick License Assignment ist nicht verfügbar, wenn
 
-   * Die Anzahl der Enterprise-Lizenzen für die Bestellung ist kleiner als die Anzahl der vorhandenen Team-Lizenzen.
-   * Die Bestellung gilt für höherwertige Enterprise-Produkte, aber die bestellte Enterprise-Lizenzmenge ist kleiner als die vorhandene Team-Lizenzmenge.
-   * Der Auftrag vermischt Team- und Enterprise-Produkte, unabhängig von der Menge.
-   * Der Kunde hat bereits vor dem Verlängerungszeitraum Team- und Enterprise-Produkte erworben.
-   * Für die neue Enterprise-Bestellung werden Enterprise-Verlängerungs-SKUs verwendet.
-   * Die Enterprise-Produktbestellung ist für eine andere VIP-Vertragsnummer bestimmt.
-   * Aktuelle Team-Produkte enthalten Elemente, die keine Enterprise-Versionen haben.
+  * Die Anzahl der Enterprise-Lizenzen für die Bestellung ist kleiner als die Anzahl der vorhandenen Team-Lizenzen.
+  * Die Bestellung gilt für höherwertige Enterprise-Produkte, aber die bestellte Enterprise-Lizenzmenge ist kleiner als die vorhandene Team-Lizenzmenge.
+  * Der Auftrag vermischt Team- und Enterprise-Produkte, unabhängig von der Menge.
+  * Der Kunde hat bereits vor dem Verlängerungszeitraum Team- und Enterprise-Produkte erworben.
+  * Für die neue Enterprise-Bestellung werden Enterprise-Verlängerungs-SKUs verwendet.
+  * Die Enterprise-Produktbestellung ist für eine andere VIP-Vertragsnummer bestimmt.
+  * Aktuelle Team-Produkte enthalten Elemente, die keine Enterprise-Versionen haben.
 
 Nachdem Adobe Ihre Unternehmensbestellung verarbeitet hat, erhalten Sie eine Bestätigungs-E-Mail mit Anweisungen, einschließlich des Tages, an dem Sie Benutzerinnen und Benutzer von Team- auf Unternehmenslizenzen in Admin Console übertragen müssen, bevor sie den Zugriff verlieren.
 

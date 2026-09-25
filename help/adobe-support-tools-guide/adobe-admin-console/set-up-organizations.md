@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 6fcf16e3-0408-4961-9981-14d526e1ea28
-source-git-commit: e4d473130a577a7673aba981a42bcb7ac352c18c
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '1872'
+source-wordcount: '1881'
 ht-degree: 0%
-
 ---
-
 # Organisationshierarchie verwalten
 
 Gilt für Unternehmen.
@@ -35,8 +41,8 @@ Wenn eine neue untergeordnete Organisation erstellt wird, werden automatisch die
 - Einstellungen der Organisation [Richtlinie](https://helpx.adobe.com/de/enterprise/global-admin-console/update-policies.html) (einschließlich Sperren, falls vorhanden).
 - Die Liste der Systemadministratoren (gesteuert durch &quot;**[!UICONTROL bei der Erstellung übernehmen]** [Richtlinie](https://helpx.adobe.com/de/enterprise/global-admin-console/update-policies.html)).
 Folgendes kann verhindern, dass Systemadministratoren übernommen werden:
-   - Mangel an [Domain-Vertrauen](https://helpx.adobe.com/de/enterprise/using/directory-trust.html).
-   - Benutzertypbeschränkungen (Benutzerrichtlinien für Adobe ID/Enterprise ID/Federated ID hinzufügen). Erfahren Sie mehr über [Richtliniendetails](https://helpx.adobe.com/de/enterprise/global-admin-console/update-policies.html).
+  - Mangel an [Domain-Vertrauen](https://helpx.adobe.com/de/enterprise/using/directory-trust.html).
+  - Benutzertypbeschränkungen (Benutzerrichtlinien für Adobe ID/Enterprise ID/Federated ID hinzufügen). Erfahren Sie mehr über [Richtliniendetails](https://helpx.adobe.com/de/enterprise/global-admin-console/update-policies.html).
 - Zugriff auf Federated ID- oder Enterprise ID-Benutzende aus Domains, auf die die übergeordnete Organisation Zugriff hat. Dadurch werden die Domain-Benutzer im übergeordneten Element in der untergeordneten Organisation verfügbar. Die Vererbung des Benutzerzugriffs wird gesteuert durch **Vererben von Benutzern aus Ordnern, die von der übergeordneten Organisation verwaltet werden** [Richtlinie](https://helpx.adobe.com/de/enterprise/global-admin-console/update-policies.html).
 - Freigaberichtlinie, Passwortrichtlinie und Sicherheitskontakte (gesteuert durch **Einstellungen zur Asset-Freigabe erben, wenn eine untergeordnete Organisation erstellt wird** [Richtlinie](https://helpx.adobe.com/de/enterprise/global-admin-console/update-policies.html)).
 
@@ -58,7 +64,7 @@ Eine Organisation kann nur gelöscht werden, wenn die folgenden Kriterien erfül
 - Im Unternehmen gibt es keine Signaturkonten, Adobe Stock-Käufe oder Speicher-Repositorys.
 - Es gibt keine beanspruchten Domains in der Organisation.
 - Es gibt keine instanziierten Produkte in der Organisation.
-- Es gibt keine Experience Cloud-Produkte, die Instanziierungen im Unternehmen enthalten können.
+- Es gibt keine Experience Cloud-Produkte, die Instanziierungen in der Organisation enthalten können.
 
 >[!WARNING]
 >

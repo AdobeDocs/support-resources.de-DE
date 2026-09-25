@@ -5,27 +5,39 @@ feature: Best Practices, Compliance, Console
 solution: Commerce
 feature-set: Commerce
 exl-id: d86356e7-863f-4da0-bd7e-5ea4ac38e3a3
-TQID: https://experienceleague.adobe.com/wq3cHAM0iXukRpSigq8-erSJ9wZBHfDRFaNefMFZsIE
+TQID: 'https://experienceleague.adobe.com/wq3cHAM0iXukRpSigq8-erSJ9wZBHfDRFaNefMFZsIE'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: b5f00040-57a0-4a6d-a39e-383b1936c2c9
+    internal-label: Compliance
   - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+    internal-label: Security
   - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+    internal-label: Storefront
+  - id: cdfd3bc1-dc23-5cf0-b965-d3c0c55cde67
+    internal-label: Best Practices
+  - id: 125c1f49-aefd-5f34-a252-288937f95f6b
+    internal-label: Marketing Tools
 subfeature_v2:
   - id: f2261633-201d-46c5-8a66-999e70527a83
+    internal-label: PCI
+  - id: c4af0798-d497-5e6b-8380-19812c26d00a
+    internal-label: Console
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Security
+source-git-commit: 61c5015c99b5a898f9aa0e8093f07d905f81dc7d
 workflow-type: tm+mt
-source-wordcount: 1808
-ht-degree: 0%
-
+source-wordcount: '1855'
+ht-degree: 1%
 ---
-
 # Häufig gestellte Fragen zum Ende der Unterstützung für Adobe Commerce-Software
 
 Die folgenden häufig gestellten Fragen sollen Händlern, Entwicklern und Partnern dabei helfen, die Auswirkungen des von Adobe Commerce veröffentlichten Endes der Unterstützung (End of Support, EOS) auf die betroffenen Versionen von Adobe Commerce zu verstehen.
@@ -34,7 +46,7 @@ Die folgenden häufig gestellten Fragen sollen Händlern, Entwicklern und Partne
 
 ### Wo finde ich die Softwaresupportdaten für alle Versionen von Adobe Commerce?
 
-Die Adobe Commerce-Software-Lebenszyklusrichtlinie und die Daten für den Software-Support finden Sie in der [Adobe Commerce-Software-Lebenszyklusrichtlinie](https://www.adobe.com/content/dam/cc/en/legal/terms/enterprise/pdfs/Adobe-Commerce-Software-Lifecycle-Policy.pdf). Wir veröffentlichen auch Daten zum Ende der Unterstützung (End of Support, EOS) auf unserer [Entwicklerdokumentationsseite](https://experienceleague.adobe.com/de/docs/commerce-operations/release/versions).
+Die Adobe Commerce-Software-Lebenszyklusrichtlinie finden Sie in der [Adobe Commerce-Software-Lebenszyklusrichtlinie](https://www.adobe.com/content/dam/cc/en/legal/terms/enterprise/pdfs/Adobe-Commerce-Software-Lifecycle-Policy.pdf). Versionsspezifische Daten für Lebenszyklus- und Software-Support finden Sie unter [Adobe Commerce-Lebenszyklusrichtlinie und Support-Daten](https://experienceleague.adobe.com/de/docs/commerce-operations/release/planning/lifecycle-policy). Wir veröffentlichen auch Daten zum Ende der Unterstützung (End of Support, EOS) auf unserer [Entwicklerdokumentationsseite](https://experienceleague.adobe.com/de/docs/commerce-operations/release/versions).
 
 ### Was bedeutet es, wenn Adobe den Support für eine Version der Adobe Commerce-Software beendet?
 
@@ -74,11 +86,11 @@ Es gibt mehrere Möglichkeiten, wie Sie erheblich davon profitieren, Ihre Adobe 
 
 * Die Plattform wird nicht nur mit den neuesten Sicherheitsfunktionen, einschließlich PCI-Compliance, auf dem neuesten Stand gehalten, sondern auch durch die Aktualisierung auf eine unterstützte Version können die Leistung und Skalierbarkeit verbessert werden, sodass Sie Zugriff auf die neuesten Innovationen erhalten.
 * Adobe Commerce 2.4.4, das am 12. April 2022 verfügbar sein wird, stellt einen neuen Schritt nach vorne in den Bereichen Commerce-Funktionen, Leistung und Schutz dar. Es legt den Grundstein für die nächsten Jahre der Adobe-Innovationshilfe mit Commerce Business Resilience. Die neueste Version basiert auf der neuesten Version von PHP 8.1 und ermöglicht es Händlern, ihr digitales Commerce-Geschäft zukunftssicher zu machen mit:
-   * Schnellerer Zugriff auf innovative Funktionen, die als SaaS-Services bereitgestellt werden, wie z. B. Produktempfehlungen, Pay-Services und Live-Suche
-   * Einfachere, kostengünstigere Wartung und Upgrades
-   * Kontinuierliche Flexibilität bei der Anpassung und Erfüllung individueller Geschäftsanforderungen
-   * Deutliche Steigerung der Leistung und Skalierbarkeit
-   * Besseres Entwicklererlebnis und Tools zur Überwachung des Plattformzustands
+  * Schnellerer Zugriff auf innovative Funktionen, die als SaaS-Services bereitgestellt werden, wie z. B. Produktempfehlungen, Pay-Services und Live-Suche
+  * Einfachere, kostengünstigere Wartung und Upgrades
+  * Kontinuierliche Flexibilität bei der Anpassung und Erfüllung individueller Geschäftsanforderungen
+  * Deutliche Steigerung der Leistung und Skalierbarkeit
+  * Besseres Entwicklererlebnis und Tools zur Überwachung des Plattformzustands
 
 ### Was sollte ich tun, um Probleme mit dem Ende der Unterstützung durch Software zu vermeiden?
 
@@ -118,7 +130,7 @@ Nein, Adobe legt keine neuen Prioritäten für Support-Tickets auf der Grundlage
 
 ### Gibt es für Support-Tickets, die VOR dem Ende des Support-Datums geöffnet wurden, einen Warnhinweis, der Händler an das bevorstehende Ende des Supports erinnert?
 
-Nein, es gibt keine Erinnerungswarnungen, die Benutzer von Support-Tickets über bevorstehende Endtermine des Supports informieren. Es liegt in der Verantwortung des Ticket-Eröffners, das Ende der Support-Daten für die Adobe Commerce-Version zu kennen, auf der er sich befindet. Dies finden Sie in unserer [Adobe Commerce Software Lifecycle-Richtlinie](https://magento.com/sites/default/files/magento-software-lifecycle-policy.pdf).
+Nein, es gibt keine Erinnerungswarnungen, die Benutzer von Support-Tickets über bevorstehende Endtermine des Supports informieren. Es liegt in der Verantwortung des Ticketöffners, das Ende der Support-Daten für die Adobe Commerce-Version zu kennen, für die es gilt. Diese Daten finden Sie in der [Adobe Commerce Software Lifecycle Policy](https://www.adobe.com/content/dam/cc/en/legal/terms/enterprise/pdfs/Adobe-Commerce-Software-Lifecycle-Policy.pdf) und den [Adobe Commerce Lifecycle Policy and Support Dates](https://experienceleague.adobe.com/de/docs/commerce-operations/release/planning/lifecycle-policy).
 
 ### Wird ein Support-Ticket für eine Softwareversion, die nach dem Ende des Support-Datums für diese Version geöffnet wurde, dennoch bearbeitet, um eine Lösung zu finden?
 
