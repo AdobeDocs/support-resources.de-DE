@@ -104,7 +104,7 @@ Aktivieren Sie das `MYSQL_USE_SLAVE_CONNECTION`-Flag in Pro-Cluster-Umgebungen, 
 
 ## Asynchrone Auftrags- und E-Mail-Verarbeitung aktivieren {#enable-asynchronous-order-and-email-processing}
 
-Verwenden Sie die asynchrone Verarbeitung, um bestellungsbezogene Vorgänge mit hohem Volumen im Hintergrund in eine Warteschlange einzureihen und auszuführen und so die Frontend-Latenz während eines Spitzen-Traffics zu reduzieren. Dies umfasst drei miteinander verknüpfte, aber unterschiedliche Einstellungen. Einen Überblick finden [ unter „Best Practices für ](https://experienceleague.adobe.com/en/docs/commerce-operations/performance-best-practices/configuration) Konfiguration“.
+Verwenden Sie die asynchrone Verarbeitung, um bestellungsbezogene Vorgänge mit hohem Volumen im Hintergrund in eine Warteschlange einzureihen und auszuführen und so die Frontend-Latenz während eines Spitzen-Traffics zu reduzieren. Dies umfasst drei miteinander verknüpfte, aber unterschiedliche Einstellungen. Einen Überblick finden [&#x200B; unter „Best Practices für &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-operations/performance-best-practices/configuration) Konfiguration“.
 
 * Asynchrone Bestellplatzierung: Das Modul für asynchrone Reihenfolge markiert eine Bestellung als empfangen, platziert sie in einer Warteschlange und verarbeitet Bestellungen beim ersten In-First-Out. Dies ist standardmäßig deaktiviert. Aktivieren Sie sie über die Befehlszeile:
 
