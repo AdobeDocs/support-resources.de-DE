@@ -63,11 +63,11 @@ FACET geo_country_code
 SINCE 7 days ago until today
 ```
 
-Ändern Sie diese Abfrage entsprechend Ihren Anforderungen, segmentieren Sie sie weiter oder wandeln Sie sie in ein Dashboard für zentralisiertes Tracking um. Weitere Informationen finden Sie unter [New Relic-Protokollverwaltung](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/monitor/new-relic/log-management).
+Ändern Sie diese Abfrage entsprechend Ihren Anforderungen, segmentieren Sie sie weiter oder wandeln Sie sie in ein Dashboard für zentralisiertes Tracking um. Weitere Informationen finden Sie unter [New Relic-Protokollverwaltung](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/monitor/new-relic/log-management).
 
 ## Anpassen von New Relic-Warnhinweisen (nur Cloud) {#customize-new-relic-alerts}
 
-Zusätzlich zu den von Adobe Commerce in der Cloud-Infrastruktur festgelegten verwalteten Warnhinweisen können Sie für Ihre Plattform während der Spitzenverkaufszeit eine Vielzahl von Warnhinweisen und Benachrichtigungen festlegen, z. B. die Benachrichtigung über Bot-Traffic oder eine längere Reaktionszeit bei einer GraphQL-Abfrage. Siehe [Verwaltete Warnhinweise für Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-for-magento-commerce) für die vollständige Liste der integrierten Warnhinweise.
+Zusätzlich zu den von Adobe Commerce in der Cloud-Infrastruktur festgelegten verwalteten Warnhinweisen können Sie für Ihre Plattform während der Spitzenverkaufszeit eine Vielzahl von Warnhinweisen und Benachrichtigungen festlegen, z. B. die Benachrichtigung über Bot-Traffic oder eine längere Reaktionszeit bei einer GraphQL-Abfrage. Siehe [Verwaltete Warnhinweise für Adobe Commerce](https://experienceleague.adobe.com/de/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-for-magento-commerce) für die vollständige Liste der integrierten Warnhinweise.
 
 [!DNL New Relic] Warnhinweise und KI unterstützen NRQL-basierte Abfragestrukturen. Richten Sie benutzerdefinierte Warnhinweise über das [!DNL New Relic]-Dashboard unter **[!UICONTROL Warnhinweise und KI]** ein.
 
@@ -79,7 +79,7 @@ Ein Apdex-Wert liegt zwischen 0 und 1. Der Wert 0 ist der schlechteste Wert, was
 
 Ein Apdex-Wert von 0,5 oder niedriger rechtfertigt eine Untersuchung. Ein Wert unter 0,4 gilt als Ausfall.
 
-Zusammen mit Apdex bietet [!DNL New Relic] eine Reihe von Statistiken zur Analyse von Leistungsproblemen in Adobe Commerce auf Cloud-Infrastrukturen. Anweisungen hierzu finden Sie unter [Fehlerbehebung bei der Leistung mit New Relic auf Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/troubleshoot-performance-using-new-relic-on-magento-commerce).
+Zusammen mit Apdex bietet [!DNL New Relic] eine Reihe von Statistiken zur Analyse von Leistungsproblemen in Adobe Commerce auf Cloud-Infrastrukturen. Anweisungen hierzu finden Sie unter [Fehlerbehebung bei der Leistung mit New Relic auf Adobe Commerce](https://experienceleague.adobe.com/de/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/troubleshoot-performance-using-new-relic-on-magento-commerce).
 
 ## Support Insights überprüfen (SWAT-Bericht) {#review-support-insights-swat-report}
 
