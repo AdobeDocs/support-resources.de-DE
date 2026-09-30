@@ -23,7 +23,7 @@ role_v2:
     internal-label: Admin
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer
-source-git-commit: 71589dd124714805fbf844540fb2d272433631ee
+source-git-commit: b2220ea4cb5a301cbee6cea5fb90d6dc8a05eeff
 workflow-type: tm+mt
 source-wordcount: '413'
 ht-degree: 0%
@@ -39,7 +39,7 @@ Dieser Abschnitt enthält technische Empfehlungen zur Skalierung von Adobe Comme
 
 ## Frühzeitiges Planen der Cluster-Vergrößerung (nur Cloud) {#plan-cluster-upsize-early}
 
-Für Kunden mit Commerce auf Cloud-Infrastrukturen werden durch eine temporäre Cluster-Vergrößerung mehr Computing-Ressourcen zugewiesen, um Spitzen im Traffic in der Hochsaison zu bewältigen. Lösen Sie im Voraus ein Support-Ticket mit dem Datumsbereich und der erforderlichen Cluster-Größe aus und stimmen Sie sich mit Ihrem dedizierten Account Manager über den aktuellen Ressourcenverbrauch und die Anforderungen ab. Senden Sie die Anfrage mindestens 48 Geschäftsstunden vor der Kapazitätsanforderung - insbesondere für die Feiertagssaison sollten Sie die Anfrage so früh wie möglich einreichen, da die Kapazität während des Black Friday und des Cyber Monday begrenzt ist. Siehe [Anfordern einer temporären Upsize-](https://experienceleague.adobe.com/de/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/how-to-request-temporary-adobe-commerce-on-cloud-infrastructure-upsize).
+Für Kunden mit Commerce auf Cloud-Infrastrukturen werden durch eine temporäre Cluster-Vergrößerung mehr Computing-Ressourcen zugewiesen, um Spitzen im Traffic in der Hochsaison zu bewältigen. Lösen Sie im Voraus ein Support-Ticket mit dem Datumsbereich und der erforderlichen Cluster-Größe aus und stimmen Sie sich mit Ihrem dedizierten Account Manager über den aktuellen Ressourcenverbrauch und die Anforderungen ab. Senden Sie die Anfrage mindestens 48 Geschäftsstunden vor der Kapazitätsanforderung - insbesondere für die Feiertagssaison sollten Sie die Anfrage so früh wie möglich einreichen, da die Kapazität während des Black Friday und des Cyber Monday begrenzt ist. Siehe [Anfordern einer temporären Upsize-](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/how-to-request-temporary-adobe-commerce-on-cloud-infrastructure-upsize).
 
 Ein Pro-Architecture-Kunde mit einer täglichen Grundlinie von 24 Kernen (24 vCPUs, 96 GB RAM), die für 7 Tage auf 96 Kerne aufgestockt wird, würde etwa das 4-fache der Ressourcen (96 vCPUs, 384 GB RAM) verbrauchen - ein inkrementeller Verbrauch von etwa 504 vCPU-Tagen (96×7 − 24×7).
 
@@ -47,9 +47,7 @@ Ein Pro-Architecture-Kunde mit einer täglichen Grundlinie von 24 Kernen (24 vCP
 
 Die ursprüngliche Abschirmung von Adobe Commerce [!DNL Fastly] dient dazu, den Traffic direkt zur Adobe Commerce-Quelle zu reduzieren. Wenn eine Anfrage empfangen wird, prüft ein [!DNL Fastly] Edge-Speicherort (Point of Presence) auf zwischengespeicherte Inhalte und stellt diese bereit. Wenn er nicht zwischengespeichert wird, fährt er mit dem Shield-POP fort, um zu überprüfen, ob er dort zwischengespeichert ist. Wenn der Inhalt zuvor sogar von einem anderen globalen POP angefordert wurde, wird er zwischengespeichert. Schließlich wird sie, wenn sie nicht im Shield-POP zwischengespeichert wird, nur dann zum Ursprungs-Server weitergeleitet.
 
-[!DNL Fastly] Ursprungsabschirmung kann in der Adobe Commerce Admin in den Backend-Einstellungen der [!DNL Fastly] aktiviert werden. Wählen Sie für optimale Leistung einen Schutzschild-Standort aus, der Ihrem Adobe Commerce-Ursprungs-Rechenzentrum am nächsten liegt. Weitere Informationen finden Sie unter [Konfigurieren von Backends und Ursprungsabschirmung](https://experienceleague.adobe.com/de/docs/commerce-on-cloud/user-guide/cdn/setup-fastly/fastly-custom-cache-configuration#configure-back-ends-and-origin-shielding).
-
-Standardmäßig ist [!DNL Fastly] Ursprungsabschirmung nicht aktiviert.
+[!DNL Fastly] Ursprungsabschirmung kann in der Adobe Commerce Admin in den Backend-Einstellungen der [!DNL Fastly] aktiviert werden. Wählen Sie für optimale Leistung einen Schutzschild-Standort aus, der Ihrem Adobe Commerce-Ursprungs-Rechenzentrum am nächsten liegt. Weitere Informationen finden Sie unter [Konfigurieren von Backends und Ursprungsabschirmung](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/cdn/setup-fastly/fastly-custom-cache-configuration#configure-back-ends-and-origin-shielding). Standardmäßig ist [!DNL Fastly] Ursprungsabschirmung nicht aktiviert.
 
 ## Durchführen von Lade- und Failover-Tests {#conduct-load-and-failover-tests}
 
