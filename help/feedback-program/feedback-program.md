@@ -79,6 +79,6 @@ Als Erlebnisgestalter gilt man als Experte. Das Programm ermöglicht die direkte
 
 Wenden Sie sich noch heute an Ihren Adobe-Kundenbetreuer, um weitere Informationen zu erhalten und die entsprechenden Voraussetzungen zu erfüllen.
 
-[!BADGE Heute Mitglied werden]{type=Informative url="https://experienceleague.adobe.com/en/feedback-program" newtab=true tooltip="Navigieren Sie zu https://experienceleague.adobe.com/en/feedback-program ."}
+[!BADGE Heute Mitglied werden]{type=Informative url="https://experienceleague.adobe.com/de/feedback-program" newtab=true tooltip="Navigieren Sie zu https://experienceleague.adobe.com/de/feedback-program ."}
 
 >[!ENDSHADEBOX]
