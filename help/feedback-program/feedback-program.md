@@ -6,9 +6,9 @@ solution: CX Enterprise
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
     internal-label: CX Enterprise
-source-git-commit: 7b5afccb698e3c1e1881b236aef077fb210d564e
+source-git-commit: 14fa448236c775550094555a844bde8d449c2371
 workflow-type: tm+mt
-source-wordcount: '540'
+source-wordcount: '536'
 ht-degree: 0%
 ---
 # Adobe-Feedback-Programm
@@ -73,7 +73,7 @@ Ja. Teilnehmer an dem Programm erhalten vertrauliche Informationen von Adobe und
 
 +++
 
-<p> </p>
+<p>  </p>
 
 >[!BEGINSHADEBOX]
 
@@ -85,6 +85,6 @@ Als Erlebnisgestalter gilt man als Experte. Das Programm ermöglicht die direkte
 
 Wenden Sie sich noch heute an Ihren Adobe-Kundenbetreuer, um weitere Informationen zu erhalten und die entsprechenden Voraussetzungen zu erfüllen.
 
-[!BADGE Heute beitreten]{type=Informative url=&quot;https://experienceleague.adobe.com/en/feedback-program&quot;{target="_blank"} tooltip=„Wechseln Sie zu https://experienceleague.adobe.com/en/feedback-program&quot;}
+[!BADGE Heute Mitglied werden]{type=Informative url="https://experienceleague.adobe.com/en/feedback-program" newtab=true tooltip="Navigieren Sie zu https://experienceleague.adobe.com/en/feedback-program ."}
 
 >[!ENDSHADEBOX]
