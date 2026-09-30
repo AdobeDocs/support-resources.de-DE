@@ -6,7 +6,7 @@ solution: CX Enterprise
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
     internal-label: CX Enterprise
-source-git-commit: 14fa448236c775550094555a844bde8d449c2371
+source-git-commit: ca761100cdaf8c0b8ca23495393d3f03dafdb28b
 workflow-type: tm+mt
 source-wordcount: '536'
 ht-degree: 0%
@@ -39,14 +39,6 @@ Die Teilnahme am Adobe-Feedback-Programm ist vollkommen freiwillig und auf eine 
 
 Opportunitys variieren je nach Produktbereich, Region, Kundenprofil und Verfügbarkeit des Programms. Nicht alle Teilnehmer werden zu jeder Opportunity eingeladen. Ihr Feedback hilft Adobe, Produkte zu verbessern, zukünftige Investitionen zu priorisieren und bessere Kundenerlebnisse zu bieten.
 
-## Programmbedingungen
-
->[!BEGINSHADEBOX]
-
-Für die Teilnahme kann die Annahme der Vereinbarung über das Adobe-Feedback-Programm erforderlich sein. Je nach Programm oder Aktivität können zusätzliche Bedingungen gelten.
-
->[!ENDSHADEBOX]
-
 ## Häufig gestellte Fragen
 
 +++ Wer kann teilnehmen?
@@ -73,7 +65,9 @@ Ja. Teilnehmer an dem Programm erhalten vertrauliche Informationen von Adobe und
 
 +++
 
-<p>  </p>
+## Programmbedingungen
+
+Für die Teilnahme kann die Annahme der Vereinbarung über das Adobe-Feedback-Programm erforderlich sein. Je nach Programm oder Aktivität können zusätzliche Bedingungen gelten.
 
 >[!BEGINSHADEBOX]
 
@@ -85,6 +79,6 @@ Als Erlebnisgestalter gilt man als Experte. Das Programm ermöglicht die direkte
 
 Wenden Sie sich noch heute an Ihren Adobe-Kundenbetreuer, um weitere Informationen zu erhalten und die entsprechenden Voraussetzungen zu erfüllen.
 
-[!BADGE Heute Mitglied werden]{type=Informative url="https://experienceleague.adobe.com/de/feedback-program" newtab=true tooltip="Navigieren Sie zu https://experienceleague.adobe.com/de/feedback-program ."}
+[!BADGE Heute Mitglied werden]{type=Informative url="https://experienceleague.adobe.com/en/feedback-program" newtab=true tooltip="Navigieren Sie zu https://experienceleague.adobe.com/en/feedback-program ."}
 
 >[!ENDSHADEBOX]
