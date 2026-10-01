@@ -83,6 +83,6 @@ Wenden Sie sich noch heute an Ihren Adobe-Kundenbetreuer, um weitere Information
 
 >[!BEGINSHADEBOX]
 
-[!BADGE Heute Mitglied werden]{type=Informative url="https://experienceleague.adobe.com/en/feedback-program" newtab=true tooltip="Navigieren Sie zu https://experienceleague.adobe.com/en/feedback-program ."}
+[!BADGE Heute Mitglied werden]{type=Informative url="https://experienceleague.adobe.com/de/feedback-program" newtab=true tooltip="Navigieren Sie zu https://experienceleague.adobe.com/de/feedback-program ."}
 
 >[!ENDSHADEBOX]
