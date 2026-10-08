@@ -1,22 +1,24 @@
 ---
-title: Erstellen und Verwalten von Fällen im [!DNL Adobe Success] -Portal
-description: Erfahren Sie, wie Sie Fälle im [!DNL Adobe Success] -Portal verwalten.
+title: Erstellen und Verwalten von Fällen im [!DNL Adobe Success]-Portal
+description: Erfahren Sie, wie Sie Fälle im [!DNL Adobe Success] Portal verwalten.
 exl-id: 0b4eb2bc-ee11-4136-a744-457f9e204143
-TQID: https://experienceleague.adobe.com/oLYc4m1alO0xMd4WF2L2UxOiDAFKBgAFskN8SLdPfAg
+TQID: 'https://experienceleague.adobe.com/oLYc4m1alO0xMd4WF2L2UxOiDAFKBgAFskN8SLdPfAg'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Insights
+source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
 workflow-type: tm+mt
-source-wordcount: 431
-ht-degree: 100%
-
+source-wordcount: '432'
+ht-degree: 98%
 ---
-
 # Erstellen und Verwalten von Fällen im [!DNL Adobe Success]-Portal
 
 In dieser Anleitung wird erläutert, wie Sie im [!DNL Adobe Success]-Portal Berichte für Fälle erstellen, anzeigen und herunterladen.
@@ -107,7 +109,7 @@ So laden Sie PDF-Berichte zu Ihren Fällen herunter:
    ![Schaltfläche „Fälle anzeigen“ im Abschnitt zum Erstellen eines neuen Falls im Adobe Success-Portal](../../assets/adobe-success-portal-view-cases.png "Bestehende Support-Fälle anzeigen")
 
 
-1. Wählen Sie die Produktkarte aus, die Sie anzeigen möchten, und wählen Sie dann **[!UICONTROL Offene Fälle]** oder **[!UICONTROL Geschlossene Fälle]** aus.
+1. Wählen Sie die Produktkarte aus, die Sie anzeigen möchten, und wählen Sie dann **[!UICONTROL Offene Fälle]** oder **[!UICONTROL Geschlossene Fälle]**.
 
    >[!NOTE]
    >

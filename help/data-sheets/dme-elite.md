@@ -2,20 +2,21 @@
 title: Elite Support für Creative Cloud und Adobe Document Cloud
 description: Adobe bietet eine umfassende Palette technischer Ressourcen, die Sie im Rahmen Ihres Adobe Enterprise-Abonnements zur Unterstützung Ihres Unternehmens nutzen können. Diese Unterstützung wird durch den ELITE-Support-Plan optimiert.
 exl-id: 2f506e8d-ac9b-4bc7-b98a-ac5ffc626c65
-TQID: https://experienceleague.adobe.com/daL6pp7pxEL2mHoC8cpKMMQUXYVM3W-dsXldBeyjL3Q
+TQID: 'https://experienceleague.adobe.com/daL6pp7pxEL2mHoC8cpKMMQUXYVM3W-dsXldBeyjL3Q'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 feature_v2:
   - id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+    internal-label: Integrations
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Customer experience
+source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
 workflow-type: tm+mt
-source-wordcount: 1122
+source-wordcount: '1122'
 ht-degree: 100%
-
 ---
-
 # Elite Support für Creative Cloud und Adobe Document Cloud
 
 ![Symbol](assets/Elitebanner.png)
