@@ -24,6 +24,7 @@ ht-degree: 91%
 # [!DNL Adobe Success]-Portal: Kunden und Kundinnen – häufig gestellte Fragen
 
  
+
 ## Welchen Umfang hat das [!DNL Adobe Success]-Portal?
 
 Das [!DNL Adobe Success]-Portal ist die neue zentralisierte, kundenorientierte Plattform von Adobe, die dazu dient, das Post-Sales-Erlebnis in Bezug auf Support, Erfolg und Interaktion zu vereinheitlichen. Die Alpha-Version konzentriert sich auf die Bereitstellung eines kohärenten Erlebnisses, das Tools und Workflows konsolidiert, die zuvor auf mehrere Plattformen verteilt waren (z. B. Support-Portal, manuelle Ultimate Success-Artefakte). Ziel ist es, die Interaktion von Kunden und Kundinnen mit Adobe während ihres gesamten Lebenszyklus zu optimieren – vom Onboarding bis zur Verlängerung – und gleichzeitig Transparenz, Self-Service und Wertschöpfung zu verbessern.
