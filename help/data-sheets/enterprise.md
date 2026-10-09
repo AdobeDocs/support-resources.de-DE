@@ -2,26 +2,33 @@
 title: Enterprise Support
 description: Adobe Experience Cloud Enterprise Support Services bieten erweiterte Support-Service-Level-Targets (SLTs), die Vorteile von technischem Know-how sowie eine Kontaktperson in Form eines spezifischen Support-Mitarbeiters.
 exl-id: f3dfbc40-df11-4ad9-9693-568d9e35ec04
-TQID: https://experienceleague.adobe.com/7dJ79eoty0bp2vHc0RuZsrxQ2dmQpDjbLuBot9xnViI
+TQID: 'https://experienceleague.adobe.com/7dJ79eoty0bp2vHc0RuZsrxQ2dmQpDjbLuBot9xnViI'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 feature_v2:
   - id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+    internal-label: Integrations
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+    internal-label: Measurement
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Optimization
+source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
 workflow-type: tm+mt
-source-wordcount: 1230
+source-wordcount: '1230'
 ht-degree: 100%
-
 ---
-
 # Enterprise Support
 
 ![icon](assets/EnterpriseBanner.png)
@@ -142,7 +149,7 @@ Adobe Experience Cloud Enterprise Support Services bieten erweiterte Support-Ser
 | <b>PRIORITÄT 1</b><br>Die Produktionsfunktionen im Unternehmen des Kunden sind ausgefallen oder weisen einen erheblichen Datenverlust oder eine Beeinträchtigung des Services auf, und ein sofortiges Eingreifen ist nötig, um Funktionalität und Nutzbarkeit wiederherzustellen. | 24x7/<br>1 Stunde | 24x7/<br>30 Minuten |
 | <b>PRIORITÄT 2</b><br>Die Unternehmensfunktionen des Kunden weisen eine erhebliche Beeinträchtigung des Service oder möglichen Datenverlust auf oder eine zentrale Funktion ist betroffen. | Geschäftszeiten/<br>4 Stunden | 24x5/<br>1 Stunde |
 | <b>PRIORITÄT 3</b><br>Die Unternehmensfunktionen des Kunden weisen eine geringfügige Beeinträchtigung des Service auf, es gibt jedoch eine Lösung/Problemumgehung, mit der die Unternehmensfunktionen weiterhin normal genutzt werden können. | Geschäftszeiten/<br>6 Stunden | Geschäftszeiten/<br>2 Stunden |
-| <b>PRIORITÄT 4</b><br>Allgemeine Frage zur aktuellen Produktfunktionalität oder Anfrage zu einer Erweiterung. | Geschäftstage/<br>3 Tage | Werktag/<br>1 Tag |
+| <b>PRIORITÄT 4</b><br>Allgemeine Frage zur aktuellen Produktfunktionalität oder Anfrage zu einer Erweiterung. | Geschäftstage/<br>3 Tage | Geschäftstag/<br>1 Tag |
 
 {style="table-layout:auto"}
 
