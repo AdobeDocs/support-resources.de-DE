@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: ca0c06009bbd0bc7d6cdb24a28eb3d99bb9ac6b7
+source-git-commit: 5c224ff05365a96b1259adcde2bea70061fe27e5
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '397'
 ht-degree: 2%
 ---
 # Support- und Tools-Handbuch für Adobe {#adobe-support-tools-guide}
@@ -54,7 +54,7 @@ ht-degree: 2%
 - Adobe Commerce-Support {#adobe-commerce-support}
   - [Übersicht über den Adobe Commerce-Support](adobe-commerce-support/adobe-commerce-support-overview.md)
   - Adobe Commerce Holiday Readiness {#adobe-commerce-holiday-readiness}
-    - [Überblick](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/holiday-readiness-overview.md)
+    - [Übersicht](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/holiday-readiness-overview.md)
     - [Leistungsoptimierung](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/performance-optimization.md)
     - [Best Practices und Stabilität](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/best-practices-stability.md)
     - [Überwachung und Beobachtbarkeit](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/monitoring-observability.md)
@@ -76,4 +76,5 @@ ht-degree: 2%
   - [Benutzer kann nicht zum Adobe Commerce-Cloud-Projekt hinzugefügt werden](adobe-commerce-support/unable-add-user-adobe-commerce-cloud-project.md)
   - [Anwenden eines von Adobe bereitgestellten Composer-Patches](adobe-commerce-support/how-to-apply-a-composer-patch-provided-by-magento.md)
   - [Anwenden eines von Adobe bereitgestellten isolierten Patches](adobe-commerce-support/how-to-apply-an-isolated-security-patch-file-provided-by-adobe.md)
+  - [Wie melde ich eine Sicherheitslücke, die von einer Sicherheitsagentur eines Drittanbieters entdeckt wurde?](/help/adobe-support-tools-guide/adobe-commerce-support/third-party-test-reports-are-handled-by-integriti.md)
   - [Support-Tools - Übersicht](adobe-commerce-support/overview.md)
