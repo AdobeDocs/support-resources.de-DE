@@ -15,7 +15,7 @@ ht-degree: 100%
 
 Adobe bietet eine umfassende Palette technischer Ressourcen, die Sie im Rahmen Ihres Adobe Enterprise-Abonnements zur Unterstützung Ihres Unternehmens nutzen können. Der Standard Support ermöglicht rund um die Uhr Zugriff auf unsere Selbsthilfe-Support-Ressourcen, darunter Hilfeartikel zu HelpX, sowie Kontakt zu anderen Kunden in der Adobe Community.
 
-Auf <https://www.adobe.com> stehen Ihnen unsere ausführliche technische Produktdokumentation und die aktuellen Versionshinweise zur Verfügung. Unser Standard Support bietet autorisierten Benutzern (Administratoren) außerdem die Möglichkeit, rund um die Uhr unsere technischen Supportteams per Chat oder Telefon zu kontaktieren und Hilfeanfragen über unser Support-Web-Portal zu stellen.
+Auf <https://www.adobe.com/de> stehen Ihnen unsere ausführliche technische Produktdokumentation und die aktuellen Versionshinweise zur Verfügung. Unser Standard Support bietet autorisierten Benutzern (Administratoren) außerdem die Möglichkeit, rund um die Uhr unsere technischen Supportteams per Chat oder Telefon zu kontaktieren und Hilfeanfragen über unser Support-Web-Portal zu stellen.
 
 [PDF-Version anzeigen](assets/DMeStandardSupportDatasheet_2022.pdf)
 
