@@ -167,4 +167,4 @@ Um mit anderen Administratoren zusammenzuarbeiten, Fragen zu stellen und mit ihn
 ## Rechtliche Hinweise und Datenschutz
 
 - [Rechtliche Hinweise](https://helpx.adobe.com/de/legal/legal-notices.html)
-- [Online-Datenschutzrichtlinie](https://www.adobe.com/privacy.html)
+- [Online-Datenschutzrichtlinie](https://www.adobe.com/de/privacy.html)
