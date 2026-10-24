@@ -6,9 +6,7 @@ source-git-commit: ddaeba7f5e8c2e6d4c7fc2112425ee83ee7eccd3
 workflow-type: tm+mt
 source-wordcount: '756'
 ht-degree: 100%
-
 ---
-
 # Standard Support für Adobe Creative Cloud und Adobe Document Cloud
 
 ![Symbol](assets/StandardBanner.png)
