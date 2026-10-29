@@ -45,7 +45,7 @@ role_v2:
     internal-label: Leader
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
-source-git-commit: 9f49cf28acb39f62f0ec29c620c4d8ef2034f378
+source-git-commit: bdf7e388b52a7a70f1f3673e630f1cb154898b2f
 workflow-type: tm+mt
 source-wordcount: '4693'
 ht-degree: 3%
@@ -243,7 +243,7 @@ Während der Hauptsendezeit (Mitte November bis Mitte Januar) empfiehlt Adobe al
 
 ### Für Skalierung vorbereiten
 
-Befolgen Sie die Empfehlungen im Handbuch [Planung und Umstellung: Ein strategischer Ansatz für die Hauptsaison 2025](https://experienceleague.adobe.com/de/perspectives/planning-and-pivoting-a-strategic-approach-to-peak-season-2025){target="_blank"} mit umsetzbaren Strategien unter Verwendung von Adobe Commerce (und optionalen Adobe Experience Cloud-Tools), mit denen Sie während der geschäftigsten Zeit des Jahres herausragende Kundenerlebnisse planen, optimieren und bereitstellen können.
+Befolgen Sie die Empfehlungen im Handbuch [Planung und Umstellung: Ein strategischer Ansatz für die Hauptsaison 2026](https://experienceleague.adobe.com/en/perspectives/planning-and-pivoting-a-strategic-approach-to-peak-season-2026){target="_blank"} mit umsetzbaren Strategien unter Verwendung von Adobe Commerce (und optionalen Adobe Experience Cloud-Tools), mit denen Sie während der geschäftigsten Zeit des Jahres herausragende Kundenerlebnisse planen, optimieren und bereitstellen können.
 
 ### Best Practices
 
