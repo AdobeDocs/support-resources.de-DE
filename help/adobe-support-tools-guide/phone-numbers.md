@@ -14,12 +14,14 @@ role_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
+source-git-commit: 4b28824c942028c3152a2b59f15bcde436a91185
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 0%
+source-wordcount: '155'
+ht-degree: 1%
 ---
 # Geben Sie eine bevorzugte Support-Telefonnummer an
+
+## Voraussetzungen
 
 Wenn Ihnen die Rolle **Admin** zugewiesen wurde, z. B **„Produktsupport-**&quot;, erhalten Sie eine E-Mail, in der bestätigt wird, dass Sie über Administratorberechtigungen zum Verwalten der Instanz verfügen.
 
@@ -27,17 +29,14 @@ Die E-Mail enthält jetzt den unten stehenden Text in rot, in dem erklärt wird,
 
 ![Bevorzugte Support-Nummer](assets/admin-console-1.png)
 
-So geben Sie Ihre bevorzugte Telefonnummer an:
+## Festlegen der bevorzugten Support-Telefonnummer
 
 1. Klicken Sie auf den **[!UICONTROL Kontoprofil]**-Link, um ein neues Fenster zu öffnen und sich mit `account.adobe.com` anzumelden.
-
    ![Anmelden](assets/sign-in.png)
-
 1. Navigieren Sie durch den Anmeldevorgang und landen Sie auf dem folgenden Bildschirm auf `account.adobe.com`.
 1. Wählen Sie **[!UICONTROL Konto und Sicherheit]** > **[!UICONTROL Konto]** aus, um das Feld „Support-Telefonnummer“ anzuzeigen.
 1. Fügen Sie hier eine Telefonnummer hinzu, die wir verwenden sollen, um Sie für Ihren Support-Bedarf zu erkennen.
-
-![Details angeben](assets/account-info.png)
+   ![Details angeben](assets/account-info.png)
 
 ![Telefonnummer hinzufügen](assets/enter-phone-number.png)
 

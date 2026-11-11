@@ -12,12 +12,14 @@ role_v2:
     internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin
-source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
+source-git-commit: 4b28824c942028c3152a2b59f15bcde436a91185
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '499'
 ht-degree: 11%
 ---
 # Häufig gestellte Fragen zu [!DNL Adobe Business Platform] und Admin Console
+
+## Wechseln zu Adobe Identity und Admin Console
 
 +++**Was ist Adobe Identity und Admin Console?**
 
@@ -31,6 +33,8 @@ Kunden erhalten eine noch sicherere und intuitivere Verwaltungskonsole, wenn sie
 
 +++
 
+## Migrationsprozess und -zeitpunkt
+
 +++**Wann müssen Kunden auf AAC umsteigen?**
 
 Kunden werden ab der zweiten Jahreshälfte 2022 kontaktiert, um ihren Wechsel zu Adobe Identity und Admin Console zu koordinieren, und zwar bis ins Jahr 2023.
@@ -41,7 +45,7 @@ Kunden werden ab der zweiten Jahreshälfte 2022 kontaktiert, um ihren Wechsel zu
 
 IMS ist ein Akronym für Identity Management Services mit Adobe Workfront. Dies bezieht sich auf …
 
-Eine Organisation ist die Entität, mit der ein Administrator Gruppen und Benutzer konfigurieren und Anmeldungen in der Experience Cloud steuern kann. Die Organisation funktioniert wie ein Unternehmen mit Anmeldung, das alle Experience Cloud-Produkte und -Programme umfasst. Normalerweise besitzt eine Organisation den Namen Ihres Unternehmens. Ein Unternehmen kann jedoch über mehrere Organisationen verfügen.
+Eine Organisation ist die Entität, mit der Admins Gruppen und Benutzende konfigurieren und Single Sign-on in der Experience Cloud steuern können. Die Organisation funktioniert wie ein Unternehmen mit Anmeldung, das alle Experience Cloud-Produkte und -Programme umfasst. In den meisten Fällen ist eine Organisation Ihr Firmenname. Ein Unternehmen kann jedoch über mehrere Organisationen verfügen.
 
 +++
 
@@ -57,15 +61,23 @@ Die Kunden erhalten Anweisungen und Koordinationen von einem internen Workfront-
 
 +++
 
-+++**Welche neuen Funktionen in AAC stehen Kunden in Workfront derzeit nicht zur Verfügung?**
++++**Wie lange dauert es für einen typischen Workfront-Kunden, zu AAC zu wechseln?**
 
-
+Die Dauer der AAC-Implementierung für -Kunden kann variieren, aber das typische Erlebnis besteht aus einem Live-Gespräch mit einem -Kunden über einen Zeitraum von etwa zwei Stunden.
 
 +++
 
-+++**Welche Schulungsressourcen stehen für AAC zur Verfügung?**
+## Kosten und Auswirkungen
 
-&lt;https://helpx.adobe.com/de/enterprise/using/admin-console.html >
++++**Fallen für Kunden beim Wechsel zu AAC Kosten an?**
+
+Für Kunden, die auf AAC umsteigen, entstehen keine zusätzlichen Kosten.
+
++++
+
++++**Wirkt sich dies auf andere Technologien aus, die ich in die Workfront-Lösung außerhalb von Adobe-Produkten integriert habe?**
+
+Kunden, die das [!DNL Fusion]-Programm verwenden, um eine Verbindung zu anderen Services herzustellen, werden erst verschoben, wenn das [!DNL Fusion]-Programm bereit ist, diese Änderung vorzunehmen.
 
 +++
 
@@ -81,26 +93,20 @@ Ja. Die Administrationskonsole ist in Adobe identisch und bietet Administratoren
 
 +++
 
-+++**Wie lange dauert es für einen typischen Workfront-Kunden, zu AAC zu wechseln?**
-
-Die Dauer der AAC-Implementierung für -Kunden kann variieren, aber das typische Erlebnis besteht aus einem Live-Gespräch mit einem -Kunden über einen Zeitraum von etwa zwei Stunden.
-
-+++
-
-+++**Wirkt sich dies auf andere Technologien aus, die ich in die Workfront-Lösung außerhalb von Adobe-Produkten integriert habe?**
-
-Kunden, die das [!DNL Fusion]-Programm verwenden, um eine Verbindung zu anderen Services herzustellen, werden erst verschoben, wenn das [!DNL Fusion]-Programm bereit ist, diese Änderung vorzunehmen.
-
-+++
-
-+++**Fallen für Kunden beim Wechsel zu AAC Kosten an?**
-
-Für Kunden, die auf AAC umsteigen, entstehen keine zusätzlichen Kosten.
-
-+++
-
 +++**Gibt es einen Grund, nicht zu AAC zu wechseln?**
 
 AAC bietet Kunden die besten Updates und erweiterten Funktionen für das zukünftige Erlebnis von Workfront und ist ein großartiger Schritt für Kunden. Alle Kunden müssen bis Ende 2023 zu AAC wechseln, da alte, demonstrierende Konsolen eingestellt werden.
+
++++
+
++++**Welche Schulungsressourcen stehen für AAC zur Verfügung?**
+
+&lt;https://helpx.adobe.com/de/enterprise/using/admin-console.html >
+
++++
+
++++**Welche neuen Funktionen in AAC stehen Kunden in Workfront derzeit nicht zur Verfügung?**
+
+
 
 +++
