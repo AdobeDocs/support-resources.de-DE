@@ -101,7 +101,7 @@ AAC bietet Kunden die besten Updates und erweiterten Funktionen für das zukünf
 
 +++**Welche Schulungsressourcen stehen für AAC zur Verfügung?**
 
-&lt;https://helpx.adobe.com/enterprise/using/admin-console.html >
+&lt;https://helpx.adobe.com/de/enterprise/using/admin-console.html >
 
 +++
 
